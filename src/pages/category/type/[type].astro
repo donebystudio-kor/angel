@@ -1,0 +1,54 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import SearchBar from "../../../components/SearchBar.astro";
+import { ANGEL_NUMBERS, CATEGORY_LABELS } from "../../../data/angels";
+import type { Category } from "../../../data/angels";
+
+export function getStaticPaths() {
+  const cats: Category[] = ["single", "repeat", "mirror", "sequence", "time", "double", "mixed"];
+  return cats.map((cat) => ({
+    params: { type: cat },
+    props: { category: cat },
+  }));
+}
+
+const { category } = Astro.props;
+const label = CATEGORY_LABELS[category as Category];
+const numbers = ANGEL_NUMBERS.filter((a) => a.category === category);
+const title = `${label} 엔젤넘버 모음 - 전체 목록`;
+const description = `${label} 유형의 엔젤넘버를 모두 확인하세요. ${numbers.length}개의 숫자 의미와 메시지를 알아봅니다.`;
+
+const allCategories2: Category[] = ["single", "repeat", "mirror", "sequence", "time", "double", "mixed"];
+---
+
+<Layout title={title} description={description}>
+  <section class="max-w-4xl mx-auto px-4 py-12">
+    <h1 class="text-3xl font-bold text-angel-text mb-3 text-center">{label}</h1>
+    <p class="text-angel-muted text-center mb-8">{numbers.length}개의 엔젤넘버</p>
+
+    <div class="mb-8">
+      <SearchBar />
+    </div>
+
+    <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
+      {numbers.map((a) => (
+        <a href={`/number/${a.number}`} class="bg-angel-card border border-angel-border rounded-2xl p-5 hover:border-angel-primary/50 hover:shadow-lg hover:shadow-angel-glow transition-all group">
+          <div class="text-2xl font-bold text-angel-primary group-hover:text-angel-accent transition-colors">{a.number}</div>
+          <div class="text-sm text-angel-muted mt-1 line-clamp-2">{a.summary}</div>
+        </a>
+      ))}
+    </div>
+
+    <!-- 다른 유형 -->
+    <div class="mt-12">
+      <h2 class="text-lg font-bold text-angel-accent mb-4">다른 유형 보기</h2>
+      <div class="flex flex-wrap gap-3">
+        {allCategories2.filter((c) => c !== category).map((c) => (
+          <a href={`/category/type/${c}`} class="px-4 py-2 bg-angel-card border border-angel-border rounded-full text-sm text-angel-muted hover:text-angel-primary hover:border-angel-primary/50 transition-colors">
+            {CATEGORY_LABELS[c]}
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</Layout>

@@ -1,0 +1,130 @@
+---
+import "../styles/global.css";
+import SearchBar from "../components/SearchBar.astro";
+
+interface Props {
+  title: string;
+  description: string;
+  canonical?: string;
+}
+
+const { title, description, canonical } = Astro.props;
+const site = "https://angel-sandy-five.vercel.app";
+const canonicalUrl = canonical || new URL(Astro.url.pathname, site).href;
+---
+
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👼</text></svg>" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:locale" content="ko_KR" />
+    <meta property="og:site_name" content="엔젤던" />
+    <meta name="google-adsense-account" content="ca-pub-7048160642416104" />
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7048160642416104" crossorigin="anonymous"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-46Z6P1GDG5"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-46Z6P1GDG5');
+    </script>
+    <slot name="head" />
+  </head>
+  <body class="min-h-screen bg-angel-bg text-angel-text antialiased">
+    <header class="bg-angel-card/80 backdrop-blur-sm border-b border-angel-border sticky top-0 z-50">
+      <div class="max-w-4xl mx-auto px-4 h-14 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-2 font-bold text-lg text-angel-accent hover:text-angel-primary transition-colors">
+          👼 엔젤던
+        </a>
+        <nav class="hidden md:flex items-center gap-3 text-sm text-angel-muted">
+          <a href="/category/love" class="hover:text-angel-primary transition-colors">❤️ 사랑</a>
+          <a href="/category/money" class="hover:text-angel-primary transition-colors">💰 재물</a>
+          <a href="/category/career" class="hover:text-angel-primary transition-colors">💼 커리어</a>
+          <a href="/category/spiritual" class="hover:text-angel-primary transition-colors">🔮 영적</a>
+          <a href="/guide" class="hover:text-angel-primary transition-colors">📖 가이드</a>
+        </nav>
+        <button id="mobile-menu-btn" class="md:hidden text-angel-muted hover:text-angel-primary text-xl" aria-label="메뉴 열기">☰</button>
+      </div>
+      <nav id="mobile-menu" class="hidden md:hidden border-t border-angel-border bg-angel-card/95 backdrop-blur-sm">
+        <div class="max-w-4xl mx-auto px-4 py-3 flex flex-col gap-2 text-sm">
+          <a href="/category/love" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">❤️ 사랑</a>
+          <a href="/category/money" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">💰 재물</a>
+          <a href="/category/career" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">💼 커리어</a>
+          <a href="/category/spiritual" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">🔮 영적</a>
+          <a href="/guide" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">📖 가이드</a>
+        </div>
+      </nav>
+    </header>
+    <script>
+      document.getElementById('mobile-menu-btn')?.addEventListener('click', () => {
+        const menu = document.getElementById('mobile-menu');
+        if (menu) {
+          menu.classList.toggle('hidden');
+        }
+      });
+    </script>
+    <main>
+      <slot />
+    </main>
+    <footer class="bg-angel-card border-t border-angel-border mt-16">
+      <div class="max-w-4xl mx-auto px-4 py-10">
+        <!-- 푸터 검색 -->
+        <div class="mb-8">
+          <p class="text-center text-sm text-angel-muted mb-3">엔젤넘버 검색</p>
+          <SearchBar />
+        </div>
+        <!-- 푸터 링크 -->
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-6 mb-8 text-sm">
+          <div>
+            <h4 class="font-semibold text-angel-accent mb-2">인기 숫자</h4>
+            <div class="space-y-1">
+              <a href="/number/111" class="block text-angel-muted hover:text-angel-primary transition-colors">111</a>
+              <a href="/number/222" class="block text-angel-muted hover:text-angel-primary transition-colors">222</a>
+              <a href="/number/333" class="block text-angel-muted hover:text-angel-primary transition-colors">333</a>
+              <a href="/number/444" class="block text-angel-muted hover:text-angel-primary transition-colors">444</a>
+            </div>
+          </div>
+          <div>
+            <h4 class="font-semibold text-angel-accent mb-2">더 보기</h4>
+            <div class="space-y-1">
+              <a href="/number/555" class="block text-angel-muted hover:text-angel-primary transition-colors">555</a>
+              <a href="/number/777" class="block text-angel-muted hover:text-angel-primary transition-colors">777</a>
+              <a href="/number/888" class="block text-angel-muted hover:text-angel-primary transition-colors">888</a>
+              <a href="/number/1111" class="block text-angel-muted hover:text-angel-primary transition-colors">1111</a>
+            </div>
+          </div>
+          <div>
+            <h4 class="font-semibold text-angel-accent mb-2">카테고리</h4>
+            <div class="space-y-1">
+              <a href="/category/type/repeat" class="block text-angel-muted hover:text-angel-primary transition-colors">반복 숫자</a>
+              <a href="/category/type/mirror" class="block text-angel-muted hover:text-angel-primary transition-colors">미러 넘버</a>
+              <a href="/category/type/sequence" class="block text-angel-muted hover:text-angel-primary transition-colors">시퀀스 넘버</a>
+              <a href="/category/type/time" class="block text-angel-muted hover:text-angel-primary transition-colors">시간 넘버</a>
+            </div>
+          </div>
+          <div>
+            <h4 class="font-semibold text-angel-accent mb-2">가이드</h4>
+            <div class="space-y-1">
+              <a href="/guide/what-is-angel-number" class="block text-angel-muted hover:text-angel-primary transition-colors">엔젤넘버란?</a>
+              <a href="/guide/how-to-find-angel-number" class="block text-angel-muted hover:text-angel-primary transition-colors">엔젤넘버 찾는 법</a>
+              <a href="/guide/angel-number-and-love" class="block text-angel-muted hover:text-angel-primary transition-colors">엔젤넘버와 사랑</a>
+            </div>
+          </div>
+        </div>
+        <div class="border-t border-angel-border pt-6 text-center text-sm text-angel-muted">
+          <p class="mb-1">© 2026 엔젤던. 숫자가 전하는 우주의 메시지.</p>
+          <a href="/privacy" class="hover:text-angel-primary transition-colors">개인정보처리방침</a>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

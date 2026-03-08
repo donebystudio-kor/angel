@@ -1,0 +1,80 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import SearchBar from "../../components/SearchBar.astro";
+
+const title = "나만의 엔젤넘버 찾는 법 - 생년월일과 일상 속 숫자 패턴";
+const description = "생년월일 계산법, 이름 수비학, 일상 속 숫자 패턴 인식까지. 나에게 의미 있는 엔젤넘버를 발견하는 구체적인 방법을 안내합니다.";
+---
+
+<Layout title={title} description={description}>
+  <article class="max-w-3xl mx-auto px-4 py-12">
+    <h1 class="text-3xl font-bold text-angel-text mb-4 text-center">🔍 나만의 엔젤넘버 찾는 법</h1>
+    <p class="text-angel-muted text-center mb-10">당신에게 특별한 의미가 있는 숫자를 발견하세요</p>
+
+    <div class="space-y-8 text-angel-muted leading-relaxed">
+      <section class="bg-angel-card border border-angel-border rounded-2xl p-6">
+        <h2 class="text-xl font-bold text-angel-text mb-3">📅 방법 1: 생년월일로 계산하기</h2>
+        <p class="mb-3">가장 널리 알려진 방법은 생년월일의 각 자릿수를 더해 한 자릿수가 될 때까지 줄이는 것입니다. 이것을 '생명경로 숫자(Life Path Number)'라고 합니다.</p>
+        <div class="bg-angel-bg/50 rounded-xl p-4 mb-3">
+          <p class="text-angel-text font-semibold mb-2">예시: 1995년 3월 27일생</p>
+          <p>1 + 9 + 9 + 5 + 0 + 3 + 2 + 7 = 36</p>
+          <p>3 + 6 = <strong class="text-angel-accent">9</strong></p>
+          <p class="mt-2">이 사람의 생명경로 숫자는 <a href="/number/9" class="text-angel-primary hover:text-angel-accent font-bold">9</a>이며, <a href="/number/999" class="text-angel-primary hover:text-angel-accent">999</a>나 <a href="/number/9" class="text-angel-primary hover:text-angel-accent">9</a>가 포함된 엔젤넘버를 자주 보게 될 수 있습니다.</p>
+        </div>
+        <p class="mb-3">단, 중간 계산 결과가 <strong class="text-angel-text">11, 22, 33</strong>이면 더 이상 줄이지 않습니다. 이것은 '마스터 넘버'로, 특별한 영적 에너지를 가집니다.</p>
+        <div class="bg-angel-bg/50 rounded-xl p-4">
+          <p class="text-angel-text font-semibold mb-2">마스터 넘버 예시: 1990년 2월 29일생</p>
+          <p>1 + 9 + 9 + 0 + 0 + 2 + 2 + 9 = 32 → 3 + 2 = 5</p>
+          <p class="mt-2">하지만 월(02)과 일(29→11)에서 마스터 넘버 <a href="/number/11" class="text-angel-primary hover:text-angel-accent font-bold">11</a>이 나타나므로, <a href="/number/11" class="text-angel-primary hover:text-angel-accent">11</a>, <a href="/number/111" class="text-angel-primary hover:text-angel-accent">111</a>, <a href="/number/1111" class="text-angel-primary hover:text-angel-accent">1111</a>에도 주의를 기울이세요.</p>
+        </div>
+      </section>
+
+      <section class="bg-angel-card border border-angel-border rounded-2xl p-6">
+        <h2 class="text-xl font-bold text-angel-text mb-3">👁️ 방법 2: 일상 속 반복 패턴 관찰</h2>
+        <p class="mb-3">가장 자연스럽고 직관적인 방법입니다. 천사들은 당신이 자주 접하는 곳에 숫자를 배치합니다:</p>
+        <ul class="list-disc pl-5 space-y-2 mb-3">
+          <li><strong class="text-angel-text">디지털 시계:</strong> 11:11, 22:22, 3:33, 4:44 등을 반복적으로 보게 됨</li>
+          <li><strong class="text-angel-text">영수증/가격:</strong> 계산 금액이 ₩7,770이나 ₩11,100 등</li>
+          <li><strong class="text-angel-text">차량번호판:</strong> 운전이나 보행 중 같은 숫자 패턴 반복 목격</li>
+          <li><strong class="text-angel-text">전화번호/주소:</strong> 새로 받은 번호에 특정 숫자 반복</li>
+          <li><strong class="text-angel-text">좋아요/조회수:</strong> SNS에서 111, 222, 333 등의 숫자가 딱 맞는 순간</li>
+        </ul>
+        <p>핵심은 <strong class="text-angel-text">"같은 숫자가 짧은 기간 내에 3번 이상 반복"</strong>되면 단순한 우연이 아닐 가능성이 높다는 것입니다.</p>
+      </section>
+
+      <section class="bg-angel-card border border-angel-border rounded-2xl p-6">
+        <h2 class="text-xl font-bold text-angel-text mb-3">📓 방법 3: 숫자 일기 쓰기</h2>
+        <p class="mb-3">가장 효과적인 방법 중 하나는 '숫자 일기'를 쓰는 것입니다:</p>
+        <ol class="list-decimal pl-5 space-y-2 mb-3">
+          <li>눈에 띄는 숫자를 볼 때마다 날짜, 시간, 숫자, 그때의 생각/감정을 기록</li>
+          <li>1~2주 후 기록을 돌아보며 패턴 확인</li>
+          <li>특정 숫자가 특정 상황에서 반복되는지 분석</li>
+        </ol>
+        <div class="bg-angel-bg/50 rounded-xl p-4">
+          <p class="text-angel-text font-semibold mb-2">숫자 일기 예시</p>
+          <p class="text-sm">3/5 오전 11:11 — 새 프로젝트 구상 중 시계를 봄. 설렘 느낌.<br/>
+          3/5 오후 — 카페 영수증 ₩11,100.<br/>
+          3/6 — 주차장 번호 B-111.<br/>
+          → <a href="/number/111" class="text-angel-primary hover:text-angel-accent">111</a>이 반복! "생각이 현실이 된다"는 메시지. 프로젝트를 적극 추진하자.</p>
+        </div>
+      </section>
+
+      <section class="bg-angel-card border border-angel-border rounded-2xl p-6">
+        <h2 class="text-xl font-bold text-angel-text mb-3">⚡ 지금 바로 확인해보세요</h2>
+        <p class="mb-4">최근 반복적으로 본 숫자가 있다면, 아래에서 바로 검색해보세요:</p>
+        <SearchBar />
+        <div class="mt-6 flex flex-wrap gap-2">
+          <span class="text-sm text-angel-text font-medium">많이 찾는 숫자:</span>
+          {["111", "222", "333", "444", "555", "777", "1111", "1212"].map((n) => (
+            <a href={`/number/${n}`} class="px-3 py-1 bg-angel-border/30 rounded-full text-xs text-angel-primary hover:bg-angel-primary hover:text-white transition-colors">{n}</a>
+          ))}
+        </div>
+      </section>
+    </div>
+
+    <div class="mt-10 flex justify-between items-center text-sm">
+      <a href="/guide/what-is-angel-number" class="text-angel-primary hover:text-angel-accent transition-colors">← 엔젤넘버란?</a>
+      <a href="/guide/angel-number-and-love" class="text-angel-primary hover:text-angel-accent transition-colors">엔젤넘버와 사랑 →</a>
+    </div>
+  </article>
+</Layout>

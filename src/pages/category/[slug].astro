@@ -1,0 +1,55 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import SearchBar from "../../components/SearchBar.astro";
+import { TOPICS, getTopicNumbers } from "../../data/topics";
+
+export function getStaticPaths() {
+  return TOPICS.map((t) => ({
+    params: { slug: t.slug },
+    props: { topic: t },
+  }));
+}
+
+const { topic } = Astro.props;
+const numbers = getTopicNumbers(topic.slug);
+const title = `${topic.emoji} ${topic.name} 엔젤넘버 모음 - 천사의 메시지`;
+const description = topic.description;
+---
+
+<Layout title={title} description={description}>
+  <section class="max-w-4xl mx-auto px-4 py-12">
+    <div class="text-center mb-10">
+      <div class="text-4xl mb-3">{topic.emoji}</div>
+      <h1 class="text-3xl font-bold text-angel-text mb-3">{topic.name} 엔젤넘버</h1>
+      <p class="text-angel-muted max-w-xl mx-auto">{topic.description}</p>
+    </div>
+
+    <div class="mb-8">
+      <SearchBar />
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      {numbers.map((a) => a && (
+        <a href={`/number/${a.number}`} class="bg-angel-card border border-angel-border rounded-2xl p-5 hover:border-angel-primary/50 hover:shadow-lg hover:shadow-angel-glow transition-all group">
+          <div class="flex items-start justify-between mb-2">
+            <span class="text-2xl font-bold text-angel-primary group-hover:text-angel-accent transition-colors">{a.number}</span>
+          </div>
+          <h3 class="font-semibold text-angel-text text-sm mb-1">{a.summary}</h3>
+          <p class="text-xs text-angel-muted line-clamp-2">{a[topic.field]}</p>
+        </a>
+      ))}
+    </div>
+
+    <!-- 다른 주제 -->
+    <div class="mt-12">
+      <h2 class="text-lg font-bold text-angel-accent mb-4">다른 주제 보기</h2>
+      <div class="flex flex-wrap gap-3">
+        {TOPICS.filter((t) => t.slug !== topic.slug).map((t) => (
+          <a href={`/category/${t.slug}`} class="px-4 py-2 bg-angel-card border border-angel-border rounded-full text-sm text-angel-muted hover:text-angel-primary hover:border-angel-primary/50 transition-colors">
+            {t.emoji} {t.name}
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</Layout>

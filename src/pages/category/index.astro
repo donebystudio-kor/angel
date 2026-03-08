@@ -1,0 +1,55 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import SearchBar from "../../components/SearchBar.astro";
+import { CATEGORY_LABELS } from "../../data/angels";
+import { TOPICS } from "../../data/topics";
+import type { Category } from "../../data/angels";
+
+const title = "엔젤넘버 카테고리 - 유형별·주제별 분류";
+const description = "엔젤넘버를 유형별(반복, 미러, 시퀀스)과 주제별(사랑, 재물, 커리어, 영적 성장)로 분류하여 쉽게 찾아보세요.";
+
+const typeCategories: { slug: Category; label: string; emoji: string }[] = [
+  { slug: "single", label: "기본 숫자 (0~9)", emoji: "🔢" },
+  { slug: "repeat", label: "반복 숫자 (111, 222...)", emoji: "🔁" },
+  { slug: "mirror", label: "미러 넘버 (1221, 3443...)", emoji: "🪞" },
+  { slug: "sequence", label: "시퀀스 넘버 (123, 789...)", emoji: "📈" },
+  { slug: "time", label: "시간 넘버 (1212, 1717...)", emoji: "🕐" },
+  { slug: "double", label: "더블 넘버 (0101, 0808...)", emoji: "✌️" },
+  { slug: "mixed", label: "혼합 숫자 (13, 42, 69...)", emoji: "🎲" },
+];
+---
+
+<Layout title={title} description={description}>
+  <section class="max-w-4xl mx-auto px-4 py-12">
+    <h1 class="text-3xl font-bold text-angel-text mb-3 text-center">📂 엔젤넘버 카테고리</h1>
+    <p class="text-angel-muted text-center mb-8">찾고 싶은 엔젤넘버를 유형이나 주제로 탐색하세요.</p>
+
+    <div class="mb-8">
+      <SearchBar />
+    </div>
+
+    <!-- 주제별 -->
+    <h2 class="text-xl font-bold text-angel-accent mb-4">🎯 주제별</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-12">
+      {TOPICS.map((t) => (
+        <a href={`/category/${t.slug}`} class="bg-angel-card border border-angel-border rounded-2xl p-6 hover:border-angel-primary/50 hover:shadow-lg hover:shadow-angel-glow transition-all group">
+          <div class="text-2xl mb-2">{t.emoji}</div>
+          <h3 class="text-lg font-bold text-angel-text group-hover:text-angel-primary transition-colors">{t.name}</h3>
+          <p class="text-sm text-angel-muted mt-1 line-clamp-2">{t.description}</p>
+          <span class="text-xs text-angel-primary mt-2 inline-block">{t.numbers.length}개의 엔젤넘버 →</span>
+        </a>
+      ))}
+    </div>
+
+    <!-- 유형별 -->
+    <h2 class="text-xl font-bold text-angel-accent mb-4">🔤 숫자 유형별</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+      {typeCategories.map((c) => (
+        <a href={`/category/type/${c.slug}`} class="bg-angel-card border border-angel-border rounded-xl p-4 hover:border-angel-primary/50 transition-all flex items-center gap-3 group">
+          <span class="text-xl">{c.emoji}</span>
+          <span class="text-angel-text group-hover:text-angel-primary transition-colors font-medium">{c.label}</span>
+        </a>
+      ))}
+    </div>
+  </section>
+</Layout>

@@ -1,0 +1,195 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import SearchBar from "../../components/SearchBar.astro";
+import ShareButtons from "../../components/ShareButtons.astro";
+import { ANGEL_NUMBERS, CATEGORY_LABELS } from "../../data/angels";
+import { TOPICS } from "../../data/topics";
+import type { Category } from "../../data/angels";
+
+export function getStaticPaths() {
+  return ANGEL_NUMBERS.map((a) => ({
+    params: { number: a.number },
+    props: { angel: a },
+  }));
+}
+
+const { angel } = Astro.props;
+const title = `엔젤넘버 ${angel.number} 의미 - ${angel.summary}`;
+const description = `엔젤넘버 ${angel.number}의 의미: ${angel.summary}. 사랑, 재물, 직업, 영적 메시지를 확인하세요.`;
+const site = "https://angel-sandy-five.vercel.app";
+const url = `${site}/number/${angel.number}`;
+const categoryLabel = CATEGORY_LABELS[angel.category as Category];
+
+const related = ANGEL_NUMBERS.filter(
+  (a) => a.category === angel.category && a.number !== angel.number
+).slice(0, 6);
+
+const digits = [...new Set(angel.number.split(""))];
+const composingNumbers = ANGEL_NUMBERS.filter(
+  (a) => digits.includes(a.number) && a.number !== angel.number
+);
+
+const relatedTopics = TOPICS.filter((t) => t.numbers.includes(angel.number));
+
+const sections = [
+  { icon: "💜", title: "숫자의 의미", content: angel.meaning },
+  { icon: "❤️", title: "사랑과 연애", content: angel.love },
+  ...(angel.money ? [{ icon: "💰", title: "금전과 재물", content: angel.money }] : []),
+  { icon: "💼", title: "직업과 재정", content: angel.career },
+  { icon: "🔮", title: "영적 메시지", content: angel.spiritual },
+  { icon: "⚡", title: "지금 해야 할 것", content: angel.action },
+];
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: title,
+  description,
+  url,
+  publisher: { "@type": "Organization", name: "엔젤던" },
+  mainEntityOfPage: { "@type": "WebPage", "@id": url },
+  ...(angel.faq && angel.faq.length > 0 ? {} : {}),
+};
+
+const faqJsonLd = angel.faq && angel.faq.length > 0 ? {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: angel.faq.map((f: {q: string; a: string}) => ({
+    "@type": "Question",
+    name: f.q,
+    acceptedAnswer: { "@type": "Answer", text: f.a },
+  })),
+} : null;
+---
+
+<Layout title={title} description={description} canonical={url}>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+    {faqJsonLd && <script type="application/ld+json" set:html={JSON.stringify(faqJsonLd)} />}
+  </Fragment>
+
+  <article class="max-w-3xl mx-auto px-4 py-12">
+    <!-- 브레드크럼 -->
+    <nav class="text-sm text-angel-muted mb-6 flex items-center gap-2 flex-wrap">
+      <a href="/" class="hover:text-angel-primary transition-colors">홈</a>
+      <span>›</span>
+      <a href={`/category/type/${angel.category}`} class="hover:text-angel-primary transition-colors">{categoryLabel}</a>
+      <span>›</span>
+      <span class="text-angel-text">{angel.number}</span>
+    </nav>
+
+    <!-- Placeholder 표시 -->
+    {angel.isPlaceholder && (
+      <div class="bg-angel-accent/10 border border-angel-accent/30 rounded-xl px-4 py-3 mb-6 text-sm text-angel-accent">
+        이 페이지의 콘텐츠는 기본 해석입니다. 더 상세한 내용이 곧 업데이트됩니다.
+      </div>
+    )}
+
+    <!-- 헤더 -->
+    <div class="text-center mb-10">
+      <a href={`/category/type/${angel.category}`} class="inline-block px-3 py-1 bg-angel-border/30 rounded-full text-xs text-angel-primary font-medium mb-3 hover:bg-angel-primary hover:text-white transition-colors">
+        {categoryLabel}
+      </a>
+      <h1 class="text-3xl md:text-4xl font-bold text-angel-text mb-3">
+        👼 엔젤넘버 {angel.number}
+      </h1>
+      <p class="text-lg text-angel-accent font-medium">{angel.summary}</p>
+    </div>
+
+    <!-- 핵심 의미 섹션들 -->
+    <div class="space-y-6">
+      {sections.map((s) => (
+        <section class="bg-angel-card border border-angel-border rounded-2xl p-6">
+          <h2 class="text-lg font-bold text-angel-text mb-3">
+            {s.icon} {s.title}
+          </h2>
+          <p class="text-angel-muted leading-relaxed">{s.content}</p>
+        </section>
+      ))}
+    </div>
+
+    <!-- 숫자별 고유 FAQ -->
+    {angel.faq && angel.faq.length > 0 && (
+      <section class="mt-8">
+        <h2 class="text-xl font-bold text-angel-text mb-4">❓ 자주 묻는 질문</h2>
+        <div class="space-y-3">
+          {angel.faq.map((f: {q: string; a: string}) => (
+            <details class="bg-angel-card border border-angel-border rounded-2xl p-5 group">
+              <summary class="font-semibold text-angel-text cursor-pointer list-none flex items-center justify-between text-sm">
+                {f.q}
+                <span class="text-angel-muted group-open:rotate-180 transition-transform ml-2 shrink-0">▼</span>
+              </summary>
+              <p class="mt-3 text-angel-muted text-sm leading-relaxed">{f.a}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- 구성 숫자 -->
+    {composingNumbers.length > 0 && (
+      <section class="mt-8 bg-angel-card border border-angel-border rounded-2xl p-6">
+        <h2 class="text-lg font-bold text-angel-text mb-3">🔢 구성 숫자의 의미</h2>
+        <p class="text-angel-muted text-sm mb-4">{angel.number}을 이루는 기본 숫자들의 에너지:</p>
+        <div class="space-y-3">
+          {composingNumbers.map((c) => (
+            <a href={`/number/${c.number}`} class="block p-3 bg-angel-bg/50 rounded-xl hover:bg-angel-border/30 transition-colors">
+              <span class="font-bold text-angel-primary">{c.number}</span>
+              <span class="text-angel-muted text-sm ml-2">— {c.summary}</span>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- 관련 주제 -->
+    {relatedTopics.length > 0 && (
+      <section class="mt-8">
+        <h2 class="text-lg font-bold text-angel-text mb-3">🎯 관련 주제</h2>
+        <div class="flex flex-wrap gap-3">
+          {relatedTopics.map((t) => (
+            <a href={`/category/${t.slug}`} class="px-4 py-2 bg-angel-card border border-angel-border rounded-full text-sm text-angel-muted hover:text-angel-primary hover:border-angel-primary/50 transition-colors">
+              {t.emoji} {t.name}
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <ShareButtons title={title} url={url} />
+
+    <!-- 관련 엔젤넘버 -->
+    {related.length > 0 && (
+      <section class="mt-12">
+        <h2 class="text-xl font-bold text-angel-text mb-4">🔗 같은 유형의 엔젤넘버</h2>
+        <div class="grid grid-cols-2 md:grid-cols-3 gap-3">
+          {related.map((a) => (
+            <a href={`/number/${a.number}`} class="bg-angel-card border border-angel-border rounded-xl p-4 hover:shadow-md hover:shadow-angel-glow hover:border-angel-primary/40 transition-all">
+              <div class="text-xl font-bold text-angel-primary">{a.number}</div>
+              <div class="text-xs text-angel-muted mt-1 line-clamp-1">{a.summary}</div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- 가이드 링크 -->
+    <section class="mt-12 bg-angel-card border border-angel-border rounded-2xl p-6">
+      <h2 class="text-lg font-bold text-angel-text mb-3">📖 더 알아보기</h2>
+      <div class="space-y-2">
+        <a href="/guide/what-is-angel-number" class="block text-angel-muted hover:text-angel-primary transition-colors text-sm">👼 엔젤넘버란 무엇인가? →</a>
+        <a href="/guide/how-to-find-angel-number" class="block text-angel-muted hover:text-angel-primary transition-colors text-sm">🔍 나만의 엔젤넘버 찾는 법 →</a>
+        <a href="/guide/angel-number-and-love" class="block text-angel-muted hover:text-angel-primary transition-colors text-sm">💕 엔젤넘버와 사랑의 관계 →</a>
+      </div>
+    </section>
+
+    <section class="mt-8">
+      <p class="text-sm text-angel-muted mb-3 text-center">다른 엔젤넘버 검색</p>
+      <SearchBar />
+    </section>
+
+    <div class="mt-10 text-center">
+      <a href="/" class="text-angel-primary hover:text-angel-accent transition-colors text-sm">← 모든 엔젤넘버 보기</a>
+    </div>
+  </article>
+</Layout>

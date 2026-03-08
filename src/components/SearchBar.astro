@@ -1,0 +1,50 @@
+---
+import { ANGEL_NUMBERS } from "../data/angels";
+const numbersJson = JSON.stringify(ANGEL_NUMBERS.map(a => ({ number: a.number, summary: a.summary })));
+---
+
+<div class="search-wrapper w-full max-w-md mx-auto relative">
+  <form action="/search" method="get" class="relative">
+    <input
+      type="text"
+      name="q"
+      class="search-input w-full px-4 py-3 pl-10 bg-angel-card border border-angel-border rounded-xl text-angel-text placeholder:text-angel-muted/50 focus:outline-none focus:border-angel-primary focus:ring-1 focus:ring-angel-primary/30 transition-colors"
+      placeholder="숫자를 입력하세요 (예: 111, 777)"
+      autocomplete="off"
+    />
+    <span class="absolute left-3 top-1/2 -translate-y-1/2 text-angel-muted">🔍</span>
+  </form>
+  <div class="search-results absolute top-full left-0 right-0 mt-1 bg-angel-card border border-angel-border rounded-xl overflow-hidden z-50 hidden max-h-64 overflow-y-auto"></div>
+</div>
+
+<script define:vars={{ numbersJson }}>
+  const numbers = JSON.parse(numbersJson);
+
+  document.querySelectorAll('.search-wrapper').forEach(wrapper => {
+    const input = wrapper.querySelector('.search-input');
+    const results = wrapper.querySelector('.search-results');
+
+    input.addEventListener('input', (e) => {
+      const q = e.target.value.trim();
+      if (!q) { results.classList.add('hidden'); return; }
+      const matched = numbers.filter(n => n.number.includes(q) || n.summary.includes(q)).slice(0, 6);
+      if (matched.length === 0) {
+        results.innerHTML = '<div class="px-4 py-3 text-angel-muted text-sm">결과가 없습니다</div>';
+      } else {
+        results.innerHTML = matched.map(m =>
+          `<a href="/number/${m.number}" class="flex items-center justify-between px-4 py-3 hover:bg-angel-border/30 transition-colors border-b border-angel-border/30 last:border-0">
+            <span class="font-bold text-angel-primary">${m.number}</span>
+            <span class="text-sm text-angel-muted truncate ml-3">${m.summary}</span>
+          </a>`
+        ).join('');
+      }
+      results.classList.remove('hidden');
+    });
+
+    document.addEventListener('click', (e) => {
+      if (!wrapper.contains(e.target)) {
+        results.classList.add('hidden');
+      }
+    });
+  });
+</script>

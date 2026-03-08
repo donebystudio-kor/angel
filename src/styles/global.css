@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --color-angel-bg: #0F0A1F;
+  --color-angel-card: #1A1432;
+  --color-angel-primary: #A78BFA;
+  --color-angel-secondary: #7C5CFC;
+  --color-angel-accent: #F5C542;
+  --color-angel-text: #E8E0F0;
+  --color-angel-muted: #9B8FB8;
+  --color-angel-border: #2D2450;
+  --color-angel-glow: #7C5CFC33;
+}
+
+body {
+  background-image:
+    radial-gradient(1px 1px at 10% 20%, rgba(167, 139, 250, 0.3) 0%, transparent 100%),
+    radial-gradient(1px 1px at 80% 10%, rgba(245, 197, 66, 0.25) 0%, transparent 100%),
+    radial-gradient(1px 1px at 30% 80%, rgba(167, 139, 250, 0.2) 0%, transparent 100%),
+    radial-gradient(1px 1px at 70% 60%, rgba(245, 197, 66, 0.15) 0%, transparent 100%),
+    radial-gradient(1px 1px at 50% 40%, rgba(167, 139, 250, 0.25) 0%, transparent 100%),
+    radial-gradient(1px 1px at 90% 90%, rgba(124, 92, 252, 0.2) 0%, transparent 100%),
+    radial-gradient(1px 1px at 15% 55%, rgba(245, 197, 66, 0.2) 0%, transparent 100%),
+    radial-gradient(1px 1px at 60% 25%, rgba(167, 139, 250, 0.15) 0%, transparent 100%),
+    radial-gradient(600px 600px at 50% 0%, rgba(124, 92, 252, 0.06) 0%, transparent 70%);
+}
