@@ -10,6 +10,10 @@ import { BATCH6_NUMBERS } from "./angels-batch6";
 import { BATCH7A_NUMBERS } from "./angels-batch7a";
 import { BATCH7B_NUMBERS } from "./angels-batch7b";
 import { BATCH7C_NUMBERS } from "./angels-batch7c";
+import { BATCH8A_NUMBERS } from "./angels-batch8a";
+import { BATCH8B_NUMBERS } from "./angels-batch8b";
+import { BATCH8C_NUMBERS } from "./angels-batch8c";
+import { BATCH8D_NUMBERS } from "./angels-batch8d";
 
 export interface AngelNumber {
   number: string;
@@ -53,6 +57,10 @@ const ALL_NUMBERS: AngelNumber[] = [
   ...BATCH7A_NUMBERS,
   ...BATCH7B_NUMBERS,
   ...BATCH7C_NUMBERS,
+  ...BATCH8A_NUMBERS,
+  ...BATCH8B_NUMBERS,
+  ...BATCH8C_NUMBERS,
+  ...BATCH8D_NUMBERS,
 ];
 
 const seen = new Set<string>();
