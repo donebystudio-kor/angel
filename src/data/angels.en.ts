@@ -4,6 +4,8 @@
 // src/pages/en/ directory, and the alternateEnUrl wiring in
 // src/pages/number/[number].astro + src/layouts/Layout.astro.
 
+import { EN_BATCH1_NUMBERS } from "./angels-en-batch1";
+
 export type EnCategory =
   | "repeat"
   | "mirror"
@@ -20,7 +22,15 @@ export interface EnFaqItem {
 
 export interface EnAngelNumber {
   number: string;
-  title: string;
+  /**
+   * Short hook for the page <title>/og:title, NOT the full title string.
+   * The page builds the title as `Angel Number ${number} Meaning: ${titleHook}`.
+   * Keep this to ~30 chars or less (the fixed "Angel Number N Meaning: "
+   * prefix already eats ~25-27 chars, and the combined title should stay
+   * under ~60 chars so it doesn't get truncated in search results).
+   * One clause, no dashes/colons inside it, no repeating "Angel Number".
+   */
+  titleHook: string;
   summary: string;
   meaning: string;
   love: string;
@@ -37,10 +47,13 @@ export interface EnAngelNumber {
   manifestation?: string;
 }
 
-export const EN_ANGEL_NUMBERS: EnAngelNumber[] = [
+// 111 is the pilot entry, kept inline here. Later tiers live in
+// angels-en-batch*.ts files, following the same pattern as the Korean
+// dataset (angels-core.ts + angels-batch*.ts).
+export const EN_CORE_NUMBERS: EnAngelNumber[] = [
   {
     number: "111",
-    title: "Angel Number 111 Meaning",
+    titleHook: "The Manifestation Trigger",
     summary: "The manifestation trigger — your thoughts just became instructions",
     meaning:
       "111 shows up at the exact moment a thought crosses the line from idea into instruction. Numerologically it reduces to 1 (1+1+1=3, but the repeating 1 is the operative signal), the number of new cycles and raw creative force — and the triple repetition means that force is currently unfiltered. There's no buffer between what you're thinking and what starts moving in the physical world. That's the whole message: not \"something good is coming,\" but \"pay attention to what you were thinking in the second before you looked up and saw it.\" If that thought was fear, doubt, or a worst-case scenario, treat 111 as a tap on the shoulder to redirect — not a threat, a checkpoint. If it was a goal, an idea, or a person, 111 is telling you the runway is clear.",
@@ -75,6 +88,15 @@ export const EN_ANGEL_NUMBERS: EnAngelNumber[] = [
       "111 is the clearest manifestation marker in numerology because it corresponds to the shift from thought-form to physical-form — the Law of Attraction idea that a thought held with enough clarity and emotional charge starts to organize matching circumstances around it. The practical technique worth using here (borrowed from the Abraham-Hicks \"17-second rule\"): hold the specific thing you want in mind, distraction-free, for 17 straight seconds. That's roughly the threshold at which a thought starts pulling in matching thoughts rather than dissolving. Seeing 111 while doing this — or right after — is typically read as confirmation the process is working, not a coincidence to dismiss.",
   },
 ];
+
+const EN_ALL_NUMBERS: EnAngelNumber[] = [...EN_CORE_NUMBERS, ...EN_BATCH1_NUMBERS];
+
+const enSeen = new Set<string>();
+export const EN_ANGEL_NUMBERS: EnAngelNumber[] = EN_ALL_NUMBERS.filter((n) => {
+  if (enSeen.has(n.number)) return false;
+  enSeen.add(n.number);
+  return true;
+});
 
 export function getEnAngelNumber(number: string): EnAngelNumber | undefined {
   return EN_ANGEL_NUMBERS.find((a) => a.number === number);

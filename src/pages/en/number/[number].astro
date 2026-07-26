@@ -14,7 +14,9 @@ export function getStaticPaths() {
 
 const { angel } = Astro.props;
 const site = "https://angel-sandy-five.vercel.app";
-const title = `Angel Number ${angel.number} Meaning — ${angel.summary}`;
+// Title template convention for all /en/ number pages — see the titleHook
+// doc comment in src/data/angels.en.ts for the authoring constraints.
+const title = `Angel Number ${angel.number} Meaning: ${angel.titleHook}`;
 const description = `What angel number ${angel.number} means for love, money, career, manifestation and twin flames. ${angel.summary}.`;
 const url = `${site}/en/number/${angel.number}`;
 const koUrl = `${site}/number/${angel.number}`;
