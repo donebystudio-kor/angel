@@ -1,0 +1,65 @@
+---
+// English-only layout for the /en/ section. Isolated from Layout.astro —
+// safe to delete this file (and src/pages/en/) without touching the Korean site.
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description: string;
+  canonical?: string;
+  /** The Korean counterpart of this page, if one exists. */
+  koUrl?: string;
+}
+
+const { title, description, canonical, koUrl } = Astro.props;
+const site = "https://angel-sandy-five.vercel.app";
+const canonicalUrl = canonical || new URL(Astro.url.pathname, site).href;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+    <link rel="alternate" hreflang="en" href={canonicalUrl} />
+    {koUrl && <link rel="alternate" hreflang="ko" href={koUrl} />}
+    <link rel="alternate" hreflang="x-default" href={canonicalUrl} />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👼</text></svg>" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:site_name" content="AngelDone" />
+    <meta name="google-adsense-account" content="ca-pub-7048160642416104" />
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7048160642416104" crossorigin="anonymous"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-46Z6P1GDG5"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-46Z6P1GDG5');
+    </script>
+    <slot name="head" />
+  </head>
+  <body class="min-h-screen bg-angel-bg text-angel-text antialiased">
+    <header class="bg-angel-card/80 backdrop-blur-sm border-b border-angel-border sticky top-0 z-50">
+      <div class="max-w-4xl mx-auto px-4 h-14 flex items-center justify-between">
+        <a href="/en/" class="flex items-center gap-2 font-bold text-lg text-angel-accent hover:text-angel-primary transition-colors">
+          👼 AngelDone
+        </a>
+      </div>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer class="bg-angel-card border-t border-angel-border mt-16">
+      <div class="max-w-4xl mx-auto px-4 py-10 text-center text-sm text-angel-muted">
+        <p>© 2026 AngelDone. Angel number meanings, manifestation & twin flame guidance.</p>
+      </div>
+    </footer>
+  </body>
+</html>

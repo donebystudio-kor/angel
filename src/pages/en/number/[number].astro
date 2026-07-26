@@ -1,0 +1,112 @@
+---
+// Isolated English route. Reads only from src/data/angels.en.ts — never
+// touches the Korean dataset or Korean pages. Safe to delete this whole
+// src/pages/en/ directory to roll back the English section.
+import LayoutEn from "../../../layouts/LayoutEn.astro";
+import { EN_ANGEL_NUMBERS } from "../../../data/angels.en";
+
+export function getStaticPaths() {
+  return EN_ANGEL_NUMBERS.map((a) => ({
+    params: { number: a.number },
+    props: { angel: a },
+  }));
+}
+
+const { angel } = Astro.props;
+const site = "https://angel-sandy-five.vercel.app";
+const title = `Angel Number ${angel.number} Meaning — ${angel.summary}`;
+const description = `What angel number ${angel.number} means for love, money, career, manifestation and twin flames. ${angel.summary}.`;
+const url = `${site}/en/number/${angel.number}`;
+const koUrl = `${site}/number/${angel.number}`;
+
+const sections = [
+  { icon: "💜", title: "What It Means", content: angel.meaning },
+  { icon: "❤️", title: "Love", content: angel.love },
+  ...(angel.money ? [{ icon: "💰", title: "Money", content: angel.money }] : []),
+  { icon: "💼", title: "Career", content: angel.career },
+  ...(angel.twinflame ? [{ icon: "🔥", title: "Twin Flame", content: angel.twinflame }] : []),
+  ...(angel.manifestation ? [{ icon: "✨", title: "Manifestation", content: angel.manifestation }] : []),
+  { icon: "🔮", title: "Spiritual Message", content: angel.spiritual },
+  { icon: "⚡", title: "What To Do Now", content: angel.action },
+];
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: title,
+  description,
+  url,
+  publisher: { "@type": "Organization", name: "AngelDone" },
+  mainEntityOfPage: { "@type": "WebPage", "@id": url },
+};
+
+const faqJsonLd = angel.faq && angel.faq.length > 0 ? {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: angel.faq.map((f: { q: string; a: string }) => ({
+    "@type": "Question",
+    name: f.q,
+    acceptedAnswer: { "@type": "Answer", text: f.a },
+  })),
+} : null;
+---
+
+<LayoutEn title={title} description={description} canonical={url} koUrl={koUrl}>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+    {faqJsonLd && <script type="application/ld+json" set:html={JSON.stringify(faqJsonLd)} />}
+  </Fragment>
+
+  <article class="max-w-3xl mx-auto px-4 py-12">
+    <nav class="text-sm text-angel-muted mb-6 flex items-center gap-2 flex-wrap">
+      <a href="/en/" class="hover:text-angel-primary transition-colors">Home</a>
+      <span>›</span>
+      <span class="text-angel-text">{angel.number}</span>
+    </nav>
+
+    {angel.isPlaceholder && (
+      <div class="bg-angel-accent/10 border border-angel-accent/30 rounded-xl px-4 py-3 mb-6 text-sm text-angel-accent">
+        This page currently shows a base interpretation. A more detailed version is coming soon.
+      </div>
+    )}
+
+    <div class="text-center mb-10">
+      <h1 class="text-3xl md:text-4xl font-bold text-angel-text mb-3">
+        👼 Angel Number {angel.number}
+      </h1>
+      <p class="text-lg text-angel-accent font-medium">{angel.summary}</p>
+    </div>
+
+    <div class="space-y-6">
+      {sections.map((s) => (
+        <section class="bg-angel-card border border-angel-border rounded-2xl p-6">
+          <h2 class="text-lg font-bold text-angel-text mb-3">
+            {s.icon} {s.title}
+          </h2>
+          <p class="text-angel-muted leading-relaxed">{s.content}</p>
+        </section>
+      ))}
+    </div>
+
+    {angel.faq && angel.faq.length > 0 && (
+      <section class="mt-8">
+        <h2 class="text-xl font-bold text-angel-text mb-4">❓ Frequently Asked Questions</h2>
+        <div class="space-y-3">
+          {angel.faq.map((f: { q: string; a: string }) => (
+            <details class="bg-angel-card border border-angel-border rounded-2xl p-5 group">
+              <summary class="font-semibold text-angel-text cursor-pointer list-none flex items-center justify-between text-sm">
+                {f.q}
+                <span class="text-angel-muted group-open:rotate-180 transition-transform ml-2 shrink-0">▼</span>
+              </summary>
+              <p class="mt-3 text-angel-muted text-sm leading-relaxed">{f.a}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <div class="mt-10 text-center">
+      <a href="/en/" class="text-angel-primary hover:text-angel-accent transition-colors text-sm">← All angel numbers</a>
+    </div>
+  </article>
+</LayoutEn>

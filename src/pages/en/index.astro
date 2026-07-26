@@ -1,0 +1,32 @@
+---
+// Minimal English landing page. Isolated under src/pages/en/ — reads only
+// from src/data/angels.en.ts. Safe to delete without touching the Korean site.
+import LayoutEn from "../../layouts/LayoutEn.astro";
+import { EN_ANGEL_NUMBERS } from "../../data/angels.en";
+
+const site = "https://angel-sandy-five.vercel.app";
+const title = "Angel Numbers — Meaning, Manifestation & Twin Flame Guidance";
+const description =
+  "Look up what your angel number means for love, money, career, manifestation and twin flame connections.";
+---
+
+<LayoutEn title={title} description={description} canonical={`${site}/en/`} koUrl={`${site}/`}>
+  <div class="max-w-3xl mx-auto px-4 py-12">
+    <div class="text-center mb-10">
+      <h1 class="text-3xl md:text-4xl font-bold text-angel-text mb-3">👼 Angel Numbers</h1>
+      <p class="text-lg text-angel-muted">Find out what the numbers you keep seeing actually mean.</p>
+    </div>
+
+    <div class="grid grid-cols-2 md:grid-cols-3 gap-3">
+      {EN_ANGEL_NUMBERS.map((a) => (
+        <a
+          href={`/en/number/${a.number}`}
+          class="bg-angel-card border border-angel-border rounded-xl p-4 hover:shadow-md hover:shadow-angel-glow hover:border-angel-primary/40 transition-all"
+        >
+          <div class="text-xl font-bold text-angel-primary">{a.number}</div>
+          <div class="text-xs text-angel-muted mt-1 line-clamp-1">{a.summary}</div>
+        </a>
+      ))}
+    </div>
+  </div>
+</LayoutEn>

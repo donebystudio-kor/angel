@@ -5,6 +5,7 @@ import ShareButtons from "../../components/ShareButtons.astro";
 import { ANGEL_NUMBERS, CATEGORY_LABELS } from "../../data/angels";
 import { TOPICS } from "../../data/topics";
 import type { Category } from "../../data/angels";
+import { hasEnAngelNumber } from "../../data/angels.en";
 
 export function getStaticPaths() {
   return ANGEL_NUMBERS.map((a) => ({
@@ -30,6 +31,8 @@ const composingNumbers = ANGEL_NUMBERS.filter(
 );
 
 const relatedTopics = TOPICS.filter((t) => t.numbers.includes(angel.number));
+
+const alternateEnUrl = hasEnAngelNumber(angel.number) ? `${site}/en/number/${angel.number}` : undefined;
 
 const sections = [
   { icon: "💜", title: "숫자의 의미", content: angel.meaning },
@@ -62,7 +65,7 @@ const faqJsonLd = angel.faq && angel.faq.length > 0 ? {
 } : null;
 ---
 
-<Layout title={title} description={description} canonical={url}>
+<Layout title={title} description={description} canonical={url} alternateEnUrl={alternateEnUrl}>
   <Fragment slot="head">
     <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
     {faqJsonLd && <script type="application/ld+json" set:html={JSON.stringify(faqJsonLd)} />}

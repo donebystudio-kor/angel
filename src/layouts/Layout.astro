@@ -6,9 +6,11 @@ interface Props {
   title: string;
   description: string;
   canonical?: string;
+  /** Present only on Korean pages that have a published English counterpart. */
+  alternateEnUrl?: string;
 }
 
-const { title, description, canonical } = Astro.props;
+const { title, description, canonical, alternateEnUrl } = Astro.props;
 const site = "https://angel-sandy-five.vercel.app";
 const canonicalUrl = canonical || new URL(Astro.url.pathname, site).href;
 ---
@@ -21,6 +23,13 @@ const canonicalUrl = canonical || new URL(Astro.url.pathname, site).href;
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl} />
+    {alternateEnUrl && (
+      <>
+        <link rel="alternate" hreflang="ko" href={canonicalUrl} />
+        <link rel="alternate" hreflang="en" href={alternateEnUrl} />
+        <link rel="alternate" hreflang="x-default" href={alternateEnUrl} />
+      </>
+    )}
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👼</text></svg>" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
