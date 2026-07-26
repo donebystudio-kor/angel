@@ -5,6 +5,7 @@
 // src/pages/number/[number].astro + src/layouts/Layout.astro.
 
 import { EN_BATCH1_NUMBERS } from "./angels-en-batch1";
+import { EN_BATCH2_NUMBERS } from "./angels-en-batch2";
 
 export type EnCategory =
   | "repeat"
@@ -56,7 +57,7 @@ export const EN_CORE_NUMBERS: EnAngelNumber[] = [
     titleHook: "The Manifestation Trigger",
     summary: "The manifestation trigger — your thoughts just became instructions",
     meaning:
-      "111 shows up at the exact moment a thought crosses the line from idea into instruction. Numerologically it reduces to 1 (1+1+1=3, but the repeating 1 is the operative signal), the number of new cycles and raw creative force — and the triple repetition means that force is currently unfiltered. There's no buffer between what you're thinking and what starts moving in the physical world. That's the whole message: not \"something good is coming,\" but \"pay attention to what you were thinking in the second before you looked up and saw it.\" If that thought was fear, doubt, or a worst-case scenario, treat 111 as a tap on the shoulder to redirect — not a threat, a checkpoint. If it was a goal, an idea, or a person, 111 is telling you the runway is clear.",
+      "111 shows up at the exact moment a thought crosses the line from idea into instruction. Numerologically it reduces to 1 (1+1+1=3, but the repeating 1 is the operative signal), the number of new cycles and raw creative force — and the triple repetition means that force is currently unfiltered. There's no buffer between what you're thinking and what starts moving in the physical world. That's the whole message: not \"something good is coming,\" but \"pay attention to what you were thinking in the second before you looked up and saw it.\" If that thought was fear, doubt, or something discouraging, treat 111 as a tap on the shoulder to redirect — not a threat, a checkpoint. If it was a goal, an idea, or a person, 111 is telling you the runway is clear.",
     love: "Single: stop vague-wishing (\"I just want someone nice\") and get specific — the qualities, the dynamic, how you want to feel next to them — because 111 responds to precision, not politeness. Vague requests get vague, slow results. In a relationship: 111 usually lands when a conversation has been avoided. Whatever you've been rehearsing in your head to say to your partner — say the real version this week, not the diluted one. The number is pointing at the gap between what you're thinking and what you're voicing.",
     money: "111 is not a lottery signal — it's a reset on your money self-talk. If your internal script has been \"I can't afford it\" or \"money is tight,\" that exact loop is what's about to get reinforced, because 111 amplifies whatever's on repeat. Swap the sentence before you do anything else: not fake positivity, just an accurate one (\"I'm building toward this\" instead of \"I'll never have this\"). Practically, this is also a good week to actually write down one specific financial target with a number attached — 111 favors specificity over hope.",
     career: "A window opens for about 24–48 hours after a 111 sighting where hesitation costs more than it usually would. If you've been sitting on an application, a pitch, a resignation letter, or a proposal, this is the signal to send it in that window rather than \"polish it more.\" 111 isn't telling you the idea is perfect — it's telling you that overthinking it further won't improve it, only delay it. If you're mid-interview-process or waiting on a response, this is also a common marker for news arriving faster than expected.",
@@ -70,7 +71,7 @@ export const EN_CORE_NUMBERS: EnAngelNumber[] = [
       },
       {
         q: "Is 111 a warning?",
-        a: "No — 111 is neutral in tone; it's an amplifier, not an alarm. It doesn't distinguish between a thought you want amplified and one you don't, which is why it can feel unsettling if you catch it during an anxious spiral. The actionable version of \"warning\" here is: notice the thought, and if it's not one you want reinforced, deliberately swap it rather than let it run.",
+        a: "No — 111 is neutral in tone; it's an amplifier, not an alarm. It doesn't distinguish between a thought you want amplified and one you don't, so it can feel strange if you happen to notice it while you're mid-worry. The practical takeaway either way: notice the thought, and if it's not one you want reinforced, deliberately swap it for a more accurate one rather than let it keep running.",
       },
       {
         q: "What's the difference between 111 and 1111?",
@@ -78,7 +79,7 @@ export const EN_CORE_NUMBERS: EnAngelNumber[] = [
       },
       {
         q: "I keep seeing 111 but nothing is happening — why?",
-        a: "Two common causes: first, the shift is often internal before it's external (a mindset or decision has already changed, even if circumstances haven't caught up yet — give it 1-2 weeks). Second, and more often overlooked: you may be seeing 111 during a fear-based thought loop, in which case \"nothing happening\" is actually the number doing its job — refusing to amplify a thought you don't actually want to manifest. Check which thought you were having, not just what you were hoping for.",
+        a: "Two common causes: first, the shift is often internal before it's external (a mindset or decision has already changed, even if circumstances haven't caught up yet — give it 1-2 weeks). Second, and more often overlooked: you may be seeing 111 while your thinking had drifted toward worry rather than toward what you actually want, in which case \"nothing happening\" is the number doing its job, not amplifying a thought you don't actually want to manifest. Check which thought you were having, not just what you were hoping for.",
       },
     ],
     isPlaceholder: false,
@@ -89,7 +90,7 @@ export const EN_CORE_NUMBERS: EnAngelNumber[] = [
   },
 ];
 
-const EN_ALL_NUMBERS: EnAngelNumber[] = [...EN_CORE_NUMBERS, ...EN_BATCH1_NUMBERS];
+const EN_ALL_NUMBERS: EnAngelNumber[] = [...EN_CORE_NUMBERS, ...EN_BATCH1_NUMBERS, ...EN_BATCH2_NUMBERS];
 
 const enSeen = new Set<string>();
 export const EN_ANGEL_NUMBERS: EnAngelNumber[] = EN_ALL_NUMBERS.filter((n) => {
