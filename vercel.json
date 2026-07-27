@@ -14,7 +14,7 @@
         }
       ],
       "destination": "https://angeldone.com/:path*",
-      "permanent": true
+      "statusCode": 301
     }
   ]
 }
