@@ -1,0 +1,152 @@
+---
+// English-only page, required for AdSense review. Self-canonical, no
+// Korean counterpart. Isolated under src/pages/en/.
+import LayoutEn from "../../layouts/LayoutEn.astro";
+
+const site = "https://angel-sandy-five.vercel.app";
+const title = "Privacy Policy";
+const description = "How AngelDone collects, uses, and protects information, including how Google AdSense and Google Analytics use cookies on this site.";
+const url = `${site}/en/privacy-policy`;
+const lastUpdated = "July 27, 2026";
+---
+
+<LayoutEn title={title} description={description} canonical={url}>
+  <article class="max-w-3xl mx-auto px-4 py-12">
+    <nav class="text-sm text-angel-muted mb-6 flex items-center gap-2 flex-wrap">
+      <a href="/en/" class="hover:text-angel-primary transition-colors">Home</a>
+      <span>›</span>
+      <span class="text-angel-text">Privacy Policy</span>
+    </nav>
+
+    <h1 class="text-3xl md:text-4xl font-bold text-angel-text mb-3">Privacy Policy</h1>
+    <p class="text-sm text-angel-muted mb-10">Last updated: {lastUpdated}</p>
+
+    <div class="space-y-8 text-angel-muted leading-relaxed">
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">Overview</h2>
+        <p>
+          AngelDone (this site) is a static, editorial website about angel numbers and numerology.
+          We don't require you to create an account, and we don't operate a database of user
+          profiles. This policy explains what information is collected automatically as you browse,
+          how advertising cookies work on this site, and what choices you have.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">Information we collect</h2>
+        <p class="mb-3">
+          We don't ask visitors to sign up, log in, or submit personal information to read this
+          site. The information collected falls into two categories:
+        </p>
+        <ul class="list-disc pl-5 space-y-2">
+          <li>
+            <strong class="text-angel-text">Standard technical logs.</strong> Like most websites,
+            our hosting provider automatically records basic technical information for every visit
+            — things like IP address, browser type, device type, and which pages were requested.
+            This is standard infrastructure logging used for security and reliability, not for
+            identifying individual visitors.
+          </li>
+          <li>
+            <strong class="text-angel-text">Cookies from Google.</strong> This site uses Google
+            Analytics to understand aggregate traffic patterns (how many people visit, which pages
+            are popular) and Google AdSense to display advertising. Both set cookies in your
+            browser, described in detail below.
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">Google AdSense and advertising cookies</h2>
+        <p class="mb-3">
+          This site uses third-party advertising companies, including Google, to serve ads when you
+          visit. These companies may use information about your visits to this site and other
+          websites (not including your name, address, email address, or telephone number) in order
+          to provide advertisements about goods and services of interest to you.
+        </p>
+        <p class="mb-3">
+          Google, as a third-party vendor, uses cookies to serve ads on this site. Google's use of
+          advertising cookies (including the DoubleClick/DART cookie) enables it and its partners to
+          serve ads based on your visits to this site and/or other sites on the internet.
+        </p>
+        <p>
+          You can opt out of personalized advertising by visiting Google's Ads Settings at{" "}
+          <a href="https://www.google.com/settings/ads" target="_blank" rel="noopener noreferrer" class="text-angel-primary hover:text-angel-accent">
+            www.google.com/settings/ads
+          </a>. Alternatively, you can opt out of a third-party vendor's use of cookies for
+          personalized advertising by visiting{" "}
+          <a href="https://www.aboutads.info" target="_blank" rel="noopener noreferrer" class="text-angel-primary hover:text-angel-accent">
+            www.aboutads.info
+          </a>.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">Google Analytics</h2>
+        <p>
+          We use Google Analytics to understand, in aggregate, how visitors use this site — which
+          pages get read, roughly how much traffic the site gets, and similar usage patterns. This
+          data is used to improve the site's content and structure, not to identify or track
+          individual visitors personally.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">How we use information</h2>
+        <p>
+          Aggregate analytics data is used only to understand and improve this site. We do not sell
+          personal information, and we do not use any collected data for direct marketing, since we
+          don't collect email addresses or contact details through normal browsing. If you email us
+          directly through our <a href="/en/contact" class="text-angel-primary hover:text-angel-accent">contact page</a>,
+          we use that information only to respond to you.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">Third-party links</h2>
+        <p>
+          Pages on this site may link to external resources for context. We aren't responsible for
+          the privacy practices or content of external sites, and we'd encourage you to review the
+          privacy policy of any site you navigate to from here.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">Children's privacy</h2>
+        <p>
+          This site is not directed at children under 13, and we do not knowingly collect personal
+          information from children.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">Your choices</h2>
+        <ul class="list-disc pl-5 space-y-2">
+          <li>Opt out of personalized Google ads: <a href="https://www.google.com/settings/ads" target="_blank" rel="noopener noreferrer" class="text-angel-primary hover:text-angel-accent">google.com/settings/ads</a></li>
+          <li>Opt out of participating vendors' cookies: <a href="https://www.aboutads.info" target="_blank" rel="noopener noreferrer" class="text-angel-primary hover:text-angel-accent">aboutads.info</a></li>
+          <li>Most browsers let you block or delete cookies directly in your browser settings.</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">Changes to this policy</h2>
+        <p>
+          We may update this policy from time to time, for example if we add a new service or
+          change how ads are served. The "last updated" date at the top of this page reflects the
+          most recent revision.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">Contact us</h2>
+        <p>
+          If you have questions about this privacy policy, you can reach us through our{" "}
+          <a href="/en/contact" class="text-angel-primary hover:text-angel-accent">contact page</a>.
+        </p>
+      </section>
+    </div>
+
+    <div class="mt-10 text-center">
+      <a href="/en/" class="text-angel-primary hover:text-angel-accent transition-colors text-sm">← Home</a>
+    </div>
+  </article>
+</LayoutEn>

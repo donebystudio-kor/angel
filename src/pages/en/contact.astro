@@ -1,0 +1,48 @@
+---
+// English-only page. Self-canonical, no Korean counterpart.
+import LayoutEn from "../../layouts/LayoutEn.astro";
+
+const site = "https://angel-sandy-five.vercel.app";
+const title = "Contact";
+const description = "How to get in touch with AngelDone.";
+const url = `${site}/en/contact`;
+
+// TODO: replace with the real contact email before relying on this page.
+const contactEmail = "contact@angeldone.com";
+---
+
+<LayoutEn title={title} description={description} canonical={url}>
+  <article class="max-w-3xl mx-auto px-4 py-12">
+    <nav class="text-sm text-angel-muted mb-6 flex items-center gap-2 flex-wrap">
+      <a href="/en/" class="hover:text-angel-primary transition-colors">Home</a>
+      <span>›</span>
+      <span class="text-angel-text">Contact</span>
+    </nav>
+
+    <h1 class="text-3xl md:text-4xl font-bold text-angel-text mb-8">Contact</h1>
+
+    <div class="space-y-5 text-angel-muted leading-relaxed">
+      <p>
+        Found something wrong on a page, have a number you think we should cover, or just have a
+        question about how this site works? We'd like to hear from you.
+      </p>
+      <p>
+        The best way to reach us is by email:
+      </p>
+      <p class="bg-angel-card border border-angel-border rounded-2xl p-6 text-center">
+        <a href={`mailto:${contactEmail}`} class="text-angel-primary hover:text-angel-accent text-lg font-semibold transition-colors">
+          {contactEmail}
+        </a>
+      </p>
+      <p>
+        We read every message, though as a small, independently run site we can't always promise a
+        quick reply. For questions about how we handle data and advertising cookies, see our{" "}
+        <a href="/en/privacy-policy" class="text-angel-primary hover:text-angel-accent">privacy policy</a>.
+      </p>
+    </div>
+
+    <div class="mt-10 text-center">
+      <a href="/en/" class="text-angel-primary hover:text-angel-accent transition-colors text-sm">← Home</a>
+    </div>
+  </article>
+</LayoutEn>

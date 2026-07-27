@@ -1,0 +1,62 @@
+---
+// English-only page. Self-canonical, no Korean counterpart.
+import LayoutEn from "../../layouts/LayoutEn.astro";
+
+const site = "https://angel-sandy-five.vercel.app";
+const title = "About AngelDone";
+const description = "What AngelDone is, why it exists, and the approach we take to angel numbers and numerology.";
+const url = `${site}/en/about`;
+---
+
+<LayoutEn title={title} description={description} canonical={url}>
+  <article class="max-w-3xl mx-auto px-4 py-12">
+    <nav class="text-sm text-angel-muted mb-6 flex items-center gap-2 flex-wrap">
+      <a href="/en/" class="hover:text-angel-primary transition-colors">Home</a>
+      <span>›</span>
+      <span class="text-angel-text">About</span>
+    </nav>
+
+    <h1 class="text-3xl md:text-4xl font-bold text-angel-text mb-8">About AngelDone</h1>
+
+    <div class="space-y-5 text-angel-muted leading-relaxed">
+      <p>
+        AngelDone started the way most sites like this do — from noticing 111 too many times in a
+        row to write off as coincidence, and then being unsatisfied with the explanations available
+        online. A lot of angel number content online reads like it was copied from the same three
+        sources and lightly reworded. We wanted something with more actual substance behind it: specific
+        situations, real distinctions between similar numbers, and honest answers to the questions
+        people are actually typing into search bars.
+      </p>
+      <p>
+        We come at this from a numerology background rather than a religious one. You won't find
+        claims here that a specific number guarantees a specific outcome, or that seeing one means
+        something is about to go wrong. Numbers, in the tradition we draw from, work more like a
+        prompt than a prophecy — a reason to notice a pattern in your own thinking, or a decision
+        you've been circling, rather than a message dictated word-for-word from somewhere else.
+      </p>
+      <p>
+        That's also why we're upfront when a number carries baggage it doesn't deserve.
+        <a href="/en/number/666" class="text-angel-primary hover:text-angel-accent">666</a> gets
+        treated as an omen in pop culture, but in numerology 6 has always meant balance and
+        responsibility — we'd rather explain that plainly than lean into the drama for clicks.
+      </p>
+      <p>
+        Every number page on this site follows the same structure: what it tends to mean for love,
+        money, career, and spiritual life, along with one concrete thing to actually do about it
+        today. Where a number carries a strong twin flame association, we cover that too — you can
+        read more about how that works in our <a href="/en/guide/twin-flame-numbers" class="text-angel-primary hover:text-angel-accent">twin flame numbers guide</a>.
+        If you're new here, <a href="/en/guide/what-is-an-angel-number" class="text-angel-primary hover:text-angel-accent">what is an angel number</a>
+        is a good place to start.
+      </p>
+      <p>
+        This site is small, independently run, and still growing — new numbers get added regularly.
+        If something's unclear, missing, or just wrong, we'd genuinely like to hear about it; you
+        can reach us on our <a href="/en/contact" class="text-angel-primary hover:text-angel-accent">contact page</a>.
+      </p>
+    </div>
+
+    <div class="mt-10 text-center">
+      <a href="/en/" class="text-angel-primary hover:text-angel-accent transition-colors text-sm">← Home</a>
+    </div>
+  </article>
+</LayoutEn>
