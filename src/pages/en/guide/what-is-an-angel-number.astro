@@ -1,0 +1,161 @@
+---
+// English-only guide essay. Not built from the number-page template —
+// freeform prose, isolated under src/pages/en/guide/. Safe to delete
+// without touching the Korean site or the number pages.
+import LayoutEn from "../../../layouts/LayoutEn.astro";
+
+const site = "https://angel-sandy-five.vercel.app";
+const title = "What Is an Angel Number?";
+const description =
+  "What angel numbers actually are, where the idea comes from, and a fair look at both the numerology explanation and the psychology behind why you keep noticing them.";
+const url = `${site}/en/guide/what-is-an-angel-number`;
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: title,
+  description,
+  url,
+  publisher: { "@type": "Organization", name: "AngelDone" },
+  mainEntityOfPage: { "@type": "WebPage", "@id": url },
+};
+---
+
+<LayoutEn title={title} description={description} canonical={url}>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  </Fragment>
+
+  <article class="max-w-3xl mx-auto px-4 py-12">
+    <nav class="text-sm text-angel-muted mb-6 flex items-center gap-2 flex-wrap">
+      <a href="/en/" class="hover:text-angel-primary transition-colors">Home</a>
+      <span>›</span>
+      <a href="/en/guide/" class="hover:text-angel-primary transition-colors">Guides</a>
+      <span>›</span>
+      <span class="text-angel-text">What Is an Angel Number?</span>
+    </nav>
+
+    <h1 class="text-3xl md:text-4xl font-bold text-angel-text mb-3">What Is an Angel Number?</h1>
+    <p class="text-lg text-angel-accent font-medium mb-10">
+      Where the idea comes from, and how to think about it without getting carried away
+    </p>
+
+    <div class="space-y-8 text-angel-muted leading-relaxed">
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">The moment it usually starts</h2>
+        <p class="mb-3">
+          It's rarely a dramatic realization. You glance at the clock and it happens to say 11:11.
+          You don't think much of it. Then it happens again the next day, and a few days after that
+          a receipt comes to $11.11, and now you're paying attention in a way you weren't a week
+          ago. That's usually how it starts. Nobody sets out looking for an angel number — you
+          notice one after the coincidence has already caught your attention on its own.
+        </p>
+        <p>
+          An angel number, in this tradition, is a repeating number sequence — on a clock, a
+          receipt, a license plate, a page number — that's read as a message worth pausing over
+          rather than dismissed as noise. The premise isn't that numbers are magic. It's that
+          certain sequences carry symbolic meaning, built up over a long numerology tradition, and
+          that meaning tends to surface at moments worth actually paying attention to.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">Where the idea comes from</h2>
+        <p class="mb-3">
+          The roots go back to numerology, and specifically to Pythagoras, who's credited with the
+          idea that "all is number" — that everything in the universe, including abstract things
+          like character and fate, could be understood through numbers and their relationships.
+          Numerology traditions since then have assigned each digit, 0 through 9, its own
+          personality: 1 for new beginnings, 2 for balance and partnership, 8 for abundance, and so
+          on (you can see how each of the single digits is read on this site in our
+          <a href="/en/number/1" class="text-angel-primary hover:text-angel-accent">number 1</a>
+          through <a href="/en/number/9" class="text-angel-primary hover:text-angel-accent">number 9</a>
+          pages).
+        </p>
+        <p>
+          The specific term "angel number," and the idea of angels using repeating numbers to
+          communicate, was popularized more recently — most notably by the spiritual author Doreen
+          Virtue in the early 2000s, building directly on top of older numerology traditions rather
+          than inventing something from scratch. That's worth knowing going in: this isn't an
+          ancient, universally agreed-upon system, it's a modern layer built on a much older
+          foundation, and different sources (including this one) will interpret the same number
+          somewhat differently depending on which thread of that tradition they're drawing from.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">Why you keep seeing the same numbers</h2>
+        <p class="mb-3">
+          There are two honest answers to this, and they're not actually in conflict with each
+          other. The first is psychological: once your brain flags a specific number as
+          significant, you start noticing it far more often than before — not because it's
+          appearing more, but because you're now primed to catch it. This is a well-documented
+          cognitive pattern, sometimes called the frequency illusion, and it's real regardless of
+          what else is going on. If you've just learned what 111 means and you start seeing it
+          everywhere this week, that's at least partly this effect at work.
+        </p>
+        <p>
+          The second answer is the one this tradition itself offers: that meaningful coincidence,
+          what the psychologist Carl Jung called synchronicity, is data worth paying attention to
+          rather than noise to filter out. In this framing, a repeating number showing up at a
+          specific moment (right after a difficult decision, right before a big conversation)
+          isn't random — it's a nudge to notice what's actually happening around you right then.
+        </p>
+        <p>
+          You don't have to fully resolve which of these explanations is "true" to get something
+          real out of the practice. Treating a repeated number as a prompt to pause and reflect on
+          what you were thinking or doing in that moment is useful either way — whether the
+          mechanism is a cognitive bias making the coincidence more noticeable, or something closer
+          to what this tradition describes as a message.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">How this site treats it</h2>
+        <p class="mb-3">
+          We don't treat angel numbers as literal messages dictated by winged beings, and we don't
+          treat them as fate — a specific number showing up doesn't override your judgment or
+          guarantee a specific outcome. The more useful framing, and the one used consistently
+          across this site, is a checkpoint rather than a directive: a nudge to notice something
+          specific (a pattern, a feeling, a decision you've been putting off) rather than a command
+          to act a certain way.
+        </p>
+        <p>
+          That's also why you won't find heavy warning language on this site, even for numbers with
+          an intimidating cultural reputation. A number like <a href="/en/number/666" class="text-angel-primary hover:text-angel-accent">666</a>
+          isn't treated as an omen here — in numerology, 6 has always meant balance and
+          responsibility, and even at its most repeated forms it's read as a nudge to rebalance,
+          not a warning of doom.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">Reading your own number</h2>
+        <p class="mb-3">
+          Each number on this site is read across a consistent set of angles — what it tends to
+          mean for love, money, career, and spiritual life, plus a concrete action to take today.
+          Some numbers, especially sequences and mirror numbers, carry a particularly strong
+          association with twin flame connections specifically, which we cover in detail in our
+          <a href="/en/guide/twin-flame-numbers" class="text-angel-primary hover:text-angel-accent">twin flame numbers guide</a>.
+        </p>
+        <p>
+          If you've noticed a number repeating in your own life, whether it's a simple one like
+          <a href="/en/number/7" class="text-angel-primary hover:text-angel-accent">7</a> or a
+          bigger one like <a href="/en/number/1111" class="text-angel-primary hover:text-angel-accent">1111</a>
+          or <a href="/en/number/444" class="text-angel-primary hover:text-angel-accent">444</a>,
+          the fastest way to get something useful out of it is simply to look up that specific
+          number rather than treat "angel numbers" as one big, vague category. And if you're
+          wondering whether you have a personal number tied to your own birthdate, separate from
+          whatever you've been noticing, our
+          <a href="/en/guide/how-to-find-your-angel-number" class="text-angel-primary hover:text-angel-accent">guide to finding your angel number</a>
+          walks through how that calculation actually works, with a worked example.
+        </p>
+      </section>
+    </div>
+
+    <div class="mt-10 flex justify-between items-center text-sm flex-wrap gap-3">
+      <a href="/en/guide/" class="text-angel-primary hover:text-angel-accent transition-colors">← All guides</a>
+      <a href="/en/guide/how-to-find-your-angel-number" class="text-angel-primary hover:text-angel-accent transition-colors">Find your angel number →</a>
+    </div>
+  </article>
+</LayoutEn>

@@ -1,0 +1,41 @@
+---
+// English-only guide hub. Isolated under src/pages/en/guide/.
+import LayoutEn from "../../../layouts/LayoutEn.astro";
+
+const site = "https://angel-sandy-five.vercel.app";
+const title = "Angel Number Guides";
+const description = "Everything you need to know about angel numbers: what they are, how to find yours, and how twin flame numbers work.";
+const url = `${site}/en/guide/`;
+
+const guides = [
+  { slug: "what-is-an-angel-number", title: "What Is an Angel Number?", description: "Where the idea comes from, and how to think about it without getting carried away.", emoji: "👼" },
+  { slug: "how-to-find-your-angel-number", title: "How to Find Your Angel Number", description: "Calculate your life path number step by step, and learn to notice repeating numbers in daily life.", emoji: "🔍" },
+  { slug: "twin-flame-numbers", title: "Twin Flame Numbers Explained", description: "Reunion, separation, and which numbers show up at each stage — and why.", emoji: "🔥" },
+];
+---
+
+<LayoutEn title={title} description={description} canonical={url}>
+  <section class="max-w-3xl mx-auto px-4 py-12">
+    <h1 class="text-3xl font-bold text-angel-text mb-3 text-center">📖 Angel Number Guides</h1>
+    <p class="text-angel-muted text-center mb-10">Go deeper than a single number's meaning.</p>
+
+    <div class="space-y-6">
+      {guides.map((g) => (
+        <a href={`/en/guide/${g.slug}`} class="block bg-angel-card border border-angel-border rounded-2xl p-6 hover:border-angel-primary/50 hover:shadow-lg hover:shadow-angel-glow transition-all group">
+          <div class="flex items-start gap-4">
+            <span class="text-3xl">{g.emoji}</span>
+            <div>
+              <h2 class="text-xl font-bold text-angel-text group-hover:text-angel-primary transition-colors mb-2">{g.title}</h2>
+              <p class="text-angel-muted">{g.description}</p>
+              <span class="text-sm text-angel-primary mt-2 inline-block">Read more →</span>
+            </div>
+          </div>
+        </a>
+      ))}
+    </div>
+
+    <div class="mt-10 text-center">
+      <a href="/en/" class="text-angel-primary hover:text-angel-accent transition-colors text-sm">← All angel numbers</a>
+    </div>
+  </section>
+</LayoutEn>

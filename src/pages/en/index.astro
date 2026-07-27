@@ -1,13 +1,40 @@
 ---
-// Minimal English landing page. Isolated under src/pages/en/ — reads only
-// from src/data/angels.en.ts. Safe to delete without touching the Korean site.
+// English landing page. Isolated under src/pages/en/ — reads only from
+// src/data/angels.en.ts, so it only ever lists numbers that actually have
+// a published /en/number/ page (no dead links) and grows automatically as
+// more are added. Safe to delete without touching the Korean site.
 import LayoutEn from "../../layouts/LayoutEn.astro";
-import { EN_ANGEL_NUMBERS } from "../../data/angels.en";
+import { EN_ANGEL_NUMBERS, type EnCategory } from "../../data/angels.en";
 
 const site = "https://angel-sandy-five.vercel.app";
 const title = "Angel Numbers — Meaning, Manifestation & Twin Flame Guidance";
 const description =
   "Look up what your angel number means for love, money, career, manifestation and twin flame connections.";
+
+const guides = [
+  { slug: "what-is-an-angel-number", title: "What Is an Angel Number?", description: "The idea, where it comes from, and how to think about it.", emoji: "👼" },
+  { slug: "how-to-find-your-angel-number", title: "How to Find Your Angel Number", description: "Calculate your life path number, step by step.", emoji: "🔍" },
+  { slug: "twin-flame-numbers", title: "Twin Flame Numbers Explained", description: "Reunion, separation, and which numbers show up at each stage.", emoji: "🔥" },
+];
+
+const groupOrder: { categories: EnCategory[]; label: string }[] = [
+  { categories: ["single"], label: "Single Digits" },
+  { categories: ["repeat"], label: "Repeating Numbers" },
+  { categories: ["sequence"], label: "Sequences" },
+  { categories: ["mirror"], label: "Mirror Numbers" },
+  { categories: ["time", "double", "mixed"], label: "Other" },
+];
+
+// Sort numerically within each group so e.g. 7 < 9 < 11 < 22 reads naturally.
+const sortedNumbers = (nums: typeof EN_ANGEL_NUMBERS) =>
+  [...nums].sort((a, b) => Number(a.number) - Number(b.number));
+
+const groups = groupOrder
+  .map((g) => ({
+    label: g.label,
+    items: sortedNumbers(EN_ANGEL_NUMBERS.filter((a) => g.categories.includes(a.category))),
+  }))
+  .filter((g) => g.items.length > 0);
 ---
 
 <LayoutEn title={title} description={description} canonical={`${site}/en/`} koUrl={`${site}/`}>
@@ -17,16 +44,36 @@ const description =
       <p class="text-lg text-angel-muted">Find out what the numbers you keep seeing actually mean.</p>
     </div>
 
-    <div class="grid grid-cols-2 md:grid-cols-3 gap-3">
-      {EN_ANGEL_NUMBERS.map((a) => (
+    <div class="grid gap-3 mb-12">
+      {guides.map((g) => (
         <a
-          href={`/en/number/${a.number}`}
-          class="bg-angel-card border border-angel-border rounded-xl p-4 hover:shadow-md hover:shadow-angel-glow hover:border-angel-primary/40 transition-all"
+          href={`/en/guide/${g.slug}`}
+          class="flex items-center gap-4 bg-angel-card border border-angel-border rounded-2xl p-5 hover:border-angel-primary/50 hover:shadow-lg hover:shadow-angel-glow transition-all group"
         >
-          <div class="text-xl font-bold text-angel-primary">{a.number}</div>
-          <div class="text-xs text-angel-muted mt-1 line-clamp-1">{a.summary}</div>
+          <span class="text-2xl shrink-0">{g.emoji}</span>
+          <div>
+            <div class="font-bold text-angel-text group-hover:text-angel-primary transition-colors">{g.title}</div>
+            <div class="text-sm text-angel-muted">{g.description}</div>
+          </div>
         </a>
       ))}
     </div>
+
+    {groups.map((group) => (
+      <section class="mb-10">
+        <h2 class="text-lg font-bold text-angel-text mb-3">{group.label}</h2>
+        <div class="grid grid-cols-2 md:grid-cols-3 gap-3">
+          {group.items.map((a) => (
+            <a
+              href={`/en/number/${a.number}`}
+              class="bg-angel-card border border-angel-border rounded-xl p-4 hover:shadow-md hover:shadow-angel-glow hover:border-angel-primary/40 transition-all"
+            >
+              <div class="text-xl font-bold text-angel-primary">{a.number}</div>
+              <div class="text-xs text-angel-muted mt-1 line-clamp-1">{a.summary}</div>
+            </a>
+          ))}
+        </div>
+      </section>
+    ))}
   </div>
 </LayoutEn>

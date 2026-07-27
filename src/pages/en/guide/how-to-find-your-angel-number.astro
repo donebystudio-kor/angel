@@ -1,0 +1,159 @@
+---
+// English-only guide essay. Not built from the number-page template —
+// freeform prose, isolated under src/pages/en/guide/. Safe to delete
+// without touching the Korean site or the number pages.
+import LayoutEn from "../../../layouts/LayoutEn.astro";
+
+const site = "https://angel-sandy-five.vercel.app";
+const title = "How to Find Your Angel Number";
+const description =
+  "Two different things people mean by 'my angel number' — how to calculate your life path number from your birthdate with a worked example, and how to notice repeating numbers in daily life.";
+const url = `${site}/en/guide/how-to-find-your-angel-number`;
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: title,
+  description,
+  url,
+  publisher: { "@type": "Organization", name: "AngelDone" },
+  mainEntityOfPage: { "@type": "WebPage", "@id": url },
+};
+---
+
+<LayoutEn title={title} description={description} canonical={url}>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  </Fragment>
+
+  <article class="max-w-3xl mx-auto px-4 py-12">
+    <nav class="text-sm text-angel-muted mb-6 flex items-center gap-2 flex-wrap">
+      <a href="/en/" class="hover:text-angel-primary transition-colors">Home</a>
+      <span>›</span>
+      <a href="/en/guide/" class="hover:text-angel-primary transition-colors">Guides</a>
+      <span>›</span>
+      <span class="text-angel-text">How to Find Your Angel Number</span>
+    </nav>
+
+    <h1 class="text-3xl md:text-4xl font-bold text-angel-text mb-3">How to Find Your Angel Number</h1>
+    <p class="text-lg text-angel-accent font-medium mb-10">
+      A step-by-step way to calculate your life path number, plus how to notice the numbers already showing up around you
+    </p>
+
+    <div class="space-y-8 text-angel-muted leading-relaxed">
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">Two different things people mean by "my angel number"</h2>
+        <p class="mb-3">
+          Before calculating anything, it's worth separating two ideas that get used interchangeably
+          but aren't the same thing. The first is a <strong class="text-angel-text">life path
+          number</strong> — a single, fixed number calculated from your birthdate, similar in spirit
+          to a sun sign in astrology. It doesn't change, and it's meant to describe a broad
+          personality theme rather than a specific message for right now.
+        </p>
+        <p>
+          The second is a <strong class="text-angel-text">recurring number</strong> — something like
+          <a href="/en/number/111" class="text-angel-primary hover:text-angel-accent">111</a> or
+          <a href="/en/number/717" class="text-angel-primary hover:text-angel-accent">717</a>
+          that you keep noticing in daily life, on clocks, receipts, or license plates. This one
+          changes over time and is read as situational, tied to whatever's happening in your life
+          right now, rather than a fixed personal trait. Most of the number pages on this site are
+          about this second kind. This guide covers how to find both.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">Calculating your life path number</h2>
+        <p class="mb-3">
+          The most common method is straightforward: write out your full birthdate as digits, add
+          every digit together, and keep reducing the total until you land on a single digit — with
+          one exception, covered below. Here's a worked example using a birthdate of
+          November 23, 1990 (11/23/1990):
+        </p>
+        <div class="bg-angel-card border border-angel-border rounded-2xl p-6 mb-3">
+          <p class="mb-2"><strong class="text-angel-text">Step 1 — Write out every digit:</strong> 1, 1, 2, 3, 1, 9, 9, 0</p>
+          <p class="mb-2"><strong class="text-angel-text">Step 2 — Add them all together:</strong> 1+1+2+3+1+9+9+0 = 26</p>
+          <p><strong class="text-angel-text">Step 3 — Reduce to a single digit:</strong> 2+6 = 8</p>
+        </div>
+        <p class="mb-3">
+          For this example birthdate, the life path number is
+          <a href="/en/number/8" class="text-angel-primary hover:text-angel-accent">8</a> — you'd
+          then read what 8 means on this site the same way you'd read any other number.
+        </p>
+        <p class="mb-3">
+          The one exception: if your total, at any point in the reduction, lands on 11, 22, or 33,
+          stop there rather than reducing further. These are treated as master numbers with their
+          own distinct meaning (see
+          <a href="/en/number/11" class="text-angel-primary hover:text-angel-accent">11</a>,
+          <a href="/en/number/22" class="text-angel-primary hover:text-angel-accent">22</a>, and
+          <a href="/en/number/33" class="text-angel-primary hover:text-angel-accent">33</a>).
+        </p>
+        <p class="mb-3">
+          Here's what that looks like with a birthdate that actually lands on one: August 29, 2001
+          (08/29/2001).
+        </p>
+        <div class="bg-angel-card border border-angel-border rounded-2xl p-6 mb-3">
+          <p class="mb-2"><strong class="text-angel-text">Step 1 — Write out every digit:</strong> 0, 8, 2, 9, 2, 0, 0, 1</p>
+          <p><strong class="text-angel-text">Step 2 — Add them all together:</strong> 0+8+2+9+2+0+0+1 = 22</p>
+        </div>
+        <p>
+          The total already lands on 22, a master number, so the calculation stops right there
+          instead of continuing on to 2+2=4. For this birthdate, the life path number is
+          <a href="/en/number/22" class="text-angel-primary hover:text-angel-accent">22</a>, not 4.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">Noticing repeating numbers in daily life</h2>
+        <p class="mb-3">
+          Unlike a life path number, you can't calculate a recurring number in advance — you notice
+          it because it keeps showing up. A few things make the pattern easier to spot:
+        </p>
+        <ol class="list-decimal pl-5 space-y-2">
+          <li>
+            <strong class="text-angel-text">Keep a simple running note.</strong> A note on your
+            phone works fine. Each time a number catches your attention, jot down the number, where
+            you saw it, and what you were thinking about right before.
+          </li>
+          <li>
+            <strong class="text-angel-text">Check the usual places.</strong> Clocks, receipts,
+            license plates, page numbers, order confirmations, and phone numbers are where most
+            people first notice a pattern.
+          </li>
+          <li>
+            <strong class="text-angel-text">Give it a week or two.</strong> One sighting is a
+            coincidence. The same number showing up three or four times over a week or two is worth
+            actually looking up.
+          </li>
+          <li>
+            <strong class="text-angel-text">Look for the context, not just the number.</strong> The
+            situation you're in when you notice it (mid-decision, right after a hard conversation)
+            is often as informative as the number itself.
+          </li>
+        </ol>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">What to do with what you find</h2>
+        <p class="mb-3">
+          Once you have a number, whether it's your calculated life path number or something you've
+          noticed repeating, look up its specific meaning rather than treating "angel numbers" as
+          one broad category — the meanings are genuinely different from one number to the next.
+          If the number that keeps showing up seems tied to a specific relationship, our
+          <a href="/en/guide/twin-flame-numbers" class="text-angel-primary hover:text-angel-accent">twin flame numbers guide</a>
+          covers which numbers carry that association most strongly and why.
+        </p>
+        <p>
+          And if you're new to the whole idea and want the background first, our
+          <a href="/en/guide/what-is-an-angel-number" class="text-angel-primary hover:text-angel-accent">what is an angel number</a>
+          guide covers where the tradition comes from and how to think about it without taking it
+          more literally than it's meant.
+        </p>
+      </section>
+    </div>
+
+    <div class="mt-10 flex justify-between items-center text-sm flex-wrap gap-3">
+      <a href="/en/guide/what-is-an-angel-number" class="text-angel-primary hover:text-angel-accent transition-colors">← What is an angel number?</a>
+      <a href="/en/guide/twin-flame-numbers" class="text-angel-primary hover:text-angel-accent transition-colors">Twin flame numbers →</a>
+    </div>
+  </article>
+</LayoutEn>

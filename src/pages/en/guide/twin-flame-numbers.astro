@@ -1,0 +1,195 @@
+---
+// English-only guide essay. Not built from the number-page template —
+// freeform prose, isolated under src/pages/en/guide/. Safe to delete
+// without touching the Korean site or the number pages.
+import LayoutEn from "../../../layouts/LayoutEn.astro";
+
+const site = "https://angel-sandy-five.vercel.app";
+const title = "Twin Flame Numbers Explained";
+const description =
+  "What twin flame means in numerology, how reunion and separation stages work, and which specific angel numbers carry the strongest twin flame associations — and why.";
+const url = `${site}/en/guide/twin-flame-numbers`;
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: title,
+  description,
+  url,
+  publisher: { "@type": "Organization", name: "AngelDone" },
+  mainEntityOfPage: { "@type": "WebPage", "@id": url },
+};
+---
+
+<LayoutEn title={title} description={description} canonical={url}>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  </Fragment>
+
+  <article class="max-w-3xl mx-auto px-4 py-12">
+    <nav class="text-sm text-angel-muted mb-6 flex items-center gap-2 flex-wrap">
+      <a href="/en/" class="hover:text-angel-primary transition-colors">Home</a>
+      <span>›</span>
+      <a href="/en/guide/" class="hover:text-angel-primary transition-colors">Guides</a>
+      <span>›</span>
+      <span class="text-angel-text">Twin Flame Numbers Explained</span>
+    </nav>
+
+    <h1 class="text-3xl md:text-4xl font-bold text-angel-text mb-3">Twin Flame Numbers Explained</h1>
+    <p class="text-lg text-angel-accent font-medium mb-10">
+      Reunion, separation, and which numbers show up at each stage — and why
+    </p>
+
+    <div class="space-y-8 text-angel-muted leading-relaxed">
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">What "twin flame" actually means here</h2>
+        <p class="mb-3">
+          "Twin flame" gets used loosely, so it's worth being precise about what it means in this
+          tradition specifically. A soulmate connection is generally described as easy and
+          supportive — a good match. A twin flame connection is described as something more
+          intense: two people framed as mirrors of each other, whose connection tends to surface
+          growth and unresolved patterns in both people rather than just providing comfort. It's a
+          belief framework from modern spiritual and numerology culture, not a scientific claim, and
+          this guide treats it the way the rest of this site treats numerology generally — as a
+          consistent internal tradition worth taking seriously on its own terms, not as an
+          established fact.
+        </p>
+        <p>
+          The defining feature of how this tradition describes a twin flame connection is that it
+          usually moves through a cycle: contact, a period apart, and reunion — often more than
+          once. That cycle is exactly why numbers come up so often in twin flame content: each
+          stage is described as having its own signals, and repeating numbers are read as markers
+          of where the connection currently stands.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">The two stages: reunion and separation</h2>
+        <p class="mb-3">
+          <strong class="text-angel-text">Reunion</strong> refers to periods of active contact or
+          contact resuming — a message after a long silence, a chance encounter, the connection
+          moving toward something more stable. Numbers that show up during reunion tend to be read
+          as timing signals: confirmation that things are aligning, or that a specific moment is
+          significant.
+        </p>
+        <p>
+          <strong class="text-angel-text">Separation</strong> refers to periods of distance,
+          whether that's no contact at all or simply feeling far from the other person. In this
+          tradition, separation isn't framed as a failure of the connection — it's described as a
+          necessary stretch where both people do individual growth work that the connection couldn't
+          hold otherwise. Numbers that show up during separation tend to be read differently than
+          reunion numbers: less about timing, more about reassurance that the work happening
+          independently is real and still moving the connection forward, even without contact to
+          confirm it.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">Which numbers carry the strongest twin flame association, and why</h2>
+        <p class="mb-3">
+          Not every angel number is a twin flame number — plenty of them are about money, career, or
+          general life balance with no relationship angle at all. But a specific set of numbers,
+          mostly sequences, mirrors, and certain repeating numbers, carry a particularly strong twin
+          flame association in this tradition:
+        </p>
+        <ul class="list-disc pl-5 space-y-3">
+          <li>
+            <a href="/en/number/222" class="text-angel-primary hover:text-angel-accent font-semibold">222</a>
+            — often the earliest twin flame marker of all, since 2 is fundamentally the
+            partnership-and-balance digit. It tends to appear right as a connection first starts to
+            feel meaningfully different from an ordinary one, well before bigger numbers like 1111
+            or 1212 show up.
+          </li>
+          <li>
+            <a href="/en/number/1111" class="text-angel-primary hover:text-angel-accent font-semibold">1111</a>
+            — one of the most significant twin flame numbers because it marks major-alignment
+            moments rather than small updates. In reunion, it often appears in the days directly
+            around contact actually resuming.
+          </li>
+          <li>
+            <a href="/en/number/717" class="text-angel-primary hover:text-angel-accent font-semibold">717</a>
+            — tied specifically to trusting your own inner read on a connection over outside
+            opinions. It tends to show up when your gut sense about timing has been more reliable
+            than anyone else's advice.
+          </li>
+          <li>
+            <a href="/en/number/1212" class="text-angel-primary hover:text-angel-accent font-semibold">1212</a>
+            — associated with staying balanced and steady through whatever stage you're in, rather
+            than swinging between hope and despair. Reunions marked by 1212 tend to build gradually
+            rather than happen all at once.
+          </li>
+          <li>
+            <a href="/en/number/111" class="text-angel-primary hover:text-angel-accent font-semibold">111</a>
+            — in reunion, often shows up right before contact resumes. In separation, it's read as a
+            prompt to keep working on yourself independently of the outcome, since chasing contact
+            during this stage is described as extending the separation rather than shortening it.
+          </li>
+          <li>
+            <a href="/en/number/2222" class="text-angel-primary hover:text-angel-accent font-semibold">2222</a>
+            — specifically about invisible progress. A connection that looks stalled may be
+            developing quietly on both sides, which is why this number tends to appear during the
+            quietest, most uncertain stretches of separation.
+          </li>
+          <li>
+            <a href="/en/number/4444" class="text-angel-primary hover:text-angel-accent font-semibold">4444</a>
+            — a reassurance number, most often appearing during a hard stretch of separation when
+            doubt about the connection's future is running high. It's read as confirmation the
+            bond's foundation is intact even when it doesn't feel that way.
+          </li>
+          <li>
+            <a href="/en/number/1122" class="text-angel-primary hover:text-angel-accent font-semibold">1122</a>
+            and
+            <a href="/en/number/1221" class="text-angel-primary hover:text-angel-accent font-semibold">1221</a>
+            — 1122 tends to appear once a connection is ready to build something real and lasting
+            together, not just reconnect emotionally. 1221 is read as a mirror number specifically:
+            what's happening in the connection is treated as a fairly direct reflection of your own
+            internal state.
+          </li>
+          <li>
+            <a href="/en/number/9999" class="text-angel-primary hover:text-angel-accent font-semibold">9999</a>
+            — the most complete closure signal in this set, often marking the end of an entire
+            separation era (not just one stage of it) once the karmic work driving it has genuinely
+            been completed.
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">Reunion signals vs. separation signals</h2>
+        <p class="mb-3">
+          A useful pattern across all of these: numbers that show up during reunion (1111, 717,
+          1212) tend to function as timing confirmations — they're telling you something about when
+          or how things are aligning. Numbers that show up during separation (2222, 4444, 111 in its
+          separation reading) tend to function as reassurance instead — they're telling you the
+          internal work is real and progressing, specifically because there's no external evidence
+          of it yet. Knowing which mode a number is speaking in, timing versus reassurance, tends to
+          make the message a lot more useful than treating every sighting the same way.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">What to actually do with a twin flame number</h2>
+        <p class="mb-3">
+          The most common mistake in this niche is treating every sighting as a countdown clock —
+          checking obsessively for the next sign, reading each one as proof an outcome is imminent.
+          A steadier approach works better: do the personal growth work regardless of what stage
+          you're in, since that work is described as the actual thing that moves the connection
+          forward, not the number itself. Use a number as a periodic checkpoint, a moment to notice
+          where things genuinely stand, rather than a directive to act right now.
+        </p>
+        <p>
+          If you're new to angel numbers generally and want the fuller background first, start with
+          our <a href="/en/guide/what-is-an-angel-number" class="text-angel-primary hover:text-angel-accent">what is an angel number</a>
+          guide. And if a specific number keeps showing up for you outside of a relationship
+          context, our <a href="/en/guide/how-to-find-your-angel-number" class="text-angel-primary hover:text-angel-accent">guide to finding your angel number</a>
+          covers how to track and calculate numbers more generally.
+        </p>
+      </section>
+    </div>
+
+    <div class="mt-10 flex justify-between items-center text-sm flex-wrap gap-3">
+      <a href="/en/guide/how-to-find-your-angel-number" class="text-angel-primary hover:text-angel-accent transition-colors">← Find your angel number</a>
+      <a href="/en/guide/" class="text-angel-primary hover:text-angel-accent transition-colors">All guides →</a>
+    </div>
+  </article>
+</LayoutEn>
