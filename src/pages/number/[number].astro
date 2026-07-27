@@ -6,6 +6,7 @@ import { ANGEL_NUMBERS, CATEGORY_LABELS } from "../../data/angels";
 import { TOPICS } from "../../data/topics";
 import type { Category } from "../../data/angels";
 import { hasEnAngelNumber } from "../../data/angels.en";
+import { SITE_URL } from "../../site";
 
 export function getStaticPaths() {
   return ANGEL_NUMBERS.map((a) => ({
@@ -17,7 +18,7 @@ export function getStaticPaths() {
 const { angel } = Astro.props;
 const title = `엔젤넘버 ${angel.number} 의미 - ${angel.summary}`;
 const description = `엔젤넘버 ${angel.number}의 의미: ${angel.summary}. 사랑, 재물, 직업, 영적 메시지를 확인하세요.`;
-const site = "https://angel-sandy-five.vercel.app";
+const site = SITE_URL;
 const url = `${site}/number/${angel.number}`;
 const categoryLabel = CATEGORY_LABELS[angel.category as Category];
 

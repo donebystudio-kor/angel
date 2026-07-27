@@ -2,6 +2,7 @@
 // English-only layout for the /en/ section. Isolated from Layout.astro —
 // safe to delete this file (and src/pages/en/) without touching the Korean site.
 import "../styles/global.css";
+import { SITE_URL } from "../site";
 
 interface Props {
   title: string;
@@ -12,7 +13,7 @@ interface Props {
 }
 
 const { title, description, canonical, koUrl } = Astro.props;
-const site = "https://angel-sandy-five.vercel.app";
+const site = SITE_URL;
 const canonicalUrl = canonical || new URL(Astro.url.pathname, site).href;
 ---
 

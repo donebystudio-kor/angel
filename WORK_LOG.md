@@ -2,7 +2,7 @@
 
 ## 프로젝트 개요
 - 엔젤넘버 정보 사이트 (한국어)
-- URL: https://angel-sandy-five.vercel.app
+- URL: https://angeldone.com (formerly https://angel-sandy-five.vercel.app)
 - 기술: Astro 5 SSG + Tailwind v4
 - 총 290페이지 (271개 엔젤넘버 + 카테고리/가이드/검색 등)
 

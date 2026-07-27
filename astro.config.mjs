@@ -2,14 +2,15 @@
 import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
+import { SITE_URL } from './src/site.ts';
 
 export default defineConfig({
-  site: 'https://angel-sandy-five.vercel.app',
+  site: SITE_URL,
   integrations: [
     sitemap({
       serialize(item) {
         const url = item.url;
-        if (url === 'https://angel-sandy-five.vercel.app/') {
+        if (url === `${SITE_URL}/`) {
           return { ...item, changefreq: 'daily', priority: 1.0, lastmod: new Date() };
         }
         if (url.includes('/number/')) {

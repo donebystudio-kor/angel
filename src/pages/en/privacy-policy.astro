@@ -2,8 +2,9 @@
 // English-only page, required for AdSense review. Self-canonical, no
 // Korean counterpart. Isolated under src/pages/en/.
 import LayoutEn from "../../layouts/LayoutEn.astro";
+import { SITE_URL } from "../../site";
 
-const site = "https://angel-sandy-five.vercel.app";
+const site = SITE_URL;
 const title = "Privacy Policy";
 const description = "How AngelDone collects, uses, and protects information, including how Google AdSense and Google Analytics use cookies on this site.";
 const url = `${site}/en/privacy-policy`;

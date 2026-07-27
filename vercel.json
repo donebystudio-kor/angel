@@ -4,6 +4,17 @@
       "source": "/sitemap.xml",
       "destination": "/sitemap-index.xml",
       "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "angel-sandy-five.vercel.app"
+        }
+      ],
+      "destination": "https://angeldone.com/:path*",
+      "permanent": true
     }
   ]
 }
