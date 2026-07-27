@@ -11,6 +11,7 @@ import { EN_BATCH4_NUMBERS } from "./angels-en-batch4";
 import { EN_BATCH5_NUMBERS } from "./angels-en-batch5";
 import { EN_BATCH6_NUMBERS } from "./angels-en-batch6";
 import { EN_BATCH7_NUMBERS } from "./angels-en-batch7";
+import { EN_BATCH8_NUMBERS } from "./angels-en-batch8";
 
 export type EnCategory =
   | "repeat"
@@ -95,7 +96,7 @@ export const EN_CORE_NUMBERS: EnAngelNumber[] = [
   },
 ];
 
-const EN_ALL_NUMBERS: EnAngelNumber[] = [...EN_CORE_NUMBERS, ...EN_BATCH1_NUMBERS, ...EN_BATCH2_NUMBERS, ...EN_BATCH3_NUMBERS, ...EN_BATCH4_NUMBERS, ...EN_BATCH5_NUMBERS, ...EN_BATCH6_NUMBERS, ...EN_BATCH7_NUMBERS];
+const EN_ALL_NUMBERS: EnAngelNumber[] = [...EN_CORE_NUMBERS, ...EN_BATCH1_NUMBERS, ...EN_BATCH2_NUMBERS, ...EN_BATCH3_NUMBERS, ...EN_BATCH4_NUMBERS, ...EN_BATCH5_NUMBERS, ...EN_BATCH6_NUMBERS, ...EN_BATCH7_NUMBERS, ...EN_BATCH8_NUMBERS];
 
 const enSeen = new Set<string>();
 export const EN_ANGEL_NUMBERS: EnAngelNumber[] = EN_ALL_NUMBERS.filter((n) => {
@@ -110,4 +111,57 @@ export function getEnAngelNumber(number: string): EnAngelNumber | undefined {
 
 export function hasEnAngelNumber(number: string): boolean {
   return EN_ANGEL_NUMBERS.some((a) => a.number === number);
+}
+
+/**
+ * Display-only grouping for the /en/ homepage. Derived purely from the
+ * number's digit pattern — NOT from the stored `category` field above,
+ * which is inherited from the Korean dataset's classification and isn't
+ * reliable for this purpose (e.g. 717/747/1212/2020 are stored as
+ * "mixed"/"time" but read visually as mirror/symmetric numbers).
+ *
+ * This keeps grouping automatic and correct for every number added in
+ * the future, without needing to touch any number's actual content data.
+ *
+ * Priority when a number could fit more than one bucket: repeat >
+ * sequence > mirror > single > other.
+ */
+export type EnDisplayGroup = "single" | "repeat" | "sequence" | "mirror" | "other";
+
+export function getEnDisplayGroup(number: string): EnDisplayGroup {
+  const digits = number.split("");
+  const n = digits.length;
+
+  if (n === 1) return "single";
+
+  // Repeating: every digit identical (000, 111, 2222, 11, 88888, ...)
+  if (digits.every((d) => d === digits[0])) return "repeat";
+
+  // Sequence: strictly ascending or descending by 1 (123, 234, 432, 654, 1234, ...)
+  if (n >= 3) {
+    let ascending = true;
+    let descending = true;
+    for (let i = 1; i < n; i++) {
+      if (Number(digits[i]) !== Number(digits[i - 1]) + 1) ascending = false;
+      if (Number(digits[i]) !== Number(digits[i - 1]) - 1) descending = false;
+    }
+    if (ascending || descending) return "sequence";
+  }
+
+  // Mirror: reads the same forwards and backwards (717, 747, 1221, 2002, 3113, ...)
+  if (number === digits.slice().reverse().join("")) return "mirror";
+
+  if (n >= 4 && n % 2 === 0) {
+    const half = n / 2;
+    // Mirror: a two-digit (or longer) block repeats as-is — AB-AB (1010, 1212, 1313, 2020, ...)
+    if (number.slice(0, half) === number.slice(half)) return "mirror";
+    // Mirror: paired-digit doubling — AABB (1122, 3344, ...)
+    let pairedDoubles = true;
+    for (let i = 0; i < n; i += 2) {
+      if (digits[i] !== digits[i + 1]) pairedDoubles = false;
+    }
+    if (pairedDoubles) return "mirror";
+  }
+
+  return "other";
 }

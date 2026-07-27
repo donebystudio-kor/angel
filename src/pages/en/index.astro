@@ -4,7 +4,7 @@
 // a published /en/number/ page (no dead links) and grows automatically as
 // more are added. Safe to delete without touching the Korean site.
 import LayoutEn from "../../layouts/LayoutEn.astro";
-import { EN_ANGEL_NUMBERS, type EnCategory } from "../../data/angels.en";
+import { EN_ANGEL_NUMBERS, getEnDisplayGroup, type EnDisplayGroup } from "../../data/angels.en";
 
 const site = "https://angel-sandy-five.vercel.app";
 const title = "Angel Numbers — Meaning, Manifestation & Twin Flame Guidance";
@@ -17,12 +17,12 @@ const guides = [
   { slug: "twin-flame-numbers", title: "Twin Flame Numbers Explained", description: "Reunion, separation, and which numbers show up at each stage.", emoji: "🔥" },
 ];
 
-const groupOrder: { categories: EnCategory[]; label: string }[] = [
-  { categories: ["single"], label: "Single Digits" },
-  { categories: ["repeat"], label: "Repeating Numbers" },
-  { categories: ["sequence"], label: "Sequences" },
-  { categories: ["mirror"], label: "Mirror Numbers" },
-  { categories: ["time", "double", "mixed"], label: "Other" },
+const groupOrder: { group: EnDisplayGroup; label: string }[] = [
+  { group: "single", label: "Single Digits" },
+  { group: "repeat", label: "Repeating Numbers" },
+  { group: "sequence", label: "Sequences" },
+  { group: "mirror", label: "Mirror Numbers" },
+  { group: "other", label: "Other" },
 ];
 
 // Sort numerically within each group so e.g. 7 < 9 < 11 < 22 reads naturally.
@@ -32,7 +32,7 @@ const sortedNumbers = (nums: typeof EN_ANGEL_NUMBERS) =>
 const groups = groupOrder
   .map((g) => ({
     label: g.label,
-    items: sortedNumbers(EN_ANGEL_NUMBERS.filter((a) => g.categories.includes(a.category))),
+    items: sortedNumbers(EN_ANGEL_NUMBERS.filter((a) => getEnDisplayGroup(a.number) === g.group)),
   }))
   .filter((g) => g.items.length > 0);
 ---
