@@ -16,6 +16,7 @@ import { EN_BATCH9_NUMBERS } from "./angels-en-batch9";
 import { EN_BATCH10_NUMBERS } from "./angels-en-batch10";
 import { EN_BATCH11_NUMBERS } from "./angels-en-batch11";
 import { EN_BATCH12_NUMBERS } from "./angels-en-batch12";
+import { EN_BATCH13_NUMBERS } from "./angels-en-batch13";
 
 export type EnCategory =
   | "repeat"
@@ -100,7 +101,7 @@ export const EN_CORE_NUMBERS: EnAngelNumber[] = [
   },
 ];
 
-const EN_ALL_NUMBERS: EnAngelNumber[] = [...EN_CORE_NUMBERS, ...EN_BATCH1_NUMBERS, ...EN_BATCH2_NUMBERS, ...EN_BATCH3_NUMBERS, ...EN_BATCH4_NUMBERS, ...EN_BATCH5_NUMBERS, ...EN_BATCH6_NUMBERS, ...EN_BATCH7_NUMBERS, ...EN_BATCH8_NUMBERS, ...EN_BATCH9_NUMBERS, ...EN_BATCH10_NUMBERS, ...EN_BATCH11_NUMBERS, ...EN_BATCH12_NUMBERS];
+const EN_ALL_NUMBERS: EnAngelNumber[] = [...EN_CORE_NUMBERS, ...EN_BATCH1_NUMBERS, ...EN_BATCH2_NUMBERS, ...EN_BATCH3_NUMBERS, ...EN_BATCH4_NUMBERS, ...EN_BATCH5_NUMBERS, ...EN_BATCH6_NUMBERS, ...EN_BATCH7_NUMBERS, ...EN_BATCH8_NUMBERS, ...EN_BATCH9_NUMBERS, ...EN_BATCH10_NUMBERS, ...EN_BATCH11_NUMBERS, ...EN_BATCH12_NUMBERS, ...EN_BATCH13_NUMBERS];
 
 const enSeen = new Set<string>();
 export const EN_ANGEL_NUMBERS: EnAngelNumber[] = EN_ALL_NUMBERS.filter((n) => {
