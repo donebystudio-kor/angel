@@ -1,0 +1,104 @@
+---
+// English-only search bar. Isolated from SearchBar.astro (which is
+// Korean-coupled) — reads only from src/data/angels.en.ts and links only
+// to /en/number/ pages that actually exist. Safe to delete without
+// touching the Korean site or SearchBar.astro.
+import { EN_ANGEL_NUMBERS } from "../data/angels.en";
+
+const numbersJson = JSON.stringify(EN_ANGEL_NUMBERS.map((a) => ({ number: a.number, summary: a.summary })));
+---
+
+<div class="search-en-wrapper w-full max-w-md mx-auto relative">
+  <form class="search-en-form relative">
+    <input
+      type="text"
+      name="q"
+      class="search-en-input w-full px-4 py-3 pl-10 bg-angel-card border border-angel-border rounded-xl text-angel-text placeholder:text-angel-muted/50 focus:outline-none focus:border-angel-primary focus:ring-1 focus:ring-angel-primary/30 transition-colors"
+      placeholder="Enter a number (e.g. 111, 777)"
+      autocomplete="off"
+      inputmode="numeric"
+    />
+    <span class="absolute left-3 top-1/2 -translate-y-1/2 text-angel-muted">🔍</span>
+  </form>
+  <div class="search-en-results absolute top-full left-0 right-0 mt-1 bg-angel-card border border-angel-border rounded-xl overflow-hidden z-50 hidden max-h-80 overflow-y-auto"></div>
+</div>
+
+<script define:vars={{ numbersJson }}>
+  const numbers = JSON.parse(numbersJson);
+  const numberSet = new Set(numbers.map((n) => n.number));
+
+  function closestAlternatives(query, limit = 3) {
+    const startsWith = numbers.filter((n) => n.number.startsWith(query));
+    if (startsWith.length) return startsWith.slice(0, limit);
+    const contains = numbers.filter((n) => n.number.includes(query));
+    if (contains.length) return contains.slice(0, limit);
+    if (/^\d+$/.test(query)) {
+      const q = Number(query);
+      return [...numbers]
+        .sort((a, b) => Math.abs(Number(a.number) - q) - Math.abs(Number(b.number) - q))
+        .slice(0, limit);
+    }
+    return [];
+  }
+
+  function matchRowHtml(m) {
+    return `<a href="/en/number/${m.number}" class="flex items-center justify-between px-4 py-3 hover:bg-angel-border/30 transition-colors border-b border-angel-border/30 last:border-0">
+      <span class="font-bold text-angel-primary">${m.number}</span>
+      <span class="text-sm text-angel-muted truncate ml-3">${m.summary}</span>
+    </a>`;
+  }
+
+  document.querySelectorAll(".search-en-wrapper").forEach((wrapper) => {
+    const form = wrapper.querySelector(".search-en-form");
+    const input = wrapper.querySelector(".search-en-input");
+    const results = wrapper.querySelector(".search-en-results");
+
+    input.addEventListener("input", () => {
+      const q = input.value.trim();
+      if (!q) {
+        results.classList.add("hidden");
+        return;
+      }
+      const matched = numbers
+        .filter((n) => n.number.includes(q) || n.summary.toLowerCase().includes(q.toLowerCase()))
+        .slice(0, 6);
+
+      if (matched.length === 0) {
+        const alternatives = closestAlternatives(q);
+        results.innerHTML =
+          `<div class="px-4 py-3 text-angel-muted text-sm">No page for "${q}" yet.</div>` +
+          (alternatives.length
+            ? `<div class="px-4 pb-2 text-xs text-angel-muted">Closest available:</div>` +
+              alternatives.map(matchRowHtml).join("")
+            : "");
+      } else {
+        results.innerHTML = matched.map(matchRowHtml).join("");
+      }
+      results.classList.remove("hidden");
+    });
+
+    form.addEventListener("submit", (e) => {
+      e.preventDefault();
+      const q = input.value.trim();
+      if (!q) return;
+      if (numberSet.has(q)) {
+        window.location.href = `/en/number/${q}`;
+        return;
+      }
+      const alternatives = closestAlternatives(q);
+      results.innerHTML =
+        `<div class="px-4 py-3 text-angel-muted text-sm">"${q}" isn't in our set yet.</div>` +
+        (alternatives.length
+          ? `<div class="px-4 pb-2 text-xs text-angel-muted">Closest available:</div>` +
+            alternatives.map(matchRowHtml).join("")
+          : `<div class="px-4 pb-3 text-xs text-angel-muted">Browse the full list below instead.</div>`);
+      results.classList.remove("hidden");
+    });
+
+    document.addEventListener("click", (e) => {
+      if (!wrapper.contains(e.target)) {
+        results.classList.add("hidden");
+      }
+    });
+  });
+</script>

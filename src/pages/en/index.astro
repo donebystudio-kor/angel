@@ -4,12 +4,22 @@
 // a published /en/number/ page (no dead links) and grows automatically as
 // more are added. Safe to delete without touching the Korean site.
 import LayoutEn from "../../layouts/LayoutEn.astro";
+import SearchBarEn from "../../components/SearchBarEn.astro";
 import { EN_ANGEL_NUMBERS, getEnDisplayGroup, type EnDisplayGroup } from "../../data/angels.en";
 
 const site = "https://angel-sandy-five.vercel.app";
 const title = "Angel Numbers — Meaning, Manifestation & Twin Flame Guidance";
 const description =
   "Look up what your angel number means for love, money, career, manifestation and twin flame connections.";
+
+// Curated for now — swap this list for real visit data whenever it's
+// available. Anything removed from here just needs to exist in
+// EN_ANGEL_NUMBERS; the section below looks it up automatically.
+const POPULAR_NUMBERS = ["111", "1111", "222", "444", "777", "333", "717", "1212"];
+
+const popular = POPULAR_NUMBERS.map((n) => EN_ANGEL_NUMBERS.find((a) => a.number === n)).filter(
+  (a): a is (typeof EN_ANGEL_NUMBERS)[number] => Boolean(a)
+);
 
 const guides = [
   { slug: "what-is-an-angel-number", title: "What Is an Angel Number?", description: "The idea, where it comes from, and how to think about it.", emoji: "👼" },
@@ -39,10 +49,29 @@ const groups = groupOrder
 
 <LayoutEn title={title} description={description} canonical={`${site}/en/`} koUrl={`${site}/`}>
   <div class="max-w-3xl mx-auto px-4 py-12">
-    <div class="text-center mb-10">
+    <div class="text-center mb-8">
       <h1 class="text-3xl md:text-4xl font-bold text-angel-text mb-3">👼 Angel Numbers</h1>
       <p class="text-lg text-angel-muted">Find out what the numbers you keep seeing actually mean.</p>
     </div>
+
+    <div class="mb-12">
+      <SearchBarEn />
+    </div>
+
+    <section class="mb-12">
+      <h2 class="text-lg font-bold text-angel-text mb-3">Popular Angel Numbers</h2>
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
+        {popular.map((a) => (
+          <a
+            href={`/en/number/${a.number}`}
+            class="bg-angel-card border border-angel-border rounded-xl p-4 hover:shadow-md hover:shadow-angel-glow hover:border-angel-primary/40 transition-all"
+          >
+            <div class="text-xl font-bold text-angel-primary">{a.number}</div>
+            <div class="text-xs text-angel-muted mt-1 line-clamp-2">{a.summary}</div>
+          </a>
+        ))}
+      </div>
+    </section>
 
     <div class="grid gap-3 mb-12">
       {guides.map((g) => (
