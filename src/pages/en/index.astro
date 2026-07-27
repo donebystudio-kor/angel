@@ -90,16 +90,15 @@ const groups = groupOrder
     </div>
 
     {groups.map((group) => (
-      <section class="mb-10">
+      <section class="mb-8">
         <h2 class="text-lg font-bold text-angel-text mb-3">{group.label}</h2>
-        <div class="grid grid-cols-2 md:grid-cols-3 gap-3">
+        <div class="flex flex-wrap gap-2">
           {group.items.map((a) => (
             <a
               href={`/en/number/${a.number}`}
-              class="bg-angel-card border border-angel-border rounded-xl p-4 hover:shadow-md hover:shadow-angel-glow hover:border-angel-primary/40 transition-all"
+              class="px-3 py-1.5 bg-angel-card border border-angel-border rounded-full text-sm text-angel-text hover:bg-angel-primary hover:text-white transition-colors"
             >
-              <div class="text-xl font-bold text-angel-primary">{a.number}</div>
-              <div class="text-xs text-angel-muted mt-1 line-clamp-1">{a.summary}</div>
+              {a.number}
             </a>
           ))}
         </div>
