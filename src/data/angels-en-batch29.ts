@@ -557,11 +557,11 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
       "9111 manifests by honoring a completed ending as the spark for new energy — the practical move is naming today the specific closure that ignited your current momentum, since this number's folklore treats that acknowledgment as what sustains the resulting wave.",
   },
   {
-    number: "9112",
+    number: "9992",
     titleHook: "Completion Opens To A Bond",
     summary: "An intense period of completion now genuinely ready to open toward partnership and connection",
     meaning:
-      "9112 combines triple 9 (completion, saturated) with a single 2 (partnership, balance), describing an intense period of completion and closure that's now genuinely ready to open toward partnership and connection. This favors trusting that the closure work you've done has reached a natural point of readiness to welcome someone else in.",
+      "9992 combines triple 9 (completion, saturated) with a single 2 (partnership, balance), describing an intense period of completion and closure that's now genuinely ready to open toward partnership and connection. This favors trusting that the closure work you've done has reached a natural point of readiness to welcome someone else in.",
     love: "Single: the intense closure work you've done is genuinely ready to open toward a real new connection now — trust that readiness rather than continuing to delay. Couple: an intense period of completing an old chapter is genuinely ready to open back toward more connection in the relationship now.",
     career: "An intense period of closing out professional chapters is genuinely ready to open toward new collaborative partnership now.",
     money: "An intense period of closing out financial chapters is genuinely ready to open toward a new collaborative financial approach now.",
@@ -570,32 +570,32 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 9112?",
+        q: "Why do I keep seeing 9992?",
         a: "Usually because an intense period of completion and closure you've been in is genuinely ready to open toward partnership and connection now.",
       },
       {
-        q: "What's the difference between 9112 and 2111?",
-        a: "2111 sandwiches a single 2 before triple 1, describing a partnership moment triggering an overwhelming wave of new-beginning energy. 9112 is different: it's about a saturated completion phase now opening toward partnership as the next stage, rather than partnership sparking new-beginning energy.",
+        q: "What's the difference between 9992 and 2111?",
+        a: "2111 sandwiches a single 2 before triple 1, describing a partnership moment triggering an overwhelming wave of new-beginning energy. 9992 is different: it's about a saturated completion phase now opening toward partnership as the next stage, rather than partnership sparking new-beginning energy.",
       },
       {
-        q: "Is 9112 a good number for someone who's finished processing an ending and is ready to connect again?",
+        q: "Is 9992 a good number for someone who's finished processing an ending and is ready to connect again?",
         a: "Yes, particularly as confirmation that the closure work has reached genuine readiness to open toward connection.",
       },
       {
-        q: "Does 9112 mean the old chapter is now completely irrelevant?",
+        q: "Does 9992 mean the old chapter is now completely irrelevant?",
         a: "It marks genuine readiness to open forward, more than erasing the value or lessons of the completed chapter.",
       },
     ],
     isPlaceholder: false,
     manifestation:
-      "9112 manifests by trusting readiness to open toward connection after real closure — the practical move is taking one step today toward partnership from a place of genuine completion, since this number's folklore treats that trust as what makes the opening land well.",
+      "9992 manifests by trusting readiness to open toward connection after real closure — the practical move is taking one step today toward partnership from a place of genuine completion, since this number's folklore treats that trust as what makes the opening land well.",
   },
   {
-    number: "9113",
+    number: "9993",
     titleHook: "Completion Becomes Creative",
     summary: "An intense period of completion now overflowing into genuine creative expression",
     meaning:
-      "9113 combines triple 9 (completion, saturated) with a single 3 (creativity, expression), describing an intense period of completion and closure that's now overflowing into genuine creative expression. This favors trusting that the closure work has produced real creative material, worth channeling outward now.",
+      "9993 combines triple 9 (completion, saturated) with a single 3 (creativity, expression), describing an intense period of completion and closure that's now overflowing into genuine creative expression. This favors trusting that the closure work has produced real creative material, worth channeling outward now.",
     love: "Single: the closure work you've done around past relationships is overflowing into a genuinely creative way of expressing yourself in dating now. Couple: completing an old chapter together is overflowing into genuinely creative expression within the relationship now.",
     career: "Closing out a professional chapter is overflowing into genuinely creative work now, worth channeling outward.",
     money: "Closing out a financial chapter is overflowing into a genuinely creative approach to money now.",
@@ -604,32 +604,32 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 9113?",
+        q: "Why do I keep seeing 9993?",
         a: "Usually because an intense period of completion has produced real creative material that's now ready to overflow outward.",
       },
       {
-        q: "What's the difference between 9113 and 3111?",
-        a: "3111 sandwiches a single 3 before triple 1, describing creativity sparking a wave of new, self-focused energy. 9113 is different: it's about a saturated completion phase overflowing into creativity as the next stage, rather than creativity being the initial trigger.",
+        q: "What's the difference between 9993 and 3111?",
+        a: "3111 sandwiches a single 3 before triple 1, describing creativity sparking a wave of new, self-focused energy. 9993 is different: it's about a saturated completion phase overflowing into creativity as the next stage, rather than creativity being the initial trigger.",
       },
       {
-        q: "Is 9113 a good number for someone processing an ending through creative writing or art?",
+        q: "Is 9993 a good number for someone processing an ending through creative writing or art?",
         a: "Yes, particularly as confirmation that the completed chapter has produced real creative material worth expressing.",
       },
       {
-        q: "Does 9113 mean I have to publicly share what I create from this?",
+        q: "Does 9993 mean I have to publicly share what I create from this?",
         a: "It favors expressing the creative overflow in whatever form fits, more than requiring public sharing specifically.",
       },
     ],
     isPlaceholder: false,
     manifestation:
-      "9113 manifests by channeling completion into creative expression — the practical move is making or writing something today from a recently closed chapter, since this number's folklore treats that outward channel as what completes the overflow.",
+      "9993 manifests by channeling completion into creative expression — the practical move is making or writing something today from a recently closed chapter, since this number's folklore treats that outward channel as what completes the overflow.",
   },
   {
-    number: "9114",
+    number: "9994",
     titleHook: "Completion Builds Real Ground",
     summary: "An intense period of completion now settling into genuine, solid personal foundation",
     meaning:
-      "9114 combines triple 9 (completion, saturated) with a single 4 (foundation, structure), describing an intense period of completion and closure that's now settling into genuine, solid personal foundation. This favors trusting that the closure work is translating into something concrete and stable in your life, not staying purely in the realm of processing.",
+      "9994 combines triple 9 (completion, saturated) with a single 4 (foundation, structure), describing an intense period of completion and closure that's now settling into genuine, solid personal foundation. This favors trusting that the closure work is translating into something concrete and stable in your life, not staying purely in the realm of processing.",
     love: "Single: the closure work you've done is now settling into genuine personal foundation, worth trusting as you consider what comes next. Couple: completing an old chapter together is now settling into a more stable foundation within the relationship.",
     career: "Closing out a professional chapter is now settling into genuine, stable foundation in your career.",
     money: "Closing out a financial chapter is now settling into a genuinely stable personal financial foundation.",
@@ -638,32 +638,32 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 9114?",
+        q: "Why do I keep seeing 9994?",
         a: "Usually because an intense period of completion is now settling into genuine, solid personal foundation.",
       },
       {
-        q: "What's the difference between 9114 and 4111?",
-        a: "4111 sandwiches a single 4 before triple 1, describing foundation sparking a wave of new, self-focused energy. 9114 is different: it's about a saturated completion phase settling into structural foundation as the next stage, rather than foundation being the initial trigger.",
+        q: "What's the difference between 9994 and 4111?",
+        a: "4111 sandwiches a single 4 before triple 1, describing foundation sparking a wave of new, self-focused energy. 9994 is different: it's about a saturated completion phase settling into structural foundation as the next stage, rather than foundation being the initial trigger.",
       },
       {
-        q: "Is 9114 a good number for someone whose processing of an ending is finally translating into real stability?",
+        q: "Is 9994 a good number for someone whose processing of an ending is finally translating into real stability?",
         a: "Yes, particularly as confirmation that the completion work has become genuinely structural.",
       },
       {
-        q: "Does 9114 mean the completed chapter is now fully behind me?",
+        q: "Does 9994 mean the completed chapter is now fully behind me?",
         a: "It marks a transition into structural stability, more than declaring all processing finished — some reflection can still continue alongside the new solidity.",
       },
     ],
     isPlaceholder: false,
     manifestation:
-      "9114 manifests by translating completion into structural stability — the practical move is taking one concrete step today that makes a recently closed chapter's lessons tangible and lasting, since this number's folklore treats that structural translation as what completes the phase.",
+      "9994 manifests by translating completion into structural stability — the practical move is taking one concrete step today that makes a recently closed chapter's lessons tangible and lasting, since this number's folklore treats that structural translation as what completes the phase.",
   },
   {
-    number: "9115",
+    number: "9995",
     titleHook: "Completion Opens To Change",
     summary: "An intense period of completion now genuinely ready to open into real, active change",
     meaning:
-      "9115 combines triple 9 (completion, saturated) with a single 5 (change, freedom), describing an intense period of completion and closure that's now genuinely ready to open into real, active change, rather than remaining purely in the realm of closure and reflection. This favors trusting that the completion has reached a point where outward change is the natural next step.",
+      "9995 combines triple 9 (completion, saturated) with a single 5 (change, freedom), describing an intense period of completion and closure that's now genuinely ready to open into real, active change, rather than remaining purely in the realm of closure and reflection. This favors trusting that the completion has reached a point where outward change is the natural next step.",
     love: "Single: the closure you've reached is genuinely ready to open into real change in your dating life now — trust that readiness for action. Couple: completing an old chapter is genuinely ready to open into real change within the relationship now.",
     career: "Closing out a professional chapter is genuinely ready to open into real change in your career now.",
     money: "Closing out a financial chapter is genuinely ready to open into real change in your approach to money now.",
@@ -672,24 +672,24 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 9115?",
+        q: "Why do I keep seeing 9995?",
         a: "Usually because an intense period of completion is genuinely ready to open into real, active change now. Trust that readiness for action rather than staying purely reflective.",
       },
       {
-        q: "What's the difference between 9115 and 5111?",
-        a: "5111 sandwiches a single 5 before triple 1, describing change sparking a wave of new, self-focused energy. 9115 is different: it's about a saturated completion phase opening into active change as the next stage, rather than change being the initial trigger.",
+        q: "What's the difference between 9995 and 5111?",
+        a: "5111 sandwiches a single 5 before triple 1, describing change sparking a wave of new, self-focused energy. 9995 is different: it's about a saturated completion phase opening into active change as the next stage, rather than change being the initial trigger.",
       },
       {
-        q: "Is 9115 a good number for someone who's processed an ending and is finally ready to act on what they learned?",
+        q: "Is 9995 a good number for someone who's processed an ending and is finally ready to act on what they learned?",
         a: "Yes, particularly as confirmation that the readiness for real, outward change is genuine.",
       },
       {
-        q: "Does 9115 mean I need to change everything at once?",
+        q: "Does 9995 mean I need to change everything at once?",
         a: "It favors trusting readiness for real change generally, more than demanding total, immediate transformation all at once.",
       },
     ],
     isPlaceholder: false,
     manifestation:
-      "9115 manifests by turning completion's clarity into real action — the practical move is taking one concrete step today that translates a recently closed chapter's insight into outward change, since this number's folklore treats that action as what completes the readiness.",
+      "9995 manifests by turning completion's clarity into real action — the practical move is taking one concrete step today that translates a recently closed chapter's insight into outward change, since this number's folklore treats that action as what completes the readiness.",
   },
 ];
