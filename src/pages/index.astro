@@ -1,7 +1,7 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import SearchBar from "../components/SearchBar.astro";
-import { ANGEL_NUMBERS, CATEGORY_LABELS } from "../data/angels";
+import { ANGEL_NUMBERS, CATEGORY_LABELS, getMixedSubcategory } from "../data/angels";
 import { TOPICS } from "../data/topics";
 import type { Category } from "../data/angels";
 
@@ -22,7 +22,16 @@ const grouped = ANGEL_NUMBERS.reduce(
   {} as Record<Category, typeof ANGEL_NUMBERS>
 );
 
-const categoryOrder: Category[] = ["single", "repeat", "mirror", "sequence", "time", "double", "mixed"];
+// Split "mixed" into sub-groups for display
+const mixedNums = grouped["mixed"] ?? [];
+const derivedGrouped: Record<string, typeof ANGEL_NUMBERS> = {
+  ...grouped,
+  two_digit:   mixedNums.filter((a) => getMixedSubcategory(a.number) === "two_digit"),
+  three_digit: mixedNums.filter((a) => getMixedSubcategory(a.number) === "three_digit"),
+  round:       mixedNums.filter((a) => getMixedSubcategory(a.number) === "round"),
+};
+
+const categoryOrder: Category[] = ["single", "repeat", "mirror", "sequence", "time", "double", "two_digit", "three_digit", "round"];
 
 const guides = [
   { slug: "what-is-angel-number", title: "엔젤넘버란 무엇인가?", emoji: "👼", desc: "수비학적 배경과 원리를 알아보세요" },
@@ -122,7 +131,7 @@ const faqItems = [
           </a>
         </h3>
         <div class="flex flex-wrap gap-2">
-          {grouped[cat]?.map((a) => (
+          {derivedGrouped[cat]?.map((a) => (
             <a
               href={`/number/${a.number}`}
               class="px-3 py-1.5 bg-angel-card border border-angel-border rounded-full text-sm text-angel-text hover:bg-angel-primary hover:text-white transition-colors"

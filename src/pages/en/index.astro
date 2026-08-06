@@ -28,12 +28,17 @@ const guides = [
   { slug: "twin-flame-numbers", title: "Twin Flame Numbers Explained", description: "Reunion, separation, and which numbers show up at each stage.", emoji: "🔥" },
 ];
 
-const groupOrder: { group: EnDisplayGroup; label: string }[] = [
-  { group: "single", label: "Single Digits" },
-  { group: "repeat", label: "Repeating Numbers" },
-  { group: "sequence", label: "Sequences" },
-  { group: "mirror", label: "Mirror Numbers" },
-  { group: "other", label: "Other" },
+const groupOrder: { group: EnDisplayGroup; label: string; desc: string }[] = [
+  { group: "single",     label: "Single Digits",      desc: "The foundational numbers 0–9." },
+  { group: "repeat",     label: "Repeating Numbers",  desc: "111, 222, 333 — same digit amplified." },
+  { group: "mirror",     label: "Mirror Numbers",      desc: "717, 1221, 3443 — palindrome patterns." },
+  { group: "sequence",   label: "Sequences",           desc: "123, 456, 789 — ascending or descending runs." },
+  { group: "time",       label: "Time Numbers",        desc: "Clock-style patterns: 0101, 1212, 2222…" },
+  { group: "double",     label: "Double Numbers",      desc: "0808, 0101 style — a single digit pair doubled." },
+  { group: "two_digit",  label: "Two-Digit Numbers",   desc: "10 through 99 — two-digit angel numbers." },
+  { group: "three_digit",label: "Three-Digit Numbers", desc: "100 through 999 — three-digit angel numbers." },
+  { group: "round",      label: "Round Numbers",       desc: "100, 200, 1000 — milestone numbers." },
+  { group: "other",      label: "Other",               desc: "Numbers that don't fit the above patterns." },
 ];
 
 // Sort numerically within each group so e.g. 7 < 9 < 11 < 22 reads naturally.
@@ -43,7 +48,8 @@ const sortedNumbers = (nums: typeof EN_ANGEL_NUMBERS) =>
 const groups = groupOrder
   .map((g) => ({
     label: g.label,
-    items: sortedNumbers(EN_ANGEL_NUMBERS.filter((a) => getEnDisplayGroup(a.number) === g.group)),
+    desc: g.desc,
+    items: sortedNumbers(EN_ANGEL_NUMBERS.filter((a) => getEnDisplayGroup(a.number, a.category) === g.group)),
   }))
   .filter((g) => g.items.length > 0);
 ---
@@ -91,7 +97,10 @@ const groups = groupOrder
 
     {groups.map((group) => (
       <section class="mb-8">
-        <h2 class="text-lg font-bold text-angel-text mb-3">{group.label}</h2>
+        <div class="mb-3">
+          <h2 class="text-lg font-bold text-angel-text">{group.label}</h2>
+          <p class="text-xs text-angel-muted mt-0.5">{group.desc}</p>
+        </div>
         <div class="flex flex-wrap gap-2">
           {group.items.map((a) => (
             <a

@@ -1,11 +1,13 @@
 ---
 import Layout from "../../../layouts/Layout.astro";
 import SearchBar from "../../../components/SearchBar.astro";
-import { ANGEL_NUMBERS, CATEGORY_LABELS } from "../../../data/angels";
+import { ANGEL_NUMBERS, CATEGORY_LABELS, getMixedSubcategory } from "../../../data/angels";
 import type { Category } from "../../../data/angels";
 
+const DERIVED: Category[] = ["two_digit", "three_digit", "round"];
+
 export function getStaticPaths() {
-  const cats: Category[] = ["single", "repeat", "mirror", "sequence", "time", "double", "mixed"];
+  const cats: Category[] = ["single", "repeat", "mirror", "sequence", "time", "double", "two_digit", "three_digit", "round"];
   return cats.map((cat) => ({
     params: { type: cat },
     props: { category: cat },
@@ -14,11 +16,13 @@ export function getStaticPaths() {
 
 const { category } = Astro.props;
 const label = CATEGORY_LABELS[category as Category];
-const numbers = ANGEL_NUMBERS.filter((a) => a.category === category);
+const numbers = DERIVED.includes(category as Category)
+  ? ANGEL_NUMBERS.filter((a) => a.category === "mixed" && getMixedSubcategory(a.number) === category)
+  : ANGEL_NUMBERS.filter((a) => a.category === category);
 const title = `${label} 엔젤넘버 모음 - 전체 목록`;
 const description = `${label} 유형의 엔젤넘버를 모두 확인하세요. ${numbers.length}개의 숫자 의미와 메시지를 알아봅니다.`;
 
-const allCategories2: Category[] = ["single", "repeat", "mirror", "sequence", "time", "double", "mixed"];
+const allCategories2: Category[] = ["single", "repeat", "mirror", "sequence", "time", "double", "two_digit", "three_digit", "round"];
 ---
 
 <Layout title={title} description={description}>

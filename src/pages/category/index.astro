@@ -9,13 +9,15 @@ const title = "엔젤넘버 카테고리 - 유형별·주제별 분류";
 const description = "엔젤넘버를 유형별(반복, 미러, 시퀀스)과 주제별(사랑, 재물, 커리어, 영적 성장)로 분류하여 쉽게 찾아보세요.";
 
 const typeCategories: { slug: Category; label: string; emoji: string }[] = [
-  { slug: "single", label: "기본 숫자 (0~9)", emoji: "🔢" },
-  { slug: "repeat", label: "반복 숫자 (111, 222...)", emoji: "🔁" },
-  { slug: "mirror", label: "미러 넘버 (1221, 3443...)", emoji: "🪞" },
-  { slug: "sequence", label: "시퀀스 넘버 (123, 789...)", emoji: "📈" },
-  { slug: "time", label: "시간 넘버 (1212, 1717...)", emoji: "🕐" },
-  { slug: "double", label: "더블 넘버 (0101, 0808...)", emoji: "✌️" },
-  { slug: "mixed", label: "혼합 숫자 (13, 42, 69...)", emoji: "🎲" },
+  { slug: "single",     label: "기본 숫자 (0~9)",           emoji: "🔢" },
+  { slug: "repeat",     label: "반복 숫자 (111, 222...)",   emoji: "🔁" },
+  { slug: "mirror",     label: "미러 넘버 (1221, 3443...)", emoji: "🪞" },
+  { slug: "sequence",   label: "시퀀스 넘버 (123, 789...)", emoji: "📈" },
+  { slug: "time",       label: "시간 넘버 (0101, 1212...)", emoji: "🕐" },
+  { slug: "double",     label: "더블 넘버 (0808, 0909...)", emoji: "✌️" },
+  { slug: "two_digit",  label: "두 자리 숫자 (10~99)",      emoji: "🔟" },
+  { slug: "three_digit",label: "세 자리 숫자 (101~999)",    emoji: "💯" },
+  { slug: "round",      label: "라운드 넘버 (100, 500...)", emoji: "🎯" },
 ];
 ---
 

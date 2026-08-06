@@ -39,7 +39,7 @@ export interface AngelNumber {
   [key: string]: any;
 }
 
-export type Category = "repeat" | "mirror" | "sequence" | "time" | "double" | "single" | "mixed";
+export type Category = "repeat" | "mirror" | "sequence" | "time" | "double" | "single" | "mixed" | "two_digit" | "three_digit" | "round";
 
 export const CATEGORY_LABELS: Record<Category, string> = {
   repeat: "반복 숫자",
@@ -49,7 +49,25 @@ export const CATEGORY_LABELS: Record<Category, string> = {
   double: "더블 넘버",
   single: "기본 숫자",
   mixed: "혼합 숫자",
+  two_digit: "두 자리 숫자",
+  three_digit: "세 자리 숫자",
+  round: "라운드 넘버",
 };
+
+/**
+ * Derives a display sub-category for numbers stored as "mixed".
+ * two_digit: 2-char, not 0-prefixed
+ * round: 3+ chars matching /^[1-9]0+$/
+ * three_digit: 3-char, not 0-prefixed, not round
+ * Falls back to "mixed" for anything else.
+ */
+export function getMixedSubcategory(number: string): "two_digit" | "three_digit" | "round" | "mixed" {
+  const n = number.length;
+  if (n === 2 && !number.startsWith("0")) return "two_digit";
+  if (n >= 3 && /^[1-9]0+$/.test(number)) return "round";
+  if (n === 3 && !number.startsWith("0")) return "three_digit";
+  return "mixed";
+}
 
 // 모든 숫자 합치기 (CORE가 우선순위 — 먼저 등장한 number가 유지됨)
 const ALL_NUMBERS: AngelNumber[] = [

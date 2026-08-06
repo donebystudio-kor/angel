@@ -136,23 +136,38 @@ export function hasEnAngelNumber(number: string): boolean {
 }
 
 /**
- * Display-only grouping for the /en/ homepage. Derived purely from the
- * number's digit pattern — NOT from the stored `category` field above,
- * which is inherited from the Korean dataset's classification and isn't
- * reliable for this purpose (e.g. 717/747/1212/2020 are stored as
- * "mixed"/"time" but read visually as mirror/symmetric numbers).
+ * Display-only grouping for the /en/ homepage.
  *
- * This keeps grouping automatic and correct for every number added in
- * the future, without needing to touch any number's actual content data.
+ * Priority: time (stored category) > double (stored category) > repeat >
+ * sequence > mirror > single > two_digit > three_digit > round > other.
  *
- * Priority when a number could fit more than one bucket: repeat >
- * sequence > mirror > single > other.
+ * "time" and "double" are detected via the stored category field because
+ * their patterns overlap with mirror/other (e.g. 0101 is a time number
+ * but also matches the AB-AB mirror rule; 0808 is double but not easily
+ * pattern-detectable as distinct from mirror).
+ *
+ * "two_digit", "three_digit", "round" split what would otherwise all be
+ * dumped into "other".
  */
-export type EnDisplayGroup = "single" | "repeat" | "sequence" | "mirror" | "other";
+export type EnDisplayGroup =
+  | "single"
+  | "repeat"
+  | "sequence"
+  | "mirror"
+  | "time"
+  | "double"
+  | "two_digit"
+  | "three_digit"
+  | "round"
+  | "other";
 
-export function getEnDisplayGroup(number: string): EnDisplayGroup {
+export function getEnDisplayGroup(number: string, category?: EnCategory): EnDisplayGroup {
   const digits = number.split("");
   const n = digits.length;
+
+  // Stored-category fast paths (reliable, set at authoring time)
+  if (category === "time") return "time";
+  if (category === "double") return "double";
 
   if (n === 1) return "single";
 
@@ -184,6 +199,11 @@ export function getEnDisplayGroup(number: string): EnDisplayGroup {
     }
     if (pairedDoubles) return "mirror";
   }
+
+  // Sub-divide what would otherwise all land in "other"
+  if (n === 2 && !number.startsWith("0")) return "two_digit";
+  if (n >= 3 && /^[1-9]0+$/.test(number)) return "round";
+  if (n === 3 && !number.startsWith("0")) return "three_digit";
 
   return "other";
 }
