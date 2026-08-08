@@ -70,6 +70,8 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "899 describes a season of genuine abundance reaching its natural conclusion, with the emphasis on honoring the season itself rather than only registering that it's ending. In a twin flame context this favors fully acknowledging a good stretch, a period of real connection, ease, or growth, as it winds down, instead of letting its ending overshadow what it actually gave you. In reunion, 899 suggests a phase of the connection that's concluding was genuinely valuable and deserves recognition, not just processing as a loss. In separation, this number favors appreciating a good stretch fully, even a short or complicated one, rather than discounting it because it didn't last.",
     manifestation:
       "899 manifests by fully honoring a concluding abundant season — the practical move is taking real time today to appreciate what this season brought, since this number's folklore treats that gratitude, not just noting the ending, as what properly closes the chapter.",
   },
@@ -138,6 +140,8 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "933 pairs completion with doubled creative expression, treating expression itself — writing, speaking, creating — as the actual mechanism that finishes a closure, not an optional step after silent processing. In a twin flame context this favors actually writing the letter you won't send, or saying the thing out loud to yourself, rather than assuming quiet internal work alone completes the chapter. In reunion, 933 suggests something needs to be said, not just felt, before the connection can genuinely move into its next phase. In separation, this number favors treating one act of real expression as what finishes, not just softens, this part of the process.",
     manifestation:
       "933 manifests through actual expression rather than silent internal processing — the practical move is writing or saying something today specifically to complete a chapter, since this number's folklore treats that expressed closure as what finishes the process.",
   },
@@ -308,6 +312,8 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "988 pairs completion with doubled abundance in an anticipatory way, the reward isn't caused by finishing, it's simply already there, waiting, once the completion happens. In a twin flame context this favors trusting that something genuinely good is positioned on the other side of properly finishing whatever this current chapter requires, not something you have to manufacture separately. In reunion, 988 suggests what's waiting for you once a current phase completes is real and ready, not something you'll need to build from scratch. In separation, this number reassures that closing out this stretch properly is what reveals the abundance already there, not what creates it.",
     manifestation:
       "988 manifests by trusting waiting abundance enough to finish the current chapter — the practical move is completing one lingering piece today, trusting the reward is genuinely there, since this number's folklore treats that completion as what actually reaches it.",
   },
@@ -342,6 +348,8 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "10 describes arriving back at a familiar point, having come full circle, as the actual setup for a fresh start rather than a failure to move forward. In a twin flame context this favors reading déjà vu moments, a return to an old feeling, a familiar pull, as productive, not a sign you're stuck in a loop. In reunion, 10 suggests returning to something that feels familiar is specifically what's opening a genuinely new phase, informed by everything the full cycle taught you. In separation, this number reframes a return to an earlier stage or feeling as forward motion in disguise, not backsliding.",
     manifestation:
       "10 manifests by using cyclical return as informed fuel for a fresh start — the practical move is naming one lesson from the full circle you've completed and using it to start again today, since this number's folklore treats that informed restart, not an identical repeat, as what the cycle was actually for.",
   },
@@ -376,6 +384,8 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "14 balances bold new action with real wisdom, favoring neither reckless impulse nor overly cautious hesitation. In a twin flame context this speaks directly to a common tension: whether to act boldly on the connection or hold back and wait. In reunion, 14 favors a move that's genuinely both, bold enough to actually happen, grounded enough not to be purely impulsive, rather than swinging to either extreme. In separation, this number suggests the right next step isn't full restraint or a dramatic gesture, but something in between that a wiser, more adventurous version of yourself would actually choose.",
     manifestation:
       "14 manifests by pairing boldness with wisdom rather than choosing one over the other — the practical move is taking one adventurous step today with real thoughtfulness about how you take it, since this number's folklore treats that balance as the actual path forward.",
   },
@@ -410,6 +420,8 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "15 describes a fresh change guided specifically by your own intuition rather than outside pressure or expectation. In a twin flame context this favors trusting your own read on the connection over advice, timelines, or \"rules\" picked up from the wider twin flame community itself, which can become its own kind of external pressure. In reunion, 15 favors letting your gut, not a borrowed framework, decide the next move. In separation, this number suggests the shift that's actually right for you right now is the one your own intuition is quietly pointing toward, not the one you've been told is correct.",
     manifestation:
       "15 manifests by letting intuition actively guide a change in progress — the practical move is trusting your gut on one specific decision today, rather than deferring entirely to external pressure, since this number's folklore treats that intuitive guidance as what actually navigates the change well.",
   },

@@ -242,6 +242,8 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "399 describes an ambient, felt sense that a chapter is ending, distinct from 393's more active closing-words framing, valid even before anything's been said out loud. In a twin flame context this favors trusting a quiet internal sense that a phase of separation is winding down, even without a text, a sign, or any external confirmation yet. In reunion, 399 suggests the ending you're sensing is real information, worth honoring rather than dismissing as wishful thinking. In separation, this number favors trusting that felt shift as valid data about where things actually stand, even while everything external still looks the same.",
     manifestation:
       "399 manifests by trusting a felt sense of winding-down as valid — the practical move is privately acknowledging today one chapter that genuinely feels like it's ending, since this number's folklore treats that honest internal acknowledgment as the real first step, regardless of when it's spoken aloud.",
   },

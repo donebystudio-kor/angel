@@ -589,6 +589,8 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "70 offers the plainest version of insight in this family, a general nudge to trust your inner read without needing the fuller clarity 700's time-bound window provides. In a twin flame context this favors an ongoing, low-key trust in what you sense about the connection, rather than waiting for one dramatic moment of certainty. In reunion, 70 suggests your general instinct about timing has been more reliable than you've given it credit for, worth trusting as a steady baseline rather than a single flash. In separation, this number favors letting a general, undramatic sense of direction guide you day to day, rather than searching for one big sign to act on.",
     manifestation:
       "70 manifests through general trust rather than a detailed plan — the practical move is taking one step in the direction that feels right, since this number's folklore treats moving with partial clarity as sufficient, rather than waiting for the whole path to be visible.",
   },
@@ -623,6 +625,8 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "80 marks the plain, early beginning of an abundance cycle, well before 800's fuller, already-active version. In a twin flame context this favors noticing the very first, undramatic signs that something is opening around the connection, practically or energetically, rather than waiting for it to feel fully underway. In reunion, 80 suggests conditions are just starting to shift favorably, worth watching without needing proof yet that it's substantial. In separation, this number is an early, gentle nudge that a new cycle around the connection is beginning quietly, details filling in as it unfolds rather than arriving all at once.",
     manifestation:
       "80 manifests through simple, general welcome rather than a specific request — the practical move is noticing and building on small early signs of abundance, since this number's folklore treats plain openness as sufficient to let the cycle develop.",
   },
@@ -657,6 +661,8 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "90 is the plainest version of an ending in this family, a general chapter closing on its own timeline, without 900's more active summons to finish something specific. In a twin flame context this favors letting a phase of the connection wind down naturally, rather than forcing a deliberate closure the way 900 asks for. In reunion, 90 suggests a general chapter, not necessarily the connection itself, is simply concluding, and that's fine to acknowledge simply. In separation, this number favors trusting that a stage is winding down at its own pace, without needing to define exactly what comes next yet.",
     manifestation:
       "90 manifests through simple acknowledgment rather than an elaborate ritual of closure — the practical move is plainly naming what's ending today, since this number's folklore treats that simple recognition as enough to let the next chapter begin naturally.",
   },

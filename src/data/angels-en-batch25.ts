@@ -109,6 +109,8 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "599 requires one specific thing to decisively and completely end before the next phase begins, the opposite of 199's overlapping ending-and-beginning. In a twin flame context this favors recognizing when a clean break, not a gradual fade or a slow overlap, is actually what a particular pattern needs, an old communication habit, a specific attachment to how things used to be. In reunion, 599 suggests one specific old pattern needs to end completely, not partially, before contact can genuinely reset. In separation, this number favors a decisive, deliberate ending of one specific thing, rather than letting it linger in a softened, half-closed state.",
     manifestation:
       "599 manifests through a clean, decisive ending rather than a gradual fade — the practical move is bringing one specific situation to a genuine close today, since this number's folklore treats that completeness, not overlap, as what actually opens room for what's next.",
   },
@@ -519,6 +521,8 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "799 marks a significant journey reaching its end with real, concentrated wisdom left behind as its lasting legacy, distinct from 97's simpler framing of a stage just completing. In a twin flame context this favors actively naming and keeping what a long separation or a hard stretch of the connection taught you, rather than letting the lesson fade along with the relief of it ending. In reunion, 799 suggests the wisdom gained during the hardest part of the journey is meant to travel forward with you, not stay behind with the difficulty. In separation, this number favors treating whatever you've learned as the real, keepable outcome of this stretch.",
     manifestation:
       "799 manifests by actively preserving hard-won wisdom — the practical move is writing down or naming today one specific lesson from a concluding journey, since this number's folklore treats that active preservation as what keeps the wisdom from being lost.",
   },

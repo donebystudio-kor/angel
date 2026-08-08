@@ -39,6 +39,8 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "4000 describes an active, large-scale shield rather than 400's finished, static foundation, walls doing their job right now, not just standing built. In a twin flame context this favors trusting that you're more protected from an old wound or pattern resurfacing than it feels, an active defense, not just healed-and-done. In reunion, 4000 suggests something is actively guarding the connection right now, keeping old dynamics or outside noise from derailing it. In separation, this number offers an unusually direct reassurance: you're being actively shielded from re-entering an old pattern before you're ready, not left unprotected while you heal.",
     manifestation:
       "4000 manifests by acting from a sense of being already protected rather than still bracing — the practical move is taking one confident step today toward something you'd normally over-prepare for, since this number's folklore treats trust in existing protection, not additional defense, as what this stretch calls for.",
   },
@@ -73,6 +75,8 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "5000 marks transformation at the most total scale in this family, your whole life direction shifting, not one wave moving through the way 500 describes. In a twin flame context this lines up with a common idea in the space: that this connection's real function is reorienting your entire life, not just producing a relationship outcome. In reunion, 5000 favors judging the connection's impact by how much it's reshaped your whole direction, not by a single interaction. In separation, this number reassures that the depth of change you're going through is proportional to something significant, not an overreaction to one relationship.",
     manifestation:
       "5000 manifests by aligning decisions with a new overall direction rather than patching the old one — the practical move is making one choice today that reflects where you're actually headed now, since this number's folklore treats total redirection, not incremental adjustment, as the real shift here.",
   },
@@ -107,6 +111,8 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "6000 describes a vast, secure space of belonging already surrounding you, distinct from 600's energy you actively direct outward. In a twin flame context this is a direct counter to the fear of being incomplete without the connection: the home you already have, in friendships, family, your relationship with yourself, is real and large, whether or not reunion has happened yet. In reunion, 6000 favors entering contact from that already-full place rather than from scarcity. In separation, this number is a clear reminder that you're not living in a void while you wait — recognize the belonging that already exists around you.",
     manifestation:
       "6000 manifests by recognizing an existing space of belonging rather than searching for a new one — the practical move is naming one part of that space today and actively appreciating it, since this number's folklore treats recognition, not construction, as what strengthens the nest further.",
   },
@@ -141,6 +147,8 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "7000 marks a permanent shift in understanding, distinct from 700's window that eventually closes. In a twin flame context this favors recognizing that what you've learned about love and connection through this experience isn't a passing insight, it's a fundamental change in how you see both that won't revert once the immediate clarity fades. In reunion, 7000 suggests you're not returning to your old framework for relationships, and shouldn't try to fit the connection back into it. In separation, this number reassures that the perspective shift you've undergone is lasting, not something you'll lose once the hard part of separation ends.",
     manifestation:
       "7000 manifests by rebuilding goals from a new understanding rather than forcing old goals into it — the practical move is naming one shifted belief and adjusting a single concrete plan to match it today, since this number's folklore treats that realignment, not more reflection, as the actual next step.",
   },
@@ -175,6 +183,8 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "8000 describes abundance arriving as an overwhelming flood, distinct from 800's steadier, already-active cycle. In a twin flame context this favors preparing for reunion itself, or a major sign, arriving with more intensity than a gradual reconnection would, contact, clarity, and emotion landing all at once rather than easing in gradually. In reunion, 8000 favors staying grounded and receiving that intensity fully rather than reacting from overwhelm. In separation, this number suggests the eventual shift, when it comes, may feel like more than you braced for, worth preparing to receive well rather than expecting a gentle, gradual reentry.",
     manifestation:
       "8000 manifests by preparing to receive a large amount well rather than a gradual trickle — the practical move is setting one concrete plan today for handling an unusually large influx wisely, since this number's folklore treats readiness for volume, not just openness, as what makes the abundance land well.",
   },
@@ -243,6 +253,8 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "16 describes a new beginning growing directly out of something that fell apart, not one that happens despite the collapse. In a twin flame context this favors naming the direct link between a painful breakdown, an old dynamic, a hard ending, and whatever real growth followed it, rather than treating them as separate events. In reunion, 16 suggests the capacity that makes reunion sustainable came specifically from what broke down earlier, worth honoring rather than glossing over. In separation, this number reframes the collapse itself as the origin point of real growth, not just something painful to move past.",
     manifestation:
       "16 manifests by consciously connecting a past collapse to present growth rather than treating them as separate — the practical move is naming that link out loud today, since this number's folklore treats that acknowledged connection as what lets the growth take root fully.",
   },
@@ -277,6 +289,8 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "17 is traditionally read as a wish-fulfillment number, and specifically for one quiet hope, not a vague general wish. In a twin flame context this favors naming the exact thing you've been quietly hoping for regarding the connection — a specific message, a particular kind of conversation — rather than a general \"I hope it works out.\" In reunion, 17 suggests that specific, unspoken hope is genuinely closer than you've let yourself believe, worth naming clearly rather than downplaying. In separation, this number favors writing down the one precise thing you're actually hoping for, since specificity, not vague optimism, is what this number responds to.",
     manifestation:
       "17 manifests by naming a quiet wish specifically rather than leaving it vague — the practical move is writing the wish down in concrete terms today, since this number's folklore treats that specificity, not the strength of the hope alone, as what lets it actually arrive.",
   },
