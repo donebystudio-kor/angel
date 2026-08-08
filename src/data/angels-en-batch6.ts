@@ -142,6 +142,8 @@ export const EN_BATCH6_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "1000 amplifies new-beginning energy to an unusually large scale, and in a twin flame context it points at one specific step — reaching out, moving toward reunion, choosing to fully commit — that's supported at a bigger scale than smaller numbers like 1 or 111 would suggest. In reunion, 1000 tends to appear right before a bigger move than you'd normally risk; a real conversation, a real gesture, is unusually well-supported right now. In separation, this number favors thinking bigger about the reunion you're actually working toward, rather than a modest, cautious version of it, since the scale of what's possible is described as larger than what feels safe to expect.",
     manifestation:
       "1000 manifests through scaled-up specificity — the practical move is writing down a bigger, more specific version of the goal you already have, since this number's folklore holds that the size of the stated goal, not just its clarity, is what determines the scale of what comes back.",
   },

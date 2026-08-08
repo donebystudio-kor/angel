@@ -313,6 +313,8 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "411 pairs a foundation digit with heightened intuition, and its cultural echo — the old dial-411-for-information number — fits the twin flame reading well: a specific, concrete piece of information, a message, a mention from someone, a detail you notice, is arriving right now with real relevance to the connection, not just background noise. In reunion, 411 favors paying close attention to one particular thing you hear or notice today rather than dismissing it as coincidence, since its specificity is described as the actual signal. In separation, this number suggests a piece of practical insight about your own next step, not a sign about them, is what's actually arriving right now.",
     manifestation:
       "411 manifests through specific, actionable information rather than a general feeling — the practical move is treating whatever concrete piece of insight or advice reaches you today as directly relevant, since this number's folklore treats the specificity of the information as the actual signal, not a vague sense of guidance.",
   },
@@ -415,6 +417,8 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Spiritual insight and heightened intuition combine in 711 to frame whatever's opening right now as significant on a soul level rather than simply convenient, which in a twin flame context lines up closely with how the connection itself is usually described in this niche — recognized through inner knowing rather than logic. In reunion, 711 tends to mark a door opening because your own spiritual awareness has sharpened, not because external circumstances lined up, and favors trusting that inner pull even without a practical explanation yet. In separation, this number favors deepening whatever spiritual practice has developed during the separation, since that inner growth is described as what's actually opening the door.",
     manifestation:
       "711 manifests by following spiritually significant pulls rather than purely practical logic — the practical move is acting on an intuitive draw toward something meaningful today, since this number's folklore treats spiritual alignment, not material calculation, as what's opening the door.",
   },

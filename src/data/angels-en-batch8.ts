@@ -318,6 +318,8 @@ export const EN_BATCH8_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "818 sandwiches a new step between two abundance digits, and in a twin flame context that structure points at practical readiness, not just emotional readiness, being in place on both sides of a decision about the connection. In reunion, 818 tends to appear once the more mundane logistics — location, timing, life circumstances — have quietly lined up enough to actually support contact, not just the desire for it. In separation, this number favors using the current stretch to build real, practical stability rather than treating separation as purely an inner process, since that groundwork is what 818 describes as already bracketing the next step.",
     manifestation:
       "818 manifests by confirming resources on both sides of a specific decision — the practical move is taking that one concrete step now, since this number's folklore treats the material support as already bracketing the choice, not something still being built.",
   },
@@ -352,6 +354,8 @@ export const EN_BATCH8_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "919 brackets a new beginning with completion on both sides, and in a twin flame context it points specifically at the liminal space — the gap after one phase of the connection has clearly ended and before the next has fully started. In reunion, 919 tends to mark a felt sense of calling or rightness emerging in exactly that gap, less about the connection itself and more about a clearer sense of shared purpose becoming visible as an old dynamic fully closes. In separation, this number favors sitting in that in-between space rather than rushing to define what comes next, since the gap itself, not either side of it, is where the clarity is forming.",
     manifestation:
       "919 manifests by trusting purpose that emerges in an in-between space rather than forcing a plan immediately — the practical move is naming what genuinely pulls at you in the gap between chapters, since this number's folklore treats that unforced pull as more reliable than a rushed decision.",
   },
@@ -696,6 +700,8 @@ export const EN_BATCH8_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "108 carries real weight outside angel-number numerology, as the traditional count of mala beads in meditation practice, and that discipline-through-repetition meaning translates directly into a twin flame context: a small, consistent practice done for the connection matters more here than one big gesture or breakthrough. In reunion, 108 favors a repeated, almost ritual habit — a specific meditation, a regular check-in with yourself — that's been quietly strengthening the bond's energetic side. In separation, this number suggests a disciplined daily practice, done for its own sake rather than to force contact, is what's actually maintaining the connection's integrity while visible communication is paused.",
     manifestation:
       "108 manifests through disciplined repetition rather than a single intention held once — the practical technique borrowed from its traditional use is repeating a specific phrase, intention, or action a set number of times, consistently, since this number's folklore treats the discipline of repetition itself as the mechanism, more than the content of any single repetition.",
   },

@@ -38,6 +38,8 @@ export const EN_BATCH3_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "12 leads with a needed behavioral shift before the balance-and-partnership energy of the 2 can actually land, and in a twin flame context that order matters: not a new feeling to have, but one specific habit — over-explaining, chasing reassurance, checking for signs constantly — that's due for an update. In reunion, 12 favors identifying that one pattern and doing it differently once, on purpose, rather than waiting to feel like a different person overall. In separation, this number points at a specific relational habit carried over from before the separation that's ready to be consciously interrupted, since the connection's own balance is described as waiting on that particular update.",
     manifestation:
       "12's manifestation angle is about updating the method, not the goal. If a manifestation practice — a specific affirmation, a vision board, a journaling habit — has gone stale, 12 is asking you to refresh the method itself rather than assume the goal was wrong.",
   },
@@ -72,6 +74,8 @@ export const EN_BATCH3_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "21 reverses 12's emphasis: here it's the attitude you're bringing to the connection, not a specific action, that's doing the real work. In a twin flame context this lines up with a common idea here: your own energy or vibration matters more to the timing than any single message or gesture. In reunion, 21 favors approaching the connection from genuine lightness and hope rather than anxious monitoring, since that shift in tone is described as more influential here than anything you could actually do. In separation, this number suggests the felt quality of how you're holding the situation, hopeful versus dreading, is shaping the separation's course more than external circumstances are.",
     manifestation:
       "21 manifests through felt tone more than specific action — the emotional quality you bring to an intention (light, hopeful, playful) shapes the outcome here as much as the intention's content does, more so than with most numbers.",
   },
@@ -174,6 +178,8 @@ export const EN_BATCH3_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "69's two digits mirror each other, read here as one cycle folding directly into the next without a gap, and in a twin flame context it usually points at a specific relational dynamic, not the connection itself, that needs to close completely before a new phase can begin. In reunion, 69 favors letting go of an old runner-chaser dynamic or communication pattern in full, rather than carrying a smaller version of it into contact again. In separation, this number asks whether you're holding onto a specific old pattern slightly longer than it's serving you, since closing it out fully, not partially, is what actually opens the next stage.",
     manifestation:
       "69's manifestation angle works through completion rather than addition — clearing out one finished thing before adding a new intention tends to work better here than layering a new want on top of something unfinished.",
   },
@@ -208,6 +214,8 @@ export const EN_BATCH3_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "420 has nothing to do with its more recent cultural association — numerologically it reads as a stable foundation (4) held in balance (2) with more room to grow than expected (0). In a twin flame context, that structure points at a connection whose foundation is already solid but whose actual scope, how much space it's allowed to take up in your life, is smaller than what the bond can support. In reunion, 420 favors letting the connection expand into areas you've been keeping it out of, rather than staying safely contained. In separation, this number suggests the groundwork built during the separation phase can support a bigger version of reunion than you're currently imagining.",
     manifestation:
       "420's manifestation mechanic pairs a stable existing foundation with room for genuine expansion — the practice tied to this number is building from what's already solid rather than starting over, and allowing the goal to be bigger than the current version of it.",
   },
@@ -312,6 +320,8 @@ export const EN_BATCH3_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "911's alarming cultural association has nothing to do with its twin flame meaning: completion (9) paired with a spike in intuition (11), reassurance rather than emergency. In reunion, 911 tends to mark the actual end of a recognizable stage of the journey — awakening, testing, or waiting — with an unusually clear intuitive sense of which stage comes next. In separation, this number favors trusting a sudden clarity about what this specific separation has actually been teaching you, since that recognition, more than any external sign, is often what the number is confirming is complete.",
     manifestation:
       "911 manifests through calm clarity rather than urgent action — the intuitive hit that comes with this number tends to be accurate, but the folklore is specific that acting from calm certainty works better here than acting from a rushed response to the number's alarming association.",
   },

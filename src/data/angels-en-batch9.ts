@@ -318,6 +318,8 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "404 brackets an open, unresolved middle with stability on both sides, and in a twin flame context it's most often read as reassurance that a specific question — when contact resumes, whether the connection is even real — doesn't have an answer yet, and that's fine rather than a bad sign. In reunion, 404 favors letting the timing question stay open instead of forcing a date or a deadline onto it, since the foundation underneath the connection is described as steady even while that one piece stays unresolved. In separation, this number is a direct nudge against reading a lack of answers as proof the connection isn't real.",
     manifestation:
       "404 manifests by holding an open question without forcing a premature answer — the practical move is naming the specific unresolved question and consciously setting a later check-in point for it, rather than manufacturing a decision before it's actually ready.",
   },
@@ -352,6 +354,8 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "505 frames open potential with change on both sides, aimed specifically at freedom rather than change for its own sake, and in a twin flame context that reads as a nudge toward individual independence as part of the journey, not a step away from the connection. In reunion, 505 favors entering contact from a place of genuine personal freedom, not dependence on the reunion to complete you, since that self-sufficiency is described as part of what makes reunion sustainable. In separation, this number frames the distance as specifically useful for building the independence you'll actually need once contact resumes, rather than time to simply wait out.",
     manifestation:
       "505 manifests by aiming change specifically at freedom rather than change for its own sake — the practical move is naming exactly what more independence would look like and making one concrete move toward it today, since this number's folklore treats direction, not just motion, as what matters here.",
   },
@@ -386,6 +390,8 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Two encouragement digits frame the single new beginning in 313, and in a twin flame context that structure reads as targeted support, not general hope, for one specific action you've been considering regarding the connection. In reunion, 313 tends to appear right as you're weighing one concrete step — a message, a call, showing up somewhere — and favors treating that particular idea as encouraged rather than waiting for broader confirmation first. In separation, this number points at one specific piece of inner work or self-expression, writing, creating, saying something out loud, as what's specifically supported right now, more than the reunion timeline itself.",
     manifestation:
       "313 manifests through targeted encouragement rather than general positivity — the practical move is naming the one specific new beginning you're considering and treating it as directly supported, since this number's folklore points the encouragement at that particular idea rather than at optimism in general.",
   },
@@ -420,6 +426,8 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Where 313 frames a beginning in encouragement, 414 frames the same middle digit in protection instead, narrowing the usual twin-flame reassurance down to one specific decision about the connection rather than the whole journey. In reunion, 414 favors acting on that one particular choice — reaching out today rather than next month, sending the message you've drafted — trusting it's protected on both sides even if the bigger picture still feels uncertain. In separation, this number suggests one specific decision, not your whole approach to the separation, is what's actually stable right now, worth identifying clearly rather than trying to feel secure about everything at once.",
     manifestation:
       "414 manifests by confirming protection around one specific decision — the practical move is naming that decision explicitly and acting on it, since this number's folklore treats the stability as already bracketing that one choice, not something still being built.",
   },
@@ -454,6 +462,8 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "515 sandwiches a new beginning directly between two change digits, and unlike 414's protective framing, this one is about momentum: a door already open because of a change already underway, not a reassurance to sit tight. In a twin flame context, 515 tends to appear right after a real shift elsewhere in your life — a move, a job change, an ending — that's opened space for the connection to develop, and it favors walking through that opening now rather than waiting for things to settle first. In separation, this number suggests a recent life change is the actual reason the separation phase is shifting, and acting on that momentum matters more here than more patience would.",
     manifestation:
       "515 manifests by acting on an opening created by recent change rather than waiting for stability first — the practical move is naming the specific door a recent shift has opened and walking through it today, since this number's folklore treats timing, not preparation, as the priority here.",
   },
@@ -488,6 +498,8 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "144 is twelve squared, and its master-builder association scales up naturally in a twin flame context: this isn't a spark or a beginning, it's a long, carefully built connection reaching genuine, tangible completion rather than another stage of progress. In reunion, 144 tends to mark the real thing arriving after a long build, not a preview of it, worth recognizing fully rather than treating as one more milestone among many. In separation, this number favors taking honest stock of how much has actually been built over the full arc of the connection, sometimes over years, since that scale is part of what makes the eventual reunion durable rather than fragile.",
     manifestation:
       "144 manifests by recognizing completion at scale rather than seeking the next milestone — the practical move is taking real stock of a large, long-built vision today, since this number's folklore treats that recognition itself as what completes the manifestation, more than continued building would.",
   },
@@ -556,6 +568,8 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "2000 stretches partnership energy over a much longer timeline than 222 or even 22222, reading less like a specific stage of patience and more like a slow, cumulative wave of harmony you'll likely only recognize in hindsight. In reunion, 2000 favors looking back over the last several months rather than searching today for proof things are aligning, since the shift this number describes rarely announces itself in one dramatic moment. In separation, this number suggests the connection has been quietly harmonizing on an energetic level throughout the separation, even without visible contact, and that gradual alignment is real even though it isn't measurable day to day.",
     manifestation:
       "2000 manifests through sustained, long-horizon intention rather than a near-term request — the practical move is holding a steady intention over an extended period and reviewing progress periodically, since this number's folklore treats the long view, not a single moment, as where the amplification actually shows up.",
   },
@@ -692,6 +706,8 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "91 is the plainest ending-into-beginning number in the set, one thing finishing directly making room for a new one, without a gap around it. In a twin flame context this favors a direct, literal read: a specific phase of the connection — an old dynamic, a chapter of separation — has to actually finish, not just fade, before the next one can genuinely begin. In reunion, 91 tends to appear once something has truly closed, not merely gone quiet, and treats that real closure as the direct cause of what's opening next. In separation, this number asks you to name what's actually finished versus merely paused, since 91 only applies to the former.",
     manifestation:
       "91 manifests through direct cause and effect — the practical move is naming what's genuinely finished and treating that specific completion as the reason the new beginning is now possible, since this number's folklore treats the link between the two as literal, not coincidental.",
   },
