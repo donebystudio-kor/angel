@@ -383,6 +383,8 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "4111 pairs a single foundation digit with tripled awakening energy, describing a twin flame phase where a burst of 111-style awakening is specifically being asked to land on solid ground rather than stay purely energetic. In reunion, 4111 tends to appear once both people are ready to build something structural together — a shared plan, an actual conversation about the future — rather than just feeling the pull again. In separation, this number favors using the current surge of clarity to build a stable inner foundation first, since 4111's message is that lasting reunion needs the 4 underneath the 1s, not awakening energy alone.",
     manifestation:
       "4111 manifests by honoring stability as a genuine spark for new energy — the practical move is naming today the specific stable moment that ignited your current momentum, since this number's folklore treats that acknowledgment as what sustains the resulting wave.",
   },

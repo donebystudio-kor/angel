@@ -346,6 +346,8 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "132 moves through new beginnings, expression, and partnership in sequence, and in a twin flame context it marks the point where the connection stops being only an internal or emotional experience and starts becoming something you're actually building together in the physical world. In reunion, 132 tends to appear once a shared project, plan, or creative effort becomes proof the connection can function day to day, not only in feeling. In separation, this number favors continuing to create independently, since what's made alone now — skills, work, personal expression — is described as material the eventual shared life will be built from.",
     manifestation:
       "132 manifests by continuing to invest in a collaboration that's genuinely working — the practical move is contributing further to one specific creative partnership today, since this number's folklore treats that continued collaboration, not solo effort, as what's making the work shine.",
   },

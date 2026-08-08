@@ -38,6 +38,8 @@ export const EN_BATCH4_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "0 carries no fixed direction on its own, and in a twin flame context it works less as a message of its own and more as a mirror, amplifying whatever's already present in the connection, hope, doubt, or steadiness alike. In reunion, 0 tends to show up as a reminder not to over-define exactly how or when contact will happen, since the number favors staying open over forcing a specific outcome. In separation, 0 is one of the more reassuring markers here, suggesting the bond itself hasn't closed, only the visible activity around it has, and that underlying potential is still intact.",
     manifestation:
       "0 is the amplifier of the whole set — it doesn't generate its own outcome, it multiplies whatever's already in motion around it, good or uncertain. The practical implication: if 0 keeps showing up, check what belief or intention is currently loudest for you, since that's specifically what's being amplified, more than a brand-new want arriving out of nowhere.",
   },
@@ -72,6 +74,8 @@ export const EN_BATCH4_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "1 is the plainest, steadiest version of new-beginning energy, and in a twin flame context it's less a specific signal about the connection and more a standing nudge to keep starting things in your own life independent of it. In reunion, plain 1 favors initiating small, low-stakes moments of contact or presence rather than waiting for one perfect opening. In separation, this number is a repeated reminder that your own individual momentum, not the connection's current status, is what 1 is actually tracking — keep starting things on your own timeline.",
     manifestation:
       "1's manifestation angle is about consistently generating new intentions rather than amplifying one specific thought the way 111 does — the practice here is starting fresh regularly, a new intention each week, say, rather than holding one thought with total focus.",
   },
@@ -210,6 +214,8 @@ export const EN_BATCH4_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "5 is the lightest change-digit in this set, and in a twin flame context it points at a small shift in the connection rather than a major turning point — a slightly different feeling on an ordinary day, not a dramatic sign. In reunion, plain 5 favors noticing a small variation in how you're relating, a lighter conversation, less pressure, as worth trusting rather than waiting for a bigger moment to validate it. In separation, this number suggests a small, everyday change in how you're spending your time is doing more for the connection long-term than any single dramatic gesture would.",
     manifestation:
       "5 manifests through small experiments rather than the bigger release 555 asks for — try a new small version of the want, a different approach or timing, rather than releasing the whole form of it.",
   },

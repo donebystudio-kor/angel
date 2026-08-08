@@ -37,6 +37,8 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "577 combines change with doubled intuitive insight, and in a twin flame context it points at releasing attachment to a specific timeline or outcome, not the connection itself, with unusual intuitive confidence. In reunion, 577 often appears once you've genuinely let go of needing contact by a certain date, which paradoxically tends to precede it actually happening. In separation, this number favors trusting a repeated gut sense that surrendering the how and when, not the bond, is the actual work left to do, since 577 frames that release as doubly confirmed rather than a blind leap.",
     manifestation:
       "577 manifests by trusting a doubly-confirmed intuitive release — the practical move is letting go today of a familiar pattern your gut has repeatedly verified is ready to go, since this number's folklore treats that confirmed release, not a blind leap, as what opens the next door.",
   },

@@ -242,6 +242,8 @@ export const EN_BATCH3_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "123 is the simplest ascending sequence, and in a twin flame context its message is direct: whatever's gotten complicated about the connection — mixed signals, timing anxiety, second-guessing — is asking to be stripped back to the most basic version of what's actually true. In reunion, 123 favors a plain, direct conversation over a strategic or cautious one, since overthinking the approach is described as the actual obstacle here. In separation, this number suggests simplifying your own read on the situation to its most basic form — the connection is real, the timing isn't yet — rather than layering it with theories about what it all means.",
     manifestation:
       "123's manifestation approach is radical simplicity — state the want in the plainest possible sentence, with no qualifiers or backup plans attached, since this number's folklore specifically rewards clarity achieved through subtraction rather than more elaborate visualization.",
   },

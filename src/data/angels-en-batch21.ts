@@ -73,6 +73,8 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "101 marks a narrow, specific window rather than 111's broader amplification, and in a twin flame context that precision usually points at one exact moment — a message, a thought, a name crossing your mind — worth noticing right as it happens rather than after the fact. In reunion, 101 often appears in the days right before contact actually resumes, more as a heads-up to stay alert than a guarantee. In separation, this number favors catching the specific moment your own thinking about them shifts from longing to clarity, since that narrow shift, not a bigger realization later, is what 101 is actually marking.",
     manifestation:
       "101 manifests by catching a thought right as it crystallizes — the practical move is acting immediately on one idea that feels like it's actively becoming real today, since this number's folklore treats that narrow-window timing, not later reflection, as what matters most here.",
   },
