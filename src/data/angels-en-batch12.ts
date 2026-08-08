@@ -107,6 +107,8 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "300 amplifies creative expression into a sudden, immediate burst rather than gradual growth, and in a twin flame context that translates into an unplanned, urgent impulse to express something true about the connection right now — a message you didn't rehearse, a piece of art, a journal entry that surprises you. In reunion, 300 favors acting on that impulse the moment it hits rather than polishing it first, since the number describes the spark as time-limited. In separation, this number suggests a sudden creative or expressive release, not a message to them, is what's actually needed right now, a way of processing the connection that doesn't require contact to be valid.",
     manifestation:
       "300 manifests by catching a sudden spark immediately rather than letting it develop first — the practical move is capturing whatever hits you right now in rough form, since this number's folklore treats immediate capture, not careful development, as what preserves the burst.",
   },
@@ -141,6 +143,8 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "400 marks a foundation that's genuinely finished being built, not one still under construction, and in a twin flame context this is a fairly literal signal: the inner healing work this connection has been asking of you is actually complete enough to stand on, not a project still in progress. In reunion, 400 favors trusting that the groundwork is done and meeting the connection from that completed place, rather than still bracing as though the work is ongoing. In separation, this number is one of the clearer confirmations that the separation's actual purpose, individual growth, has been substantially fulfilled, even if visible contact hasn't caught up to that internal completion yet.",
     manifestation:
       "400 manifests by building from a foundation treated as finished, not still under construction — the practical move is making a decision today that assumes the foundation is solid, since this number's folklore treats continued over-caution as the main thing that wastes a foundation that's actually already complete.",
   },
@@ -175,6 +179,8 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "500 describes one large, sudden wave of change rather than several smaller shifts unfolding gradually, and in a twin flame context it points at a single, significant event, not a slow drift, moving through the connection right now. In reunion, 500 favors meeting whatever's shifting directly and quickly rather than trying to soften or slow it down, since the number describes this as one big wave, not a gentle transition. In separation, this number suggests one specific, sizable change — a move, a decision, a realization — is what's actually driving the current shift, more than a gradual accumulation of smaller things.",
     manifestation:
       "500 manifests by meeting one large change at its real scale rather than downsizing it mentally — the practical move is planning for the change as the significant wave it actually is, since this number's folklore treats accurate scale, not minimization, as what makes the wave manageable.",
   },
@@ -209,6 +215,8 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "600 describes a big, immediate outpouring of caring energy available to give right now, and in a twin flame context this favors directing an unusually large amount of that energy toward yourself specifically, not just toward others, since self-compassion is described in this niche as what the connection actually needs from you most. In reunion, 600 favors extending genuine warmth to the connection without needing anything back immediately, trusting the outpouring itself as meaningful. In separation, this number is a direct nudge to draw on this caring capacity for your own healing right now, rather than saving all of it for a reunion that hasn't happened yet.",
     manifestation:
       "600 manifests by actively directing available caring energy rather than letting it sit passively — the practical move is choosing one specific person to direct real care toward today, since this number's folklore treats active direction, not just the feeling of care, as what completes the manifestation.",
   },
@@ -243,6 +251,8 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "700 marks a specific, time-bound window of unusually deep understanding rather than an ongoing state, and in a twin flame context that urgency matters: whatever clarity about the connection you're feeling right now may not stay this sharp indefinitely, worth using actively rather than assuming it'll return later in the same form. In reunion, 700 favors making a real decision or having an important conversation during this window rather than waiting for a calmer moment. In separation, this number suggests naming what's suddenly clear about the connection right now, since that clarity is valuable specifically because it's temporary, not because it's permanent.",
     manifestation:
       "700 manifests by acting within a time-bound window rather than waiting indefinitely — the practical move is making one decision today while the clarity is active, since this number's folklore treats the window as temporary, not something to bank for later.",
   },
@@ -277,6 +287,8 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "800 describes an abundance cycle already in full, continuous motion, not one starting or restarting, and in a twin flame context that reads as reassurance that the connection's deeper flow, energetic, spiritual, whatever you want to call it, is already active rather than something you're still waiting to begin. In reunion, 800 favors actively participating in that flow, trusting the connection rather than watching for proof it's starting. In separation, this number suggests the bond's underlying abundance hasn't paused just because visible contact has, and treating it as already active, not dormant, changes how the waiting actually feels.",
     manifestation:
       "800 manifests by actively engaging with abundance already in motion — the practical move is one deliberate action today (spending, giving, or accepting) rather than waiting for more proof the cycle is real, since this number's folklore treats participation, not further waiting, as the actual mechanism here.",
   },
@@ -311,6 +323,8 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "900 is a direct summons to actively finish something meaningful, not a passive chapter winding down on its own, and in a twin flame context it usually points at a specific piece of unfinished business within the connection — an old resentment, an unspoken truth, a pattern — that needs deliberate closing rather than fading quietly. In reunion, 900 favors actually naming and resolving that unfinished piece before or as contact resumes, rather than letting it carry forward unaddressed. In separation, this number favors treating one specific, active task, writing an unsent letter, an honest internal conversation, as the real work of this stretch.",
     manifestation:
       "900 manifests through active completion rather than passive conclusion — the practical move is taking the deliberate step that actually finishes something meaningful today, since this number's folklore treats that active closure as what answers the calling, not simply letting time pass.",
   },
@@ -345,6 +359,8 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "3000 describes creative capacity operating at a vast, sustained scale, continuously available rather than one sudden spark the way 300 does. In a twin flame context this favors an ongoing creative practice, journaling, art, writing, kept up over the full length of the separation rather than one intense burst, as the actual tool for processing the connection. In reunion, 3000 suggests your capacity to express and communicate has grown to a scale that can genuinely hold whatever reunion requires, not just handle a single conversation. In separation, this number reassures that the creative outlet you've leaned on isn't running out, treat it as a renewable resource, not something to ration.",
     manifestation:
       "3000 manifests by trusting an ongoing, vast creative capacity rather than waiting for a single perfect spark — the practical move is generating multiple ideas or solutions today rather than settling on the first one, since this number's folklore treats sustained generative capacity as the actual resource here.",
   },

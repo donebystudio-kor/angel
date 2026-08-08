@@ -39,6 +39,8 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "100 marks a whole, complete fresh start at a real, personal scale, not a minor tweak to an old approach, and in a twin flame context that completeness applies specifically to how you relate to the connection itself. In reunion, 100 favors approaching contact with a genuinely reset way of showing up, not the same patterns carried forward with small adjustments. In separation, this number suggests the shift you've gone through is a real clean slate, not a partial one, worth taking seriously as complete rather than continuing to treat your old approach as still mostly intact.",
     manifestation:
       "100 manifests by fully committing to a fresh start rather than testing it half-heartedly — the practical move is treating one current new beginning as genuinely complete today, since this number's folklore treats that full commitment, not tentative testing, as what makes the clean slate real.",
   },

@@ -311,6 +311,8 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "18 offers a plain, gentle notice, not a dramatic sign, that a door tied to practical benefit is opening alongside something new in the connection. In a twin flame context this favors noticing quiet, undramatic evidence — an easier logistical situation, a small material shift — rather than waiting for an obvious, unmistakable sign. In reunion, 18 suggests the opening happening right now is real even though it's modest, worth walking through without needing it to feel bigger first. In separation, this number favors trusting small, quiet improvements in your circumstances as genuine progress toward reunion, not dismissing them for being unspectacular.",
     manifestation:
       "18 manifests by noticing a gentle opening and walking through it rather than waiting for a bigger sign — the practical move is taking one concrete step through a door that's already opening today, since this number's folklore treats plain follow-through, not more waiting, as what completes the message.",
   },
@@ -345,6 +347,8 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "19 marks a bigger, more dramatic conclusion than plain 91's straightforward ending-into-beginning sequence, emphasizing the scale and satisfaction of the ending itself. In a twin flame context this favors treating a closing chapter, often the hardest stretch of separation, as genuinely significant enough to deserve real acknowledgment, not a quiet, awkward fade. In reunion, 19 suggests the phase that's ending deserves to be named and honored before moving into whatever's next, rather than rushed past. In separation, this number favors marking a real ending, an old identity, an old way of coping, with something ceremonial, since 19 points at conclusions substantial enough to warrant that.",
     manifestation:
       "19 manifests by giving a significant ending real ceremony rather than letting it fade quietly — the practical move is marking the conclusion deliberately today, a conversation, a written reflection, a small ritual, since this number's folklore treats that acknowledgment as what makes room for the next chapter to begin cleanly.",
   },
@@ -379,6 +383,8 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "20 traditionally reads as confirmation that patient waiting is about to be rewarded, and few contexts fit that framing more directly than a twin flame separation, where the central question is almost always how much longer the wait actually is. In reunion, 20 favors staying steady specifically now, right before a shift, rather than giving up close to the actual payoff. In separation, this number suggests the waiting you've already done has a real endpoint approaching, not an indefinite stretch, though it stops short of naming exactly when, favoring trust in the arc over a specific date.",
     manifestation:
       "20 manifests by trusting the wait is nearly over rather than abandoning it early — the practical move is taking one small step today that assumes the reward is close, since this number's folklore treats persistence through the final stretch, not restarting, as what actually secures the payoff.",
   },

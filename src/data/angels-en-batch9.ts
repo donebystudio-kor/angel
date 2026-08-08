@@ -638,6 +638,8 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "81 combines a new start with abundance following close behind it, and in a twin flame context this favors starting something unrelated to the connection itself, a project, a move, a fresh personal direction, and trusting that doing so tends to open practical doors that indirectly support reunion later. In reunion, 81 suggests a recent fresh start you've made is quietly bringing material or circumstantial benefit that will matter once contact resumes. In separation, this number favors starting something new for its own sake right now rather than waiting for reunion to justify it, since 81 treats the fresh start itself as what invites the support.",
     manifestation:
       "81 manifests through starting first and trusting resources to follow — the practical move is beginning the new thing today rather than waiting to feel fully resourced, since this number's folklore treats the start itself as what invites the material support, not the other way around.",
   },
@@ -672,6 +674,8 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "89 pairs abundance with completion to mark a harvest arriving at its actual, specific timing, distinct from 88's broader reassurance that effort is being recognized eventually. In a twin flame context, 89 favors reading this as the real moment, not just confirmation it's coming: whatever inner work the separation has demanded is at its harvest point right now. In reunion, 89 suggests this is specifically the time to collect on that growth, through contact, through a decision, rather than continuing to only invest more. In separation, this number is a direct nudge that further waiting isn't what's being asked of you anymore, the harvest itself is what's due.",
     manifestation:
       "89 manifests by recognizing the actual moment of harvest rather than continuing to wait — the practical move is taking the concrete step that collects on an effort today, since this number's folklore treats timing, more than additional effort, as what's needed right now.",
   },

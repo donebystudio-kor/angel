@@ -138,6 +138,8 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "199 describes an ending and a new beginning overlapping in time rather than happening one after the other, a significant chapter closing while something new is already quietly forming alongside it. In a twin flame context this favors noticing that reunion may already be taking shape internally even while separation is still actively underway, not waiting for separation to fully finish first. In reunion, 199 suggests the shift you're stepping into was already forming before the ending felt complete, worth trusting even if its shape isn't fully clear yet. In separation, this number is reassurance against the idea that nothing new can begin until the hard part is entirely over.",
     manifestation:
       "199 manifests by noticing a new beginning forming alongside an ending — the practical move is looking today for one sign of something new quietly taking shape, since this number's folklore treats that noticing as what helps the transition feel less like a void and more like an overlap.",
   },

@@ -73,6 +73,8 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "588 describes a significant, larger-scale shift in material circumstances approaching, distinct from smaller, routine financial changes. In a twin flame context this favors preparing for a real, practical life shift, a move, a job change, a financial change, that will meaningfully affect the circumstances around the connection, not just the emotional side of it. In reunion, 588 suggests a substantial change in your practical situation is part of what's actually clearing the way for contact to become realistic, not just emotionally right. In separation, this number favors taking a significant material shift seriously as relevant to the journey, rather than treating practical life as separate from the spiritual process.",
     manifestation:
       "588 manifests through substantial, thorough preparation rather than a minor tweak — the practical move is reviewing your overall financial situation today in anticipation of a significant shift, since this number's folklore treats that scale-appropriate readiness as what makes the transition manageable.",
   },

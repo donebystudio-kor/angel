@@ -349,6 +349,8 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "511 pairs change with intuition in a specific order: the disruption comes first, and it's that disruption itself, not a premonition beforehand, that sharpens perception afterward. In a twin flame context this favors trusting insight about the connection that's arrived only since something recently shifted in your life, rather than doubting it because it wasn't there before. In reunion, 511 suggests a recent change unrelated to them directly is what's actually clarifying your read on the connection right now, worth trusting. In separation, this number reframes a recent disruption as the catalyst for real clarity about the bond, not a distraction from it.",
     manifestation:
       "511 manifests by using change-sharpened awareness rather than waiting for calm to think clearly — the practical move is trusting a specific insight that's become clearer since a recent disruption, since this number's folklore treats the disruption itself as the source of the clarity, not an obstacle to it.",
   },
@@ -383,6 +385,8 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "611 pairs home and family with heightened intuition, and in a twin flame community this maps onto a specific, often-discussed idea: that family-of-origin patterns are exactly what a twin flame connection tends to surface and work through, more directly than an ordinary relationship would. In reunion, 611 favors paying attention to what a current family dynamic is teaching you, since it's described as unusually relevant to how you'll actually show up in reunion. In separation, this number suggests unresolved family patterns, not just past romantic ones, are part of what this separation is specifically asking you to work through before reunion can hold.",
     manifestation:
       "611 manifests through lessons learned in family relationships applied elsewhere — the practical move is naming one specific insight a family dynamic has taught you and deliberately using it in another area of life, since this number's folklore treats family as the training ground, not a separate concern from personal growth.",
   },
@@ -453,6 +457,8 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "811 pairs abundance and spiritual growth as arriving together, at once, rather than one following the other the way 818's bracketing structure implies. In a twin flame context that simultaneity is the actual message: practical readiness for reunion and inner spiritual readiness aren't on separate timelines here, they're developing as one combined process. In reunion, 811 favors noticing that your circumstances and your inner state are maturing at the same pace, not waiting for one to catch up to the other. In separation, this number reassures that outer-life stability and inner growth don't have to be sequenced, working on both at once is exactly what this stretch is for.",
     manifestation:
       "811 manifests by holding material and spiritual goals together rather than sequencing them — the practical move is naming one material want and one growth want in the same breath, since this number's folklore treats their combined pursuit, not either alone, as what's actually unfolding.",
   },
