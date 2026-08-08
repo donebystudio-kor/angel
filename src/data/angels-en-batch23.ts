@@ -241,6 +241,8 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "150 marks the very beginning point of a journey toward greater freedom, worth honoring in itself even though the destination is still far off. In a twin flame context this favors recognizing the earliest, least dramatic steps of personal growth work as genuinely significant, not just a warm-up before the real journey starts. In reunion, 150 suggests wherever you are at the start of building a freer, more authentic version of yourself matters now, not only once it's fully realized. In separation, this number favors honoring the starting line of your own growth, even if reunion still feels distant, rather than only valuing progress once the destination is reached.",
     manifestation:
       "150 manifests by honoring a beginning as meaningful in itself — the practical move is deliberately acknowledging today that you're at the starting line of a real journey toward freedom, since this number's folklore treats that early honoring as what sustains motivation for the longer road ahead.",
   },
@@ -553,6 +555,8 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "311 favors trusting readiness itself as the signal to act, rather than waiting for an even stronger feeling of certainty first. In a twin flame context this applies directly to the urge to reach out or take a step: if it's genuinely ready to launch, that readiness is the confirmation, not something to keep testing. In reunion, 311 suggests a specific impulse you've been sitting on doesn't need to feel more ready than it already does. In separation, this number favors acting on a creative or personal burst connected to your own growth right now, rather than continuing to prepare for a moment that won't necessarily feel more certain later.",
     manifestation:
       "311 manifests by launching on current readiness rather than continuing to wait — the practical move is acting today on one creative idea that already feels ready, since this number's folklore treats that immediate launch, not further preparation, as what the moment calls for.",
   },

@@ -482,6 +482,8 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "499 marks a transition at the scale of an entire era, not a single chapter, handled with real groundedness rather than disorientation. In a twin flame context this favors recognizing when what's shifting isn't just the current phase, reunion or separation, but the whole era of how this connection has operated in your life. In reunion, 499 suggests you're stepping into something larger than the next stage, an entirely different era of the dynamic. In separation, this number favors treating the scale of change you're going through as proportionally large, an era ending, not simply one more difficult stretch within the same ongoing story.",
     manifestation:
       "499 manifests by acknowledging a transition's true, era-level scale — the practical move is honoring today, with real weight, the size of a major life shift you're going through, since this number's folklore treats that proportional acknowledgment as what allows the new era to begin on solid ground.",
   },
@@ -690,6 +692,8 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "633 favors redirecting worry into active, creative problem-solving rather than letting it spin without producing anything. In a twin flame context this applies to anxious rumination about the connection specifically, replaying scenarios, overanalyzing silence, with the number suggesting your own creative capacity, not more worrying, is the actual answer. In reunion, 633 favors channeling nervous energy about the connection into something you're actively making or solving, rather than sitting with the anxiety alone. In separation, this number suggests trusting your own resourcefulness to work through a specific worry, rather than assuming it can only be resolved by them or by more time passing.",
     manifestation:
       "633 manifests by redirecting worry into active problem-solving — the practical move is generating one creative solution today to a specific home or family concern, since this number's folklore treats that redirected energy, not continued worry, as what actually resolves the situation.",
   },

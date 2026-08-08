@@ -349,6 +349,8 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "110 favors intuitive confidence specifically as what's needed to move forward from a genuinely open, undetermined starting point, rather than waiting for the situation to resolve on its own. In a twin flame context this applies directly to an undefined stretch, before reunion, mid-separation, unclear signals, where the honest answer is that nothing is decided yet. In reunion, 110 favors trusting your gut to choose a direction even without full clarity, rather than waiting for certainty that may not arrive first. In separation, this number suggests the openness itself isn't a problem to wait out, it's asking for your intuition to actively navigate it now.",
     manifestation:
       "110 manifests by trusting intuition to actively choose from open possibility — the practical move is making one gut-guided choice today rather than continuing to wait for clarity to arrive on its own, since this number's folklore treats that trust as what actually moves things forward.",
   },

@@ -281,6 +281,8 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "699 pairs devotion with completion to mark a real, decisive ending, distinct from 9669's framing of a caregiving season concluding naturally on its own. In a twin flame context this favors consciously parting with a specific devoted pattern, a way of waiting, a self-appointed role of always being the one who understands or forgives, rather than letting it fade quietly. In reunion, 699 suggests one particular form your devotion has taken needs a real, marked ending before a healthier version can take its place. In separation, this number favors honoring the decisive end of an old devoted pattern directly, not just letting it dissolve unnoticed.",
     manifestation:
       "699 manifests by honoring a devotion's ending directly — the practical move is acknowledging today, through words or reflection, the real parting from something you've devoted yourself to, since this number's folklore treats that direct honoring as what completes the devotion properly.",
   },

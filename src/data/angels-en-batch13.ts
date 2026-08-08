@@ -219,6 +219,8 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "9000 marks your overarching life purpose reaching a major culmination, distinct from 900's call to finish one specific task. In a twin flame context this favors recognizing when the connection's larger function, not just its relationship status, has reached a genuine milestone: the growth it was meant to catalyze in you has substantially happened. In reunion, 9000 suggests what's arriving is bigger than a relationship update, it's a culmination point in what this connection was actually for. In separation, this number favors pausing to recognize how much of the deeper purpose has already been fulfilled, regardless of whether contact has resumed yet.",
     manifestation:
       "9000 manifests by deliberately marking a milestone rather than rushing past it — the practical move is pausing today to genuinely acknowledge how far a larger purpose has come, since this number's folklore treats that recognition, not immediate momentum toward the next goal, as what completes the culmination properly.",
   },

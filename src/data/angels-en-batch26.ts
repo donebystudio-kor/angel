@@ -176,6 +176,8 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "944 favors verifying foundational details before declaring something genuinely finished, treating that check as ordinary due diligence, not an anxious extra step. In a twin flame context this applies to declaring reunion or a resolution complete: it's worth confirming the practical and emotional groundwork actually holds, not just assuming it does because the hard part feels over. In reunion, 944 suggests checking in on a few concrete details, communication habits, boundaries, expectations, before treating the connection as fully settled. In separation, this number favors verifying your own healing in specific, checkable ways rather than assuming completion based on time passed alone.",
     manifestation:
       "944 manifests through calm verification rather than assumed completion — the practical move is checking one foundational detail today before declaring a situation finished, since this number's folklore treats that due diligence as what makes the closure genuinely solid.",
   },
@@ -244,6 +246,8 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "966 favors releasing the excess weight of a caregiving responsibility that's grown beyond what's actually needed. In a twin flame context this often applies to emotional labor carried on their behalf, worrying about their journey, managing their feelings, holding space they haven't asked for, more than the connection warrants right now. In reunion, 966 suggests setting down a specific piece of that excess care, not the whole bond, which frees up energy for a more balanced dynamic. In separation, this number favors distinguishing genuine, appropriate care for the connection from an outdated overextension you've been carrying out of habit.",
     manifestation:
       "966 manifests by releasing excess responsibility rather than abandoning genuine care — the practical move is identifying and releasing one specific overextension today, since this number's folklore treats that release as what restores a healthier balance.",
   },
@@ -278,6 +282,8 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "977 pairs completion with doubled insight to describe an ending and a deep realization about what it actually meant arriving together, not one after the other. In a twin flame context this favors letting a closing chapter and a genuine understanding of its real significance land at the same time, rather than expecting clarity to arrive only well after the ending settles. In reunion, 977 suggests the true meaning of a difficult stretch may become clear right as it's ending, not months later in hindsight. In separation, this number favors trusting a realization that arrives right alongside a real ending as genuine, significant insight, not something to second-guess for coming too quickly.",
     manifestation:
       "977 manifests by honoring the convergence of ending and realization — the practical move is taking real time today to hold both together, the closing chapter and the deep insight arriving with it, since this number's folklore treats that combined honoring as what makes the moment complete.",
   },

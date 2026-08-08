@@ -75,6 +75,8 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "71 favors starting from understanding you've already gained, rather than continuing to analyze before acting. In a twin flame context this suggests you already know enough about the connection and yourself to take a genuinely new step, more insight isn't the missing ingredient anymore. In reunion, 71 favors trusting that the understanding behind you is sufficient grounds to move forward now, not proof you need to keep gathering. In separation, this number suggests continuing to over-research or over-analyze the connection has passed its usefulness, and what you already understand is enough to act from.",
     manifestation:
       "71 manifests by trusting existing insight as sufficient grounds to begin — the practical move is starting one new thing today based on understanding you've already reached, since this number's folklore treats that trust, not further reflection, as what the moment calls for.",
   },
@@ -179,6 +181,8 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "74 credits steady, consistent effort, not luck or circumstance, as the actual cause of a result now taking shape. In a twin flame context this favors recognizing your own sustained inner work, not fate or the universe's timing alone, as what's shaping how the connection is currently unfolding. In reunion, 74 suggests the groundwork you've deliberately kept showing up for is the real reason things are moving, worth owning rather than crediting to coincidence. In separation, this number favors noticing that consistent, unglamorous effort, not a single breakthrough, is what's actually building toward whatever comes next.",
     manifestation:
       "74 manifests by crediting steady effort as the real cause of results — the practical move is naming one outcome today and tracing it back to the consistent work behind it, since this number's folklore treats that acknowledgment as what reinforces continued persistence.",
   },
@@ -213,6 +217,8 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "75 confirms that a change already in motion is unfolding exactly where your gut had already sensed it would, the opposite emphasis of 15's active, ongoing guidance. In a twin flame context this favors looking back at what you predicted about the connection weeks or months ago and noticing it's actually playing out that way. In reunion, 75 suggests your earlier read on timing or outcome is being validated in real time, worth trusting more going forward, not less. In separation, this number favors treating an accurate past prediction as evidence your intuition about this connection specifically is reliable, even when the situation felt uncertain at the time.",
     manifestation:
       "75 manifests by building trust in intuition through its demonstrated accuracy — the practical move is noticing one currently-unfolding change your gut had already predicted, and using that confirmed trust for a decision today, since this number's folklore treats proven accuracy as what makes intuition worth relying on further.",
   },
@@ -383,6 +389,8 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "84 pairs abundance with foundation to mark effort you've already invested translating specifically into material, tangible reward, not just an internal sense of progress. In a twin flame context this favors noticing concrete, practical signs, better circumstances, resources, opportunity, that trace directly back to work you've done around the connection. In reunion, 84 suggests tangible conditions are improving because of effort already put in, not arriving independently of it. In separation, this number favors recognizing when practical aspects of your life are genuinely better because of growth work done during this stretch, worth celebrating as real payoff, not luck.",
     manifestation:
       "84 manifests by consciously crediting past effort for current reward — the practical move is naming one specific reward today and tracing it back to the consistent work behind it, since this number's folklore treats that acknowledgment as what reinforces continued effort.",
   },
@@ -553,6 +561,8 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "94 traces a stable new beginning back to a previous chapter having been properly, fully closed, not arriving by coincidence. In a twin flame context this favors recognizing that any solidity reunion has right now has a real source: separation was allowed to actually finish, rather than being cut short. In reunion, 94 suggests the groundedness you're feeling is directly earned by not having rushed past the ending that came before it. In separation, this number favors letting the current phase reach genuine completion, since 94 links the strength of whatever comes next directly to how fully this one is allowed to close.",
     manifestation:
       "94 manifests by tracing current stability back to proper past closure — the practical move is naming one area of stability today and crediting the completed chapter behind it, since this number's folklore treats that traced connection as what reinforces the new beginning's solidity.",
   },
@@ -587,6 +597,8 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "95 pairs completion with change to describe a new beginning arriving genuinely unburdened, free of the weight of what came before it. In a twin flame context this pushes back on a common fear: that reunion is doomed to repeat the same old dynamics, the same triggers, the same patterns. In reunion, 95 favors trusting that this next phase doesn't have to carry old baggage forward just because the same two people are involved. In separation, this number suggests whatever you're building now is free to be genuinely different, not a continuation of what didn't work before.",
     manifestation:
       "95 manifests by consciously choosing not to carry old weight into something new — the practical move is leaving one specific piece of old baggage behind today, since this number's folklore treats that active choice, not just time passing, as what makes the fresh start genuinely unburdened.",
   },
@@ -655,6 +667,8 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "97 marks a specific stage of spiritual growth reaching genuine completion, worth honoring as real progress rather than assuming growth is always still in progress somewhere. In a twin flame context this favors naming one particular lesson or stage this connection has been teaching you as actually finished, not an open-ended, ongoing process. In reunion, 97 suggests you can trust that a specific piece of inner work is done, freeing you to meet the connection from that completed place. In separation, this number favors recognizing when a distinct growth stage has genuinely concluded, even while understanding the larger journey continues.",
     manifestation:
       "97 manifests by consciously acknowledging a completed stage of growth — the practical move is naming one specific area of inner development that's genuinely concluded today, since this number's folklore treats that acknowledgment as what properly honors the progress and opens room for what's next.",
   },

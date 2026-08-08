@@ -691,6 +691,8 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "155 favors releasing something familiar, an old habit, an old belief, as the specific act that opens a new path, rather than waiting for external circumstances to change. In a twin flame context this reframes a stalled reunion: what's actually blocking it may be continued attachment to an old identity or old way of relating, not a lack of external opportunity. In reunion, 155 favors naming exactly what familiar thing you're still holding onto and consciously letting it go, since that release, not more waiting, is described as the actual key. In separation, this number suggests the path forward opens specifically once you stop gripping something familiar, not once circumstances finally cooperate.",
     manifestation:
       "155 manifests by consciously releasing something familiar rather than continuing to hold on — the practical move is naming and letting go of one specific habit or belief today, since this number's folklore treats that release, not further searching for opportunity, as what actually opens the new path.",
   },

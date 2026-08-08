@@ -697,6 +697,8 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "92 pairs completion with partnership to describe a purpose specifically finished together, distinct from 919's calling that emerges in the gap between endings. In a twin flame context this favors resolving something through actual collaboration with them, or with your own support system, rather than waiting for an ending to create space for insight. In reunion, 92 suggests the way forward involves genuinely working through something together, not one person figuring it out alone and presenting a conclusion. In separation, this number favors leaning on trusted others, friends, mentors, community, to help complete inner work that isn't meant to be carried solo.",
     manifestation:
       "92 manifests through shared completion rather than solo achievement — the practical move is inviting someone specific into a meaningful goal you've been carrying alone, since this number's folklore treats that partnership as what actually completes the mission, not individual effort.",
   },
