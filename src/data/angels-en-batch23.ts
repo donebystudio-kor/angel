@@ -349,6 +349,8 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "244 offers a calm foundation checkpoint, treating the check itself as routine and healthy rather than a response to alarm. In a twin flame context this favors periodically, calmly reviewing where the connection's foundation, trust, honesty with yourself, actually stands, without needing a crisis to justify looking. In reunion, 244 favors a routine, unpanicked check-in on communication and expectations, rather than only examining the foundation when something feels wrong. In separation, this number suggests checking in with yourself honestly about the connection's foundation is healthy practice, not a sign something has necessarily gone wrong.",
     manifestation:
       "244 manifests through calm, routine review rather than avoidance or alarm — the practical move is having one honest check-in conversation today about a relationship's foundation, since this number's folklore treats that regular review as what keeps the foundation genuinely solid.",
   },
@@ -383,6 +385,8 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "255 links personal transformation directly to changes within a relationship, rather than treating the two as separate processes. In a twin flame context this speaks to the mirror dynamic directly: as the connection shifts, testing, separation, growth, you are shifting too, in ways worth naming rather than experiencing as disorienting or unrelated. In reunion, 255 favors noticing how much you've personally changed specifically in response to the connection's own changes, not in isolation from it. In separation, this number suggests your own transformation right now is directly tied to what the connection itself is moving through, even without contact to confirm it.",
     manifestation:
       "255 manifests by naming the connection between relational and personal change — the practical move is identifying one specific way you've changed alongside a relationship's shift today, since this number's folklore treats that acknowledgment as what makes sense of both processes together.",
   },
@@ -417,6 +421,8 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "266 puts emotional security first, ahead of material or logistical concerns, within a close relationship. In a twin flame context this favors prioritizing your own sense of emotional groundedness and self-worth ahead of the practical questions, timing, logistics, next steps, since a solid emotional base is described as what makes everything else easier to handle. In reunion, 266 suggests establishing real emotional security between you before working out the practical shape reunion takes. In separation, this number favors treating your own emotional stability as the priority right now, with practical questions about the connection genuinely secondary.",
     manifestation:
       "266 manifests by prioritizing emotional groundedness before material discussion — the practical move is addressing one emotional concern today before turning to a related practical matter, since this number's folklore treats that sequencing as what makes both conversations go better.",
   },
@@ -451,6 +457,8 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "277 calls for balancing genuine intuition with real, factual verification, rather than relying on gut feeling alone. In a twin flame context this is a useful counterweight to reading every sign or feeling as confirmation: your intuition about the connection is worth taking seriously, but it's worth checking against actual behavior and communication too. In reunion, 277 favors trusting your gut about renewed contact while still paying attention to what's actually being said and done, not just how it feels. In separation, this number suggests weighing a strong intuitive sense against the observable facts of the situation, rather than treating feeling alone as sufficient proof.",
     manifestation:
       "277 manifests by combining intuition with verification — the practical move is checking one gut feeling against actual observable facts today, since this number's folklore treats that combination, not either alone, as what leads to a sound decision.",
   },
@@ -485,6 +493,8 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "288 centers on generosity within a specific partnership as what's multiplying the return, rather than generosity and gain competing with each other. In a twin flame context this favors extending real patience, grace, or understanding toward the process itself, not withholding warmth while waiting for proof it's deserved. In reunion, 288 suggests generosity you extend now, toward yourself, toward the process, toward them if contact exists, is directly connected to what comes back, not a separate, riskier investment. In separation, this number favors trusting that generosity toward your own healing process specifically multiplies what's available to you, rather than depleting your reserves.",
     manifestation:
       "288 manifests by trusting generosity within a specific partnership as multiplying — the practical move is giving generously to one specific person today, since this number's folklore treats that reciprocal generosity, not withholding, as what's actually increasing the shared abundance.",
   },

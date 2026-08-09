@@ -36,6 +36,8 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "166 favors loosening a tight grip on a desired outcome as what actually brings it closer, not tightening your hold further. In a twin flame context this lines up with one of the most repeated ideas in the space: that reunion tends to move toward you specifically when you stop gripping the timeline or the specific shape it has to take. In reunion, 166 favors releasing the anxious effort to control exactly how or when contact resumes, trusting release itself as the mechanism, not resignation. In separation, this number suggests loosening your hold on the outcome is the actual practical step here, not giving up on it.",
     manifestation:
       "166 manifests through conscious release rather than tighter control — the practical move is deliberately loosening your grip today on one outcome you've been holding tightly, since this number's folklore treats that release as what actually brings it closer.",
   },
@@ -70,6 +72,8 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "177 points to genuine solitary time as what's specifically producing clarity, distinct from seeking the answer through conversation with others. In a twin flame context this favors stepping back from forums, friends' opinions, or outside interpretations of the connection, and trusting time alone as the actual source of the clarity you're looking for. In reunion, 177 suggests the answer to a specific question about the connection is more available in solitude than in another conversation about it. In separation, this number favors deliberately seeking real alone time as an active practice, not just a retreat from an unanswered question.",
     manifestation:
       "177 manifests by actively seeking solitude rather than more outside input — the practical move is spending real, uninterrupted time alone today with a specific question, since this number's folklore treats that solitude as what actually produces the clarity.",
   },
@@ -174,6 +178,8 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "377 lays out a two-step process: intuition has already settled on an answer, and the remaining step is expressing it clearly, not searching for more confirmation. In a twin flame context this favors recognizing when you already know something true about the connection and the real work left is voicing it, to yourself, in writing, or eventually to them, rather than continuing to look for a sign. In reunion, 377 suggests the insight you've already reached is solid enough to state directly, not something requiring further validation. In separation, this number favors actually articulating, out loud or in writing, an answer your gut settled on a while ago.",
     manifestation:
       "377 manifests by expressing a doubly-confirmed intuitive answer — the practical move is speaking one clear thing today that your gut has repeatedly confirmed, since this number's folklore treats that expression, not further reflection, as the actual next step.",
   },
@@ -278,6 +284,8 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Foundational work happening right now, in 422's reading, is what's genuinely determining a relationship's long-term future, worth doing carefully rather than rushing past. In a twin flame context this applies directly to separation: the individual groundwork happening right now, honesty with yourself, real growth, isn't a delay before the real relationship, it's specifically what determines whether reunion holds once it arrives. In reunion, 422 favors treating early conversations and boundary-setting as consequential, not just formalities to get through. In separation, this number favors taking the current inner work seriously as foundation-laying, since 422 ties its long-term durability directly to how carefully this stage is handled.",
     manifestation:
       "422 manifests by treating current foundational work as consequential — the practical move is doing one piece of relationship groundwork carefully today, an honest conversation, a clear expectation, since this number's folklore treats that care now as what shapes the long-term future.",
   },
@@ -312,6 +320,8 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "433 points to a stable foundation producing an overflow of creative energy, more capacity available than you might know what to do with. In a twin flame context this favors noticing that real inner stability built during this journey has generated more creative and expressive energy than you had before, worth channeling actively. In reunion, 433 suggests the groundedness you've built is producing more capacity for genuine connection than either of you may be using yet. In separation, this number favors putting an unexpected surplus of creative energy toward something specific, a project, a form of expression, rather than letting it go unused while waiting.",
     manifestation:
       "433 manifests by actively channeling an overflow of creative capacity — the practical move is directing today's abundant energy into one specific project, since this number's folklore treats that active channeling, not passive appreciation, as what makes the most of the overflow.",
   },
@@ -346,6 +356,8 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "455 offers a calm, practical observation: resisting a coming change makes the process harder than flowing with it would, not a warning about the change itself. In a twin flame context this favors noticing where you're bracing against or fighting the current phase, resisting reunion's timing, resisting separation continuing, rather than meeting it as it actually is. In reunion, 455 suggests easing into a shift that's already underway costs less than resisting its pace. In separation, this number favors recognizing that the difficulty you're feeling may be coming more from resistance to where things currently stand than from the situation itself.",
     manifestation:
       "455 manifests by easing into change rather than resisting it — the practical move is identifying one specific resistance today and consciously flowing with it instead, since this number's folklore treats that ease, not continued fighting, as what actually reduces the difficulty.",
   },
@@ -414,6 +426,8 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "477 delivers an unusually strong, doubly-confirmed reassurance that your current direction is correctly aligned, distinct from a single, more ordinary confirmation. In a twin flame context this favors actually accepting that reassurance about the connection rather than continuing to second-guess a read that's already been confirmed more than once. In reunion, 477 suggests the approach you've been taking is solidly validated, worth trusting fully rather than second-guessing right as things move forward. In separation, this number favors letting a repeated, consistent signal about your path settle as genuine confirmation, not something that still needs more proof.",
     manifestation:
       "477 manifests by accepting strong confirmation with real confidence — the practical move is trusting your current direction today without further second-guessing, since this number's folklore treats that doubled reassurance as meant to finally settle lingering doubt.",
   },
@@ -588,6 +602,8 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "544 calls for actively preparing foundational groundwork before a coming change arrives, using current lead time productively rather than waiting to react once it's already underway. In a twin flame context this favors treating a quiet stretch, even mid-separation, as active preparation time for whatever reunion actually requires, practically and emotionally, rather than passive waiting. In reunion, 544 suggests the groundwork you lay now, before contact fully resumes, is what makes the actual transition smoother when it comes. In separation, this number favors using this specific stretch to build structure and readiness deliberately, rather than treating it as empty time to simply get through.",
     manifestation:
       "544 manifests through proactive, foundational preparation — the practical move is taking one concrete preparatory step today for a change you know is coming, since this number's folklore treats that groundwork now as what makes the eventual transition considerably smoother.",
   },

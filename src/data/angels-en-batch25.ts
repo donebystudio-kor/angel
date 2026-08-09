@@ -213,6 +213,8 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "677 centers on a calm, settled inner knowing, rooted in emotional security, as what reveals an answer, distinct from an anxious search for one. In a twin flame context this favors noticing that real clarity about the connection tends to arrive when you're grounded and calm, not while anxiously scanning for signs or checking for contact. In reunion, 677 suggests trusting the quiet certainty that shows up when you're emotionally settled, over a more urgent, searching kind of insight. In separation, this number favors working toward emotional groundedness itself as the actual path to an answer, rather than treating the search for clarity as separate from your own inner state.",
     manifestation:
       "677 manifests by settling into emotional groundedness before seeking an answer — the practical move is spending time today in a genuinely secure, calm state before returning to a pressing question, since this number's folklore treats that grounded certainty as what actually reveals the answer.",
   },

@@ -147,6 +147,8 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "73 marks an active period where inspiration is pouring in faster than usual, worth capturing rather than assuming it'll keep arriving at this rate. In a twin flame context this favors writing down whatever insights, dreams, or sudden understanding about the connection surface right now, since this kind of clarity often comes in bursts rather than a steady stream. In reunion, 73 suggests ideas about how to actually show up, what to say, what to build together, are flowing unusually freely, worth acting on while they're active. In separation, this number favors journaling whatever intuitive downloads arrive during this stretch, since they may not stay this accessible once the intensity passes.",
     manifestation:
       "73 manifests by actively capturing inspiration rather than passively appreciating it — the practical move is writing down or recording one inspired idea today while it's flowing, since this number's folklore treats that active capture, not trust in memory, as what preserves the insight.",
   },
@@ -253,6 +255,8 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "76 describes a deep, inner sense of belonging warming right now, distinct from anything happening with your literal living situation. In a twin flame context this favors recognizing that this warmth is happening inside you, your own relationship with yourself, not something dependent on reunion actually occurring yet. In reunion, 76 suggests the sense of home you're building together is developing on a spiritual level that outpaces any practical logistics. In separation, this number is a direct reassurance that a genuine feeling of belonging is available to you right now, on its own terms, not conditional on contact resuming.",
     manifestation:
       "76 manifests by consciously honoring inner belonging as its own real development — the practical move is noticing and appreciating one way your sense of inner home has warmed recently, since this number's folklore treats that inward recognition, not external change, as what it's actually pointing toward.",
   },
@@ -287,6 +291,8 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "79 favors trusting one concrete, available step over needing the entire path mapped out in advance. In a twin flame context this directly counters the pressure to know exactly how or when reunion happens: one small, doable action toward the larger purpose this connection serves is genuinely enough for today. In reunion, 79 suggests focusing on the single next real step rather than trying to see the whole arc of what's coming. In separation, this number favors identifying one specific, concrete thing you can actually do right now, rather than staying stuck waiting for the full picture to become clear first.",
     manifestation:
       "79 manifests by trusting one concrete step as sufficient progress — the practical move is identifying and taking that single available step today, since this number's folklore treats that trust in incremental progress, not full clarity in advance, as what actually moves the mission forward.",
   },
@@ -459,6 +465,8 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "86 treats releasing anxious worry as the specific act that makes room for what you've been anxious about, not proof that the worry was unfounded. In a twin flame context this applies directly to anxiety about timing or outcome: the tight grip itself may be what's crowding out ease, more than any actual lack of connection. In reunion, 86 suggests loosening your hold on needing reunion to happen a certain way is what actually creates space for it to unfold naturally. In separation, this number favors recognizing that releasing the anxious watching, not more vigilance, is the practical step this stretch is asking for.",
     manifestation:
       "86 manifests by consciously releasing anxious worry rather than continuing to grip it — the practical move is naming and setting aside one specific financial worry today, since this number's folklore treats that release, not more worrying, as what actually makes room for ease.",
   },
@@ -527,6 +535,8 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "93 treats release as generative, the letting go itself clears space for new growth, not a separate ending disconnected from what comes next. In a twin flame context this favors releasing an old version of how the connection looked or worked, not the bond itself, to make room for something the two of you haven't tried yet. In reunion, 93 suggests actively letting go of an outdated dynamic is what's opening room for a genuinely different, more authentic way of connecting. In separation, this number favors trusting that release right now is planting something, not just ending something.",
     manifestation:
       "93 manifests through trusting release as generative — the practical move is consciously letting go of one old pattern today, since this number's folklore treats that release, not holding on, as what makes room for new growth to bloom.",
   },
@@ -633,6 +643,8 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "96 treats sharing resources within close relationships as what actually deepens a felt sense of abundance, rather than something to hold onto privately. In a twin flame context this favors generosity toward the people actually present in your life right now, friends, family, community, as part of the growth work this stretch is asking for, not a distraction from the connection. In reunion, 96 suggests the generosity you've practiced elsewhere is part of what you bring into reunion, not separate from it. In separation, this number favors trusting that sharing what you have now, even while waiting, multiplies rather than depletes what's available to you.",
     manifestation:
       "96 manifests through generous sharing rather than protective holding — the practical move is sharing one resource generously with someone close today, since this number's folklore treats that generosity as what deepens abundance, not diminishes it.",
   },
