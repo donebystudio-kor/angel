@@ -108,6 +108,8 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "188 arrives before the shift itself, flagging something in how things flow between you that's approaching, worth noticing calmly rather than treated as cause for anxious watching. In reunion, 188 favors preparing practically, for a conversation, for contact resuming, rather than being caught off guard when the shift actually arrives. In separation, this number suggests the current pattern of silence or distance is genuinely about to move, not permanent, and the useful response is calm readiness now, not intensified checking for signs before it does.",
     manifestation:
       "188 manifests through calm, informed preparation rather than passive waiting — the practical move is reviewing your financial situation today in anticipation of a coming shift, since this number's folklore treats that readiness as what makes the transition manageable.",
   },
@@ -214,6 +216,8 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "388 insists on proportion: what's returning to you actually matches the real effort you've put in, not an arbitrary or unfair outcome. In a twin flame context this counters a common worry, that all the inner work is one-sided and unrewarded. In reunion, 388 favors trusting that the depth of connection now showing up genuinely reflects what you've each invested, not luck or timing alone. In separation, this number suggests the growth you can already see in yourself is a fair, traceable return on real effort, worth counting as legitimate progress rather than dismissing because the connection hasn't visibly changed yet.",
     manifestation:
       "388 manifests by trusting the proportional link between creative effort and reward — the practical move is tracing one specific result back to the effort behind it today, since this number's folklore treats that traced fairness as what reinforces continued creative investment.",
   },
@@ -392,6 +396,8 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "466 offers permission specifically to stop worrying about the practical shape this connection will eventually take, since the underlying foundation is already solid enough to hold it. In reunion, this number favors releasing anxiety about logistics, timing, distance, circumstances, and trusting that the groundwork already supports whatever form reconnection takes. In separation, 466 is a direct counter to catastrophizing about what the distance might mean long-term: the worry has outlived its usefulness here, and what's actually solid between you doesn't require constant anxious checking to remain true.",
     manifestation:
       "466 manifests by trusting existing foundation enough to release worry — the practical move is consciously letting go of one specific material anxiety today, since this number's folklore treats that release, not continued vigilance, as what the solid foundation actually supports.",
   },
@@ -462,6 +468,8 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "488 closes the distance: the reward isn't distant or uncertain, it's genuinely close, because the foundation underneath it is already solid enough to hold it. In reunion, 488 favors actively preparing for renewed contact rather than assuming it's still far off, since the groundwork already in place is precisely what's bringing it near. In separation, this number suggests whatever you've been steadily building, patience, clarity, your own stability, has already reached the point where it's close to paying off, worth trusting rather than continuing to brace for a long, indefinite wait.",
     manifestation:
       "488 manifests by actively preparing for an imminent reward — the practical move is taking one concrete step today to get ready to receive a financial reward that's genuinely close, since this number's folklore treats that preparation as what makes the reward land well.",
   },
@@ -568,6 +576,8 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "533 opens a specific window for saying what's actually true about this connection, out loud, rather than continuing to filter it for safety. The doubled 3 amplifies expression past its usual volume, which is why this number tends to show up right before someone finally says the honest thing they've been sitting on. In reunion, 533 favors direct, unfiltered communication once contact resumes, rather than easing back into old careful habits. In separation, this number often points inward first: say the true thing to yourself about what this connection has actually meant, before there's anyone to say it to.",
     manifestation:
       "533 manifests by expressing more freely right now than usual — the practical move is saying or creating something today with more openness than your recent habit, since this number's folklore treats this moment specifically as the right time for that expansion.",
   },
@@ -638,6 +648,8 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "566 links a change you're making in daily life directly to more stability, not less, and in a twin flame context that reframes a shift that might otherwise feel like drifting further from the connection. In reunion, 566 suggests a lifestyle change, a move, a new routine, a different pace, is quietly what makes room for steadier contact, not what delays it. In separation, this number favors trusting that rebuilding your daily life on your own terms right now is building the actual stability the connection will eventually need, whether or not reunion has a visible timeline yet.",
     manifestation:
       "566 manifests by trusting a lifestyle change as stabilizing rather than disruptive — the practical move is continuing one specific new routine today, trusting its connection to greater domestic ease, since this number's folklore treats that trust as what allows the stability to actually take hold.",
   },

@@ -244,6 +244,8 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "129 ties completion directly to mutual effort, and in a twin flame context that distinction matters: this isn't a solo growth milestone, it's one that only feels whole because both sides genuinely contributed. In reunion, 129 favors trusting that recent progress in the connection has actually been shared, even if contact has been uneven, and that mutual investment is what's making this stage feel complete. In separation, this number points to your own individual growth reaching a satisfying close specifically because of what the bond taught you, not in spite of the distance.",
     manifestation:
       "129 manifests by recognizing mutual generosity as what completes a shared journey — the practical move is acknowledging today the ways giving and receiving both happened in a shared completion, since this number's folklore treats that mutual recognition as what makes the closure feel genuinely whole.",
   },

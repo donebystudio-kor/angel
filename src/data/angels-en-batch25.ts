@@ -145,6 +145,8 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "644 skips straight past routine maintenance and calls for a real rebuild, not a small adjustment. Applied to a twin flame dynamic, this usually means picking back up exactly where things left off isn't the move. In reunion, 644 favors treating renewed contact as a chance to build the connection's foundation differently this time, addressing whatever actually broke down rather than smoothing over it. In separation, this number suggests the deeper work isn't waiting for reunion to start, it's rebuilding your own foundation now, so whatever comes next isn't built on the same cracks.",
     manifestation:
       "644 manifests through fundamental rebuilding rather than small maintenance — the practical move is beginning one piece of real, structural rebuilding today for home-related foundation, since this number's folklore treats that bigger undertaking as what's actually needed here.",
   },
@@ -179,6 +181,8 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "655 describes a shift moving through your actual living situation, not a metaphorical one, and it's worth naming plainly in a twin flame context: a move, a change in who you live with, a shift in daily rhythm, can genuinely affect this connection's circumstances. In reunion, 655 favors adapting to that change deliberately rather than treating it as an unwelcome disruption to a plan; it may be exactly what repositions things. In separation, this number suggests meeting whatever's currently shifting in your home life head-on, since resisting it tends to slow the clarity you're actually waiting for.",
     manifestation:
       "655 manifests by meeting significant domestic change directly — the practical move is taking one adaptive step today toward a shift currently moving through your home life, since this number's folklore treats that direct engagement, not resistance, as what eases the transition.",
   },
@@ -249,6 +253,8 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "688 draws a direct line between follow-through and reward, and in a twin flame context that line runs through your own healing work specifically. The doubled 8 says this isn't a small return, it's proportionate to the responsibility actually fulfilled. In reunion, 688 favors trusting that the consistent, often unglamorous work you've done on yourself has a real, traceable connection to renewed contact now arriving; it isn't unrelated luck. In separation, this number confirms that fulfilling your responsibilities to your own healing, even without a visible payoff yet, is genuinely building toward reward later.",
     manifestation:
       "688 manifests by recognizing responsibility fulfilled as the cause of reward — the practical move is tracing one specific benefit back to consistent follow-through today, since this number's folklore treats that acknowledged connection as what reinforces continued responsible effort.",
   },
@@ -355,6 +361,8 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "733 assumes the clarity already exists and asks you to stop diluting it when you speak. Where a number like 533 is about timing opening the door to expression, 733 is about insight you've already privately reached, regarding what this connection is or isn't, deserving full, undiluted words. In reunion, 733 favors saying the specific true thing you've already worked out internally, rather than a softened version meant to manage their reaction. In separation, this number suggests naming plainly, even just to yourself, what you've actually come to understand about the bond, instead of continuing to hedge around it.",
     manifestation:
       "733 manifests by expressing existing clarity fully rather than diluting it — the practical move is saying one thing today with full honesty that you've been hedging, since this number's folklore treats that full expression as what the moment actually calls for.",
   },
@@ -389,6 +397,8 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "744 credits real learning, not just time passing, for lasting stability, and in a twin flame context that learning is usually about the dynamic itself: your own patterns, your triggers, what actually repeats. In reunion, 744 suggests the specific work of understanding why past attempts didn't hold is what makes this one different, not just wanting it more. In separation, this number favors treating the stretch of study you're in, reading, reflecting, actually naming your own role, as the real foundation being built, even though it doesn't look like progress toward contact.",
     manifestation:
       "744 manifests by crediting genuine study for real solidity — the practical move is continuing one area of learning today, recognizing its direct link to your current stability, since this number's folklore treats that connection as what sustains continued growth.",
   },
@@ -423,6 +433,8 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "755 pushes past simple confirmation into actual cause: a specific realization isn't just validating what you suspected about this connection, it's actively changing your course regarding it. In reunion, this number tends to show up right as a realization, about timing, about what needs saying first, about your own readiness, redirects how you're approaching renewed contact entirely. In separation, 755 marks a genuine turning point in how you understand the separation itself, not a minor adjustment to your thinking but an actual shift in direction, worth trusting even if it changes plans you'd already settled into.",
     manifestation:
       "755 manifests by trusting a realization's power to redirect course — the practical move is letting one recent realization actively inform a decision today, since this number's folklore treats that trust in significant redirection as what the moment calls for.",
   },
@@ -457,6 +469,8 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "766 interrupts a very specific twin flame habit: treating every sign, number, and coincidence as something to analyze instead of something to act on. The doubled 6 pushes toward direct care, not more interpretation. In reunion, 766 favors setting the analysis aside once contact is possible and simply being present and caring, rather than continuing to decode what everything means. In separation, this number suggests redirecting that analytical energy into actual caregiving, toward yourself, toward people actually in front of you, since more thinking about the connection right now won't produce more clarity than action already would.",
     manifestation:
       "766 manifests by shifting from analysis to action — the practical move is setting aside overthinking today and taking one direct, caring action for someone close, since this number's folklore treats that active presence, not more thought, as what's actually needed.",
   },
@@ -491,6 +505,8 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "788 asks for patience with a specific shape: the wise choice you make now regarding this connection won't pay off immediately, and that delay isn't a sign the choice was wrong. In reunion, 788 favors a patient, considered approach over a faster but rasher one; waiting to reach out until it's genuinely right tends to matter more here than speed. In separation, this number confirms that a wise decision made now, to give real space, to do your own work first, is quietly building toward a reward that simply hasn't arrived on your timeline yet.",
     manifestation:
       "788 manifests by trusting patient wisdom to pay off in time — the practical move is making one wise, patient choice today without needing instant results, since this number's folklore treats that trust as what allows the reward to actually arrive.",
   },
@@ -597,6 +613,8 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "833 tracks a conversion already underway, not a hoped-for one: creative or expressive effort turning into something with real, practical value. In a twin flame context this favors trusting that time spent on your own creative work isn't separate from readiness for this connection, it's actively building resources and capability you'll actually use. In reunion, 833 suggests a creative project or skill you've developed is becoming part of what you bring to a shared future, not just a personal accomplishment. In separation, this number confirms that continuing that creative conversion now is building real capability, not marking time until contact resumes.",
     manifestation:
       "833 manifests by continuing to invest in an already-converting creative source — the practical move is dedicating time today to the specific creative work that's producing real financial return, since this number's folklore treats that continued investment as what sustains the conversion.",
   },
@@ -631,6 +649,8 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "844 is a checkpoint, not an alarm, and applied to a twin flame connection it points at reinforcing what's already solid rather than assuming it'll hold on its own. In reunion, 844 favors actually naming and shoring up whatever groundwork the reconnection rests on, communication habits, boundaries, before treating it as finished business. In separation, this number suggests the growth you've already built is genuinely worth protecting deliberately, revisiting it occasionally, rather than letting it quietly erode from neglect while you wait for the next visible sign.",
     manifestation:
       "844 manifests through calm, proactive reinforcement rather than anxious hoarding — the practical move is reinforcing one specific foundational structure today to protect existing abundance, since this number's folklore treats that steady maintenance as what keeps the abundance secure.",
   },
@@ -665,6 +685,8 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "855 marks a turning point already underway, not one still on its way, and in a twin flame context that immediacy matters: something structural about how this connection actually operates is shifting right now. In reunion, 855 favors recognizing that the shift itself, more settled contact, a changed dynamic, is the real event, not a preview of one still to come. In separation, this number suggests the way you're relating to the distance itself is genuinely changing shape now, worth naming as significant rather than waiting for a bigger, more obvious turning point later.",
     manifestation:
       "855 manifests by recognizing and deliberately navigating a genuine structural turning point — the practical move is taking one deliberate step today that acknowledges the real scale of a current financial shift, since this number's folklore treats that recognition as what helps you navigate it well.",
   },
@@ -699,6 +721,8 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "866 warns against exactly the instinct twin flame separation tends to produce: gripping the connection tighter the more uncertain it feels. The doubled 6 ties this specifically to home and close bonds, not abstractions, this is about how you're actually holding the people closest to you. In reunion, 866 favors relaxing a controlling grip on how or when contact happens, since a tight hold here tends to push away what a looser one would allow closer. In separation, this number is a direct caution: the anxious grip itself, more than the distance, may be what's keeping things from settling.",
     manifestation:
       "866 manifests by consciously loosening a tight material grip within a relationship — the practical move is releasing one specific point of material control today, since this number's folklore treats that loosened hold, not tighter grip, as what actually protects what matters.",
   },

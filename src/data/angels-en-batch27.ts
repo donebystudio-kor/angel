@@ -104,6 +104,8 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "34 is fundamentally a reassurance number, and applied to a twin flame connection it says the bond isn't unfolding in isolation, real guidance is actively stabilizing it even when the process feels shaky. In reunion, 34 favors trusting that support beyond what you can see is backing the practical steps toward reconnecting, not just the feeling of it. In separation, this number is often most needed exactly when doubt about the whole thing creeps in, and it counters that doubt directly: the connection is genuinely supported, even during the parts that look like nothing is happening.",
     manifestation:
       "34 manifests by trusting present support rather than assuming isolation — the practical move is continuing a creative effort today with confidence that real backing is there, since this number's folklore treats that trust as what steadies the work.",
   },
@@ -274,6 +276,8 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "39 asks for an actual send-off, not a quiet fade, and that distinction matters in a twin flame context where so much gets released silently, a hope, a version of the story, without ever being named. In separation, 39 favors giving one specific thing a real, expressed goodbye, writing it down, saying it aloud, rather than letting it dissolve unmarked. In reunion, this number suggests naming what's being left behind out loud is part of what makes room for the next stage to actually feel new, rather than carrying the old version forward unnoticed.",
     manifestation:
       "39 manifests by giving something old a genuine, expressed farewell — the practical move is marking one release deliberately today, through words or a small ritual, since this number's folklore treats that expressed send-off as what completes the letting go properly.",
   },
@@ -308,6 +312,8 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "40 offers something broader than reassurance about one decision: a foundation that's simply unshakeable right now, as a general state, not something riding on any single outcome. In a twin flame context this favors trusting that the connection's basic reality doesn't depend on current contact status, distance or silence doesn't undo what's actually solid. In reunion, 40 suggests the stability you're building now isn't contingent on this specific stage going well. In separation, this number favors resting in the sense that what's real between you doesn't require proof through action right now to remain true.",
     manifestation:
       "40 manifests by trusting general foundational solidity — the practical move is acting today from a place of confirmed stability, without needing a specific test to prove it, since this number's folklore treats that broad trust as what the moment confirms.",
   },
@@ -650,6 +656,8 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "51 collapses a distinction that usually feels important: the change and the new beginning aren't sequential here, they're the same event. In a twin flame context this favors recognizing that whatever shift you're currently in the middle of, a separation, a changed dynamic, isn't standing between you and the next stage, it already is the next stage starting. In reunion, 51 suggests the changes reshaping the connection right now are themselves the beginning you've been waiting for, not a detour before it. In separation, this number favors treating this stretch as the actual start of what comes next, not empty time before it.",
     manifestation:
       "51 manifests by treating current change as the summons itself — the practical move is beginning something new today, within the change rather than after it, since this number's folklore treats that immediate response as what the moment is actually calling for.",
   },

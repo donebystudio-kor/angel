@@ -139,6 +139,8 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "147 backs its confirmation with real understanding, not just a settled feeling, which sets it apart from a number like 67's calmer, emotion-rooted reassurance. In a twin flame context this favors trusting that what you now understand about this connection, its timing, its purpose, is accurate, not wishful interpretation. In reunion, 147 suggests the insight you've gained is solid enough to act on directly. In separation, this number favors trusting that your current read on the situation, hard-won through actual reflection, is genuinely correct, even without external confirmation yet.",
     manifestation:
       "147 manifests by accepting grounded confirmation fully — the practical move is trusting your current direction today without further second-guessing, since this number's folklore treats that acceptance, backed by real understanding, as what the reassurance is actually for.",
   },
@@ -637,6 +639,8 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "344 rewards sustained effort over sudden insight: not a breakthrough, but quiet work on understanding this connection finally becoming something solid enough to see. The doubled 4 is what makes this structural rather than a passing realization, built over time rather than arriving all at once. In reunion, 344 suggests the groundwork you've quietly put in is what makes renewed contact feel stable rather than fragile. In separation, this number confirms that the effort you've been putting into your own growth, even without visible progress in the connection, has actually been forming a real foundation.",
     manifestation:
       "344 manifests by celebrating consistent effort taking concrete shape — the practical move is pausing today to recognize one piece of sustained creative work that's now tangible, since this number's folklore treats that acknowledgment as what honors the cumulative process properly.",
   },
@@ -671,6 +675,8 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "355 hands you the agency: choosing to break a pattern deliberately, rather than waiting for circumstances to force it. In a twin flame context this favors naming the one recurring pattern in how you two relate, chasing, going quiet, over-explaining, that's actually run its course. In reunion, 355 suggests deliberately trying a genuinely different way of engaging this time, rather than defaulting to the old mold out of habit. In separation, this number favors breaking your own half of a familiar pattern now, on your own timeline, instead of waiting for reunion to be the occasion for change.",
     manifestation:
       "355 manifests by deliberately breaking a familiar pattern rather than waiting for it to be forced — the practical move is choosing today to try a genuinely different creative or expressive approach, since this number's folklore treats that deliberate break as what the moment calls for.",
   },
@@ -705,6 +711,8 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "366 asks you to point real attention somewhere other than the connection itself, toward your actual home life and close relationships, and that redirection is exactly its twin flame usefulness. In separation especially, 366 pushes back gently against the tendency to let everything else go quiet while you wait; your other close relationships need real attention too, not just the bond you're focused on. In reunion, this number favors building the reconnection into your existing home life naturally, rather than treating it as separate from everything else already going on around you.",
     manifestation:
       "366 manifests by redirecting creative energy toward home and close relationships — the practical move is channeling one creative act today specifically into a home or family context, since this number's folklore treats that redirected focus as what the moment is calling for.",
   },

@@ -36,6 +36,8 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "877 telescopes the timeline: a doubled, unusually clear understanding is producing an actual breakthrough right now, not building toward one eventually. In reunion, 877 favors acting on a realization the moment it lands, since this number treats delay as the thing that would actually cost you here, more than acting too soon would. In separation, this number suggests a specific insight about the connection, why it paused, what it actually needs, has reached the threshold where it's changing your practical circumstances already, not just your understanding of them.",
     manifestation:
       "877 manifests by acting immediately on deep understanding — the practical move is taking one concrete financial action today based on insight you've already reached, since this number's folklore treats that immediate action as what completes the breakthrough.",
   },
@@ -106,6 +108,8 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "922 rejects the idea that closure has to come before anything new, and that's a genuinely useful twin flame message: 9 marks the wrapping-up, while the doubled 2 pushes active partnership-seeking to happen at the same time, not after. In reunion, 922 suggests you don't need to fully resolve the last chapter of this connection before genuine reconnection becomes possible, both can move forward together. In separation, this number favors closing out what's actually finished on your end while staying open to the bond's next form, rather than waiting for total resolution first.",
     manifestation:
       "922 manifests by pursuing completion and new partnership in parallel — the practical move is taking one step today toward each simultaneously, since this number's folklore treats that parallel process as what actually works here, not a strict sequence.",
   },
@@ -212,6 +216,8 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "955 favors a decisive break over a slow fade, and that distinction matters in a twin flame context because so much of this journey happens in ambiguous, drawn-out middle stages. In separation, 955 suggests that consciously, fully releasing a chapter that's actually already over, a specific hope, a version of the timeline, an attempt at contact, opens more genuine movement than letting it quietly linger unaddressed. In reunion, this number favors closing the previous stage of the connection deliberately and completely before stepping into the next one, rather than blending the two together without a clear line.",
     manifestation:
       "955 manifests through bold, decisive release rather than a lingering fade — the practical move is releasing one completed chapter decisively today, since this number's folklore treats that boldness as what actually opens the significant change waiting on the other side.",
   },
@@ -600,6 +606,8 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "27 trusts your own compass over outside maps, and in a twin flame context that's a useful corrective to how much external interpretation, other people's timelines, generic sign-lists, tends to crowd out your own read. In reunion, 27 suggests trusting what you actually sense about the connection's direction, even when it doesn't match a pattern you've read about elsewhere. In separation, this number favors following your own inner sense of what this stretch is for, rather than deferring entirely to someone else's framework for what separation is supposed to mean.",
     manifestation:
       "27 manifests by trusting an inner compass over external maps — the practical move is following your own intuitive sense on one decision today, since this number's folklore treats that inner guidance as what actually navigates the situation well.",
   },
@@ -670,6 +678,8 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "29 refuses to treat soul mission and partnership as competing, and that's a direct answer to a common twin flame dilemma: whether pursuing your own path means deprioritizing the connection. In reunion, 29 favors continuing your individual mission fully once contact resumes, rather than shelving it to make room for the relationship. In separation, this number suggests your personal growth and purpose right now aren't a detour from the connection, they're proceeding alongside it, and both are allowed to matter without one having to wait for the other.",
     manifestation:
       "29 manifests by pursuing purpose and partnership together rather than choosing between them — the practical move is taking one step today toward your larger mission while also nurturing a close relationship, since this number's folklore treats that balance as what actually honors both.",
   },

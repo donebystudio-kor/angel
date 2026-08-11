@@ -555,6 +555,8 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "117 marks an unusually sharp moment of clarity about the connection itself, not a vague spiritual high. The doubled 1 sharpens a fresh, specific understanding of who this person is to you, while 7 brings the insight into focus all at once rather than gradually. In reunion, 117 tends to land right before renewed contact, as though the realization itself clears the way. In separation, this number marks a peak understanding of the bond's actual role in your growth, worth honoring fully rather than treating as a fleeting thought to move past quickly.",
     manifestation:
       "117 manifests by fully honoring a genuine peak of realization — the practical move is taking real time today to reflect on and appreciate a recent significant insight, since this number's folklore treats that honoring as what allows the awakening to properly integrate.",
   },
@@ -589,6 +591,8 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "118 favors scale: not a small, easy-to-miss opening but a genuinely wide one, worth engaging with directly rather than waiting for more confirmation first. In a twin flame context this suggests a fresh start opening real opportunity for the connection itself, not just your own life generally. In reunion, 118 favors actively stepping toward the opening, reaching out, saying yes to contact, rather than passively noticing it's there. In separation, this number suggests a genuinely fresh chapter is opening for you individually right now, significant enough to actively build on, not just quietly observe.",
     manifestation:
       "118 manifests through active engagement rather than passive noticing — the practical move is taking one concrete step today toward an opening opportunity, since this number's folklore treats that active pursuit, not passive waiting, as what actually captures the abundance.",
   },
@@ -623,6 +627,8 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "For twin flames, 119 names a specific transition inside the dynamic itself, not a general life chapter. The doubled 1 puts more weight on the strength of what's opening than on what's closing, which matters here because it's easy to fixate on the ending stage of a connection instead of what it's clearing room for. In reunion, 119 suggests an old version of the dynamic is closing so a steadier one can begin. In separation, this number frames the current chapter as genuinely ending, not stalling, with something clearer forming just behind it.",
     manifestation:
       "119 manifests by focusing attention forward on a strong new beginning — the practical move is briefly acknowledging an ending today, then deliberately directing energy toward what's starting, since this number's folklore treats that forward focus as what makes the new chapter land with real strength.",
   },

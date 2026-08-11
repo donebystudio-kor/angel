@@ -143,6 +143,8 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "57 puts intuition in the driver's seat, not just as a feeling to notice afterward but as what's actively steering a shift already in motion. In a twin flame context this favors trusting a strong gut sense about the connection right now over what logic or evidence alone would suggest. In reunion, 57 suggests your intuition already knows more about the timing than your analysis does, worth following even without external confirmation yet. In separation, this number favors letting intuitive sense, not anxious speculation, guide how you interpret this stretch, since the two produce very different reads of the same silence.",
     manifestation:
       "57 manifests by letting intuition actively steer a change in motion — the practical move is trusting your gut on one decision today related to the change, since this number's folklore treats that active trust as what navigates it well.",
   },
@@ -211,6 +213,8 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "59 treats freedom as something you clear the way for, not something that simply arrives. In a twin flame context this favors actively releasing finished patterns, an old expectation about timing, a story about how reunion has to look, rather than waiting for freedom to show up on its own. In reunion, 59 suggests the clearing you've already done is what lets the connection actually breathe instead of repeating old constraints. In separation, this number favors treating deliberate release as the real work right now, since the freedom it opens is genuine either way this eventually resolves.",
     manifestation:
       "59 manifests through active clearing rather than passive waiting — the practical move is tidying up one finished obligation today, since this number's folklore treats that deliberate clearing as what actually produces the freedom.",
   },
@@ -279,6 +283,8 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "62 speaks directly to the specific texture of twin flame waiting: not empty time to endure, but a season that calls for active faith. In separation, 62 favors treating the wait itself as something you're doing, through trust, through your own steadiness, rather than something happening to you while you passively worry. In reunion, this number suggests the faith you practiced during the wait is exactly what makes the reconnection feel settled rather than anxious, the waiting wasn't wasted time, it was the actual preparation.",
     manifestation:
       "62 manifests through active faith during waiting rather than passive worry — the practical move is one deliberate act of trust today during a current season of waiting, since this number's folklore treats that active faith as what makes the wait meaningful rather than empty.",
   },
@@ -313,6 +319,8 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "63 pushes back against only counting the dramatic signs, a major synchronicity, a big reunion moment, as meaningful. In a twin flame context this favors noticing a small, ordinary moment, a passing thought of them, a quiet sense of ease, as genuinely significant rather than too minor to count. In reunion, 63 suggests the moment that actually matters might be an unremarkable one, not a grand gesture. In separation, this number favors treating small, quiet evidence of your own growth or peace as real progress, worth counting fully rather than waiting for something more obviously dramatic.",
     manifestation:
       "63 manifests by actively noticing small, meaningful moments — the practical move is pausing today to genuinely appreciate one small, ordinary moment, since this number's folklore treats that noticing as what reveals its real significance.",
   },
@@ -415,6 +423,8 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "67 confirms the path itself, not a specific answer, and it arrives from a settled place rather than active searching. In a twin flame context this favors trusting that however slow or nonlinear this journey has looked, you're genuinely on the right track with it, a reassurance that arises when you're calm, not when you're anxiously checking for confirmation. In reunion, 67 suggests the steady, grounded approach you've taken is exactly what's been working. In separation, this number favors trusting that your current path through this, however it looks from outside, is correctly aligned.",
     manifestation:
       "67 manifests by trusting confirmation arising from emotional security — the practical move is trusting your current path today from a genuinely settled place, since this number's folklore treats that grounded trust as what the reassurance is actually for.",
   },
