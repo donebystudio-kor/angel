@@ -418,6 +418,8 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "43 names something more active than general reassurance: an actual hand working on your behalf behind the scenes, not just a presence standing nearby. In a twin flame context this favors trusting that circumstances around the connection are being quietly rearranged in your favor, even during a stretch where nothing visible seems to be happening. In reunion, 43 suggests the logistics finally lining up owe something to help you couldn't see coming. In separation, this number favors trusting that the silence isn't empty, something is actively being worked out on your behalf, even without proof yet.",
     manifestation:
       "43 manifests by trusting quiet, unseen support without demanding proof — the practical move is noticing one favorable circumstance today and trusting the unseen help behind it, since this number's folklore treats that trust as what allows the quiet support to keep working.",
   },
@@ -452,6 +454,8 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "45 draws a distinction worth sitting with: this turning point is emerging from stability, not instability, which changes what it actually feels like. In a twin flame context this favors trusting that a real shift in the connection right now, in contact, in how you relate to the distance, isn't destabilizing you, it's happening because you're already grounded enough to hold it. In reunion, 45 suggests the pivot feels manageable specifically because your own foundation is solid underneath it. In separation, this number favors recognizing your current groundedness as what's actually making this turn safe to go through.",
     manifestation:
       "45 manifests by trusting a stable base beneath a real turning point — the practical move is taking one step into the pivot today, trusting the solid ground underneath it, since this number's folklore treats that trust as what makes the turn genuinely safer.",
   },
@@ -622,6 +626,8 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "50 goes further than a contained shift: this is described as wide-open, amplified freedom, not a narrow adjustment. In a twin flame context this favors noticing when the work you've done has actually opened something expansive, more ease, more room to breathe, rather than just a small easing of tension. In reunion, 50 suggests meeting a genuinely open new stage of the connection with an equally open mindset, not the guardedness old caution might suggest. In separation, this number favors letting this stretch feel as expansive as it actually is, rather than shrinking it down to fit old, more contained expectations of what freedom here could look like.",
     manifestation:
       "50 manifests by meeting expansive freedom with an equally open mindset — the practical move is engaging today with one part of a wide-open new flow, rather than approaching it narrowly or cautiously, since this number's folklore treats that matched openness as what makes the most of the moment.",
   },

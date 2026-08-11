@@ -74,6 +74,8 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "124 measures progress in small, deliberate steps, not one dramatic leap, and that pacing is worth naming directly in a twin flame context, where it's tempting to only count the big, obvious breakthroughs. In reunion, 124 favors recognizing that a small, ordinary step, one honest conversation, one boundary held, is genuinely building toward the outcome you want, not just filling time before a bigger moment. In separation, this number suggests honoring each deliberate step you're taking as real progress in its own right, worth counting fully rather than measuring your growth only against the far-off finish line.",
     manifestation:
       "124 manifests by honoring incremental steps as real progress — the practical move is taking one small step today toward a dream and consciously recognizing it as meaningful, since this number's folklore treats that honored consistency, not only reaching the finish line, as what actually builds the dream.",
   },
@@ -176,6 +178,8 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "127 makes a specific, slightly uncomfortable claim: the deliberation is probably already over internally, even if you haven't consciously admitted the answer yet. In a twin flame context this favors noticing when continued searching for outside confirmation, more signs, other people's takes, is happening after your own inner wisdom has already settled the question. In reunion, 127 suggests trusting what you already know about this connection's direction, rather than waiting for one more external validation. In separation, this number favors acknowledging an answer you've likely already reached about what this stretch actually means, instead of continuing to search past it.",
     manifestation:
       "127 manifests by acknowledging an already-settled inner answer rather than continuing to search externally — the practical move is naming today what your own wisdom already knows about a specific relationship question, since this number's folklore treats that acknowledgment as what actually resolves the deliberation.",
   },
@@ -624,6 +628,8 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "140 goes a step further than a number like 40's general foundational trust: it names an actual challenge worth taking on, specifically because solid ground already exists to support it. In a twin flame context this favors recognizing that a hard conversation, a vulnerable admission, reaching out first, is viable now, not because the outcome is guaranteed, but because you're steady enough to handle it either way. In reunion, 140 suggests this is the moment the existing groundwork was actually for. In separation, this number favors trusting your current stability as sufficient to take on one real, specific risk, rather than waiting for even more preparation first.",
     manifestation:
       "140 manifests by trusting existing foundation as sufficient support for a real challenge — the practical move is taking on one challenge today rather than waiting for more preparation, since this number's folklore treats that trust in existing ground as what makes the challenge viable now.",
   },
@@ -658,6 +664,8 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "141 puts your own determined will at the center, not circumstance, and not passive hoping either. In a twin flame context this favors recognizing that deliberate, active choices, reaching out, setting a boundary, changing your own pattern, are genuinely shaping this connection's real-world shape, more than waiting for it to resolve on its own. In reunion, 141 suggests your own will is a legitimate force here, worth exercising directly rather than deferring entirely to timing or fate. In separation, this number favors treating your own determined choices right now as actively constructive, not just internal processing while you wait for something external to shift.",
     manifestation:
       "141 manifests through active, determined will rather than passive waiting — the practical move is exercising deliberate willpower today toward one specific goal, since this number's folklore treats that active shaping force as what actually constructs the desired reality.",
   },

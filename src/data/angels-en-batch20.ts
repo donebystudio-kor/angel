@@ -327,6 +327,8 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "82 treats calm faith as active, not passive, a legitimate ingredient in what's actually calling abundance closer, alongside real effort rather than instead of it. In a twin flame context this favors trusting that genuine, settled faith about the connection does real work here, more than anxious searching or forced effort would. In reunion, 82 suggests the calm trust you've been practicing is itself part of what's bringing things closer, not just a coping mechanism while you wait. In separation, this number favors leaning into steady faith as a real stance, not resignation, and not a consolation prize for not having answers yet.",
     manifestation:
       "82 manifests by pairing calm trust with practical action rather than anxious effort alone — the practical move is practicing genuine faith today about one situation while still taking one reasonable step, since this number's folklore treats that combination, not worry-driven hustle, as what actually calls abundance closer.",
   },
@@ -361,6 +363,8 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "83 favors the unconventional idea, not the cautious, well-tested one, as what's actually opening new possibility here. In a twin flame context this favors trusting your own inventive read on the connection, an approach that doesn't match the standard playbook, over sticking rigidly to how reunion is supposed to look. In reunion, 83 suggests a genuinely creative, less conventional move, in how you reach out, in what you're willing to try, is what's opening the real opportunity. In separation, this number favors trusting an unconventional way of using this time as legitimate, not a riskier substitute for doing it the expected way.",
     manifestation:
       "83 manifests by trusting a creative, unconventional idea rather than defaulting only to convention — the practical move is exploring one inventive approach today for generating abundance, since this number's folklore treats that creative angle as what's specifically opening new possibility right now.",
   },
@@ -431,6 +435,8 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "85 is anticipatory where a number like 855 confirms a shift already underway: this is a favorable wind still moving toward you, worth leaning into rather than bracing against. In a twin flame context this favors noticing early signs of ease approaching the connection's circumstances, before they've fully arrived. In reunion, 85 suggests meeting this approaching shift with openness now, rather than waiting for full certainty before letting yourself feel it. In separation, this number favors trusting that the direction things are moving in is generally favorable, even while the change itself is still gathering rather than finished.",
     manifestation:
       "85 manifests by welcoming favorable change with openness rather than bracing cautiously — the practical move is leaning into one sign of positive shift today, since this number's folklore treats that openness, not defensive caution, as what serves you when the direction is generally favorable.",
   },
@@ -501,6 +507,8 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "87 favors the slower path deliberately, not by default but as the actually wiser choice, over whatever shortcut might feel faster. In a twin flame context this pushes back on the urge to force contact or rush toward resolution. In reunion, 87 suggests the more considered, patient approach you're taking is building something more durable than a faster reconnection would. In separation, this number favors trusting that resisting the shortcut, forcing contact, chasing certainty, isn't costing you time, it's what makes whatever comes next actually hold.",
     manifestation:
       "87 manifests by choosing wisdom and patience over speed — the practical move is picking the more considered, slightly slower option today for a financial decision, since this number's folklore treats that patience as what produces more durable abundance.",
   },
@@ -715,6 +723,8 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "98 ties an opening reward directly to effort that's already finished, not still owed. In a twin flame context this favors recognizing that if real ease or renewed contact is arriving now, it's because a genuine chapter of inner work is actually complete, not a stroke of unearned luck. In reunion, 98 suggests walking through this opening with confidence rather than the hesitation or guilt that can come from wondering if you've done enough. In separation, this number favors trusting that whatever work you've already completed has genuinely earned whatever door opens next, worth believing fully rather than second-guessing.",
     manifestation:
       "98 manifests by walking through an earned opening with confidence rather than hesitation — the practical move is accepting one opportunity or reward today as genuinely deserved, since this number's folklore treats that confident reception, not self-doubt, as what completes the process well.",
   },

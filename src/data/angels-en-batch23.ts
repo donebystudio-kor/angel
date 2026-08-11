@@ -175,6 +175,8 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "148 traces a full arc: effort applied since an actual fresh start is what's ripening into reward now, not effort and reward as two separate events. In a twin flame context this favors looking back at the specific point you decided to actually do the work, and recognizing what's arriving now as the direct continuation of that choice. In reunion, 148 suggests the ease showing up now isn't separate from the effort you committed to back at the start, it's that effort finally ripe. In separation, this number favors trusting that consistent work since your own fresh start is still on track to ripen, even before the reward shows up.",
     manifestation:
       "148 manifests by tracing current reward back to effort since a fresh start — the practical move is naming that connection today and celebrating it, since this number's folklore treats that acknowledged arc, not a reward that arrived separately, as what's actually happening.",
   },
