@@ -111,6 +111,8 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "102 calls for movement despite incomplete information, not waiting for certainty that may never fully arrive. In a twin flame context this favors taking one actual step, reaching out, being honest about where you stand, without needing guaranteed proof of how it lands first. In reunion, 102 suggests the step itself, taken on faith, is what the moment is actually asking for, not more waiting for a clearer sign. In separation, this number favors trusting that faith and reasonable caution can coexist, so a genuine step forward doesn't require abandoning judgment.",
     manifestation:
       "102 manifests by acting on genuine faith rather than waiting for full certainty — the practical move is taking one concrete step today on a decision you've delayed, since this number's folklore treats that trust-based movement, not more waiting, as what the moment calls for.",
   },
@@ -179,6 +181,8 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "104 builds its case on small, repeated effort, not one dramatic gesture, producing a result significant enough to feel miraculous. In a twin flame context this favors trusting that the unglamorous, daily work you've been doing on yourself is genuinely capable of producing real shift, more than waiting for one big moment would. In reunion, 104 suggests what's arriving now is the cumulative result of consistency, not luck. In separation, this number favors honoring small, steady effort as legitimate progress, worth continuing exactly because it compounds, even when no single day of it looks remarkable.",
     manifestation:
       "104 manifests by trusting cumulative, consistent effort — the practical move is continuing one small habit today without waiting for a single dramatic breakthrough, since this number's folklore treats that steady accumulation as what actually produces remarkable results.",
   },
@@ -247,6 +251,8 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "106 makes emptying the actual mechanism, not a loss to mourn: clearing old grievances or expectations is specifically what makes room for something real to fill the space. In a twin flame context this favors releasing a specific old resentment or a rigid picture of how reunion has to look, not because the connection doesn't matter, but because the old version is what's blocking room for the real one. In reunion, 106 suggests what's arriving now needed that clearing to have somewhere to land. In separation, this number favors trusting that emptying a specific expectation is generative here, not something you're losing.",
     manifestation:
       "106 manifests by treating emotional release as generative — the practical move is consciously letting go of one piece of old emotional clutter today, since this number's folklore treats that clearing, not holding on, as what makes room for genuine care to fill in.",
   },
@@ -315,6 +321,8 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "109 takes the pressure off understanding the whole journey, asking only for the next early, concrete step. Where a number like 29 is about balancing mission with partnership, 109 is more basic: just take the next actual step, even without full clarity on where this larger path leads. In reunion, 109 suggests one small, specific action toward your own purpose right now is legitimate progress, not a detour from the connection. In separation, this number favors trusting an early step as real, worth taking now rather than waiting until the entire picture makes sense.",
     manifestation:
       "109 manifests by trusting an early step as legitimate progress — the practical move is taking one concrete action today toward a larger purpose, without needing the entire path clear first, since this number's folklore treats that trust in beginnings as what actually gets the longer journey moving.",
   },
@@ -385,6 +393,8 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "112 treats genuine positivity as an active force, not a pleasant mood disconnected from outcomes. In a twin flame context this favors trusting that real, grounded hope, not forced cheerfulness or denial, has a practical effect on what actually becomes possible for the connection. In reunion, 112 suggests the outlook you've been holding is part of what's opening this door, worth continuing rather than second-guessing as naive. In separation, this number favors maintaining honest, grounded positivity as a legitimate stance, distinct from both despair and forced optimism, since it genuinely shapes what stays open.",
     manifestation:
       "112 manifests by maintaining genuine, grounded positivity rather than forced cheerfulness — the practical move is holding a real positive outlook today about one specific situation, since this number's folklore treats that authentic positivity, not performance, as what actually opens doors.",
   },
@@ -419,6 +429,8 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "113 marks the specific moment an idea stops being abstract and actually lands, worth acting on immediately rather than continuing to just appreciate it. In a twin flame context this favors noticing when a flash of clarity about the connection, what to say, when to reach out, has moved from a passing thought into something real enough to act on. In reunion, 113 suggests this is exactly that moment, worth trusting rather than talking yourself back into hesitation. In separation, this number favors recognizing when an inspired understanding has become concrete enough to write down or act on, not just admire.",
     manifestation:
       "113 manifests by acting concretely on landing inspiration rather than letting it stay abstract — the practical move is taking one tangible step today on an idea that's actually manifesting, since this number's folklore treats that concrete action as what completes the manifestation.",
   },
@@ -487,6 +499,8 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "115 goes for a full refresh over a small tweak, an outward change substantial enough to actually notice, not a minor adjustment to the same old presentation. In a twin flame context this favors embracing a genuinely comprehensive shift in how you're showing up, a new routine, a new look, a new way of living, rather than fine-tuning the previous version. In reunion, 115 suggests the person meeting this connection again is visibly, not just internally, different. In separation, this number favors letting this stretch produce a real outward change, not only quiet internal growth nobody else can see yet.",
     manifestation:
       "115 manifests by embracing comprehensive rather than superficial change — the practical move is making one fuller change today to how you present or approach something, since this number's folklore treats that fuller commitment as what makes the refresh genuinely land.",
   },
@@ -521,6 +535,8 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "116 locates the shift specifically in your home atmosphere, separate from any development in the connection itself. In a twin flame context this favors noticing when the mood, energy, or daily feeling of your living space has genuinely lightened, worth welcoming on its own terms rather than only as a sign about the bond. In reunion, 116 suggests this brightened atmosphere is part of what makes renewed contact feel different this time. In separation, this number favors letting your home life feel lighter right now, independent of what's happening, or not happening, with the connection.",
     manifestation:
       "116 manifests by actively welcoming lightening energy rather than overlooking it — the practical move is noticing and appreciating one way ease is entering your home today, since this number's folklore treats that recognition as what allows the brightening to continue.",
   },

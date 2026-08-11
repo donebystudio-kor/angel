@@ -538,6 +538,8 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "25 favors diving in over continuing to deliberate at the edge, naming faith, not more information, as the actual missing ingredient. In a twin flame context this favors recognizing when you already have what you need to move, and further analysis is just another form of standing still. In reunion, 25 suggests trusting a coming shift enough to actually step into it, rather than gathering more reassurance first. In separation, this number favors committing to trust a current change fully, since the hesitation itself, more than the uncertainty, may be what's keeping you at the edge.",
     manifestation:
       "25 manifests by trusting enough to commit rather than continuing to deliberate — the practical move is diving into one specific change today that you've been hesitating on, since this number's folklore treats that trust-based commitment as what the moment calls for.",
   },
@@ -572,6 +574,8 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Twin flame situations have a specific way of pitting two things against each other, the practical and the emotional, and 26 asks for genuine balance between them rather than letting either dominate. In reunion, 26 favors keeping both in view at once, not letting practical concerns about timing or circumstances override what you actually feel, or swinging the other way and ignoring logistics entirely. In separation, this number favors actively maintaining that balance right now, since leaning entirely into logistics or entirely into feeling tends to distort the picture, and a clearer read needs both.",
     manifestation:
       "26 manifests by actively maintaining balance between material and emotional concerns — the practical move is checking today whether one has been dominating and adjusting accordingly, since this number's folklore treats that active balance as what keeps both genuinely healthy.",
   },
@@ -714,6 +718,8 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "30 treats expression as genuinely time-sensitive, not something that keeps indefinitely unspoken. In a twin flame context this favors naming a specific feeling or realization about the connection now, rather than assuming there will always be a later moment for it. In reunion, 30 suggests saying the thing you've been holding back, once contact allows it, rather than letting the window close again. In separation, this number favors putting words to what you're actually feeling before it quietly fades into something vaguer and harder to name.",
     manifestation:
       "30 manifests by expressing an idea before it fades — the practical move is saying or creating one specific thing today that's been sitting unspoken, since this number's folklore treats that timely expression as what actually preserves it.",
   },

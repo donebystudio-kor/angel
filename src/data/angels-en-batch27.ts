@@ -174,6 +174,8 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "36 puts a specific order first: your own emotional cup, before continuing to pour outward, even toward this connection. In a twin flame context this directly counters the instinct to keep giving to the bond while running on empty yourself. In reunion, 36 favors making sure what you bring to renewed contact comes from genuine fullness, not depletion disguised as devotion. In separation, this number favors treating your own emotional needs as the actual priority right now, not a selfish delay before the real work, since sustainable care for the connection starts with care for yourself.",
     manifestation:
       "36 manifests by prioritizing genuine self-care as necessary maintenance — the practical move is taking one concrete step today to fill your own emotional cup before giving outward, since this number's folklore treats that fullness, not depletion, as what sustains giving long-term.",
   },
@@ -348,6 +350,8 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "41 credits thought itself as constructive, not just reflective, which is a step earlier than a number like 141's emphasis on active will. In a twin flame context this favors noticing that how you're currently thinking about this connection, hopeful, resentful, patient, anxious, is actively laying the groundwork for what comes next, before any action even happens. In reunion, 41 favors directing your thinking deliberately toward the foundation you actually want. In separation, this number suggests your current mindset isn't neutral background noise, it's genuinely building something, worth choosing on purpose rather than letting it run unattended.",
     manifestation:
       "41 manifests by deliberately directing thought as a construction tool — the practical move is choosing today, on purpose, what foundation your current thinking is building, since this number's folklore treats that deliberate direction as what shapes the resulting ground.",
   },
@@ -524,6 +528,8 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "47 traces real clarity back to ongoing, disciplined effort, not to insight arriving on its own. In a twin flame context this favors recognizing that the steady work you've kept doing, journaling, reflecting, actually sitting with hard questions, is the direct cause of whatever understanding you're reaching now, not a coincidence running alongside it. In reunion, 47 suggests the clarity guiding you now exists because you kept practicing, not because it simply showed up. In separation, this number favors continuing that diligent practice, trusting it as the actual mechanism producing light, rather than waiting passively for insight to arrive unprompted.",
     manifestation:
       "47 manifests by trusting diligent practice as the source of clarity — the practical move is continuing one disciplined effort today, since this number's folklore treats that steady diligence, not passive waiting, as what actually brings the light.",
   },

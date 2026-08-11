@@ -105,6 +105,8 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "146 specifies durable balance, not a fragile truce likely to tip over again soon. In a twin flame context this favors recognizing when your outward life direction and your inner, emotional work around the connection have actually settled into something stable together, rather than constantly competing for priority. In reunion, 146 suggests this balance is solid enough to trust, not a temporary compromise you're bracing to lose. In separation, this number favors trusting that your outer path and your inner healing can genuinely support each other right now, rather than treating one as always at the other's expense.",
     manifestation:
       "146 manifests by trusting and reinforcing a genuinely forming balance — the practical move is taking one action today that supports the current equilibrium between career and home, since this number's folklore treats that active reinforcement as what makes the balance durable.",
   },

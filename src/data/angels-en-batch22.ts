@@ -110,6 +110,8 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "125 refuses to wait for change to finish before allowing balance, and that's a direct answer to a common twin flame frustration: feeling like steadiness is only possible once the uncertainty resolves. In reunion, 125 favors trusting that real equilibrium is available now, inside the current adjustment period, not reserved for some calmer future stage. In separation, this number suggests balance and not-knowing can genuinely coexist, worth finding within the current flux rather than treating stability as something waiting on the other side of resolution.",
     manifestation:
       "125 manifests by actively finding balance within ongoing change rather than waiting for it to end — the practical move is identifying one point of real equilibrium today amid a current change, since this number's folklore treats that active balance, not delayed stability, as what actually serves the partnership.",
   },
@@ -284,6 +286,8 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "130 says the moment for a leap has arrived, not more careful planning around it. In a twin flame context this favors recognizing when you've genuinely prepared enough, and continuing to strategize is actually delaying rather than helping. In reunion, 130 suggests trusting the moment for a bold move, reaching out first, saying the true thing, over refining the approach yet again. In separation, this number favors taking one decisive creative risk in how you're using this stretch, rather than continuing to plan a version of it that never actually happens.",
     manifestation:
       "130 manifests by taking a decisive creative leap rather than continuing to plan — the practical move is committing to one bold action today that you've been preparing for, since this number's folklore treats that leap, not further preparation, as what the moment calls for.",
   },
@@ -318,6 +322,8 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "131 credits steady confidence itself, not the perfect approach or timing, as the actual mechanism at work here. In a twin flame context this favors recognizing that your own consistent self-assurance, more than any specific tactic, is what's actually opening room for honest expression here. In reunion, 131 suggests holding your confidence steady is what makes a bolder, more direct kind of contact possible. In separation, this number favors building that steady self-belief now as the real groundwork, since it's confidence itself, not a perfect strategy, that eventually opens the path.",
     manifestation:
       "131 manifests by trusting steady self-confidence as the path-opener — the practical move is taking one creative or expressive risk today, trusting your own confidence as sufficient, since this number's folklore treats that self-trust as what actually unlocks the opportunity.",
   },
@@ -458,6 +464,8 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "135 puts you in the lead role, not a number like 53's external guidance, but your own initiative as the actual source of the coming shift. In a twin flame context this favors recognizing when waiting for the other person, or for circumstances, to make the first move has quietly become the obstacle itself. In reunion, 135 favors being the one who initiates, a direct conversation, a genuine first step, rather than continuing to wait it out. In separation, this number favors recognizing your own agency as the source of whatever changes next, not a passive position of simply enduring until something else moves first.",
     manifestation:
       "135 manifests by actively taking the lead on needed change — the practical move is initiating one concrete change today rather than waiting for it to arrive, since this number's folklore treats that active leadership, not passive waiting, as what the moment calls for.",
   },
