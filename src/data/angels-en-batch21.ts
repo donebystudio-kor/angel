@@ -147,6 +147,8 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "103 arrives after you've already begun, not before, support specifically meeting an effort already underway rather than backing you from the very start. In a twin flame context this favors accepting help, an insight, a resource, another person's perspective, that shows up once you're already actively working on understanding or building this connection, rather than assuming you have to figure it out entirely alone. In reunion, 103 suggests welcoming this outside support as part of what's making the effort land, not a sign you needed it because you were failing. In separation, this number favors accepting real help with your own inner work now, rather than insisting on total self-sufficiency.",
     manifestation:
       "103 manifests by accepting available support rather than insisting on total self-sufficiency — the practical move is accepting one piece of help today with a creative effort already in motion, since this number's folklore treats that openness to support as what actually strengthens the creative process.",
   },
@@ -217,6 +219,8 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "105 puts you at an actual door, not just anticipating a shift like a number such as 188, but facing one already knocking, waiting on your response. In a twin flame context this favors actually answering, a message, an opening, a change in how you're approaching things, rather than noticing it and continuing to wait. In reunion, 105 suggests the change currently at the door deserves a direct answer now, not further delay disguised as caution. In separation, this number favors engaging honestly with what's already arrived, rather than pretending not to have noticed it yet.",
     manifestation:
       "105 manifests by directly engaging with an arriving change rather than avoiding it — the practical move is naming and addressing one change that's currently knocking today, since this number's folklore treats that direct engagement, not avoidance, as what actually serves you.",
   },
@@ -465,6 +469,8 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "114 treats construction as the actual next step, not further refinement of the vision itself. Where a number like 141 emphasizes will as the shaping force, 114 is more concrete: stop polishing the mental picture of this connection's future and start building one real piece of it. In reunion, 114 favors taking one tangible action toward the future you've been imagining, rather than continuing to only picture it. In separation, this number favors treating your own growth as something to actually construct piece by piece now, not a vision to keep refining in your head.",
     manifestation:
       "114 manifests by shifting from vision to construction — the practical move is taking one concrete building step today on an idea you've been holding, since this number's folklore treats that active construction, not further refinement, as what the moment calls for.",
   },

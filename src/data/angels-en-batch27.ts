@@ -36,6 +36,8 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "31 traces back to a seed already planted, not effort still being repeated like a number such as 104, or positivity acting immediately like 112, this one is a hopeful decision quietly growing on its own timeline. In a twin flame context this favors trusting that a hopeful choice you made about this connection some time ago is genuinely still developing, even without dramatic visible progress since. In reunion, 31 suggests what's arriving now traces back to that earlier planted hope. In separation, this number favors tending that original seed of hope rather than assuming it needs replanting just because growth isn't obvious yet.",
     manifestation:
       "31 manifests by tending a growth already underway — the practical move is nurturing one positive mindset or decision today, trusting it's genuinely developing, since this number's folklore treats that gentle tending, not doubt or replanting, as what helps it flourish.",
   },
@@ -70,6 +72,8 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "32 wants faith expressed, not held privately, treating the actual practice of living it out as what builds the path, rather than a path that has to appear first before faith counts. In a twin flame context this favors actively expressing trust in the connection, through words, through consistent action, not just quietly feeling hopeful about it internally. In reunion, 32 suggests the visible practice of your faith is part of what's actually paving this way forward. In separation, this number favors treating expressed, lived faith as the mechanism itself, not passive waiting for proof before you're willing to practice it.",
     manifestation:
       "32 manifests through actively expressed faith rather than passive belief — the practical move is taking one action today that genuinely expresses your faith in a direction, since this number's folklore treats that active expression as what actually paves the path forward.",
   },
@@ -140,6 +144,8 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "35 locates real blooming inside the unsettled period itself, not despite it, and not tied specifically to home life the way a number like 65 is. In a twin flame context this favors noticing genuine growth in how you're expressing or understanding yourself happening precisely within this uncertain stretch, not waiting for calm to resume first. In reunion, 35 suggests the changes reshaping the connection are fertile ground, not just disruption to survive. In separation, this number favors trusting that real flourishing is possible now, inside the mess of not knowing, rather than treating this period as empty time before real growth can resume.",
     manifestation:
       "35 manifests by nurturing creative growth happening within change — the practical move is actively tending one piece of creative flourishing today, even amid ongoing change, since this number's folklore treats that active nurturing, not waiting for stability, as what helps it bloom.",
   },
@@ -210,6 +216,8 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "37 confirms something more specific than a number like 67's general path-trust or 147's understanding-based reassurance: your actual instinct about how to express what you're going through is correctly aligned. In a twin flame context this favors trusting your gut about how you've been choosing to communicate, or not communicate, about this connection, rather than second-guessing the approach itself. In reunion, 37 suggests the way you've been instinctively choosing to express yourself here is confirmed as sound. In separation, this number favors accepting that your expressive instincts around this experience are trustworthy, worth fully trusting rather than habitually searching for a better approach.",
     manifestation:
       "37 manifests by accepting creative confirmation at face value — the practical move is trusting your current creative direction today without further second-guessing, since this number's folklore treats that acceptance as what the reassurance is actually for.",
   },
@@ -494,6 +502,8 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "46 offers a simpler, more immediate invitation than a number like 466's fuller reasoning: set the worry down now, not because the case for its safety has been fully built, but because it's simply time to. In a twin flame context this favors releasing anxious vigilance about the connection's practical dimension, whether there's room, whether circumstances will work, rather than waiting to feel fully reassured first. In reunion, 46 suggests the worry itself has become the heavier weight, worth setting down before every question is answered. In separation, this number favors genuine release of anxious worry, an active practice, not just intellectually agreeing it's unhelpful.",
     manifestation:
       "46 manifests by genuinely releasing worry rather than continuing anxious vigilance — the practical move is consciously setting down one specific home or family worry today, since this number's folklore treats that release, not continued watching, as what the solid foundation actually supports.",
   },
@@ -598,6 +608,8 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "49 marks an actual turn, not just a step like a number such as 109, a change of direction toward your larger purpose that's grounded enough to commit to fully. In a twin flame context this favors recognizing when your sense of what this connection is actually for has genuinely shifted, and trusting that redirection as stable, not a shaky, uncertain reversal. In reunion, 49 suggests the turn you've made in how you understand your own purpose here is well-supported, worth committing to completely. In separation, this number favors trusting a real pivot in direction, grounded rather than reactive, as safe to fully commit to right now.",
     manifestation:
       "49 manifests by fully committing to a well-grounded pivot toward purpose — the practical move is taking one committed step today rather than hesitating, since this number's folklore treats that full commitment as what the well-supported turn actually calls for.",
   },

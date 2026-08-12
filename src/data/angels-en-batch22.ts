@@ -146,6 +146,8 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "126 pins down the source specifically, where 116 describes a general lightening, this number ties the fresh energy directly to a relationship dynamic, not circumstance in general. In a twin flame context this favors recognizing when this particular connection, not life broadly, is what's actually refreshing your daily environment right now. In reunion, 126 suggests the renewed contact itself is what's changing the atmosphere at home, worth naming as its actual source. In separation, this number favors noticing if a different close relationship is currently doing that refreshing work, since the source matters here, not just the refreshment.",
     manifestation:
       "126 manifests by actively investing in the specific relationship refreshing your home — the practical move is identifying that connection today and nurturing it deliberately, since this number's folklore treats that focused investment as what sustains the fresh domestic energy.",
   },
@@ -500,6 +502,8 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "136 specifies the quality of the fresh energy, not a general mood lift like 116, but something distinctly creative: new ideas, new projects, a new way of expressing what you're going through. In a twin flame context this favors channeling what you're feeling about the connection into an actual creative outlet, writing, art, rearranging your space, rather than only sitting with the feeling. In reunion, 136 suggests a creative project connected to this chapter is what your home currently wants. In separation, this number favors trusting that a creative outlet, not just processing internally, is genuinely what this stretch is asking for.",
     manifestation:
       "136 manifests by channeling fresh energy into an actual creative project — the practical move is starting one specifically creative home-related effort today, since this number's folklore treats that active creative channeling, not just noticing a mood shift, as what the fresh energy is actually for.",
   },
@@ -568,6 +572,8 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "138 insists the channel is already active, not something still proving itself before it counts. In a twin flame context this favors trusting that creative expression, writing about the connection, making something inspired by it, is already producing real richness right now, insight, peace, unexpected clarity, not a hopeful investment that might pay off eventually. In reunion, 138 suggests continuing to engage that channel actively, since it's genuinely open now. In separation, this number favors trusting that whatever you're creatively channeling through this experience is real abundance already flowing, worth continuing rather than waiting for external proof first.",
     manifestation:
       "138 manifests by continuing to invest in the specific creative source of current abundance — the practical move is dedicating time today to the creative effort that's already producing real benefit, since this number's folklore treats that continued investment as what sustains the flow.",
   },

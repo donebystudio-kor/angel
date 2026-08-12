@@ -214,6 +214,8 @@ export const EN_BATCH6_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "234 reads like a progress report, not an instruction: whatever stage of this journey you're in is unfolding in the right order, at the right pace, even without a dramatic milestone yet. In a twin flame context this favors trusting that the gradual deepening, of trust, of your own clarity, of the connection itself, is genuinely on schedule, not behind some faster timeline you're comparing it to. In reunion, 234 suggests each stage is building properly on the last. In separation, this number favors trusting your own growth is progressing correctly, in its actual order, without rushing toward a stage you haven't actually reached yet.",
     manifestation:
       "234 manifests through respecting the natural order of a goal's stages — the practical move is trusting the current stage rather than trying to skip to the result, since this number's folklore specifically rewards patience with the process over urgency about the outcome.",
   },
@@ -248,6 +250,8 @@ export const EN_BATCH6_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "432 counts down where 234 counts up, and the reversal changes the ask: instead of confirming steady forward growth, this number wants you to strip away complexity that's built up around the connection over time. In a twin flame context this favors dropping the accumulated checklist, every sign catalogued, every theory considered, every community rule applied, and returning to what actually matters underneath it. In reunion, 432 suggests decluttering your own overthinking before adding anything new to track. In separation, this number favors picking the one or two things that genuinely matter right now and letting the rest of the accumulated noise go.",
     manifestation:
       "432 manifests through subtraction rather than addition — the practical move is removing everything unnecessary from around a goal before adding anything new to it, since this number's folklore treats simplicity itself as the thing that clears the way.",
   },
@@ -282,6 +286,8 @@ export const EN_BATCH6_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "456 marks a specific arrival, not general stability like a number such as 40, the actual moment recent turbulence around this connection settles into something workable. In a twin flame context this favors recognizing when the uncertainty you've been navigating has genuinely landed into a steadier shape, worth naming rather than continuing to brace for more instability out of habit. In reunion, 456 suggests this is a good moment to discuss what comes next, since things have actually settled enough to build on. In separation, this number favors trusting that your own recent turbulence has reached solid ground now, even if it doesn't feel dramatic.",
     manifestation:
       "456 manifests by confirming that recent change has genuinely resolved into something workable — the practical move is building your next plan on this newly settled ground rather than continuing to brace for further instability that's actually already passed.",
   },
@@ -316,6 +322,8 @@ export const EN_BATCH6_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "654 counts down from 456's arrival into a narrower, gentler task: reorganizing a specific pattern in how you relate, not life in general. In a twin flame context this favors noticing one habit connected to this connection, a way of waiting, a way of checking for signs, an old wound you keep protecting, that's ready to be retired kindly, without self-judgment. In reunion, 654 suggests gently reorganizing how you show up now that the pattern has done its job. In separation, this number favors addressing one repeated pattern directly, and kindly, rather than letting it continue quietly out of habit.",
     manifestation:
       "654 manifests through gentle, deliberate reorganizing rather than a dramatic overhaul — the practical move is addressing one small domestic or relational pattern directly and kindly, trusting that a bigger sense of ease follows from the small fix rather than requiring a complete restructuring.",
   },

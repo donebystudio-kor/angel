@@ -286,6 +286,8 @@ export const EN_BATCH2_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "1234 is the only fully sequential number in this set, and that sequence is the entire message: whatever stage of this connection you're in is progressing correctly, even if it feels slower than you'd like. In a twin flame context this favors trusting the actual order of the stages, awakening, testing, distance, growth, rather than skipping ahead to reunion before the earlier stages have done their work. In reunion, 1234 suggests what's arriving now only holds because the earlier steps weren't skipped. In separation, this number favors trusting that wherever you are is the correct stage for you, not a sign of falling behind some faster version of this journey.",
     manifestation:
       "1234's manifestation logic rewards sequencing over intensity — the practice tied to this number is mapping the actual steps between now and the goal and committing to them in order, rather than trying to manifest the end result directly while skipping the stages in between.",
   },
