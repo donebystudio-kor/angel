@@ -359,7 +359,7 @@ export const EN_BATCH6_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "678 marks an actual payoff stretch, not a single reward moment, the visible result of groundwork you've already laid showing up now through more than one channel at once. In a twin flame context this favors recognizing when ease, clarity, and renewed contact are arriving together as a connected stretch, not a lone lucky break. In reunion, 678 suggests this payoff period follows directly from work already done, worth trusting rather than second-guessing as too good to be earned. In separation, this number favors noticing when multiple areas of your own life are settling well at once, since that convergence tends to precede real movement in the connection too.",
+      "678 marks a payoff stretch rather than a single reward, groundwork already laid showing up now through more than one channel at once. Ease, clarity, and renewed contact can converge in the same period for twin flames, though the number doesn't guarantee all three arrive together or that contact is one of them. Should reconnection be part of that convergence, trust it as earned rather than second-guessing the timing. Short of that, the same convergence in your own clarity and stability is still worth noticing, since it tends to precede movement in the connection more than follow it.",
     manifestation:
       "678 manifests by recognizing and building on payoff that's already arriving rather than starting a new intention — the practical move is reinvesting part of a current win into the next stage, since this number's folklore treats visible success as fuel for further growth rather than a finish line.",
   },

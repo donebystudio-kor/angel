@@ -395,7 +395,7 @@ export const EN_BATCH8_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "345 is building toward something, not just confirming steady progress the way a number like 234 does. In a twin flame context this favors noticing that whatever creative clarity or emotional groundwork you've been gaining around this connection is gathering real structure, and that structure is about to become the platform for an actual bold move. In reunion, 345 suggests the moment for that leap, reaching out, saying the real thing, is approaching, not indefinitely postponed. In separation, this number favors trusting that the momentum currently building in your own growth is heading somewhere active, not staying internal forever.",
+      "345 doesn't confirm a process the way 234 does, it builds toward one, creative or emotional groundwork gathering enough structure to become a launchpad for something bolder. Among twin flames this often looks like private clarity, about what you want to say, or do, or stop tolerating, taking on real shape rather than staying a vague feeling. Once contact exists, that gathered structure tends to become the actual leap: the message finally sent, the honest conversation finally had. Where contact hasn't resumed, the same momentum is still doing real work, building toward a version of yourself that can act clearly whenever the moment does arrive.",
     manifestation:
       "345 manifests by building structure under a creative idea until it can support a real leap — the practical move is adding one concrete piece of structure to a creative idea today (a plan, a schedule, a first version) rather than waiting for more inspiration.",
   },
@@ -431,7 +431,7 @@ export const EN_BATCH8_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "543 quiets what 345 built up: instead of momentum toward a leap, this is a recent chaotic stretch finally settling enough that your actual voice can come through again. In a twin flame context this favors trusting the quieter, clearer read on the connection that's emerging now, over the noise of whatever confusion or urgency came before it. In reunion, 543 suggests what you're hearing from yourself now, calmer and clearer, is more trustworthy than what the chaos was telling you. In separation, this number favors letting the recent turbulence settle before deciding anything, since your genuine feeling about this needs the quiet to actually be heard.",
+      "Where 345 gathers momentum toward a leap, 543 describes the opposite motion: a chaotic stretch finally quieting enough for your actual voice to come through. Twin flames often reach this point after a run of confusion, mixed signals, conflicting advice, an unclear read on the connection, that's now settling into something plainer. With contact reestablished, what you're hearing from yourself in the calm deserves more trust than whatever the earlier noise was insisting. Still apart, the wiser move is waiting out the settling before deciding anything definite, since a read taken mid-chaos rarely holds up once things go quiet.",
     manifestation:
       "543 manifests by trusting the clarity that follows disruption rather than the noise during it — the practical move is stating your genuine want plainly now, since this number's folklore treats post-chaos clarity as more reliable than anything decided mid-chaos.",
   },
@@ -467,7 +467,7 @@ export const EN_BATCH8_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "567 goes further inward than a number like 456's practical landing: here, external change matures first into genuine internal peace, and that peace opens into real spiritual understanding. In a twin flame context this favors noticing when the upheaval of separation or distance has actually settled into something calmer inside you, not just a more workable outer arrangement. In reunion, 567 suggests the peace you've reached is what's opening deeper clarity about the connection itself. In separation, this number favors recognizing how far you've come, from turbulence to real peace to genuine insight, since that arc is happening whether or not contact has resumed.",
+      "567 moves further inward than a number like 456's practical landing, external change here maturing first into real peace, and that peace opening into deeper understanding. Twin flames tend to notice this as the upheaval of distance actually settling into something calmer, not just a more workable arrangement with the discomfort. Should reunion follow, the peace reached along the way is usually what makes the reconnection feel steady rather than urgent. If it doesn't, the arc from turbulence to peace to insight is still real and worth counting, a separate outcome from reunion, not a consolation prize standing in for it.",
     manifestation:
       "567 manifests through recognizing peace as a milestone in its own right — the practical move is naming one specific area where change has actually brought genuine peace, since this number's folklore treats that recognition as opening the door to deeper insight, more than seeking new answers would.",
   },
@@ -503,7 +503,7 @@ export const EN_BATCH8_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "765 reverses 567's arc, moving insight downward into ordinary daily action instead of upward into deeper peace. In a twin flame context this favors taking whatever high-level realization you've reached about this connection, why it matters, what it's teaching you, and actually translating it into one concrete daily habit, not leaving it as a nice idea you had once. In reunion, 765 suggests the insight only becomes useful once it changes something you actually do regularly. In separation, this number favors turning a meaningful realization into a small, repeated practice, since abstract wisdom about the bond does less than one habit genuinely lived out.",
+      "765 reverses that arc, taking insight and pushing it back outward into ordinary daily action instead of further inward into peace. In a twin flame situation this favors turning whatever you've realized, about the bond, about yourself, about what you actually need, into one small habit rather than leaving it as a private realization. That habit matters whether or not the connection is currently active: a changed daily practice holds up regardless of contact, unlike an insight that stays abstract and quietly fades. The test of whether the realization was real is usually what it changes about an ordinary Tuesday, not how meaningful it felt in the moment.",
     manifestation:
       "765 manifests by grounding insight in one small daily action — the practical move is picking a single ordinary habit that reflects a realization you've already had, since this number's folklore treats grounded practice, not further insight, as the actual next step.",
   },
@@ -539,7 +539,7 @@ export const EN_BATCH8_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "987 asks for an actual pause, not immediate momentum into what's next, external completion here specifically needs to settle into reflection first. In a twin flame context this favors recognizing when a chapter connected to this bond, a stage of separation, a pattern, a specific hope, is genuinely finishing, and giving that completion real acknowledgment before pursuing anything new. In reunion, 987 suggests translating whatever this chapter taught you into actual understanding before treating reconnection as the next task to tackle. In separation, this number favors a genuine reflective pause now, rather than rushing straight from one hope to the next without processing what just ended.",
+      "987 asks for a pause rather than momentum, an external ending here needing to settle into reflection before anything else starts. A specific chapter, a stage of distance, a hope, a pattern, may be genuinely finishing for twin flames right now, and that deserves to register fully instead of triggering an immediate rush toward what's next. Reconnected already, whatever this chapter taught you is worth carrying in consciously rather than left behind in the rush to reconnect. Not yet reconnected, the pause itself is the point right now, not a delay before real progress, but the actual work this stretch is asking for.",
     manifestation:
       "987 manifests by pausing to integrate completion before adding a new intention — the practical move is taking real stock of what's finished today, since this number's folklore treats that reflection as what prepares the ground for the next chapter, more than rushing ahead would.",
   },
@@ -609,7 +609,7 @@ export const EN_BATCH8_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "5678 makes an explicit causal claim a number like 678 doesn't: the recent change wasn't separate from the reward that follows, it's the actual fuel for it. In a twin flame context this favors naming the discomfort of a recent shift, in the connection, in your own life, as directly what's propelling the better stretch now arriving. In reunion, 5678 suggests this liftoff only works because of the friction that preceded it, worth acknowledging rather than forgetting once things ease. In separation, this number favors trusting that the hardest part of this change is doing productive work right now, not simply something to endure before real progress starts.",
+      "5678 adds change at the front of 678's payoff arc, making a claim that number doesn't: the difficulty beforehand isn't separate from what follows, it's the actual fuel for it. A recent hard stretch, in the connection or in your own life, is worth naming as directly what's propelling a better one now, rather than an unrelated cost paid first. Reunited, remember it only works because of the friction that came before. Where it hasn't happened yet, the same logic holds inward: the hardest part of this change is doing real, productive work right now, not simply something to survive.",
     manifestation:
       "5678 manifests by connecting a past change directly to a present reward — the practical move is naming that cause-and-effect link explicitly, since this number's folklore treats that recognition as what sustains the momentum, more than treating the reward as unrelated luck.",
   },
