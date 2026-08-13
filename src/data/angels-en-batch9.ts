@@ -180,6 +180,8 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "789 moves fast and close together, not a slow multi-stage arc like longer sequences in this set, good developments arriving in quick succession rather than unfolding gradually. In a twin flame context this favors noticing several small positive signs, a moment of clarity, an easier conversation, a quieter mind, showing up in quick succession rather than waiting for one dramatic breakthrough. In reunion, 789 suggests these connected small developments are the actual shape reconnection is taking, not a prelude to something bigger. In separation, this number favors tracking a short run of good moments as genuinely connected, worth naming rather than dismissing individually as too small to count.",
     manifestation:
       "789 manifests through quick, connected momentum rather than a single, larger request — the practical move is noticing and building on one small good development the moment it happens, since this number's folklore treats a fast follow-through as what extends the run rather than letting it pass unnoticed.",
   },
@@ -214,6 +216,8 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "876 questions what 678's payoff is actually for. In a twin flame context this favors recognizing that whatever stability or personal growth you've already built is ready to be shared, redirected toward genuine warmth in this connection, rather than continuing to accumulate more growth alone. In reunion, 876 suggests the achievement you've reached matters less than what you do with it once contact resumes. In separation, this number favors noticing if you've been treating personal growth as the whole goal, when it was always meant to open room for real closeness, not replace the need for it.",
     manifestation:
       "876 manifests by redirecting existing achievement rather than pursuing more of it — the practical move is choosing one concrete way to put existing success toward home or relationship today, since this number's folklore treats that redirection, not further accumulation, as the actual next step.",
   },
@@ -248,6 +252,8 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "3456 finishes what 345 starts: the leap that number builds toward actually lands here, somewhere real and stable, specifically touching connection rather than staying personal achievement. In a twin flame context this favors trusting that the creative, emotional groundwork you've been building isn't just internal progress, it's close to producing something genuinely settled with this connection, not just interesting movement around it. In reunion, 3456 suggests what's forming now is landing, not just another promising development. In separation, this number favors trusting that your own long arc of growth is integrating into something real and stable, whether or not it yet involves renewed contact.",
     manifestation:
       "3456 manifests by carrying creative momentum all the way to a stable landing point — the practical move is identifying what's closest to completion and giving it the final structural push, since this number's folklore treats the landing, not just the leap, as the actual goal.",
   },

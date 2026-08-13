@@ -432,6 +432,8 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "134 narrows the frame from a number like 114's broader vision-into-reality message down to one specific creative idea, not a general sense of the future, ready for actual construction now. In a twin flame context this favors recognizing a specific expressive idea you've had about this connection, a way to say something, a project, a gesture, as ready to build, not refine further in your head. In reunion, 134 favors acting on that specific creative idea directly. In separation, this number favors treating one particular idea you've been holding as construction-ready now, rather than continuing to polish it privately without ever making it real.",
     manifestation:
       "134 manifests by building a specific creative idea into real form — the practical move is taking one concrete construction step today on an idea that's already fully formed, since this number's folklore treats that active building, not further conceptual refinement, as what's actually needed.",
   },
@@ -538,6 +540,8 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "137 narrows the question to something creative, distinct from a number like 127's partnership focus: trust your own instinct about how to express something, not whether a decision is settled. In a twin flame context this favors trusting your gut about a specific creative choice connected to this connection, how to say something, what to make, how to show up, rather than seeking outside opinions on something you already sense is right. In reunion, 137 favors acting on that creative instinct directly. In separation, this number favors honoring your own creative read on this time as legitimate guidance, worth trusting rather than deferring to outside authority.",
     manifestation:
       "137 manifests by trusting inner creative wisdom over external validation — the practical move is making one creative decision today based on your own already-settled sense of it, since this number's folklore treats that self-trust as what the moment actually calls for.",
   },
@@ -608,6 +612,8 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "139 is specific about the vehicle, not just a number like 109's general first step: here, expression itself, writing, speaking, making something, is what actually launches the larger purpose into motion. In a twin flame context this favors recognizing that saying or creating something about this connection isn't separate from your larger growth, it's the actual first move of it. In reunion, 139 favors trusting that one honest, expressed thing you say or make is genuinely launching something bigger. In separation, this number favors treating a creative or expressive act, not just private reflection, as the real first step of whatever this chapter is building toward.",
     manifestation:
       "139 manifests by using creative expression as the vehicle for a first step — the practical move is taking one expressive action today specifically to launch a larger purpose into motion, since this number's folklore treats that creative launch, not a purely logistical first step, as what actually gets the mission moving.",
   },

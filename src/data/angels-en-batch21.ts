@@ -291,6 +291,8 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "107 asks you to simply accept the reassurance, not search it for hidden doubt, a plainer confirmation than a number like 147's understanding-backed version or 67's calm-emotion-rooted one. In a twin flame context this favors taking a straightforward sign that you're doing this right at face value, rather than immediately looking for the catch in it. In reunion, 107 suggests the confirmation arriving now doesn't need to be second-guessed before you trust it. In separation, this number favors accepting simple reassurance about your current path as genuine, worth resting in rather than habitually hunting for a hidden problem it might be hiding.",
     manifestation:
       "107 manifests by accepting confirmation at face value rather than continuing to search for doubt — the practical move is trusting your current direction today without further second-guessing, since this number's folklore treats that acceptance as what the reassurance is actually for.",
   },

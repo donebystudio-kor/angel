@@ -639,6 +639,8 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "1199 isn't about the general act of clearing like a number such as 59, it's about already knowing, specifically, exactly what needs to close first. In a twin flame context this favors trusting that you likely already sense which particular pattern, an old wound, an unfinished conversation, a way of waiting, needs to fully end before a real new stage can begin. In reunion, 1199 suggests naming that specific thing directly, rather than avoiding it while hoping reunion happens around it. In separation, this number favors trusting the exact knowing you already have, since the specificity itself is the actual guidance, not a vague sense that something should change.",
     manifestation:
       "1199 manifests by acting on already-known recognition rather than searching for new insight — the practical move is naming the one specific thing you already know needs to end and taking a real step to close it, since this number's folklore treats that existing knowing, not further reflection, as the actual guidance.",
   },

@@ -279,6 +279,8 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "1357 skips every even step on purpose, and that omission is the message: bold, independent leaps, not a careful sequence of small adjustments. In a twin flame context this favors trusting your own decisive instinct about this connection over a slow, incremental approach borrowed from someone else's timeline or a generic stage-by-stage guide. In reunion, 1357 favors one direct, bold move, saying the real thing, reaching out plainly, over cautious half-steps. In separation, this number favors an independent, self-directed way of using this time, trusting your own bold read on what it's for, rather than closely following a standard template for how separation is supposed to go.",
     manifestation:
       "1357 manifests through bold, self-directed action rather than incremental steps — the practical move is taking one decisive leap today on something you've been approaching too gradually, since this number's folklore treats independent, active momentum as the actual mechanism, more than steady, gradual progress.",
   },

@@ -215,6 +215,8 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "149 focuses on the handoff itself, distinct from a number like 119's emphasis on the strength of what's beginning: the closing chapter here is specifically transferring real, usable foundation into the next one, not leaving a gap. In a twin flame context this favors trusting that whatever this stage taught you, patience, clarity, your own worth, is carrying forward intact, not lost when it ends. In reunion, 149 suggests what's opening now is genuinely built on what closed, not starting from zero. In separation, this number favors recognizing that a closing chapter is handing something real forward, worth naming rather than assuming the ending erases what it built.",
     manifestation:
       "149 manifests by consciously carrying real foundation forward from a closing chapter — the practical move is identifying one specific piece of usable groundwork today and bringing it into the new chapter deliberately, since this number's folklore treats that continuity as what makes the transition solid.",
   },
