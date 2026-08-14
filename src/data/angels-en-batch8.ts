@@ -252,6 +252,8 @@ export const EN_BATCH8_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Reunion pace rarely matches for both people at once. When you're ready to restart contact and they seem slower to respond, or vice versa, 0101 describes that gap as normal: the latent readiness is there on both sides, but it activates at slightly different rates. In separation, this number favors not reading a slower response as a signal that the connection has cooled, since 0101's repeated '01' describes a connection that restarts naturally, more than once, rather than one that either rushes or stalls permanently. Notice where impatience might be misreading a natural pace difference.",
     manifestation:
       "0101 manifests through repeated, low-pressure restarts rather than one high-stakes attempt — the practical move is simply beginning again today on whatever you'd stopped, since this number's folklore treats each restart as fully valid, not a lesser version of getting it right the first time.",
   },

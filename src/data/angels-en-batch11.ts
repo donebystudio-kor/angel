@@ -383,6 +383,8 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "An existing communication dynamic between two people rarely evolves on its own — it needs a deliberate fresh angle to shift. 1166 describes that shift specifically: an intuitively-guided update to how you've been engaging rather than a restart from scratch. In a twin flame context, this often means noticing that a familiar way of expressing yourself to or about this person has gotten stale, and that the connection would respond better to a genuinely new tone or approach. In reunion, 1166 can mark a productive shift in how you're actually talking with each other. Reflect on whether the way you're currently communicating this connection to yourself matches who you are now.",
     manifestation:
       "1166 manifests through a fresh approach to something familiar rather than starting over — the practical move is trying one new, intuitively-guided way of engaging with an existing home relationship today, since this number's folklore treats updating, not replacing, as the actual mechanism.",
   },
@@ -451,6 +453,8 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Active, real conversation reveals the pace of a twin flame connection better than any external timeline does. 2233's combination of collaborative stability and expressive energy suggests the speed of genuine dialogue, when it's happening, is the right speed: not the speed you wish it were moving, and not the speed you fear it's slowing to. In reunion, this often appears when the conversations themselves are the connection deepening, and there's no need to accelerate past them toward some further milestone. In separation, 2233 nudges toward finding real, honest dialogue — even with yourself about this connection. What has actually talking about this changed for you lately?",
     manifestation:
       "2233 manifests through spoken exchange rather than solo intention-setting — the practical move is talking an idea through out loud with someone else today, since this number's folklore treats the dialogue itself, not private reflection, as what generates the breakthrough.",
   },
@@ -519,6 +523,8 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "3311 is the expression-unlocks-new-beginning number, and in a twin flame context that unlocking is often internal before it's external. The inner work this number points at isn't abstract preparation — it's a specific act: writing down what you've been carrying about this connection, saying it aloud to a trusted person, creating something with it. That concrete expression is often what shifts the energy more reliably than waiting, because it changes what you're carrying. In reunion, 3311 sometimes appears just before a real breakthrough, in the period when someone has finally said the thing they'd been holding. What have you been carrying about this connection that you haven't expressed, even privately?",
     manifestation:
       "3311 manifests through expression as the unlocking mechanism — the practical move is saying the specific thing you've been withholding today, since this number's folklore treats that act of speaking, not the new beginning itself, as the actual key.",
   },

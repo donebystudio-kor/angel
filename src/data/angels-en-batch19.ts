@@ -39,6 +39,8 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Separation reframes most naturally when looked at through 2255's lens: not as a breakdown of what was built, but as the stable foundation of the connection giving each person the ground to go through significant individual shifts. The relationship isn't fraying; it's functioning as a support structure for transformation that both people will eventually reflect back. In reunion, 2255 is quietly optimistic — what you built together is still working, even when you're apart. In separation, look at which personal changes you couldn't have navigated without the grounding this connection gave you.",
     manifestation:
       "2255 manifests by consciously leaning on existing stability to face change — the practical move is drawing on one stable relationship today specifically to help navigate a current shift, since this number's folklore treats that established partnership, not facing change alone, as what makes the transition manageable.",
   },
@@ -73,6 +75,8 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "2266 describes a core partnership's stability producing harmony outward — which means disruptions to that harmony can often be traced back to something specific within the core dynamic. In a twin flame context, this number favors identifying which patterns or expectations are creating dissonance in the connection and releasing those, rather than releasing the connection itself. In separation, letting go of a specific way of relating — not the relationship — tends to be what restores the wider sense of harmony. In reunion, the core stability is what's worth preserving, even as particular forms it once took are released. What are you still holding that disrupts rather than supports what's real between you?",
     manifestation:
       "2266 manifests by investing in a core partnership as the source of broader harmony — the practical move is deliberately nurturing one central relationship today, since this number's folklore treats that investment, not managing every downstream detail separately, as what produces the wider ease.",
   },
@@ -107,6 +111,8 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "3322 frames honest communication as what builds toward stability — and in a twin flame context, that often happens through third parties before it happens directly. Conversations with trusted friends, perspectives from mutual circles, the way people who know both of you are processing the dynamic: all of this can be working toward a more stable situation even when no direct contact is occurring. In reunion, the social groundwork laid through third-party conversations often quietly paves the way. In separation, external perspectives can genuinely reshape how you understand the connection. What are the people closest to you actually saying about this, and are you fully hearing them?",
     manifestation:
       "3322 manifests by trusting exploratory, creative conversation as genuinely constructive — the practical move is having one honest, open conversation today rather than waiting for more certainty first, since this number's folklore treats that communication as what's actively building the resulting stability.",
   },
@@ -141,6 +147,8 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "3355 describes a clear sequence: honest expression first, and then, as a distinct following step, the change in the situation. In a twin flame context this applies to reunion specifically: reaching out, voicing something honestly, or making a move is what sets the next stage in motion, not timing or external circumstances independently. The change doesn't happen simultaneously with the expression; it follows, sometimes after a delay that can feel long. In separation, 3355 favors trusting that expressing something real will produce a result, even if not immediately. Notice what you've been waiting to say until circumstances feel more certain, and whether that waiting is serving the connection.",
     manifestation:
       "3355 manifests by trusting a sequence rather than expecting simultaneous results — the practical move is speaking up honestly today and trusting the following change to unfold in its own time, since this number's folklore treats that patient sequence, not instant results, as how the process actually works.",
   },

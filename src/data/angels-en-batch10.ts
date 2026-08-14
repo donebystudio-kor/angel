@@ -141,6 +141,8 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Family situations, shared social circles, and the practical logistics of where two people's lives are based can quietly shape a twin flame connection more than either person wants to admit. 0606's combination of love and boundless connection describes a dynamic where the external web connecting two people — through family, community, or shared history — is itself an active force in the relationship's unfolding. In reunion, this often shows up when a family circumstance or shared external relationship is what finally makes contact feel naturally available again. Notice which external connection to this person has quietly been holding a door open.",
     manifestation:
       "0606 manifests by removing a self-imposed ceiling on love rather than adding a new want — the practical move is consciously expressing more warmth than feels routine, since this number's folklore treats the limiting belief, not a lack of love available, as the actual obstacle.",
   },
@@ -175,6 +177,8 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Every stage in a twin flame connection has a natural completion point, and 0909's repeated ending-into-beginning suggests the current one is arriving. Letting go here doesn't mean releasing the connection itself — it means releasing the current form it's taken: the version of this relationship as it's been, the expectation about how it was supposed to unfold. In separation, that kind of letting go often shifts something internally that external waiting never could. In reunion, 0909 marks the moment one chapter closes cleanly and a genuinely new one begins. What form of this connection are you still trying to preserve exactly as it was?",
     manifestation:
       "0909 manifests by treating an ending and a beginning as one connected moment — the practical move is starting the new intention right as the old one closes, since this number's folklore treats the short gap as an invitation to move promptly, not a reason to wait.",
   },
@@ -599,6 +603,8 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "1133 pairs intuitive new-beginning energy with expressive, teaching energy — which in a twin flame reunion context suggests that timing isn't simply waiting but actively vocal: saying something specific is part of what signals readiness to the other person, consciously or not. This isn't about a dramatic declaration so much as finally voicing a realization you've had about yourself or the connection that you've been sitting on. In separation, that voiced insight is often what shifts the energy in a way that sustained silence doesn't. Consider what you've realized about this connection that you haven't actually said out loud to anyone yet.",
     manifestation:
       "1133 manifests through spoken or shared realization rather than private understanding — the practical move is voicing a specific insight to a specific person today, since this number's folklore treats the act of expression as what completes the manifestation, not the insight alone.",
   },
@@ -633,6 +639,8 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Where most twin flame energy feels urgent — a pull toward contact, a heightened emotional state — 2211 describes readiness through calm rather than intensity. The stable foundation is already in place, and the absence of anxiety isn't a sign of disconnection; it's the actual green light. In a twin flame context, this often appears when someone has done enough inner work that reunion doesn't feel like a desperate need anymore, which is often precisely when it becomes genuinely possible. In separation, the settled feeling 2211 describes is worth trusting as progress, not as losing interest. Ask yourself whether the calm you're feeling about this person is detachment or readiness.",
     manifestation:
       "2211 manifests through calm, prepared launches rather than urgent leaps — the practical move is trusting a steady, unhurried feeling about a new beginning as genuine readiness, since this number's folklore treats calm confidence, not adrenaline, as the actual green light here.",
   },
@@ -667,6 +675,8 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "3344 pairs expressive energy with solid foundation, and in a twin flame dynamic that often describes an asymmetry: one person tends to initiate, voice things, and actively engage, while the other holds quieter, steadier ground. Neither role is better or permanent — but knowing which role you're currently in helps. In separation, the person holding quiet ground isn't necessarily less invested; they may simply need a stable base more than expressive momentum. In reunion, 3344 suggests that consequential conversation — where what's said genuinely shapes what's being built — carries unusual weight. Which role are you currently playing in this connection, and has it shifted recently?",
     manifestation:
       "3344 manifests through deliberate, weighted words rather than casual expression — the practical move is preparing exactly what to say before an important conversation, since this number's folklore treats precise, intentional language as directly shaping the material outcome here.",
   },

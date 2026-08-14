@@ -605,6 +605,8 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "A strong intuitive sense that something new is beginning with your twin flame sometimes triggers a counter-reaction: that's probably wishful thinking. 1188's pairing of new-beginning intuition with abundance suggests the opposite — that an unusually solid gut signal deserves to be taken seriously, not qualified away. In reunion, 1188 often appears in the days around a real shift in how the connection feels, when doubt is the mind's lag behind what the sensing part already registered. In separation, a felt sense of forward movement here is more likely accurate than hopeful projection. Track when your strongest sense of this connection coincides with actual external confirmation.",
     manifestation:
       "1188 manifests by trusting an intuitive sense of new beginning as a complete signal, material implications included — the practical move is acting on that full feeling rather than separating the emotional sense from its practical outcome, since this number's folklore treats them as directly linked.",
   },

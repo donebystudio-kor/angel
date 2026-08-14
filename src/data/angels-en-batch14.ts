@@ -210,6 +210,8 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Doubt tends to surface specifically during quiet, waiting stretches in a twin flame connection, and 0202 is one of the numbers most often associated with that kind of still, holding period. Rather than resolving the uncertainty by pushing for contact or clarity, 0202 names the quiet trust itself as the appropriate response right now: not forced certainty, but a calm, repeated holding of faith in the connection's reality without requiring proof. In reunion, this is less about celebrating and more about continuing to trust what's present. Ask yourself which doubt feels proportionate to the current evidence, and which doesn't.",
     manifestation:
       "0202 manifests by honoring a felt sense of trust rather than demanding proof first — the practical move is letting one quiet wave of trust guide a small decision today, since this number's folklore treats that felt trust, not additional evidence, as sufficient here.",
   },
@@ -244,6 +246,8 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "What's said between the two of you carries weight, but in 0303's framing so does what isn't said: the pauses, the space between conversations, the quiet that follows a real exchange. In a twin flame context, 0303 describes communication as a recurring rhythm of expression and rest, where the silence isn't absence of connection but part of the same cycle. In reunion, this favors resisting the urge to fill every gap with reassurance-seeking, letting the quiet after a good exchange actually breathe. In separation, notice what the silence is telling you that words haven't yet said.",
     manifestation:
       "0303 manifests by trusting creative rhythm rather than forcing continuous output — the practical move is capturing today's wave fully without anxiety about tomorrow's lull, since this number's folklore treats trust in recurrence, not constant production, as what actually sustains creativity long-term.",
   },
@@ -278,6 +282,8 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Foundation cleared and re-laid in repeating cycles is 0404's specific structure, and in a twin flame context that raises a practical question: is the ground genuinely ready, or does it still need another round of resetting before reunion is well-supported? This is less about whether the connection is real and more about whether the conditions — internal and external — are currently stable enough to hold what reunion would require. In separation, the repeated '04' suggests the reset is still happening, which isn't a failure: it's the actual preparation. Consider what one more cycle of clearing would look like for you specifically.",
     manifestation:
       "0404 manifests by receiving outside support well rather than insisting on self-sufficiency — the practical move is accepting one piece of help today instead of declining it out of habit, since this number's folklore treats gracious receiving, not solo construction, as what completes this particular foundation.",
   },
@@ -312,6 +318,8 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Separation in a twin flame connection can feel genuinely disorienting when it stretches long enough to loop back on itself — which is precisely what 0505 describes: change that swirls rather than moves in a straight line. Rather than reading that circularity as stagnation, this number points at the changes happening during the separation as purposeful, even when they're not visible yet from inside the swirl. In reunion, 0505 often appears when both people have quietly shifted through more than one cycle of growth, not one clean transformation. Identify one thing that's changed in you that you didn't fully notice until now.",
     manifestation:
       "0505 manifests by grounding through disorientation rather than forcing clarity before it's ready — the practical move is one small stabilizing action today, a routine, a breath practice, rather than trying to intellectually resolve a swirl that hasn't settled yet.",
   },

@@ -509,6 +509,8 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "3030's steady pulse of expression followed by quiet describes a runner-chaser dynamic with unusual precision: one person consistently shows up, reaches out, or opens a conversation, and the other consistently needs to pull back and process in silence before the cycle can begin again. If you're the one expressing, the emptiness afterward isn't rejection — it's part of how this particular connection breathes. If you're the one pulling back, the withdrawal isn't cruelty, it's the 0 in the rhythm, the clearing before the next engagement. In separation or reunion, examine which role you're playing and whether you've named it honestly.",
     manifestation:
       "3030 manifests by engaging with a steady creative pulse directly — the practical move is a small, regular creative act today rather than waiting for a bigger wave, since this number's folklore treats that steady engagement as what sustains the pulse.",
   },
@@ -543,6 +545,8 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "4040's rhythmically renewing stability describes inner work not as a one-time clearing but as an ongoing practice — and in a twin flame context, that distinction matters. The connection isn't waiting for you to reach a fixed state of readiness; it's developing in response to a rhythm of continuous inner work that you're already doing. In separation, each cycle of that internal renewal is amplifying the foundation the connection will eventually return to. In reunion, 4040 often appears when both people have been independently maintaining that kind of inner steadiness. What part of your inner work has deepened over the last few months without you fully noticing?",
     manifestation:
       "4040 manifests by trusting stability as an active, ongoing pulse — the practical move is acting today from confidence in that continuous renewal, rather than treating stability as a single, static fact, since this number's folklore treats that ongoing trust as what the pulse actually confirms.",
   },
