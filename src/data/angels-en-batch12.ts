@@ -47,7 +47,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     titleHook: "Harmony, Amplified Now",
     summary: "Balance and partnership energy amplified in a specific, immediate situation",
     meaning:
-      "200 combines 2 (balance, partnership) with double 0 (amplification), describing a more immediate, situation-specific boost to harmony than 2000's slow, long-horizon wave. Where 2000 is noticed mostly in hindsight over months, 200 is about a particular relationship or situation right now getting an amplified dose of balance and ease.",
+      "Single 2 (balance, partnership) alongside doubled 0 (amplification), describing a more immediate, situation-specific boost to harmony than 2000's slow, long-horizon wave. Where 2000 is noticed mostly in hindsight over months, 200 is about a particular relationship or situation right now getting an amplified dose of balance and ease.",
     love: "Single: a particular connection right now is getting an unusual boost of ease and harmony — notice which one specifically, rather than assuming it applies to dating generally. Couple: whatever balance already exists between you is amplified right now in a specific, noticeable way — a disagreement resolves more easily than usual, communication flows better.",
     career: "A specific collaboration or working relationship is unusually harmonious right now, more than your work relationships generally.",
     money: "A specific joint financial matter is going more smoothly than usual right now, worth noticing rather than assuming general financial ease.",
@@ -81,7 +81,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Sudden Creative Burst",
     summary: "An immediate, sudden explosion of creative power, right now",
     meaning:
-      "300 combines 3 (creativity, expression) with double 0 (amplification), describing a sudden, immediate burst of creative energy rather than the more gradual, ongoing guidance of 333 or the sustained support of 3333. This is less about mentorship or steady development and more about a specific, intense creative spark hitting right now, worth catching while it's active.",
+      "One 3 (creativity, expression) and a doubled 0 (amplification) together, describing a sudden, immediate burst of creative energy rather than the more gradual, ongoing guidance of 333 or the sustained support of 3333. This is less about mentorship or steady development and more about a specific, intense creative spark hitting right now, worth catching while it's active.",
     love: "Single: a sudden burst of confidence to express yourself creatively, in how you flirt, dress, or communicate, is worth acting on right now rather than waiting for it to feel more planned. Couple: a spontaneous creative idea for how to connect (a surprise, a spontaneous trip, an impulsive gesture) hits harder than a carefully planned one right now.",
     career: "A sudden, intense creative idea deserves immediate capture, a note, a sketch, a voice memo, since this kind of burst tends to fade quickly if not caught right away.",
     money: "A sudden creative income idea is worth capturing immediately, even roughly, rather than waiting to develop it fully before acting.",
@@ -117,7 +117,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     titleHook: "The Foundation Is Complete",
     summary: "A foundation reaching an actual finished state, not just holding steady",
     meaning:
-      "400 combines 4 (foundation, structure) with double 0 (amplification), describing a foundation that's genuinely finished being built, rather than 444's ongoing steadiness during a hard stretch or 4444's fear-specific reassurance. This marks completion specifically: the building phase is over, and what you've built is done, not still under construction.",
+      "4 (foundation, structure), paired with a double dose of 0 (amplification), describing a foundation that's genuinely finished being built, rather than 444's ongoing steadiness during a hard stretch or 4444's fear-specific reassurance. This marks completion specifically: the building phase is over, and what you've built is done, not still under construction.",
     love: "Single: the foundational work you've done on yourself, healing, self-understanding, is genuinely complete enough now to build a real relationship on, not still a work in progress. Couple: the relationship's foundational building phase, establishing trust, working out how you function together, is complete — you're not still constructing it, you're standing on it.",
     career: "The foundational phase of your career or a specific project, learning the basics, establishing credibility, is genuinely complete. You're past the building phase now.",
     money: "Your financial foundation, an emergency fund, basic stability, is genuinely complete, not still being built. This is a good moment to recognize that and plan the next phase from solid ground.",
@@ -153,7 +153,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Massive Wave Of Change",
     summary: "A single, large-scale wave of change, immediate rather than several areas at once",
     meaning:
-      "500 combines 5 (change, freedom) with double 0 (amplification), describing one large, immediate wave of change rather than 5555's several simultaneous life areas or 55555's deeper identity metamorphosis. This is a single, big wave, sudden and significant, rather than change spread across multiple fronts or unfolding at the level of identity.",
+      "5 (change, freedom) meets a doubled 0 (amplification), describing one large, immediate wave of change rather than 5555's several simultaneous life areas or 55555's deeper identity metamorphosis. This is a single, big wave, sudden and significant, rather than change spread across multiple fronts or unfolding at the level of identity.",
     love: "Single: a single, large shift in your dating life or approach is hitting now, all at once, rather than gradually — meet it directly rather than trying to slow it down. Couple: one big, significant change is moving through the relationship right now, a major decision, a big shift in circumstances, worth meeting head-on rather than in pieces.",
     career: "One significant, large-scale professional change, not several smaller shifts, is moving through right now — treat it as the single big wave it is rather than trying to break it into smaller, more manageable pieces.",
     money: "A single, large financial shift, not several small changes, is moving through your life right now — plan for its actual scale rather than underestimating it.",
@@ -189,7 +189,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Wave Of Caring Energy",
     summary: "A large, immediate outpouring of care and nurturing energy available right now",
     meaning:
-      "600 combines 6 (home, care) with double 0 (amplification), describing a big, immediate outpouring of caring energy available to give and receive right now, distinct from 0606's ceiling-removal framing (which is about capacity generally) and closer to a specific, present wave you can actually draw on today.",
+      "6 (home, care), paired with a double dose of 0 (amplification), describing a big, immediate outpouring of caring energy available to give and receive right now, distinct from 0606's ceiling-removal framing (which is about capacity generally) and closer to a specific, present wave you can actually draw on today.",
     love: "Single: you have an unusually large amount of caring energy to offer right now — a good stretch to reach out, check in on people, or simply be present for someone. Couple: draw on this wave of caring energy actively with your partner today, more attention, more small gestures, more presence, rather than saving it for later.",
     career: "Bring more caring attention to colleagues or a team right now — checking in, offering support, is unusually well-received and effective this stretch.",
     money: "This is a good stretch for generous financial gestures toward family or loved ones, since the caring energy behind them lands especially well right now.",
@@ -225,7 +225,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Window Of Deep Insight",
     summary: "A specific, discrete period of unusually deep understanding, right now",
     meaning:
-      "700 combines 7 (insight, wisdom) with double 0 (amplification), describing a specific, time-bound window of unusually deep understanding, distinct from plain 7's general baseline trust or 7777's compounding coincidences. This is less an ongoing state and more a discrete period, worth actively using while it's open, since it won't necessarily stay this clear indefinitely.",
+      "7 (insight, wisdom), intensified by a doubled 0 (amplification), describing a specific, time-bound window of unusually deep understanding, distinct from plain 7's general baseline trust or 7777's compounding coincidences. This is less an ongoing state and more a discrete period, worth actively using while it's open, since it won't necessarily stay this clear indefinitely.",
     love: "Single: you have unusually clear understanding of what you actually want in love right now — use this window to get specific about it, since this level of clarity may not stay this sharp indefinitely. Couple: a specific period of deep mutual understanding is open right now, worth having an important conversation during it rather than waiting.",
     career: "You have unusually clear insight into your professional direction right now — make the decision or have the conversation during this window rather than assuming the clarity is permanent.",
     money: "A window of clear financial insight is open right now — make the plan or decision during it, since this level of clarity is time-bound.",
@@ -261,7 +261,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     titleHook: "Abundance In Full Swing",
     summary: "An abundance cycle already at scale and in continuous motion, right now",
     meaning:
-      "800 combines 8 (abundance) with double 0 (amplification), describing an abundance cycle already in full, continuous motion at scale, distinct from 80's plain beginning-of-a-cycle framing and 8008's restart-after-stalling framing. This isn't a cycle starting or restarting — it's one already fully active, worth actively participating in rather than watching for it to begin.",
+      "8 (abundance) carried on doubled 0 (amplification), describing an abundance cycle already in full, continuous motion at scale, distinct from 80's plain beginning-of-a-cycle framing and 8008's restart-after-stalling framing. This isn't a cycle starting or restarting — it's one already fully active, worth actively participating in rather than watching for it to begin.",
     love: "Single: abundance in your love life, options, attention, warmth, is already in full swing right now — engage with it actively rather than waiting for it to start. Couple: a shared abundance, emotional or material, is already flowing at scale between you — actively participate in and enjoy it rather than waiting for more signs it's real.",
     career: "Opportunities and recognition are already flowing at scale right now, not just beginning — actively engage with what's already in motion rather than waiting for more confirmation.",
     money: "A financial abundance cycle is already fully active and at scale right now — this favors actively participating (investing, spending intentionally, sharing) rather than waiting for it to grow further first.",
@@ -297,7 +297,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     titleHook: "The Call To Finish It",
     summary: "An active summons to complete a meaningful mission, not a passive ending",
     meaning:
-      "900 combines 9 (completion, service) with double 0 (amplification), describing an active call to complete something meaningful right now, distinct from 90's plain, passive chapter-closing. Where 90 simply confirms a chapter is winding down, 900 is a direct summons: a specific mission or purpose is actively calling to be finished, not just naturally concluding on its own.",
+      "9 (completion, service) carried on doubled 0 (amplification), describing an active call to complete something meaningful right now, distinct from 90's plain, passive chapter-closing. Where 90 simply confirms a chapter is winding down, 900 is a direct summons: a specific mission or purpose is actively calling to be finished, not just naturally concluding on its own.",
     love: "Single: actively finish an unresolved chapter from your dating history, a conversation, closure with an ex, rather than letting it fade passively. Couple: a specific, meaningful piece of unfinished business in the relationship is actively calling to be resolved now, not left to conclude on its own timeline.",
     career: "A meaningful project or goal is actively calling to be finished now, not left to wind down naturally — take the deliberate step that actually completes it.",
     money: "A financial goal or obligation is actively calling for completion now — settle it deliberately rather than letting it conclude passively over time.",
@@ -473,7 +473,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     titleHook: "Look Closely For The Answer",
     summary: "Wisdom framing a doubled balance situation — the answer comes through careful observation",
     meaning:
-      "7227 sandwiches double 2 (balance, partnership) between two 7s (insight, wisdom), describing patient, careful observation of a relationship or balance situation as what actually reveals the answer, distinct from 747's stability-sandwich or 2727's alternating trust-and-luck late-stage-waiting. Here, the emphasis is on watching and understanding deeply, rather than trusting blindly or waiting out a timeline.",
+      "7 (insight, wisdom) opens and closes around a doubled 2 (balance, partnership), describing patient, careful observation of a relationship or balance situation as what actually reveals the answer, distinct from 747's stability-sandwich or 2727's alternating trust-and-luck late-stage-waiting. Here, the emphasis is on watching and understanding deeply, rather than trusting blindly or waiting out a timeline.",
     love: "Single: watch a connection carefully rather than deciding quickly — the answer about whether it's right becomes clear through patient observation, not a fast read. Couple: observe a recurring pattern in the relationship closely rather than reacting to it immediately — understanding it fully reveals what to actually do about it.",
     career: "Observe a workplace relationship or dynamic carefully before acting — the right response becomes clear through careful attention, not a quick reaction.",
     money: "Watch a financial partnership or joint decision closely before committing — patient observation here reveals details a quick decision would miss.",
@@ -509,7 +509,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     titleHook: "Experience Fuels This Start",
     summary: "Wisdom from a past ending directly fueling and validating a doubled new beginning",
     meaning:
-      "9119 sandwiches double 1 (new beginnings) between two 9s (completion, wisdom gained from experience), describing lessons learned from a past ending as the direct fuel for a new beginning, rather than 9009's vast room opening after a large-scale ending. Here, the emphasis is specifically on using what you learned, not just having space to start fresh.",
+      "Two 9s (completion, wisdom gained from experience) frame a doubled 1 (new beginnings), describing lessons learned from a past ending as the direct fuel for a new beginning, rather than 9009's vast room opening after a large-scale ending. Here, the emphasis is specifically on using what you learned, not just having space to start fresh.",
     love: "Single: what you learned from a past relationship or dating pattern is directly what makes this new beginning solid — lean on that experience explicitly rather than starting as if from scratch. Couple: lessons from an earlier phase of the relationship are directly fueling a stronger new chapter now — name what you learned rather than treating the new chapter as unrelated to the old one.",
     career: "What you learned from a completed role or project is directly fueling your next step — draw on that experience explicitly rather than approaching the new beginning as a blank slate.",
     money: "Lessons from a completed financial chapter, a paid-off debt, a finished plan, are directly informing a stronger new approach now.",
@@ -545,7 +545,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     titleHook: "One Bond Closes For Another",
     summary: "Completion framing the end of one relationship pattern, making way for a new one",
     meaning:
-      "9229 sandwiches double 2 (partnership, connection) between two 9s (completion), describing the genuine closing of a relationship pattern making direct room for a new one, distinct from 92's broader shared-mission framing. Here, the focus is specifically relational: a bond, romantic, platonic, or professional, is completing so that a different kind of connection can begin.",
+      "The outer 9s (completion) hold a double 2 (partnership, connection), describing the genuine closing of a relationship pattern making direct room for a new one, distinct from 92's broader shared-mission framing. Here, the focus is specifically relational: a bond, romantic, platonic, or professional, is completing so that a different kind of connection can begin.",
     love: "Single: a relationship pattern, not necessarily one specific person, is genuinely closing to make room for a different kind of connection. Let the old pattern actually close rather than carrying it into what's next. Couple: if the relationship is ending, this frames it as the completion of a real bond, with a different kind of connection, possibly a friendship, possibly nothing at all, opening as a direct result, not a failure.",
     career: "A specific professional relationship or partnership is completing, making direct room for a different working relationship to begin.",
     money: "A financial partnership or joint arrangement is completing, making room for a different kind of arrangement going forward.",

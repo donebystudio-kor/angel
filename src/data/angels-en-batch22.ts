@@ -12,7 +12,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     titleHook: "This Partnership Is Blooming",
     summary: "A new beginning specifically leading a partnership into genuine, visible flourishing",
     meaning:
-      "122 combines 1 (new beginnings) with double 2 (partnership, balance amplified), describing a new beginning that's specifically leading a partnership into real, visible flourishing, more blossoming than simply forming. This favors trusting that whatever fresh energy started this connection is now actively producing real growth, worth noticing and nurturing rather than taking for granted.",
+      "1 (new beginnings), paired with a double dose of 2 (partnership, balance amplified), describing a new beginning that's specifically leading a partnership into real, visible flourishing, more blossoming than simply forming. This favors trusting that whatever fresh energy started this connection is now actively producing real growth, worth noticing and nurturing rather than taking for granted.",
     love: "Single: a new connection is specifically moving into a real blossoming stage right now, worth nurturing actively rather than assuming it will simply continue on its own. Couple: the fresh energy that started this relationship is specifically producing real, visible flourishing right now — nurture it actively rather than taking it for granted.",
     career: "A new professional partnership is specifically moving into a real blossoming stage — nurture it actively rather than assuming its early promise will sustain itself.",
     money: "A new financial partnership is specifically moving into genuine growth — nurture it actively with continued attention rather than assuming momentum alone will carry it.",
@@ -298,7 +298,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     titleHook: "Confidence Opens This Path",
     summary: "Self-confidence, held steadily, specifically opening a path for creative or expressive risk",
     meaning:
-      "131 sandwiches 3 (creativity, expression) between two 1s (self, confidence), describing steady self-confidence as what's specifically opening a path for taking a creative or expressive risk, rather than the risk itself being the primary focus. This favors recognizing that your own confidence, held consistently, is the actual mechanism unlocking the opportunity.",
+      "Two 1s (self, confidence) frame 3 (creativity, expression), describing steady self-confidence as what's specifically opening a path for taking a creative or expressive risk, rather than the risk itself being the primary focus. This favors recognizing that your own confidence, held consistently, is the actual mechanism unlocking the opportunity.",
     love: "Single: your own steady self-confidence, more than any specific tactic, is what's opening the path to expressing genuine interest and taking a risk in dating right now. Couple: your own steady confidence, held consistently, is what's opening the path for a bolder, more honest kind of expression within the relationship.",
     career: "Your own steady self-confidence is what's opening the path for a bold professional or creative risk right now — trust that confidence as the actual key.",
     money: "Your own steady confidence is what's opening the path for a bold financial risk right now — trust that confidence as what makes the risk viable.",
@@ -370,7 +370,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     titleHook: "Your Expression Explodes",
     summary: "A personal, self-initiated period of expressive power exploding, worth using fully while active",
     meaning:
-      "133 combines 1 (new beginnings, self) with double 3 (creativity, expression amplified), describing a personal, self-initiated period where your expressive power is exploding, distinct from plain 333's framing of creative guidance being generally available. Where 333 says help is there if you ask, 133 says something more personal: your own capacity for expression is currently at an unusually intense peak, worth using fully while it's active.",
+      "Single 1 (new beginnings, self) alongside doubled 3 (creativity, expression amplified), describing a personal, self-initiated period where your expressive power is exploding, distinct from plain 333's framing of creative guidance being generally available. Where 333 says help is there if you ask, 133 says something more personal: your own capacity for expression is currently at an unusually intense peak, worth using fully while it's active.",
     love: "Single: your own capacity for honest, bold expression in dating is exploding right now — use this intense period fully rather than holding back out of habit. Couple: your own capacity for honest, bold expression within the relationship is exploding right now — use this intense period to say what you genuinely mean.",
     career: "Your own capacity for professional expression, presenting, writing, advocating for ideas, is exploding right now — use this intense period fully.",
     money: "Your own capacity for expressing financial needs or ideas clearly is exploding right now — use this intense period to communicate directly rather than holding back.",
@@ -658,7 +658,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     titleHook: "Shape Reality With Your Will",
     summary: "Determined willpower actively shaping circumstances into solid, real form right now",
     meaning:
-      "141 sandwiches 4 (foundation, structure) between two 1s (self, will), describing determined willpower as what's actively shaping circumstances into solid, real form right now, rather than circumstances shaping you. This favors recognizing your own deliberate will as a genuine constructive force, worth exercising actively rather than waiting passively for things to take shape on their own.",
+      "The outer 1s (self, will) hold 4 (foundation, structure), describing determined willpower as what's actively shaping circumstances into solid, real form right now, rather than circumstances shaping you. This favors recognizing your own deliberate will as a genuine constructive force, worth exercising actively rather than waiting passively for things to take shape on their own.",
     love: "Single: your own determined will, more than waiting passively, is what's actively shaping your love life into a more solid, real form right now. Couple: your own determined, shared will, more than waiting passively, is what's actively shaping the relationship's future into solid, real form.",
     career: "Your own determined will is what's actively shaping your professional circumstances into solid, real form right now — exercise it deliberately rather than waiting passively.",
     money: "Your own determined will is what's actively shaping your financial circumstances into solid, real form right now — exercise it deliberately.",

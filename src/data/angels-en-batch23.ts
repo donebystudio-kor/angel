@@ -261,7 +261,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     titleHook: "Take The Lead In This Bond",
     summary: "A specific call to take initiative and lead within a relationship, rather than waiting passively",
     meaning:
-      "211 combines 2 (partnership, balance) with double 1 (new beginnings, self, initiative), describing a specific call to take initiative and self-leadership within a relationship, rather than waiting for the other person or circumstances to move things forward. This favors recognizing your own agency as what's specifically needed within the partnership right now.",
+      "2 (partnership, balance), intensified by a doubled 1 (new beginnings, self, initiative), describing a specific call to take initiative and self-leadership within a relationship, rather than waiting for the other person or circumstances to move things forward. This favors recognizing your own agency as what's specifically needed within the partnership right now.",
     love: "Single: take the lead in a connection you care about, reaching out first, being clear about your interest, rather than waiting for the other person to make the first move. Couple: take the lead on something specific within the relationship that's been stalled, waiting for the other person to act, rather than continuing to wait passively.",
     career: "Take the lead within a professional partnership that's been stalled, waiting for someone else to move it forward, rather than continuing to wait.",
     money: "Take the lead on a financial decision within a shared arrangement that's been stalled, rather than waiting for someone else to initiate it.",
@@ -297,7 +297,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     titleHook: "Trust It, Let It Unfold",
     summary: "Releasing control within a relationship specifically lets creative solutions unfold naturally",
     meaning:
-      "233 combines 2 (partnership, trust) with double 3 (creativity, expression amplified), describing the release of control within a relationship or collaboration as what specifically lets creative solutions unfold naturally. This favors trusting the other person or the process itself, rather than continuing to manage every detail, since the doubled creative energy needs room to move.",
+      "One 2 (partnership, trust) and a doubled 3 (creativity, expression amplified) together, describing the release of control within a relationship or collaboration as what specifically lets creative solutions unfold naturally. This favors trusting the other person or the process itself, rather than continuing to manage every detail, since the doubled creative energy needs room to move.",
     love: "Single: trust a connection enough to let it unfold naturally, rather than trying to manage or control every detail — the doubled creative energy here needs room to move on its own. Couple: trust each other and the relationship's own process enough to let a creative solution unfold naturally, rather than trying to control every detail.",
     career: "Trust a professional collaboration enough to let creative solutions unfold naturally, rather than trying to manage every detail of the process.",
     money: "Trust a financial partnership enough to let a workable solution unfold naturally, rather than continuing to control every detail.",
@@ -369,7 +369,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     titleHook: "You Change As The Bond Does",
     summary: "Personal transformation happening in direct response to a relationship's own changes",
     meaning:
-      "255 combines 2 (partnership) with double 5 (change, freedom amplified), describing personal transformation that's happening in direct response to changes within a relationship, rather than the two processes being separate. This favors recognizing that as the relationship shifts, you are shifting too, and that connection is worth naming rather than experiencing as disorienting or separate.",
+      "2 (partnership) carried on doubled 5 (change, freedom amplified), describing personal transformation that's happening in direct response to changes within a relationship, rather than the two processes being separate. This favors recognizing that as the relationship shifts, you are shifting too, and that connection is worth naming rather than experiencing as disorienting or separate.",
     love: "Single: notice how much you've personally changed in response to how your approach to relationships has shifted — that connection between relational change and personal growth is real and worth naming. Couple: notice how much you've each personally changed in response to how the relationship itself has shifted — that connection is real and worth naming together.",
     career: "Notice how much you've personally changed in response to a shifting professional relationship or team dynamic — that connection is real and worth recognizing.",
     money: "Notice how much your own approach to money has changed in response to a shift within a financial partnership — that connection is real and worth naming.",
@@ -405,7 +405,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     titleHook: "Steady Your Heart First",
     summary: "Emotional security specifically needing priority over material concerns within close relationships",
     meaning:
-      "266 combines 2 (partnership) with double 6 (home, care amplified), describing emotional security as what specifically needs priority over material concerns within close relationships right now. This favors addressing the emotional dimension first, trusting that doing so creates a more solid base for handling material matters afterward.",
+      "2 (partnership) meets a doubled 6 (home, care amplified), describing emotional security as what specifically needs priority over material concerns within close relationships right now. This favors addressing the emotional dimension first, trusting that doing so creates a more solid base for handling material matters afterward.",
     love: "Single: address your own emotional security and self-worth before focusing heavily on the material logistics of dating — the emotional foundation needs priority right now. Couple: address emotional security and connection within the relationship before focusing heavily on material or logistical matters, trusting that the emotional foundation makes everything else easier.",
     career: "Address emotional security within a close professional relationship before focusing heavily on material or logistical concerns tied to it.",
     money: "Address the emotional dimension of a financial concern within a close relationship first, trusting that doing so makes the practical, material discussion easier afterward.",
@@ -441,7 +441,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     titleHook: "Trust Your Gut, Check The Facts",
     summary: "Balancing genuine intuition with real fact-checking specifically within a partnership decision",
     meaning:
-      "277 combines 2 (partnership) with double 7 (insight, intuition amplified), describing a specific need to balance genuine intuition with real, factual verification within a relationship or partnership decision, rather than relying purely on gut feeling alone. This favors trusting your instinct as a real signal worth taking seriously, while still checking it against the actual facts.",
+      "2 (partnership), paired with a double dose of 7 (insight, intuition amplified), describing a specific need to balance genuine intuition with real, factual verification within a relationship or partnership decision, rather than relying purely on gut feeling alone. This favors trusting your instinct as a real signal worth taking seriously, while still checking it against the actual facts.",
     love: "Single: trust your gut about a new connection, but also check it against the actual facts and behavior you're observing, rather than relying purely on feeling. Couple: trust your gut about something happening in the relationship, but also check it against the actual facts and communication you're having, rather than relying purely on instinct.",
     career: "Trust your gut about a professional partnership, but also verify it against the actual facts and track record, rather than relying purely on feeling.",
     money: "Trust your gut about a financial partnership, but also verify it against the actual numbers and facts, rather than relying purely on instinct.",
@@ -477,7 +477,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     titleHook: "Sharing Brings More Back",
     summary: "A season where generosity within partnership specifically multiplies the resulting material return",
     meaning:
-      "288 combines 2 (partnership) with double 8 (abundance amplified), describing a specific season where generosity within a partnership is what's multiplying the resulting material return, rather than generosity and gain being separate or competing forces. This favors trusting that giving more within this specific relationship is directly connected to receiving more back.",
+      "Single 2 (partnership) alongside doubled 8 (abundance amplified), describing a specific season where generosity within a partnership is what's multiplying the resulting material return, rather than generosity and gain being separate or competing forces. This favors trusting that giving more within this specific relationship is directly connected to receiving more back.",
     love: "Single: being generous with your time and resources within a close friendship or family relationship right now is specifically what's multiplying what comes back to you. Couple: being generous with each other right now, materially and emotionally, is specifically what's multiplying the shared abundance coming back to the relationship.",
     career: "Being generous with knowledge, credit, or resources within a professional partnership right now is specifically what's multiplying the resulting return.",
     money: "Being generous within a specific financial partnership right now is specifically what's multiplying the resulting material return, worth trusting rather than holding back out of scarcity fear.",
@@ -513,7 +513,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     titleHook: "Ending And Starting, Together",
     summary: "A mutual, simultaneous ending and beginning happening together within a relationship",
     meaning:
-      "299 combines 2 (partnership) with double 9 (completion amplified), describing a mutual, simultaneous ending and beginning happening together within a relationship, both people closing one chapter and opening the next in tandem, rather than one person leading and the other following. This favors recognizing and honoring that the transition is genuinely shared.",
+      "2 (partnership), intensified by a doubled 9 (completion amplified), describing a mutual, simultaneous ending and beginning happening together within a relationship, both people closing one chapter and opening the next in tandem, rather than one person leading and the other following. This favors recognizing and honoring that the transition is genuinely shared.",
     love: "Single: if a mutual friendship or connection is transitioning, notice that both people are ending and beginning something together, in tandem, rather than one person driving the change alone. Couple: the relationship is ending one chapter and beginning another together, in tandem — honor that mutuality rather than framing either person as leading or following the transition.",
     career: "A professional partnership is ending one chapter and beginning another together, in tandem — honor that mutuality rather than framing it as one-sided.",
     money: "A financial partnership is ending one arrangement and beginning another together, in tandem — honor that shared transition.",
@@ -549,7 +549,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     titleHook: "Your Creative Burst Is Ready",
     summary: "A personal burst of creative energy specifically ready to launch, worth acting on immediately",
     meaning:
-      "311 combines 3 (creativity, expression) with double 1 (new beginnings, self amplified), describing a personal burst of creative energy that's specifically ready to launch right now, worth acting on immediately rather than continuing to prepare. This favors trusting that the readiness itself is the signal, not a feeling to wait out until it becomes even stronger.",
+      "3 (creativity, expression) carried on doubled 1 (new beginnings, self amplified), describing a personal burst of creative energy that's specifically ready to launch right now, worth acting on immediately rather than continuing to prepare. This favors trusting that the readiness itself is the signal, not a feeling to wait out until it becomes even stronger.",
     love: "Single: a burst of creative confidence about how to approach dating is specifically ready to launch right now — act on it immediately rather than waiting for it to feel even more ready. Couple: a burst of creative energy for a shared project or way of connecting is specifically ready to launch right now — act on it together immediately.",
     career: "A burst of creative professional energy is specifically ready to launch right now — act on it immediately rather than continuing to prepare further.",
     money: "A burst of creative financial thinking is specifically ready to launch right now — act on it immediately rather than waiting for more certainty.",
@@ -585,7 +585,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     titleHook: "Stop Thinking, Start Doing",
     summary: "Excessive deliberation specifically blocking creative action, worth interrupting with a concrete step",
     meaning:
-      "322 combines 3 (creativity, expression) with double 2 (partnership, deliberation amplified), describing excessive deliberation, over-thinking a decision from every angle, as what's specifically blocking creative action right now. This favors interrupting the deliberation cycle with one concrete step, rather than continuing to weigh every possible consideration.",
+      "3 (creativity, expression) meets a doubled 2 (partnership, deliberation amplified), describing excessive deliberation, over-thinking a decision from every angle, as what's specifically blocking creative action right now. This favors interrupting the deliberation cycle with one concrete step, rather than continuing to weigh every possible consideration.",
     love: "Single: you've been overthinking a dating decision from every possible angle — interrupt that cycle with one concrete action today rather than continuing to deliberate. Couple: you've both been overthinking a decision about the relationship from every angle — interrupt that cycle with one concrete conversation or action rather than continuing to deliberate endlessly.",
     career: "You've been overthinking a professional decision from every angle — interrupt that cycle with one concrete step today rather than continuing to deliberate.",
     money: "You've been overthinking a financial decision from every angle — interrupt that cycle with one concrete action today rather than continuing to weigh every possibility.",
@@ -621,7 +621,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     titleHook: "Steady Effort Takes Real Shape",
     summary: "Consistent creative effort finally solidifying into something tangible and real",
     meaning:
-      "344 combines 3 (creativity, expression) with double 4 (foundation, structure amplified), describing consistent creative effort that's finally solidifying into something tangible and real, distinct from a sudden creative burst. This favors recognizing and honoring the moment sustained work actually takes concrete shape, worth celebrating as a real milestone.",
+      "3 (creativity, expression), paired with a double dose of 4 (foundation, structure amplified), describing consistent creative effort that's finally solidifying into something tangible and real, distinct from a sudden creative burst. This favors recognizing and honoring the moment sustained work actually takes concrete shape, worth celebrating as a real milestone.",
     love: "Single: the consistent effort you've put into understanding and expressing yourself is finally taking real, tangible shape in how you show up in dating now. Couple: the consistent creative effort you've both put into building something together is finally taking real, tangible shape now — celebrate that milestone.",
     career: "The consistent creative effort you've put into a professional project is finally taking real, tangible shape now — celebrate that milestone.",
     money: "The consistent creative effort you've put into a financial plan or venture is finally taking real, tangible shape now — celebrate that milestone.",
@@ -657,7 +657,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     titleHook: "Time To Break The Old Mold",
     summary: "A specific, ready moment to break out of a familiar creative or expressive pattern",
     meaning:
-      "355 combines 3 (creativity, expression) with double 5 (change, freedom amplified), describing a specific, ready moment to break out of a familiar creative or expressive pattern, distinct from change happening to you. This favors trusting that you have real agency to break the old mold deliberately right now, rather than waiting for circumstances to force the shift.",
+      "Single 3 (creativity, expression) alongside doubled 5 (change, freedom amplified), describing a specific, ready moment to break out of a familiar creative or expressive pattern, distinct from change happening to you. This favors trusting that you have real agency to break the old mold deliberately right now, rather than waiting for circumstances to force the shift.",
     love: "Single: break out of a familiar pattern in how you express interest or approach dating right now — the old mold has run its course and a deliberate break is available. Couple: break out of a familiar expressive pattern within the relationship right now, a stale routine, an old way of communicating, that's run its course.",
     career: "Break out of a familiar creative or professional pattern right now — the old mold has run its course, worth breaking deliberately rather than waiting for circumstances to force it.",
     money: "Break out of a familiar financial pattern or approach right now — the old mold has run its course, worth breaking deliberately.",
@@ -693,7 +693,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     titleHook: "Focus On Home And Close Bonds",
     summary: "A specific call to channel creative and expressive energy toward home and close relationships now",
     meaning:
-      "366 combines 3 (creativity, expression) with double 6 (home, care amplified), describing a specific call to channel creative and expressive energy toward home and close relationships right now, rather than toward more public or professional creative outlets. This favors recognizing that domestic and relational life is where your creative attention is specifically needed at this moment.",
+      "3 (creativity, expression), intensified by a doubled 6 (home, care amplified), describing a specific call to channel creative and expressive energy toward home and close relationships right now, rather than toward more public or professional creative outlets. This favors recognizing that domestic and relational life is where your creative attention is specifically needed at this moment.",
     love: "Single: channel your creative energy toward close friendships and family right now, rather than only toward dating — that's specifically where the attention is needed. Couple: channel your creative energy toward home life and close relationships right now, a shared project, an intentional gathering, rather than only toward external pursuits.",
     career: "If professional demands have been pulling your creative energy away from home, this favors redirecting some of it back toward close relationships right now.",
     money: "Channel creative financial thinking toward household and close family needs right now, rather than only toward external or professional financial goals.",

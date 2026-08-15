@@ -10,7 +10,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     titleHook: "Let Go, Watch It Arrive",
     summary: "Releasing a tight grip on a home or relationship outcome specifically bringing it closer",
     meaning:
-      "166 combines 1 (new beginnings) with double 6 (home, care amplified), describing the release of a tight grip on a desired home or relationship outcome as what specifically brings that outcome closer, rather than gripping harder producing better results. This favors trusting that loosening your hold, not tightening it, is what actually works here.",
+      "One 1 (new beginnings) and a doubled 6 (home, care amplified) together, describing the release of a tight grip on a desired home or relationship outcome as what specifically brings that outcome closer, rather than gripping harder producing better results. This favors trusting that loosening your hold, not tightening it, is what actually works here.",
     love: "Single: release the tight grip on wanting a specific relationship outcome — that release itself, more than continued anxious effort, is what's specifically bringing the right connection closer. Couple: release a tight grip on controlling how the relationship or home life unfolds — that release itself is what's specifically making the ease you want more possible.",
     career: "Release a tight grip on controlling a specific professional outcome — that release itself is specifically what's making the desired result more possible.",
     money: "Release a tight, anxious grip on a specific financial outcome — that release itself is specifically what's making the ease you want more possible.",
@@ -46,7 +46,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     titleHook: "Solitude Brings The Answer",
     summary: "Time spent genuinely alone specifically producing the clarity a question has been waiting for",
     meaning:
-      "177 combines 1 (new beginnings, self) with double 7 (insight, wisdom amplified), describing genuine solitary time as what's specifically producing the clarity a question has been waiting for, distinct from seeking answers through conversation with others. This favors trusting that time alone, not more outside input, is what's actually needed right now.",
+      "1 (new beginnings, self) carried on doubled 7 (insight, wisdom amplified), describing genuine solitary time as what's specifically producing the clarity a question has been waiting for, distinct from seeking answers through conversation with others. This favors trusting that time alone, not more outside input, is what's actually needed right now.",
     love: "Single: time genuinely alone, not more conversations with friends about it, is specifically what will bring clarity to a question about your love life right now. Couple: time genuinely alone, reflecting individually, is specifically what will bring clarity to a question about the relationship, more than more conversation about it right now.",
     career: "Time genuinely alone, not more discussion with colleagues, is specifically what will bring clarity to a professional question right now.",
     money: "Time genuinely alone, not more outside opinions, is specifically what will bring clarity to a financial question right now.",
@@ -82,7 +82,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     titleHook: "The Flow Is About To Shift",
     summary: "A specific pattern in how money moves through your life about to shift, worth preparing calmly",
     meaning:
-      "188 combines 1 (new beginnings) with double 8 (abundance amplified), describing a specific pattern in how money moves through your life that's about to shift, worth noticing and preparing for calmly rather than being caught off guard. This favors treating the anticipation itself as useful information, not something to worry about.",
+      "1 (new beginnings) meets a doubled 8 (abundance amplified), describing a specific pattern in how money moves through your life that's about to shift, worth noticing and preparing for calmly rather than being caught off guard. This favors treating the anticipation itself as useful information, not something to worry about.",
     love: "Single: a shift in your financial flow may soon affect the practical side of your love life, worth noting calmly and preparing for rather than worrying about. Couple: a shift in the household's financial flow is approaching — notice and prepare for it together calmly.",
     career: "A shift in the financial flow connected to your career is approaching — notice and prepare for it calmly rather than being caught off guard.",
     money: "A specific shift in how money is moving through your life is approaching — prepare for it calmly, reviewing your situation, rather than waiting passively.",
@@ -118,7 +118,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Chapter Is Ending",
     summary: "A significant chapter closing, with a genuine new beginning already quietly forming alongside it",
     meaning:
-      "199 combines 1 (new beginnings) with double 9 (completion amplified), describing a significant chapter that's closing, with a genuine new beginning already quietly forming alongside it, distinct from 99's simpler framing of a role or chapter closing on its own. This favors noticing that something new is already taking shape, even while the ending is still actively happening.",
+      "1 (new beginnings), paired with a double dose of 9 (completion amplified), describing a significant chapter that's closing, with a genuine new beginning already quietly forming alongside it, distinct from 99's simpler framing of a role or chapter closing on its own. This favors noticing that something new is already taking shape, even while the ending is still actively happening.",
     love: "Single: a significant chapter of your dating life is closing, and a genuine new beginning is already quietly forming alongside it, even if you can't see its shape clearly yet. Couple: a significant chapter within the relationship is closing, and a genuine new stage is already quietly forming alongside it.",
     career: "A significant professional chapter is closing, and a genuine new direction is already quietly forming alongside it, even if it's not fully visible yet.",
     money: "A significant financial chapter is closing, and a genuine new approach is already quietly forming alongside it.",
@@ -154,7 +154,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     titleHook: "Intuition Already Has It",
     summary: "A two-step confirmation: trust the answer intuition already holds, then express it clearly",
     meaning:
-      "377 combines 3 (creativity, expression) with double 7 (insight, wisdom amplified), describing a two-step process: your intuition has already settled on an answer, and the specific next step is expressing it clearly, distinct from 373's simpler framing of a single, settled knowing ready to be stated. Where 373 is a straightforward statement, 377 emphasizes the doubled confirmation first, then the deliberate act of voicing it.",
+      "One 3 (creativity, expression) and a doubled 7 (insight, wisdom amplified) together, describing a two-step process: your intuition has already settled on an answer, and the specific next step is expressing it clearly, distinct from 373's simpler framing of a single, settled knowing ready to be stated. Where 373 is a straightforward statement, 377 emphasizes the doubled confirmation first, then the deliberate act of voicing it.",
     love: "Single: your intuition has doubly confirmed what you actually want in dating — the remaining step is expressing that clearly, to yourself first and then to others. Couple: your intuition has doubly confirmed something about the relationship — the remaining step is expressing it clearly to your partner, not just holding it privately.",
     career: "Your intuition has doubly confirmed a professional direction — the remaining step is expressing it clearly, in a conversation or a decision, rather than continuing to hold it privately.",
     money: "Your intuition has doubly confirmed a financial decision — the remaining step is expressing it clearly and acting on it, rather than continuing to sit with it privately.",
@@ -190,7 +190,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     titleHook: "Money Matches Your Effort",
     summary: "Financial return arriving specifically in proportion to the creative effort you've genuinely invested",
     meaning:
-      "388 combines 3 (creativity, expression) with double 8 (abundance amplified), describing financial return that's arriving specifically in proportion to the creative effort you've genuinely invested, worth trusting as a fair, traceable relationship rather than an arbitrary outcome. This favors recognizing that the reward reflects the real work put in, not luck alone.",
+      "3 (creativity, expression) carried on doubled 8 (abundance amplified), describing financial return that's arriving specifically in proportion to the creative effort you've genuinely invested, worth trusting as a fair, traceable relationship rather than an arbitrary outcome. This favors recognizing that the reward reflects the real work put in, not luck alone.",
     love: "Single: the effort you've put into creatively building a life and resources for yourself is specifically producing proportional financial return — trust that fair relationship. Couple: the creative effort you've both put into building shared resources is specifically producing proportional return — trust that fair relationship between effort and reward.",
     career: "The creative professional effort you've invested is specifically producing proportional financial return — trust that fair relationship between effort and reward.",
     money: "The creative effort you've invested in a financial approach is specifically producing proportional return — trust that fair, traceable relationship.",
@@ -226,7 +226,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     titleHook: "This Chapter Is Winding Down",
     summary: "A general sense that a chapter is winding down, distinct from the specific act of speaking its closure",
     meaning:
-      "399 combines 3 (creativity, expression) with double 9 (completion amplified), describing a general, felt sense that a chapter is winding down, distinct from 393's specific emphasis on providing spoken or written closing words. Where 393 is about the active act of closing, 399 is more about the ambient awareness that an ending is underway, worth acknowledging as real even before you've said anything about it.",
+      "3 (creativity, expression) meets a doubled 9 (completion amplified), describing a general, felt sense that a chapter is winding down, distinct from 393's specific emphasis on providing spoken or written closing words. Where 393 is about the active act of closing, 399 is more about the ambient awareness that an ending is underway, worth acknowledging as real even before you've said anything about it.",
     love: "Single: a chapter of your dating life is winding down, and it's worth acknowledging that felt sense as real, even before you've said anything about it out loud. Couple: a chapter within the relationship is winding down, worth acknowledging that felt sense together, even before you've had the specific conversation about it.",
     career: "A professional chapter is winding down, worth acknowledging that felt sense as real, even before any formal conversation or decision has happened.",
     money: "A financial chapter is winding down, worth acknowledging that felt sense as real, even before it's been formally addressed.",
@@ -262,7 +262,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     titleHook: "Groundwork Shapes The Future",
     summary: "Foundational work within a relationship right now specifically determining its long-term future",
     meaning:
-      "422 combines 4 (foundation, structure) with double 2 (partnership amplified), describing foundational work within a relationship right now, real conversations, established trust, agreed expectations, as what's specifically determining its long-term future. This favors treating the current groundwork as consequential, worth doing carefully rather than rushing past.",
+      "Single 4 (foundation, structure) alongside doubled 2 (partnership amplified), describing foundational work within a relationship right now, real conversations, established trust, agreed expectations, as what's specifically determining its long-term future. This favors treating the current groundwork as consequential, worth doing carefully rather than rushing past.",
     love: "Single: the foundational work you're doing right now in a new connection, honest conversations, clear expectations, is specifically determining its long-term future — do it carefully. Couple: the foundational work you're doing right now together, working through real issues, establishing trust, is specifically determining the relationship's long-term future.",
     career: "The foundational work you're doing right now in a professional partnership is specifically determining its long-term trajectory — do it carefully rather than rushing.",
     money: "The foundational work you're doing right now in a financial partnership is specifically determining its long-term outcome — do it carefully.",
@@ -298,7 +298,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     titleHook: "Creative Energy Overflows",
     summary: "A stable base specifically producing an overflowing, more-than-usual amount of creative energy",
     meaning:
-      "433 combines 4 (foundation, stability) with double 3 (creativity, expression amplified), describing a stable foundation as what's specifically producing an overflowing, more-than-usual amount of creative energy right now, distinct from 343's more measured framing of expression flourishing because of stability. Where 343 is steady flourishing, 433 is abundance, more creative capacity available than you might know what to do with.",
+      "4 (foundation, stability), intensified by a doubled 3 (creativity, expression amplified), describing a stable foundation as what's specifically producing an overflowing, more-than-usual amount of creative energy right now, distinct from 343's more measured framing of expression flourishing because of stability. Where 343 is steady flourishing, 433 is abundance, more creative capacity available than you might know what to do with.",
     love: "Single: your stable sense of self is producing an overflow of creative energy for how you approach dating right now — channel that abundance rather than letting it go unused. Couple: your relationship's stability is producing an overflow of creative energy for how you connect right now — channel that abundance into something specific together.",
     career: "Your professional stability is producing an overflow of creative energy right now — channel that abundance into a specific project rather than letting it dissipate unused.",
     money: "Your financial stability is producing an overflow of creative energy for approaching money right now — channel it into a specific plan or idea.",
@@ -442,7 +442,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     titleHook: "Financial Reward Is Close",
     summary: "A solid foundation specifically bringing imminent, substantial financial reward within reach",
     meaning:
-      "488 combines 4 (foundation, stability) with double 8 (abundance amplified), describing a solid foundation as what's specifically bringing an imminent, substantial financial reward within reach right now, distinct from 84's more general framing of effort translating into reward over time. This favors recognizing the reward as close, worth actively preparing to receive rather than assuming it's still far off.",
+      "One 4 (foundation, stability) and a doubled 8 (abundance amplified) together, describing a solid foundation as what's specifically bringing an imminent, substantial financial reward within reach right now, distinct from 84's more general framing of effort translating into reward over time. This favors recognizing the reward as close, worth actively preparing to receive rather than assuming it's still far off.",
     love: "Single: your solid personal foundation is specifically bringing a real financial reward within reach right now, worth preparing to receive rather than assuming it's still distant. Couple: your solid shared foundation is specifically bringing a real financial reward within reach for the relationship right now.",
     career: "Your solid professional foundation is specifically bringing a real financial reward within reach right now — prepare to receive it rather than assuming it's still far off.",
     money: "Your solid financial foundation is specifically bringing a real reward within reach right now — prepare to receive it, since it may be closer than it feels.",
@@ -478,7 +478,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     titleHook: "One Era Ends, Next Begins",
     summary: "A solidly-grounded, complete transition between two significant eras of life",
     meaning:
-      "499 combines 4 (foundation, stability) with double 9 (completion amplified), describing a solidly-grounded, complete transition between two significant eras of life, distinct from 149's framing of a chapter closing to transfer real foundation forward. Where 149 emphasizes the transfer, 499 emphasizes the scale: this is a genuine era-level shift, larger than a single chapter, handled with real groundedness rather than disorientation.",
+      "4 (foundation, stability) carried on doubled 9 (completion amplified), describing a solidly-grounded, complete transition between two significant eras of life, distinct from 149's framing of a chapter closing to transfer real foundation forward. Where 149 emphasizes the transfer, 499 emphasizes the scale: this is a genuine era-level shift, larger than a single chapter, handled with real groundedness rather than disorientation.",
     love: "Single: an entire era of your dating life, not just one chapter, is concluding, and a solidly-grounded new era is beginning — trust the scale of this transition. Couple: an entire era of the relationship is concluding, and a solidly-grounded new era is beginning — trust the scale and groundedness of this transition together.",
     career: "An entire professional era is concluding, and a solidly-grounded new one is beginning — trust the scale of this transition rather than treating it as a minor shift.",
     money: "An entire financial era is concluding, and a solidly-grounded new one is beginning — trust the scale of this transition.",
@@ -514,7 +514,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     titleHook: "Balance Needed Amid Change",
     summary: "A relationship specifically needing active balance right now, amid a period of real change",
     meaning:
-      "522 combines 5 (change, freedom) with double 2 (partnership, balance amplified), describing a relationship that specifically needs active, deliberate balance right now, amid a period of genuine change, distinct from 125's more moderate framing of finding balance within an ordinary shift. This favors recognizing that the current change is significant enough to require real, conscious effort toward equilibrium, not just passive adjustment.",
+      "5 (change, freedom), paired with a double dose of 2 (partnership, balance amplified), describing a relationship that specifically needs active, deliberate balance right now, amid a period of genuine change, distinct from 125's more moderate framing of finding balance within an ordinary shift. This favors recognizing that the current change is significant enough to require real, conscious effort toward equilibrium, not just passive adjustment.",
     love: "Single: actively work to find balance in how you're navigating a real change in your dating life right now, rather than letting the volatility push you off center. Couple: actively work to find balance in the relationship right now, amid a real, significant change you're both navigating.",
     career: "Actively work to find balance in a professional partnership right now, amid significant change, rather than letting the volatility push things off center.",
     money: "Actively work to find balance in a financial partnership right now, amid significant change, rather than letting volatility disrupt the equilibrium.",
@@ -550,7 +550,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     titleHook: "Time To Express Freely",
     summary: "A specific time calling for uninhibited, amplified creative and honest self-expression",
     meaning:
-      "533 combines 5 (change, freedom) with double 3 (creativity, expression amplified), describing a specific time that's calling for uninhibited, amplified creative and honest self-expression, rather than continued caution or restraint. This favors recognizing that the moment specifically calls for more openness than usual, not less.",
+      "Single 5 (change, freedom) alongside doubled 3 (creativity, expression amplified), describing a specific time that's calling for uninhibited, amplified creative and honest self-expression, rather than continued caution or restraint. This favors recognizing that the moment specifically calls for more openness than usual, not less.",
     love: "Single: this is specifically a time to express yourself more freely and honestly in dating than you have been, rather than continuing to hold back out of caution. Couple: this is specifically a time to express yourselves more freely and honestly with each other than you have been, rather than continuing old patterns of restraint.",
     career: "This is specifically a time to express your ideas more freely and openly at work than you have been, rather than continuing to hold back.",
     money: "This is specifically a time to express your actual financial needs or ideas more openly than you have been, rather than continuing to hold back out of caution.",
@@ -622,7 +622,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     titleHook: "New Lifestyle, New Stability",
     summary: "A change in lifestyle or routine specifically producing greater domestic stability as its direct result",
     meaning:
-      "566 combines 5 (change, freedom) with double 6 (home, care amplified), describing a change in lifestyle or daily routine as what's specifically producing greater domestic stability as its direct result, rather than the change threatening the stability you already have. This favors trusting that this particular shift is building toward more ease at home, not less.",
+      "5 (change, freedom), intensified by a doubled 6 (home, care amplified), describing a change in lifestyle or daily routine as what's specifically producing greater domestic stability as its direct result, rather than the change threatening the stability you already have. This favors trusting that this particular shift is building toward more ease at home, not less.",
     love: "Single: a lifestyle change you're making is specifically producing greater personal stability and ease, worth trusting as building toward something better, not disrupting what you have. Couple: a lifestyle change you're making together is specifically producing greater domestic stability, worth trusting as building toward more ease at home.",
     career: "A lifestyle or routine change tied to your career is specifically producing greater stability at home, worth trusting rather than fearing it will disrupt your domestic life.",
     money: "A lifestyle change in how you handle daily financial habits is specifically producing greater household stability as its direct result.",
@@ -658,7 +658,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     titleHook: "Re-Center Home And Bonds",
     summary: "A call to actively re-center priorities specifically around home and close relationships right now",
     meaning:
-      "622 combines 6 (home, care) with double 2 (partnership, balance amplified), describing a specific call to re-center your priorities around home and close relationships right now, rather than letting other demands, work, distraction, ambition, continue crowding them out. This favors deliberately shifting focus back to what's been unintentionally deprioritized.",
+      "Single 6 (home, care) alongside doubled 2 (partnership, balance amplified), describing a specific call to re-center your priorities around home and close relationships right now, rather than letting other demands, work, distraction, ambition, continue crowding them out. This favors deliberately shifting focus back to what's been unintentionally deprioritized.",
     love: "Single: re-center your priorities around close friendships and family right now, rather than letting other demands continue crowding them out. Couple: re-center your priorities around home and the relationship right now, deliberately shifting focus back from whatever's been crowding it out.",
     career: "If professional demands have been crowding out home and relationships, this favors deliberately re-centering your priorities right now.",
     money: "Re-center financial priorities around home and family needs right now, rather than letting other demands continue crowding them out.",
@@ -694,7 +694,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     titleHook: "Creative Fixes Beat Worry",
     summary: "Redirecting worry energy specifically into creative problem-solving at home right now",
     meaning:
-      "633 combines 6 (home, care, worry) with double 3 (creativity, expression amplified), describing a specific call to redirect worry energy into active, creative problem-solving around a home or family concern, rather than letting the worry spin without producing anything useful. This favors trusting your own creative capacity to actually solve the problem, more than continuing to worry about it.",
+      "6 (home, care, worry), intensified by a doubled 3 (creativity, expression amplified), describing a specific call to redirect worry energy into active, creative problem-solving around a home or family concern, rather than letting the worry spin without producing anything useful. This favors trusting your own creative capacity to actually solve the problem, more than continuing to worry about it.",
     love: "Single: redirect worry about your living situation or family into an active, creative solution, rather than letting the worry spin without producing anything useful. Couple: redirect worry about a home or family concern into an active, creative solution together, rather than letting the anxiety consume your shared attention.",
     career: "Redirect worry about a home-related professional issue into an active, creative solution, rather than letting the anxiety spin unproductively.",
     money: "Redirect worry about household finances into an active, creative solution, rather than letting the anxiety consume attention without producing a plan.",

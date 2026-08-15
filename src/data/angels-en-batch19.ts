@@ -689,7 +689,7 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
     titleHook: "Let Go To Find The Path",
     summary: "Releasing something familiar as the specific act that opens a genuinely new path",
     meaning:
-      "155 combines 1 (new beginnings) with double 5 (change, freedom amplified), describing the release of something familiar, an old habit, an old belief, an old routine, as the specific act that opens a genuinely new path forward. This favors recognizing that the new beginning being sought is being blocked not by lack of opportunity, but by continued attachment to something familiar that needs to be let go of first.",
+      "1 (new beginnings), intensified by a doubled 5 (change, freedom amplified), describing the release of something familiar, an old habit, an old belief, an old routine, as the specific act that opens a genuinely new path forward. This favors recognizing that the new beginning being sought is being blocked not by lack of opportunity, but by continued attachment to something familiar that needs to be let go of first.",
     love: "Single: a familiar pattern or belief about relationships needs to be released before a genuinely new path in your love life can open — name what you're holding onto and consciously let it go. Couple: a familiar but outdated way of relating needs to be released before a genuinely new stage of the relationship can open — name it together and consciously let it go.",
     career: "A familiar but outdated professional habit or belief needs to be released before a genuinely new path can open — name what you're holding onto and let it go.",
     money: "A familiar but outdated financial habit or belief needs to be released before a genuinely new approach can open — name it and consciously let it go.",
