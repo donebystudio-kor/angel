@@ -10,7 +10,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     titleHook: "Insight Sparks A Breakthrough",
     summary: "Deep, doubled understanding specifically producing a real financial breakthrough right now",
     meaning:
-      "8 (abundance), intensified by a doubled 7 (insight, wisdom amplified), describing deep, doubled understanding as what's specifically producing a real financial breakthrough right now, distinct from 7887's framing of a single realization translating into new wealth. Where 7887 emphasizes the general translation, 877 is more immediate: this particular breakthrough is happening now, worth acting on directly.",
+      "877 holds 8 (abundance), intensified by a doubled 7 (insight, wisdom amplified), describing deep, doubled understanding as what's specifically producing a real financial breakthrough right now, distinct from 7887's framing of a single realization translating into new wealth. Where 7887 emphasizes the general translation, 877 is more immediate: this particular breakthrough is happening now, worth acting on directly.",
     love: "Single: a deep understanding you've reached about your own worth and needs is specifically producing a real breakthrough in how you approach financial and practical matters in dating. Couple: a deep, shared understanding you've reached together is specifically producing a real financial breakthrough for the relationship right now.",
     career: "A deep professional understanding you've reached is specifically producing a real financial breakthrough right now — act on it directly.",
     money: "A deep financial understanding you've reached is specifically producing a real breakthrough right now — act on it directly rather than only appreciating the insight.",
@@ -46,7 +46,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     titleHook: "An Abundant Season Winds Down",
     summary: "A season of genuine abundance reaching its natural, doubly-emphasized conclusion",
     meaning:
-      "One 8 (abundance) and a doubled 9 (completion amplified) together, describing a season of genuine abundance that's reaching its natural conclusion, distinct from 8998's more cautionary framing of an abundant phase concluding and calling for practical preparation. Where 8998 is about the practical transition, 899 is more about honoring the season itself, recognizing and appreciating it fully as it winds down.",
+      "899 brings one 8 (abundance) and a doubled 9 (completion amplified) together, describing a season of genuine abundance that's reaching its natural conclusion, distinct from 8998's more cautionary framing of an abundant phase concluding and calling for practical preparation. Where 8998 is about the practical transition, 899 is more about honoring the season itself, recognizing and appreciating it fully as it winds down.",
     love: "Single: an especially abundant season for your love life, plenty of connection, ease, opportunity, is winding down — honor it fully rather than only noticing its end. Couple: an especially abundant season for the relationship is winding down — honor what it brought fully before moving into whatever comes next.",
     career: "An especially abundant professional season is winding down — honor what it brought fully rather than only focusing on its conclusion.",
     money: "An especially abundant financial season is winding down — honor what it brought fully, rather than only mourning its end.",
@@ -82,7 +82,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     titleHook: "Wrap Up, Find A Collaborator",
     summary: "Completing something while simultaneously seeking out a strong new collaborative partnership",
     meaning:
-      "9 (completion) meets a doubled 2 (partnership amplified), describing the simultaneous process of wrapping up a current chapter while actively seeking out a new, strong collaborative partnership, rather than treating the two as sequential. This favors recognizing that completion and new partnership-seeking can genuinely happen at the same time.",
+      "In 922, 9 (completion) meets a doubled 2 (partnership amplified), describing the simultaneous process of wrapping up a current chapter while actively seeking out a new, strong collaborative partnership, rather than treating the two as sequential. This favors recognizing that completion and new partnership-seeking can genuinely happen at the same time.",
     love: "Single: while wrapping up an old chapter of your dating life, actively look for a new, meaningful connection at the same time, rather than waiting for full closure first. Couple: while completing an old dynamic within the relationship, actively work on building a stronger, new kind of partnership at the same time.",
     career: "While wrapping up a professional chapter, actively seek out a new, strong collaborative partnership at the same time, rather than waiting for full closure first.",
     money: "While completing an old financial arrangement, actively seek out a new, strong partnership or collaboration for what comes next.",
@@ -118,7 +118,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     titleHook: "Completion Through Your Voice",
     summary: "A conclusion reaching genuine completeness specifically through the act of expressing it",
     meaning:
-      "9 (completion), paired with a double dose of 3 (creativity, expression amplified), describing a conclusion that reaches genuine completeness specifically through the act of expressing it, writing, speaking, creating something about it, rather than through silent processing alone. This favors recognizing that expression is the specific mechanism that finishes the completion here.",
+      "933: 9 (completion), paired with a double dose of 3 (creativity, expression amplified), describing a conclusion that reaches genuine completeness specifically through the act of expressing it, writing, speaking, creating something about it, rather than through silent processing alone. This favors recognizing that expression is the specific mechanism that finishes the completion here.",
     love: "Single: express something, write it, say it, create something about it, to genuinely complete a chapter of your dating life, rather than processing it silently alone. Couple: express something together, in words or a shared creative act, to genuinely complete a chapter within the relationship.",
     career: "Express something, a final report, a closing conversation, to genuinely complete a professional chapter, rather than letting it conclude silently.",
     money: "Express something, in writing or conversation, to genuinely complete a financial chapter, rather than letting it conclude silently.",
@@ -190,7 +190,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     titleHook: "Bold Release Opens A Door",
     summary: "A bold, decisive release of something completed specifically opening significant new change",
     meaning:
-      "Single 9 (completion) alongside doubled 5 (change, freedom amplified), describing a bold, decisive release of something already completed as what's specifically opening significant new change, rather than a gradual, hesitant letting go. This favors trusting that boldness in the release itself, more than a slow fade, is what makes room for what's next.",
+      "955 places single 9 (completion) alongside doubled 5 (change, freedom amplified), describing a bold, decisive release of something already completed as what's specifically opening significant new change, rather than a gradual, hesitant letting go. This favors trusting that boldness in the release itself, more than a slow fade, is what makes room for what's next.",
     love: "Single: boldly and decisively release a completed chapter of your dating life, rather than letting it linger — that decisiveness is specifically what opens real new change. Couple: boldly and decisively release a completed chapter within the relationship together, rather than letting it linger, trusting that decisiveness opens real new change.",
     career: "Boldly and decisively release a completed professional chapter, rather than letting it linger — that decisiveness is what opens significant new change.",
     money: "Boldly and decisively release a completed financial chapter, rather than letting it linger — that decisiveness opens significant new change.",
@@ -226,7 +226,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     titleHook: "Time To Shed Excess Duty",
     summary: "A caregiving responsibility reaching natural completion, time to release the excess weight of it",
     meaning:
-      "9 (completion), intensified by a doubled 6 (home, care amplified), describing a caregiving responsibility that's reached its natural point of completion, worth releasing the excess weight of it now rather than continuing to carry more than is actually needed. This favors recognizing when devotion has become excess, distinguishing genuine ongoing care from an outdated overextension.",
+      "966 holds 9 (completion), intensified by a doubled 6 (home, care amplified), describing a caregiving responsibility that's reached its natural point of completion, worth releasing the excess weight of it now rather than continuing to carry more than is actually needed. This favors recognizing when devotion has become excess, distinguishing genuine ongoing care from an outdated overextension.",
     love: "Single: release the excess weight of a caregiving responsibility toward family or friends that's grown beyond what's actually needed now. Couple: release the excess weight of a caregiving responsibility within the relationship that's grown beyond what's actually needed, freeing up energy for a more balanced dynamic.",
     career: "Release the excess weight of a caregiving or mentoring responsibility at work that's grown beyond what's actually needed now.",
     money: "Release the excess weight of a financial caregiving responsibility, supporting someone beyond what's actually still needed, that's grown beyond its natural scope.",
@@ -262,7 +262,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Chapter Closes With Insight",
     summary: "A life chapter closing specifically alongside deep, doubled realization about what it meant",
     meaning:
-      "One 9 (completion) and a doubled 7 (insight, wisdom amplified) together, describing a life chapter that's closing specifically alongside deep, doubled realization about what it actually meant, distinct from 7997's emphasis on genuine understanding being what completes a chapter. Where 7997 is about understanding as the mechanism of closure, 977 is broader: the chapter's ending and the deep realization are simply happening together, a significant, meaningful convergence.",
+      "977 brings one 9 (completion) and a doubled 7 (insight, wisdom amplified) together, describing a life chapter that's closing specifically alongside deep, doubled realization about what it actually meant, distinct from 7997's emphasis on genuine understanding being what completes a chapter. Where 7997 is about understanding as the mechanism of closure, 977 is broader: the chapter's ending and the deep realization are simply happening together, a significant, meaningful convergence.",
     love: "Single: a chapter of your dating life is closing alongside a deep realization about what it actually taught you — let both happen together fully. Couple: a chapter within the relationship is closing alongside a deep, shared realization about what it meant — honor both together.",
     career: "A professional chapter is closing alongside a deep realization about what it actually meant for your path — let both happen together fully.",
     money: "A financial chapter is closing alongside a deep realization about what it actually taught you — honor both as they happen together.",
@@ -298,7 +298,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     titleHook: "Abundance Waits After This",
     summary: "Genuine completion specifically followed by real abundance waiting on the other side",
     meaning:
-      "9 (completion) carried on doubled 8 (abundance amplified), describing genuine completion of a chapter as specifically followed by real, substantial abundance waiting on the other side, distinct from 9889's emphasis on completion directly producing the abundance that follows. Where 9889 is causal, 988 is more anticipatory: the abundance is simply waiting there, ready, once the completion happens.",
+      "988's 9 (completion), carried on doubled 8 (abundance amplified), describing genuine completion of a chapter as specifically followed by real, substantial abundance waiting on the other side, distinct from 9889's emphasis on completion directly producing the abundance that follows. Where 9889 is causal, 988 is more anticipatory: the abundance is simply waiting there, ready, once the completion happens.",
     love: "Single: real abundance in your love life is waiting on the other side of properly completing a current chapter — trust that it's there, ready. Couple: real, shared abundance is waiting on the other side of properly completing a current chapter within the relationship — trust that it's there.",
     career: "Real professional abundance is waiting on the other side of properly completing a current chapter — trust that it's there, ready for you.",
     money: "Real financial abundance is waiting on the other side of properly completing a current chapter — trust that it's there, ready once the completion happens.",

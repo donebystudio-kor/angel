@@ -13,7 +13,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Complete, Clean New Start",
     summary: "A whole, complete new beginning, more total than a small start but more personal than a cosmic one",
     meaning:
-      "1 (new beginnings) meets a doubled 0 (complete amplification), describing a whole, complete new beginning at a genuinely personal scale, distinct from 10000's massive, once-in-a-lifetime magnitude. This is a real, full clean slate, worth taking seriously, without needing to be the biggest new beginning of your life to count.",
+      "In 100, 1 (new beginnings) meets a doubled 0 (complete amplification), describing a whole, complete new beginning at a genuinely personal scale, distinct from 10000's massive, once-in-a-lifetime magnitude. This is a real, full clean slate, worth taking seriously, without needing to be the biggest new beginning of your life to count.",
     love: "Single: a genuinely complete fresh start is available in your love life right now, worth taking seriously as a real clean slate, not just a small tweak to old patterns. Couple: a genuinely complete new stage is available for the relationship right now, worth treating as a real clean slate rather than a minor adjustment to the old dynamic.",
     career: "A genuinely complete professional fresh start is available right now, worth taking seriously as a real reset, not just a minor adjustment.",
     money: "A genuinely complete financial fresh start is available right now, worth treating as a real clean slate rather than a small tweak to the old approach.",

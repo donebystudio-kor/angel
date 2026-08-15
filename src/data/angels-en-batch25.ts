@@ -11,7 +11,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     titleHook: "Release It To Open The Door",
     summary: "Releasing something familiar, specifically confirmed by deep intuition as the right move",
     meaning:
-      "One 5 (change, freedom) and a doubled 7 (insight, intuition amplified) together, describing the release of something familiar as specifically confirmed by deep, doubled intuitive insight to be the right move, rather than a leap of faith taken blindly. This favors trusting that your gut has genuinely verified this particular release, worth acting on with real confidence.",
+      "577 brings one 5 (change, freedom) and a doubled 7 (insight, intuition amplified) together, describing the release of something familiar as specifically confirmed by deep, doubled intuitive insight to be the right move, rather than a leap of faith taken blindly. This favors trusting that your gut has genuinely verified this particular release, worth acting on with real confidence.",
     love: "Single: releasing a familiar but limiting pattern in how you date is specifically confirmed by your deep intuition as the right move — trust that verified sense fully. Couple: releasing an old, familiar pattern within the relationship is specifically confirmed by your shared intuition as the right move, worth trusting fully.",
     career: "Releasing a familiar but limiting professional pattern is specifically confirmed by your deep intuition as the right move — trust that verified sense.",
     money: "Releasing a familiar but limiting financial habit is specifically confirmed by your deep intuition as the right move — trust that verification fully.",
@@ -47,7 +47,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Big Money Flow Is Coming",
     summary: "A significant, larger-scale shift in your financial flow approaching, bigger than a routine change",
     meaning:
-      "5 (change, freedom) carried on doubled 8 (abundance amplified), describing a significant, larger-scale shift in your financial flow that's approaching, distinct from 188's more modest, routine framing. This favors preparing for a genuinely substantial shift, not a minor adjustment, worth taking seriously.",
+      "588's 5 (change, freedom), carried on doubled 8 (abundance amplified), describing a significant, larger-scale shift in your financial flow that's approaching, distinct from 188's more modest, routine framing. This favors preparing for a genuinely substantial shift, not a minor adjustment, worth taking seriously.",
     love: "Single: a significant shift in your financial circumstances may soon meaningfully affect your love life — prepare for something substantial, not a minor change. Couple: a significant shift in the household's financial situation is approaching — prepare together for something substantial.",
     career: "A significant shift in the financial dimension of your career is approaching — prepare for something substantial, not a minor adjustment.",
     money: "A significant, larger-scale shift in your financial flow is approaching — prepare for something substantial, reviewing your situation thoroughly rather than making minor tweaks.",
@@ -83,7 +83,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     titleHook: "One Must End, Then Begins",
     summary: "A change requiring one thing to decisively end before the next phase can genuinely start",
     meaning:
-      "5 (change, freedom) meets a doubled 9 (completion amplified), describing a change that requires one specific thing to decisively and completely end before the next phase can genuinely begin, rather than the two overlapping or coexisting. This favors recognizing when a clean, decisive ending is actually necessary, not something to avoid or soften.",
+      "In 599, 5 (change, freedom) meets a doubled 9 (completion amplified), describing a change that requires one specific thing to decisively and completely end before the next phase can genuinely begin, rather than the two overlapping or coexisting. This favors recognizing when a clean, decisive ending is actually necessary, not something to avoid or soften.",
     love: "Single: one specific pattern or connection needs to decisively end before real space opens for what's next in your love life — trust that a clean ending, not a gradual fade, is what's needed. Couple: one specific old pattern within the relationship needs to decisively end before real space opens for the next stage — a clean ending, not a gradual overlap.",
     career: "One specific professional situation needs to decisively end before real space opens for the next opportunity — a clean ending, not a gradual overlap.",
     money: "One specific financial situation needs to decisively end before real space opens for the next approach — a clean ending, not a gradual transition.",
@@ -119,7 +119,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     titleHook: "Rebuild This Foundation Fully",
     summary: "Home life specifically needing fundamental rebuilding, not just routine maintenance",
     meaning:
-      "One 6 (home, care) and a doubled 4 (foundation, structure amplified) together, describing home life that specifically needs fundamental rebuilding from the ground up right now, distinct from 0440's calmer framing of routine, bounded maintenance. This favors recognizing when the situation calls for something more substantial than a tune-up, a real structural rebuild.",
+      "644 brings one 6 (home, care) and a doubled 4 (foundation, structure amplified) together, describing home life that specifically needs fundamental rebuilding from the ground up right now, distinct from 0440's calmer framing of routine, bounded maintenance. This favors recognizing when the situation calls for something more substantial than a tune-up, a real structural rebuild.",
     love: "Single: your approach to home and belonging needs a fundamental rebuild right now, not just small adjustments — start from the actual ground up. Couple: your shared approach to home life needs a fundamental rebuild right now, not just small adjustments — start the deeper work together.",
     career: "If your career has been undermining your home foundation, this favors a fundamental rebuild of that balance, not just small adjustments.",
     money: "Your household financial foundation needs a fundamental rebuild right now, not just small adjustments — start from the actual ground up.",
@@ -155,7 +155,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     titleHook: "Change Blows Through Your Home",
     summary: "A significant shift moving through the domestic environment right now, worth meeting directly",
     meaning:
-      "6 (home, care) carried on doubled 5 (change, freedom amplified), describing a significant shift that's moving through your home environment right now, a move, a change in household composition, a shift in daily rhythm, worth meeting directly rather than resisting. This favors recognizing the scale of the domestic change and adapting to it deliberately.",
+      "655's 6 (home, care), carried on doubled 5 (change, freedom amplified), describing a significant shift that's moving through your home environment right now, a move, a change in household composition, a shift in daily rhythm, worth meeting directly rather than resisting. This favors recognizing the scale of the domestic change and adapting to it deliberately.",
     love: "Single: a significant shift is moving through your living situation or home environment right now — meet it directly rather than resisting it. Couple: a significant shift is moving through your shared home environment right now — meet it together directly rather than each resisting it separately.",
     career: "If your career is prompting a significant shift in your home environment, meet that change directly rather than resisting it.",
     money: "A significant shift in household financial circumstances is moving through your home environment right now — meet it directly.",
@@ -191,7 +191,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     titleHook: "Quiet Certainty Knows",
     summary: "A calm, settled inner knowing, rooted in emotional security, specifically revealing an answer",
     meaning:
-      "6 (home, care, emotional security) meets a doubled 7 (insight, intuition amplified), describing a calm, settled inner knowing, specifically rooted in emotional security, as what's revealing an answer right now, distinct from a more intellectual or detached form of insight. This favors trusting the quiet certainty that comes from feeling emotionally grounded, more than an anxious search for answers.",
+      "In 677, 6 (home, care, emotional security) meets a doubled 7 (insight, intuition amplified), describing a calm, settled inner knowing, specifically rooted in emotional security, as what's revealing an answer right now, distinct from a more intellectual or detached form of insight. This favors trusting the quiet certainty that comes from feeling emotionally grounded, more than an anxious search for answers.",
     love: "Single: from a place of genuine emotional security, not anxious searching, a quiet certainty about your love life is revealing its answer — trust that grounded knowing. Couple: from a place of genuine emotional security together, a quiet certainty about the relationship's direction is revealing its answer.",
     career: "From a place of genuine emotional security, a quiet certainty about a professional question is revealing its answer — trust that grounded knowing.",
     money: "From a place of genuine emotional security, a quiet certainty about a financial question is revealing its answer — trust that grounded sense.",
@@ -227,7 +227,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     titleHook: "Responsibility Brings Reward",
     summary: "Following through on caregiving or domestic responsibility specifically producing material reward",
     meaning:
-      "6 (home, care, responsibility), paired with a double dose of 8 (abundance amplified), describing genuine follow-through on caregiving or domestic responsibility as what's specifically producing material reward right now, rather than the two being unrelated. This favors trusting that fulfilling your responsibilities well has a real, traceable connection to the abundance now arriving.",
+      "688: 6 (home, care, responsibility), paired with a double dose of 8 (abundance amplified), describing genuine follow-through on caregiving or domestic responsibility as what's specifically producing material reward right now, rather than the two being unrelated. This favors trusting that fulfilling your responsibilities well has a real, traceable connection to the abundance now arriving.",
     love: "Single: the responsibility you've consistently fulfilled toward your own wellbeing and close relationships is specifically producing real reward now — trust that link. Couple: the responsibility you've both consistently fulfilled toward home and family is specifically producing real, shared reward now.",
     career: "The responsibility you've consistently fulfilled at work, especially caregiving-adjacent responsibility, is specifically producing real material reward now.",
     money: "The responsibility you've consistently fulfilled around household finances is specifically producing real reward now — trust that traceable connection.",
@@ -263,7 +263,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     titleHook: "Letting Go Of This Devotion",
     summary: "A significant devotion or caregiving commitment reaching a real, decisive ending",
     meaning:
-      "Single 6 (home, care, devotion) alongside doubled 9 (completion amplified), describing a significant devotion or caregiving commitment that's reaching a real, decisive ending, distinct from 9669's broader framing of a caregiving season completing naturally. Where 9669 emphasizes natural completion opening a new role, 699 is more direct: it's specifically about the act of parting with something you've devoted real energy to.",
+      "699 places single 6 (home, care, devotion) alongside doubled 9 (completion amplified), describing a significant devotion or caregiving commitment that's reaching a real, decisive ending, distinct from 9669's broader framing of a caregiving season completing naturally. Where 9669 emphasizes natural completion opening a new role, 699 is more direct: it's specifically about the act of parting with something you've devoted real energy to.",
     love: "Single: a devotion you've poured real energy into, a friendship, a family role, a caregiving pattern, is reaching a real, decisive ending — honor that parting directly. Couple: a devotion within the relationship, an old role, an old way of caring for each other, is reaching a real, decisive ending, worth honoring directly.",
     career: "A devotion you've poured real energy into professionally, a role, a project, is reaching a real, decisive ending — honor that parting directly.",
     money: "A financial devotion, supporting someone or something specific, is reaching a real, decisive ending — honor that parting directly.",
@@ -299,7 +299,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     titleHook: "Wisdom Creates Your Reality",
     summary: "Inner wisdom specifically manifesting into real, relational circumstance, not staying abstract",
     meaning:
-      "One 7 (insight, wisdom) and a doubled 2 (partnership, balance amplified) together, describing inner wisdom that's specifically manifesting into real, relational circumstances, not staying an abstract internal understanding. This favors trusting that clear, grounded insight has genuine power to shape actual relationships and situations, worth acting on rather than only appreciating internally.",
+      "722 brings one 7 (insight, wisdom) and a doubled 2 (partnership, balance amplified) together, describing inner wisdom that's specifically manifesting into real, relational circumstances, not staying an abstract internal understanding. This favors trusting that clear, grounded insight has genuine power to shape actual relationships and situations, worth acting on rather than only appreciating internally.",
     love: "Single: your growing inner wisdom about what you actually want is specifically starting to manifest into real relational circumstances — trust that your clarity has real shaping power. Couple: your shared inner wisdom about the relationship is specifically manifesting into real, tangible changes in how you relate to each other.",
     career: "Your inner professional wisdom is specifically manifesting into real changes in your working relationships — trust that clarity has genuine shaping power.",
     money: "Your inner financial wisdom is specifically manifesting into real changes in a financial partnership — trust that clarity has genuine shaping power.",
@@ -335,7 +335,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     titleHook: "Say What You Really Mean",
     summary: "Insight and gut clarity specifically calling for amplified, honest expression right now",
     meaning:
-      "7 (insight, clarity) carried on doubled 3 (creativity, expression amplified), describing a specific call to say what you really mean, with amplified honesty, right now, rather than continuing to hedge or soften your actual message. This favors trusting that the clarity you already have deserves full, direct expression, not a diluted version.",
+      "733's 7 (insight, clarity), carried on doubled 3 (creativity, expression amplified), describing a specific call to say what you really mean, with amplified honesty, right now, rather than continuing to hedge or soften your actual message. This favors trusting that the clarity you already have deserves full, direct expression, not a diluted version.",
     love: "Single: you already have clarity about what you actually want to say to someone — say it fully and directly now, rather than continuing to hedge or soften it. Couple: you already have clarity about what you actually need to say within the relationship — say it fully and directly now, rather than continuing to hedge.",
     career: "You already have clarity about what you actually need to say professionally — say it fully and directly now, rather than continuing to soften it.",
     money: "You already have clarity about a financial concern you need to voice — say it fully and directly now, rather than continuing to hedge.",
@@ -371,7 +371,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     titleHook: "Study Builds Real Solidity",
     summary: "Genuine learning and understanding specifically translating into real, lasting stability",
     meaning:
-      "7 (insight, learning) meets a doubled 4 (foundation, structure amplified), describing genuine learning and understanding that's specifically translating into real, lasting stability, distinct from 74's more general framing of persistence shaping results. This favors trusting that the specific work of studying or understanding something deeply is what's producing the solid ground you're now standing on.",
+      "In 744, 7 (insight, learning) meets a doubled 4 (foundation, structure amplified), describing genuine learning and understanding that's specifically translating into real, lasting stability, distinct from 74's more general framing of persistence shaping results. This favors trusting that the specific work of studying or understanding something deeply is what's producing the solid ground you're now standing on.",
     love: "Single: the real work you've put into understanding yourself and relationships is specifically what's producing the emotional solidity you feel now. Couple: the real work you've both put into understanding each other is specifically what's producing the relationship's current solidity.",
     career: "The real study or skill-building you've invested in is specifically what's producing your current professional solidity — trust that connection.",
     money: "The real learning you've invested in understanding your finances is specifically what's producing your current financial solidity.",
@@ -407,7 +407,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Realization Changes Course",
     summary: "A specific realization producing real, significant change in the actual direction of your life",
     meaning:
-      "7 (insight, realization), paired with a double dose of 5 (change, freedom amplified), describing a specific realization that's producing genuine, significant change in your life's actual direction, distinct from 75's simpler framing of change following an already-sensed intuition. Where 75 confirms accuracy, 755 is more causal and consequential: this realization is directly redirecting your course.",
+      "755: 7 (insight, realization), paired with a double dose of 5 (change, freedom amplified), describing a specific realization that's producing genuine, significant change in your life's actual direction, distinct from 75's simpler framing of change following an already-sensed intuition. Where 75 confirms accuracy, 755 is more causal and consequential: this realization is directly redirecting your course.",
     love: "Single: a specific realization about what you actually want is directly redirecting the course of your love life right now, worth trusting as a significant shift, not a small adjustment. Couple: a specific realization you've reached together is directly redirecting the course of the relationship right now.",
     career: "A specific professional realization is directly redirecting the course of your career right now, worth trusting as a significant shift.",
     money: "A specific realization about money is directly redirecting the course of your financial approach right now, worth trusting as significant.",
@@ -443,7 +443,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     titleHook: "Stop Thinking, Start Caring",
     summary: "A call to shift from overthinking into direct, active caregiving action for someone close",
     meaning:
-      "Single 7 (insight, thought) alongside doubled 6 (home, care amplified), describing a specific call to shift from overthinking a situation into direct, active caregiving action for someone close, rather than continuing to analyze. This favors recognizing that further thought isn't what's needed here, active presence and care is.",
+      "766 places single 7 (insight, thought) alongside doubled 6 (home, care amplified), describing a specific call to shift from overthinking a situation into direct, active caregiving action for someone close, rather than continuing to analyze. This favors recognizing that further thought isn't what's needed here, active presence and care is.",
     love: "Single: stop overthinking your approach to relationships and instead show up with direct, active care for someone close to you right now. Couple: stop overthinking the relationship and instead show up with direct, active care for your partner right now — presence, not more analysis, is what's needed.",
     career: "Stop overthinking a work situation and instead show up with direct, practical care for a colleague or team member who needs it right now.",
     money: "Stop overthinking a financial decision related to family and instead take direct, practical action to care for what actually needs attention.",
@@ -479,7 +479,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     titleHook: "Wisdom Now, Reward Later",
     summary: "A wise, well-considered choice specifically returning as material reward in due time",
     meaning:
-      "7 (insight, wisdom), intensified by a doubled 8 (abundance amplified), describing a wise, well-considered choice as what's specifically going to return as material reward, in due time, rather than immediately. This favors trusting the wisdom of a patient decision now, even if the reward isn't instant, over a faster but less considered option.",
+      "788 holds 7 (insight, wisdom), intensified by a doubled 8 (abundance amplified), describing a wise, well-considered choice as what's specifically going to return as material reward, in due time, rather than immediately. This favors trusting the wisdom of a patient decision now, even if the reward isn't instant, over a faster but less considered option.",
     love: "Single: a wise, patient choice you're making now in your love life is specifically going to return as real benefit later — trust the patience even without instant results. Couple: a wise, patient choice you're both making now is specifically going to return as real, shared benefit later.",
     career: "A wise, patient professional choice you're making now is specifically going to return as real material reward later — trust the patience.",
     money: "A wise, patient financial choice you're making now is specifically going to return as real reward later, worth trusting even without immediate results.",
@@ -515,7 +515,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Journey Ends, Wisdom Remains",
     summary: "A significant journey reaching its end, leaving behind real, concentrated wisdom worth keeping",
     meaning:
-      "One 7 (insight, wisdom) and a doubled 9 (completion amplified) together, describing a significant journey that's reaching its end, with genuine, concentrated wisdom remaining as its lasting legacy, distinct from 97's framing of a stage of spiritual growth simply completing. This favors recognizing and actively holding onto the wisdom gained, rather than letting it fade along with the ending itself.",
+      "799 brings one 7 (insight, wisdom) and a doubled 9 (completion amplified) together, describing a significant journey that's reaching its end, with genuine, concentrated wisdom remaining as its lasting legacy, distinct from 97's framing of a stage of spiritual growth simply completing. This favors recognizing and actively holding onto the wisdom gained, rather than letting it fade along with the ending itself.",
     love: "Single: a significant chapter of your dating life is ending, and the real wisdom it leaves behind deserves to be actively kept, not lost along with the chapter's other details. Couple: a significant chapter within the relationship is ending, and the real wisdom it leaves behind deserves to be actively kept and carried forward together.",
     career: "A significant professional journey is ending, and the real wisdom it leaves behind deserves to be actively kept, not lost with the rest of the chapter.",
     money: "A significant financial journey is ending, and the real wisdom it leaves behind deserves to be actively kept and applied going forward.",
@@ -551,7 +551,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     titleHook: "Restructure This Partnership",
     summary: "A specific call to actively reorganize a partnership specifically to better support material abundance",
     meaning:
-      "8 (abundance) meets a doubled 2 (partnership, balance amplified), describing a specific call to actively reorganize how a partnership functions, specifically to better support the material abundance both people want. This favors recognizing that the current structure of the partnership may need real, deliberate adjustment, not just more effort within the existing arrangement.",
+      "In 822, 8 (abundance) meets a doubled 2 (partnership, balance amplified), describing a specific call to actively reorganize how a partnership functions, specifically to better support the material abundance both people want. This favors recognizing that the current structure of the partnership may need real, deliberate adjustment, not just more effort within the existing arrangement.",
     love: "Single: as you consider building a life with someone, actively think through how the partnership should be structured to genuinely support shared abundance, rather than assuming any structure will do. Couple: actively reorganize how you handle shared resources and responsibilities, restructuring the partnership itself, not just working harder within its current shape.",
     career: "Actively reorganize how a professional partnership is structured, specifically to better support the material outcomes both people want.",
     money: "Actively reorganize how a financial partnership is structured, rather than continuing with an arrangement that isn't genuinely supporting shared abundance.",
@@ -587,7 +587,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     titleHook: "Creativity Becomes Income",
     summary: "Creative or expressive work specifically beginning to convert into real financial return",
     meaning:
-      "8 (abundance), paired with a double dose of 3 (creativity, expression amplified), describing creative or expressive work that's specifically beginning to convert into real financial return right now, distinct from 83's more general framing of a bold creative approach opening new possibility. Where 83 is about an opening, 833 is about actual conversion already starting to happen.",
+      "833: 8 (abundance), paired with a double dose of 3 (creativity, expression amplified), describing creative or expressive work that's specifically beginning to convert into real financial return right now, distinct from 83's more general framing of a bold creative approach opening new possibility. Where 83 is about an opening, 833 is about actual conversion already starting to happen.",
     love: "Single: a creative approach to building your own resources and life is specifically starting to convert into real financial benefit now. Couple: a creative approach you're taking together is specifically starting to convert into real, shared financial benefit now.",
     career: "Creative professional work is specifically starting to convert into real financial return now — recognize and continue investing in that conversion.",
     money: "Creative financial thinking is specifically starting to convert into real return now — recognize and continue investing in whatever's producing it.",
@@ -659,7 +659,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Financial Turning Point",
     summary: "A major, structural shift in your overall financial system, more foundational than a routine change",
     meaning:
-      "Single 8 (abundance) alongside doubled 5 (change, freedom amplified), describing a major, structural turning point in your overall financial system, distinct from 588's framing of a significant shift still approaching. Where 588 is anticipatory, 855 marks the turning point itself, a genuine structural shift in how your finances work, not just a temporary fluctuation.",
+      "855 places single 8 (abundance) alongside doubled 5 (change, freedom amplified), describing a major, structural turning point in your overall financial system, distinct from 588's framing of a significant shift still approaching. Where 588 is anticipatory, 855 marks the turning point itself, a genuine structural shift in how your finances work, not just a temporary fluctuation.",
     love: "Single: a genuine structural turning point in your financial system is happening right now, affecting the practical foundation of your life, worth recognizing as significant rather than a passing fluctuation. Couple: a genuine structural turning point in the household's financial system is happening right now, worth navigating together as significant.",
     career: "A genuine structural turning point in the financial dimension of your career is happening right now, worth recognizing as significant.",
     money: "A genuine structural turning point in your overall financial system is happening right now, worth navigating deliberately as a real shift, not a passing fluctuation.",
