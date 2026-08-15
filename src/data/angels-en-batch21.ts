@@ -85,7 +85,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Step Taken In Faith",
     summary: "Moving forward on trust, even without full certainty, specifically what's called for right now",
     meaning:
-      "102 combines 1 (new beginnings) with 0 (uncertainty, open potential) and 2 (partnership, faith, trust), describing a step forward taken on genuine faith, without full certainty, as specifically what's called for right now. This favors trusting enough to move despite incomplete information, rather than waiting for certainty that may not arrive before the window closes.",
+      "102 draws 1 (new beginnings) into 0 (uncertainty, open potential) and 2 (partnership, faith, trust), describing a step forward taken on genuine faith, without full certainty, as specifically what's called for right now. This favors trusting enough to move despite incomplete information, rather than waiting for certainty that may not arrive before the window closes.",
     love: "Single: take a step forward in your love life on genuine faith, even without full certainty about the outcome — that trust, not certainty, is what's actually called for right now. Couple: take a step forward for the relationship on genuine, shared faith, even without full certainty about every detail.",
     career: "Take a step forward professionally on genuine faith, even without full certainty about the outcome — waiting for complete certainty may cost you the window.",
     money: "Take a step forward on a financial decision with genuine, considered faith, even without complete certainty about every variable.",
@@ -121,7 +121,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     titleHook: "Cosmic Help For Creating",
     summary: "Outside support specifically arriving to assist a creative effort you've already begun",
     meaning:
-      "103 combines 1 (new beginnings) with 0 (potential) and 3 (creativity, expression), describing outside support specifically arriving to assist a creative effort already underway, rather than support you have to generate entirely on your own. This favors recognizing and accepting help with a creative new beginning, rather than assuming you must build it entirely unaided.",
+      "103 gathers 1 (new beginnings), 0 (potential), and 3 (creativity, expression), describing outside support specifically arriving to assist a creative effort already underway, rather than support you have to generate entirely on your own. This favors recognizing and accepting help with a creative new beginning, rather than assuming you must build it entirely unaided.",
     love: "Single: accept help from friends or mentors with a fresh, creative approach to your love life, rather than assuming you have to figure it out entirely alone. Couple: accept outside support, advice, resources, encouragement, with a creative new approach you're building together, rather than assuming you must do it entirely unaided.",
     career: "Accept outside support with a creative professional venture you've begun, rather than assuming you must build it entirely alone.",
     money: "Accept outside support or resources with a creative financial approach you've begun, rather than assuming you must figure it out entirely unaided.",
@@ -157,7 +157,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     titleHook: "Consistency Makes Miracles",
     summary: "Small, steady effort applied consistently producing a result significant enough to feel miraculous",
     meaning:
-      "104 combines 1 (new beginnings) with 0 (potential) and 4 (foundation, consistency), describing small, steady effort applied consistently over time as what's producing a result significant enough to feel miraculous, rather than the result arriving through a single dramatic action. This favors trusting that unglamorous, repeated effort is genuinely capable of producing remarkable outcomes.",
+      "104 weaves 1 (new beginnings) through 0 (potential) and 4 (foundation, consistency), describing small, steady effort applied consistently over time as what's producing a result significant enough to feel miraculous, rather than the result arriving through a single dramatic action. This favors trusting that unglamorous, repeated effort is genuinely capable of producing remarkable outcomes.",
     love: "Single: the small, consistent effort you've put into your own growth is what's genuinely capable of producing a remarkable shift in your love life, more than one dramatic gesture would. Couple: small, consistent effort you've both put in over time is what's genuinely capable of producing a remarkable shift for the relationship.",
     career: "Small, consistent professional effort applied over time is what's genuinely capable of producing a remarkable result, more than one dramatic move.",
     money: "Small, consistent financial habits applied over time are genuinely capable of producing a remarkable result, worth trusting over waiting for one big financial win.",
@@ -193,7 +193,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     titleHook: "Change Is Knocking",
     summary: "A specific change approaching now, worth answering the door rather than ignoring the knock",
     meaning:
-      "105 combines 1 (new beginnings) with 0 (potential) and 5 (change, freedom), describing a specific change that's arriving right now, knocking, worth actually answering rather than pretending not to notice. This favors engaging directly with the change as it arrives, rather than delaying acknowledgment of what's already at the door.",
+      "105 holds 1 (new beginnings) alongside 0 (potential) and 5 (change, freedom), describing a specific change that's arriving right now, knocking, worth actually answering rather than pretending not to notice. This favors engaging directly with the change as it arrives, rather than delaying acknowledgment of what's already at the door.",
     love: "Single: a real change in your love life is knocking right now, a new possibility, a shift in how you're approaching things — answer it directly rather than pretending not to notice. Couple: a real change is knocking for the relationship right now — answer it together directly rather than avoiding the conversation.",
     career: "A real professional change is knocking right now — answer it directly, an opportunity, a needed shift, rather than delaying acknowledgment.",
     money: "A real financial change is knocking right now — answer it directly rather than avoiding the situation until it demands attention on its own terms.",
@@ -229,7 +229,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     titleHook: "Empty It, And It Fills",
     summary: "Clearing emotional clutter specifically making room for genuine care and love to fill the space",
     meaning:
-      "106 combines 1 (new beginnings) with 0 (potential, clearing) and 6 (home, care), describing the release of emotional clutter, old grievances, outdated expectations, as specifically what makes room for genuine care and love to fill the resulting space. This favors trusting that emptying is generative here, not a loss, but the actual precondition for what you want to fill in.",
+      "106 threads 1 (new beginnings) into 0 (potential, clearing) and 6 (home, care), describing the release of emotional clutter, old grievances, outdated expectations, as specifically what makes room for genuine care and love to fill the resulting space. This favors trusting that emptying is generative here, not a loss, but the actual precondition for what you want to fill in.",
     love: "Single: clear out an old emotional grievance or expectation about love, trusting that the resulting empty space is specifically what makes room for something genuine to fill it. Couple: clear out an old grievance or outdated expectation within the relationship, trusting that the resulting space is what makes room for renewed genuine care.",
     career: "Clear out an old professional grievance or outdated expectation, trusting that the resulting space makes room for renewed genuine engagement.",
     money: "Clear out an old financial anxiety or grievance, trusting that the resulting space makes room for a more genuine, settled relationship with money.",
@@ -265,7 +265,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     titleHook: "You're On The Right Path",
     summary: "A direct confirmation that your current direction is correctly aligned, worth trusting fully",
     meaning:
-      "107 combines 1 (new beginnings) with 0 (potential) and 7 (insight, confirmation), offering a direct confirmation that your current direction is correctly aligned, worth trusting fully rather than continuing to second-guess it. This favors accepting the confirmation at face value, rather than searching for hidden doubts within a message meant simply as reassurance.",
+      "107 draws 1 (new beginnings) into 0 (potential) and 7 (insight, confirmation), offering a direct confirmation that your current direction is correctly aligned, worth trusting fully rather than continuing to second-guess it. This favors accepting the confirmation at face value, rather than searching for hidden doubts within a message meant simply as reassurance.",
     love: "Single: your current approach to dating and relationships is genuinely on the right path — trust that confirmation rather than continuing to second-guess yourself. Couple: your current direction as a couple is genuinely on the right path — trust that confirmation rather than continuing to question it unnecessarily.",
     career: "Your current professional direction is genuinely on the right path — trust that confirmation rather than continuing to second-guess a choice that's already working.",
     money: "Your current financial approach is genuinely on the right path — trust that confirmation rather than continuing to doubt a plan that's already sound.",
@@ -301,7 +301,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Step Toward Your Mission",
     summary: "An early, concrete step in a longer journey toward a larger purpose, worth taking without full clarity",
     meaning:
-      "109 combines 1 (new beginnings) with 0 (potential) and 9 (completion, mission), describing an early, concrete step in a longer journey toward a larger sense of purpose, worth taking now even without full clarity on where the whole path leads. This favors trusting the step itself, rather than waiting to understand the entire mission before beginning to move.",
+      "109 gathers 1 (new beginnings), 0 (potential), and 9 (completion, mission), describing an early, concrete step in a longer journey toward a larger sense of purpose, worth taking now even without full clarity on where the whole path leads. This favors trusting the step itself, rather than waiting to understand the entire mission before beginning to move.",
     love: "Single: an early step toward building a life and relationships that fit your larger sense of purpose is available now, worth taking without needing the full picture yet. Couple: an early step toward building a shared life that serves both your larger purposes is available now, worth taking together without full clarity on every detail.",
     career: "An early step toward a larger professional purpose is available now, worth taking without needing the entire career path mapped out yet.",
     money: "An early step toward financially supporting a larger sense of purpose is available now, worth taking without needing every future detail clear yet.",
@@ -337,7 +337,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     titleHook: "Trust Your Gut, Move Forward",
     summary: "Intuitive confidence specifically what's needed to move forward from a place of open possibility",
     meaning:
-      "110 combines double 1 (new beginnings, self) with 0 (potential, open possibility), describing intuitive confidence as specifically what's needed to move forward from a genuinely open, undetermined starting point. This favors trusting your gut to choose a direction, rather than waiting for the open possibility to resolve itself on its own.",
+      "110 pairs two 1 (new beginnings, self) with one 0 (potential, open possibility), describing intuitive confidence as specifically what's needed to move forward from a genuinely open, undetermined starting point. This favors trusting your gut to choose a direction, rather than waiting for the open possibility to resolve itself on its own.",
     love: "Single: trust your gut to choose a direction in your open, undetermined love life right now, rather than waiting for the possibilities to narrow themselves. Couple: trust your shared gut sense to choose a direction for the relationship's open next stage, rather than waiting for the possibilities to resolve on their own.",
     career: "Trust your gut to choose a direction among open professional possibilities right now, rather than waiting for the options to narrow themselves.",
     money: "Trust your gut to choose a direction among open financial possibilities right now, rather than waiting indefinitely for more certainty.",
@@ -373,7 +373,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     titleHook: "Positivity Opens The Path",
     summary: "A genuinely positive mindset specifically opening doors and possibilities right now",
     meaning:
-      "112 combines double 1 (new beginnings, self) with 2 (partnership, balance, possibility), describing a genuinely positive mindset as specifically what's opening doors and relational possibilities right now. This favors trusting that maintaining real, grounded positivity, not forced cheerfulness, has a direct, practical effect on what becomes available to you.",
+      "112 doubles 1 (new beginnings, self), bringing 2 (partnership, balance, possibility) alongside, describing a genuinely positive mindset as specifically what's opening doors and relational possibilities right now. This favors trusting that maintaining real, grounded positivity, not forced cheerfulness, has a direct, practical effect on what becomes available to you.",
     love: "Single: maintaining a genuinely positive outlook, not forced but real, is specifically what's opening new possibilities in your love life right now — trust that effect. Couple: maintaining a genuinely positive outlook together is specifically what's opening new possibilities for the relationship right now.",
     career: "Maintaining a genuinely positive professional outlook is specifically what's opening new doors right now — trust that effect over cynicism or excessive caution.",
     money: "Maintaining a genuinely positive outlook about your financial situation is specifically what's opening new possibility right now, more than worry or excessive caution would.",
@@ -409,7 +409,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     titleHook: "Inspiration Lands For Real",
     summary: "A creative inspiration actually manifesting concretely, not staying an abstract idea",
     meaning:
-      "113 combines double 1 (new beginnings, self) with 3 (creativity, expression), describing a creative inspiration that's actually manifesting concretely right now, landing in the real world rather than staying an abstract idea. This favors recognizing when an idea has genuinely moved from imagination into something tangible, worth acting on immediately while it's landing.",
+      "113 carries a reinforced 1 (new beginnings, self) into 3 (creativity, expression), describing a creative inspiration that's actually manifesting concretely right now, landing in the real world rather than staying an abstract idea. This favors recognizing when an idea has genuinely moved from imagination into something tangible, worth acting on immediately while it's landing.",
     love: "Single: an inspired idea about how to approach dating is actually manifesting concretely right now — act on it while it's landing, rather than letting it remain abstract. Couple: an inspired idea about the relationship is actually manifesting concretely right now — act on it together while it's landing.",
     career: "An inspired professional idea is actually manifesting concretely right now — act on it while it's landing, rather than letting it remain an abstract thought.",
     money: "An inspired financial idea is actually manifesting concretely right now — act on it while it's landing, rather than letting the moment pass.",
@@ -445,7 +445,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     titleHook: "Building Vision Into Reality",
     summary: "Actively constructing a vision into something solid and real, not just holding onto the idea of it",
     meaning:
-      "114 combines double 1 (new beginnings, self) with 4 (foundation, structure), describing the active construction of a vision into something solid and real, distinct from simply holding onto or appreciating the vision itself. This favors treating construction as the actual next step, not further refinement of the vision in your head.",
+      "114 holds two 1 (new beginnings, self), met by 4 (foundation, structure), describing the active construction of a vision into something solid and real, distinct from simply holding onto or appreciating the vision itself. This favors treating construction as the actual next step, not further refinement of the vision in your head.",
     love: "Single: actively build the vision you have for your love life into something concrete, one real step at a time, rather than continuing to only imagine it. Couple: actively build the shared vision you have for the relationship into something concrete, one real step at a time, together.",
     career: "Actively build a professional vision into something concrete, one real step at a time, rather than continuing to refine the idea without acting.",
     money: "Actively build a financial vision into something concrete, one real step at a time, rather than continuing to plan without acting.",
@@ -481,7 +481,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     titleHook: "Life Puts On New Clothes",
     summary: "A full refresh of how life outwardly looks and feels, more transformation than a small tweak",
     meaning:
-      "115 combines double 1 (new beginnings, self) with 5 (change, freedom), describing a full refresh of how your life outwardly looks and feels, more comprehensive than a small adjustment. This favors embracing a genuinely fresh outward presentation of your life, a new look, a new routine, a new way of showing up, rather than a minor tweak to the old one.",
+      "115 amplifies 1 (new beginnings, self) twice, reaching 5 (change, freedom), describing a full refresh of how your life outwardly looks and feels, more comprehensive than a small adjustment. This favors embracing a genuinely fresh outward presentation of your life, a new look, a new routine, a new way of showing up, rather than a minor tweak to the old one.",
     love: "Single: a full refresh of how you present yourself and approach dating is available right now, more comprehensive than a small tweak — embrace the fuller change. Couple: a full refresh of how the relationship outwardly looks and feels, routines, shared activities, is available right now, worth embracing fully.",
     career: "A full refresh of your professional presentation or approach is available right now, worth embracing more fully than a small adjustment.",
     money: "A full refresh of your financial habits and approach is available right now, worth embracing more comprehensively than a small tweak.",
@@ -517,7 +517,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     titleHook: "Light Enters Your Home",
     summary: "A fresh, illuminating energy specifically entering domestic and family life right now",
     meaning:
-      "116 combines double 1 (new beginnings, self) with 6 (home, care), describing a fresh, illuminating energy that's specifically entering your domestic and family life right now, distinct from purely internal or personal new beginnings. This favors noticing and welcoming a lightness entering the home specifically, a change in atmosphere, mood, or dynamic there.",
+      "116 pairs two 1 (new beginnings, self) with one 6 (home, care), describing a fresh, illuminating energy that's specifically entering your domestic and family life right now, distinct from purely internal or personal new beginnings. This favors noticing and welcoming a lightness entering the home specifically, a change in atmosphere, mood, or dynamic there.",
     love: "Single: a fresh, lightening energy is entering your home life right now, worth welcoming as it brightens your daily environment, separate from any romantic development. Couple: a fresh, lightening energy is entering your shared home right now, worth noticing and welcoming as it brightens the daily atmosphere between you.",
     career: "If your work touches home life, a fresh, lightening energy is entering that space right now, worth welcoming as it brightens the daily atmosphere.",
     money: "A fresh sense of ease around household finances is entering your home life right now, worth welcoming as genuine lightening rather than something to distrust.",
@@ -553,7 +553,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Peak Of Awakening",
     summary: "A high point of spiritual realization arriving, tied specifically to a fresh perspective on life",
     meaning:
-      "117 combines double 1 (new beginnings, self) with 7 (insight, spirit), describing a genuine high point of spiritual awakening or realization, tied specifically to a fresh, new perspective on life rather than a continuation of gradual, incremental insight. This favors recognizing when a moment of realization is unusually significant, worth honoring as a real peak rather than downplaying it as ordinary.",
+      "117 doubles 1 (new beginnings, self), bringing 7 (insight, spirit) alongside, describing a genuine high point of spiritual awakening or realization, tied specifically to a fresh, new perspective on life rather than a continuation of gradual, incremental insight. This favors recognizing when a moment of realization is unusually significant, worth honoring as a real peak rather than downplaying it as ordinary.",
     love: "Single: a genuine high point of self-understanding is arriving right now, specifically reshaping how you see your own readiness for love — honor that peak rather than downplaying it. Couple: a genuine high point of shared understanding is arriving for the relationship right now, worth honoring as significant rather than ordinary.",
     career: "A genuine high point of professional realization is arriving right now, reshaping your understanding of your own path — honor it as significant.",
     money: "A genuine high point of realization about your relationship with money is arriving right now, worth honoring as a real shift rather than a small insight.",
@@ -589,7 +589,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     titleHook: "Abundance's Door Opens Wide",
     summary: "A new beginning specifically opening material opportunity at real, noticeable scale",
     meaning:
-      "118 combines double 1 (new beginnings, self) with 8 (abundance), describing a new beginning that's specifically opening material or financial opportunity at a real, noticeable scale, distinct from 18's simpler, more modest confirmation. Where 18 is a gentle notice, 118 favors a wider, more significant opening, worth engaging with actively rather than passively.",
+      "118 carries a reinforced 1 (new beginnings, self) into 8 (abundance), describing a new beginning that's specifically opening material or financial opportunity at a real, noticeable scale, distinct from 18's simpler, more modest confirmation. Where 18 is a gentle notice, 118 favors a wider, more significant opening, worth engaging with actively rather than passively.",
     love: "Single: a new beginning in your love life is specifically opening real material or practical opportunity too, not just an emotional one — engage with both dimensions actively. Couple: a new stage for the relationship is specifically opening real material opportunity, worth engaging with actively as part of the new beginning.",
     career: "A new professional beginning is specifically opening real material opportunity at noticeable scale — engage with it actively rather than passively.",
     money: "A new financial beginning is specifically opening real opportunity at noticeable scale — engage with it actively rather than waiting passively.",
@@ -625,7 +625,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     titleHook: "One Chapter Ends, One Begins",
     summary: "A chapter ending specifically to make room for a strong, well-supported new one",
     meaning:
-      "119 combines double 1 (new beginnings, self) with 9 (completion), describing a chapter that's ending specifically to make room for a new one, with the doubled 1 emphasizing the strength and clarity of the new chapter more than the weight of the ending itself. This favors focusing forward, on the strength of what's beginning, rather than lingering primarily on what's closing.",
+      "119 holds two 1 (new beginnings, self), met by 9 (completion), describing a chapter that's ending specifically to make room for a new one, with the doubled 1 emphasizing the strength and clarity of the new chapter more than the weight of the ending itself. This favors focusing forward, on the strength of what's beginning, rather than lingering primarily on what's closing.",
     love: "Single: a dating chapter is ending specifically to make room for a stronger, clearer new one — focus on the strength of what's beginning rather than lingering only on the ending. Couple: a chapter within the relationship is ending specifically to make room for a stronger, clearer new stage — focus forward together.",
     career: "A professional chapter is ending specifically to make room for a stronger, clearer new one — focus on what's beginning rather than lingering only on the ending.",
     money: "A financial chapter is ending specifically to make room for a stronger, clearer new one — focus forward on the new approach rather than dwelling only on the ending.",
@@ -661,7 +661,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     titleHook: "Faith Lights An Open Path",
     summary: "Genuine trust illuminating a path that's still open and uncertain, more light than answers",
     meaning:
-      "120 combines 1 (new beginnings) with 2 (partnership, faith) and 0 (open potential, uncertainty), describing genuine trust as what's specifically illuminating a path that remains open and not yet fully determined. This favors trusting that faith provides enough light to keep moving, even without the entire path becoming certain or fully visible.",
+      "120 weaves 1 (new beginnings) through 2 (partnership, faith) and 0 (open potential, uncertainty), describing genuine trust as what's specifically illuminating a path that remains open and not yet fully determined. This favors trusting that faith provides enough light to keep moving, even without the entire path becoming certain or fully visible.",
     love: "Single: genuine faith in the possibility of real connection is illuminating your path forward right now, even though the specifics remain open and uncertain. Couple: genuine, shared faith in the relationship's future is illuminating your path forward together, even though the specifics of what's next remain open.",
     career: "Genuine faith in your professional direction is illuminating the path forward right now, even though the specifics remain open and undetermined.",
     money: "Genuine faith in your financial direction is illuminating the path forward right now, even though the specifics remain uncertain — trust the light that faith provides.",

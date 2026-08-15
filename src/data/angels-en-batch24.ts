@@ -334,7 +334,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     titleHook: "Resisting Change Costs More",
     summary: "A calm observation that resisting a coming change specifically makes it harder than flowing with it",
     meaning:
-      "455 combines 4 (foundation, stability) with double 5 (change, freedom amplified), offering a calm observation that resisting a coming, significant change specifically makes the process harder than flowing with it would. This isn't a threat, it's a practical note: the resistance itself, more than the change, is what tends to create the difficulty.",
+      "455 rests 4 (foundation, stability) against doubled 5 (change, freedom amplified), offering a calm observation that resisting a coming, significant change specifically makes the process harder than flowing with it would. This isn't a threat, it's a practical note: the resistance itself, more than the change, is what tends to create the difficulty.",
     love: "Single: resisting a needed change in how you approach dating specifically makes the process harder than simply flowing with what's shifting. Couple: resisting a needed change within the relationship specifically makes the process harder than flowing with it together would.",
     career: "Resisting a needed professional change specifically makes the transition harder than flowing with it would — ease into the shift rather than fighting it.",
     money: "Resisting a needed financial change specifically makes the adjustment harder than flowing with it would — ease into the shift rather than fighting it.",
@@ -370,7 +370,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     titleHook: "Let Go Of Material Worry",
     summary: "Permission to release material anxiety specifically because your underlying foundation is solid",
     meaning:
-      "466 combines 4 (foundation, stability) with double 6 (home, care amplified), offering genuine permission to release material worry specifically because your underlying foundation is already solid enough to handle it. This favors trusting existing stability enough to actually relax the anxious grip, rather than continuing to worry out of habit.",
+      "466 connects 4 (foundation, stability) to double 6 (home, care amplified), offering genuine permission to release material worry specifically because your underlying foundation is already solid enough to handle it. This favors trusting existing stability enough to actually relax the anxious grip, rather than continuing to worry out of habit.",
     love: "Single: release material worry connected to your love life, security, resources, since your underlying foundation is already solid enough to handle whatever comes. Couple: release material worry connected to the relationship, since your underlying shared foundation is already solid enough to handle whatever comes.",
     career: "Release material worry connected to your career, since your underlying professional foundation is already solid enough to handle whatever comes.",
     money: "Release material worry, since your underlying financial foundation is already solid enough to handle whatever comes — the anxiety may be outpacing the actual risk.",
@@ -406,7 +406,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     titleHook: "Confirmed: You're On Track",
     summary: "A strong, doubly-confirmed reassurance that your current direction is correctly aligned",
     meaning:
-      "477 combines 4 (foundation, stability) with double 7 (insight, confirmation amplified), offering a strong, doubly-confirmed reassurance that your current direction is correctly aligned, distinct from 107's simpler, single confirmation. This favors accepting the reassurance with real confidence, since the doubled insight here suggests an especially solid, well-substantiated confirmation.",
+      "477 grounds 4 (foundation, stability) in double 7 (insight, confirmation amplified), offering a strong, doubly-confirmed reassurance that your current direction is correctly aligned, distinct from 107's simpler, single confirmation. This favors accepting the reassurance with real confidence, since the doubled insight here suggests an especially solid, well-substantiated confirmation.",
     love: "Single: your current, grounded approach to relationships is doubly confirmed as correctly aligned — trust that strong reassurance fully. Couple: your current direction as a couple is doubly confirmed as correctly aligned, backed by real, substantiated understanding between you.",
     career: "Your current professional direction is doubly confirmed as correctly aligned, backed by real, substantiated understanding — trust that strong reassurance.",
     money: "Your current financial approach is doubly confirmed as correctly aligned — trust that strong, well-substantiated reassurance.",
@@ -586,7 +586,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     titleHook: "Prepare Now For What's Coming",
     summary: "A calm call to actively prepare foundational groundwork before a change arrives",
     meaning:
-      "544 combines 5 (change, freedom) with double 4 (foundation, structure amplified), offering a calm call to actively prepare foundational groundwork before a coming change arrives, rather than waiting to react once it's already underway. This favors using the current lead time productively, building the structure that will make the transition smoother.",
+      "544 roots 5 (change, freedom) in doubled 4 (foundation, structure amplified), offering a calm call to actively prepare foundational groundwork before a coming change arrives, rather than waiting to react once it's already underway. This favors using the current lead time productively, building the structure that will make the transition smoother.",
     love: "Single: prepare some foundational groundwork now, financially, emotionally, practically, before a coming change in your love life fully arrives. Couple: prepare foundational groundwork together now, a plan, a conversation, before a coming change for the relationship fully arrives.",
     career: "Prepare foundational groundwork now, updating skills, building savings, before a coming professional change fully arrives.",
     money: "Prepare foundational financial groundwork now, before a coming change fully arrives, rather than waiting to react once it's already underway.",

@@ -11,7 +11,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Message Of Love, Delivered",
     summary: "A message of love ready to be delivered clearly, from a place of grounded confidence",
     meaning:
-      "143 combines 1 (new beginnings) with 4 (foundation, groundedness) and 3 (creativity, expression), describing a message of love that's ready to be delivered clearly right now, backed by real emotional groundedness rather than nervous hesitation. This favors trusting that both the message and the timing are solid, worth speaking rather than continuing to hold back.",
+      "143 threads 1 (new beginnings) into 4 (foundation, groundedness) and 3 (creativity, expression), describing a message of love that's ready to be delivered clearly right now, backed by real emotional groundedness rather than nervous hesitation. This favors trusting that both the message and the timing are solid, worth speaking rather than continuing to hold back.",
     love: "Single: a message of genuine interest or affection is ready to be delivered clearly right now, worth saying from a grounded, confident place rather than continuing to hold back. Couple: a message of love you've been meaning to say clearly is ready to be delivered now, worth speaking from genuine groundedness rather than waiting for a more perfect moment.",
     career: "A message of genuine appreciation or recognition is ready to be delivered clearly to a colleague or mentor right now.",
     money: "A clear message about shared financial goals or appreciation is ready to be delivered within a close relationship right now.",
@@ -45,7 +45,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     titleHook: "Transition On Stable Ground",
     summary: "A real transition unfolding specifically from an existing place of stability, not despite it",
     meaning:
-      "145 combines 1 (new beginnings) with 4 (foundation, stability) and 5 (change, freedom), describing a genuine transition that's unfolding specifically from an existing place of stability, rather than a shaky, uncertain starting point. This favors trusting that the existing groundedness is precisely what makes this new transition viable and safe to pursue now.",
+      "145 draws 1 (new beginnings) into 4 (foundation, stability) and 5 (change, freedom), describing a genuine transition that's unfolding specifically from an existing place of stability, rather than a shaky, uncertain starting point. This favors trusting that the existing groundedness is precisely what makes this new transition viable and safe to pursue now.",
     love: "Single: a real transition in your love life, a new approach, a new openness, is unfolding specifically from an existing place of personal stability — trust that solid starting point. Couple: a real transition for the relationship is unfolding specifically from an existing place of stability between you, worth trusting rather than fearing it threatens what you have.",
     career: "A real professional transition is unfolding specifically from an existing place of stability — trust that solid starting point rather than assuming the change threatens it.",
     money: "A real financial transition is unfolding specifically from an existing place of stability — trust that foundation as what makes the change viable now.",
@@ -81,7 +81,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     titleHook: "Home And Career In Harmony",
     summary: "A fresh, solid balance forming between professional life and home life right now",
     meaning:
-      "146 combines 1 (new beginnings) with 4 (foundation, stability) and 6 (home, care), describing a fresh, solid balance that's specifically forming between your professional life and home life right now, distinct from a temporary truce between the two. This favors trusting that this balance is genuinely stable, not a fragile compromise likely to tip over again soon.",
+      "146 gathers 1 (new beginnings), 4 (foundation, stability), and 6 (home, care), describing a fresh, solid balance that's specifically forming between your professional life and home life right now, distinct from a temporary truce between the two. This favors trusting that this balance is genuinely stable, not a fragile compromise likely to tip over again soon.",
     love: "Single: a fresh, solid balance between your professional ambitions and personal life is forming right now, worth trusting as genuinely stable rather than a temporary truce. Couple: a fresh, solid balance between career demands and home life together is forming right now, worth trusting and actively maintaining.",
     career: "A fresh, solid balance between professional demands and home life is forming right now, worth trusting as durable rather than a fragile, temporary compromise.",
     money: "A fresh, solid balance between career-related income and household financial needs is forming right now, worth trusting as durable.",
@@ -117,7 +117,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     titleHook: "You Are On The Right Path",
     summary: "A grounded, direct confirmation that your current path is correctly aligned",
     meaning:
-      "147 combines 1 (new beginnings) with 4 (foundation, stability) and 7 (insight, confirmation), offering a grounded, direct confirmation that your current path is correctly aligned, backed by genuine understanding rather than wishful thinking. This favors accepting the reassurance fully, trusting that both your direction and its foundation are sound.",
+      "147 weaves 1 (new beginnings) through 4 (foundation, stability) and 7 (insight, confirmation), offering a grounded, direct confirmation that your current path is correctly aligned, backed by genuine understanding rather than wishful thinking. This favors accepting the reassurance fully, trusting that both your direction and its foundation are sound.",
     love: "Single: your current approach to relationships is genuinely on the right path, backed by real self-understanding — trust that grounded confirmation. Couple: your current direction as a couple is genuinely on the right path, backed by real, grounded understanding between you — trust it.",
     career: "Your current professional direction is genuinely on the right path, backed by real, grounded understanding of your own goals — trust that confirmation.",
     money: "Your current financial approach is genuinely on the right path, backed by real, grounded understanding of your situation — trust that confirmation.",
@@ -153,7 +153,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     titleHook: "Effort Ripens Into Abundance",
     summary: "Consistent effort from a fresh start specifically ripening into material reward now",
     meaning:
-      "148 combines 1 (new beginnings) with 4 (foundation, effort) and 8 (abundance), describing consistent effort applied since a fresh start as what's specifically ripening into material reward right now, rather than reward arriving separately from that effort. This favors recognizing the direct connection between the new beginning's early work and the abundance now taking shape.",
+      "148 holds 1 (new beginnings) alongside 4 (foundation, effort) and 8 (abundance), describing consistent effort applied since a fresh start as what's specifically ripening into material reward right now, rather than reward arriving separately from that effort. This favors recognizing the direct connection between the new beginning's early work and the abundance now taking shape.",
     love: "Single: the consistent effort you've put in since a fresh start in your love life is specifically ripening into real reward now — recognize that direct link. Couple: the consistent effort you've both put in since a fresh start for the relationship is specifically ripening into real, shared reward now.",
     career: "The consistent effort you've put in since a professional fresh start is specifically ripening into real material reward now — recognize that direct link.",
     money: "The consistent effort you've put in since a financial fresh start is specifically ripening into real reward now — recognize and celebrate that connection.",
@@ -189,7 +189,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     titleHook: "One Chapter Closes, One Opens",
     summary: "A well-grounded, solid transition from a closing chapter into a genuinely new one",
     meaning:
-      "149 combines 1 (new beginnings) with 4 (foundation, stability) and 9 (completion), describing a transition from a closing chapter into a new one that's genuinely well-grounded and solid, distinct from a shaky or uncertain handoff. This favors trusting that the closing chapter is transferring real, usable foundation into whatever comes next, rather than leaving a gap.",
+      "149 threads 1 (new beginnings) into 4 (foundation, stability) and 9 (completion), describing a transition from a closing chapter into a new one that's genuinely well-grounded and solid, distinct from a shaky or uncertain handoff. This favors trusting that the closing chapter is transferring real, usable foundation into whatever comes next, rather than leaving a gap.",
     love: "Single: a dating chapter is closing in a way that's genuinely transferring real, useful foundation, lessons, clarity, self-understanding, into what comes next. Couple: a chapter within the relationship is closing in a way that's genuinely transferring real foundation into the next stage, worth trusting as a solid handoff.",
     career: "A professional chapter is closing in a way that's genuinely transferring real, useful foundation into the next one, worth trusting as a solid handoff.",
     money: "A financial chapter is closing in a way that's genuinely transferring real foundation into the next one, worth trusting as a solid, well-grounded transition.",
@@ -225,7 +225,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     titleHook: "The Starting Line To Freedom",
     summary: "The very beginning point of a journey toward greater freedom, worth recognizing as significant",
     meaning:
-      "150 combines 1 (new beginnings) with 5 (change, freedom) and 0 (open potential), describing the very beginning point of a journey toward greater freedom, worth recognizing as significant in itself, even though the destination is still far ahead. This favors honoring the starting line, not waiting to feel excited only once real freedom has actually arrived.",
+      "150 draws 1 (new beginnings) into 5 (change, freedom) and 0 (open potential), describing the very beginning point of a journey toward greater freedom, worth recognizing as significant in itself, even though the destination is still far ahead. This favors honoring the starting line, not waiting to feel excited only once real freedom has actually arrived.",
     love: "Single: you're at the very starting line of a journey toward greater freedom and authenticity in your love life — honor that beginning point rather than waiting for the destination to feel it matters. Couple: you're both at the starting line of a journey toward greater shared freedom, worth honoring as significant even though it's still early.",
     career: "You're at the starting line of a journey toward greater professional freedom, worth honoring as a significant beginning even though the destination is still far ahead.",
     money: "You're at the starting line of a journey toward greater financial freedom, worth honoring as a significant beginning even though the goal is still distant.",
@@ -333,7 +333,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     titleHook: "Recheck This Foundation",
     summary: "A calm signal to re-examine a relationship's foundation, a checkpoint rather than an alarm",
     meaning:
-      "244 combines 2 (partnership) with double 4 (foundation, structure amplified), offering a calm signal to re-examine a relationship's foundation, trust, communication, shared expectations, as a checkpoint rather than an alarm. This favors treating the check itself as routine and healthy, not a sign that something has necessarily gone wrong.",
+      "244 places 2 (partnership) beside double 4 (foundation, structure amplified), offering a calm signal to re-examine a relationship's foundation, trust, communication, shared expectations, as a checkpoint rather than an alarm. This favors treating the check itself as routine and healthy, not a sign that something has necessarily gone wrong.",
     love: "Single: take a calm look at the foundation of trust and communication in a new connection, checking rather than assuming everything is automatically solid. Couple: take a calm, honest look at the relationship's foundation, trust, communication, shared expectations, as a routine checkpoint rather than in response to alarm.",
     career: "Take a calm look at the foundation of a professional partnership, checking assumptions and expectations, as routine maintenance rather than crisis response.",
     money: "Take a calm look at the foundation of a shared financial arrangement, checking that assumptions are still accurate, as routine maintenance.",

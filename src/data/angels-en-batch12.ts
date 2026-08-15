@@ -333,7 +333,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     titleHook: "Creative Power, Unbound",
     summary: "Creative capacity at an almost unlimited, sustained scale",
     meaning:
-      "3000 combines 3 (creativity) with triple 0 (maximum amplification), describing creative capacity itself at an almost unlimited, sustained scale, distinct from 300's sudden single burst and 33333's peak mobilization of guidance and support. This is about raw creative power available to you continuously, not a momentary spark or external guidance, but your own capacity operating at unusually vast scale.",
+      "3000 sends 3 (creativity) into triple 0 (maximum amplification), describing creative capacity itself at an almost unlimited, sustained scale, distinct from 300's sudden single burst and 33333's peak mobilization of guidance and support. This is about raw creative power available to you continuously, not a momentary spark or external guidance, but your own capacity operating at unusually vast scale.",
     love: "Single: your capacity to creatively express who you are in how you date and connect is operating at an unusually vast scale right now — don't hold back out of habit. Couple: your combined creative capacity as a couple, for solving problems, for building a life together, is operating at an unusually large scale right now.",
     career: "Your own creative capacity, not external inspiration, is operating at an unusually vast scale right now — trust your own resourcefulness more than usual.",
     money: "Creative capacity applied to income, not a single idea but your ongoing resourcefulness, is unusually vast right now — trust your ability to generate solutions repeatedly.",

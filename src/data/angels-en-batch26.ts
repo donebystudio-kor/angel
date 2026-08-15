@@ -154,7 +154,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     titleHook: "Verify Before You Call It Done",
     summary: "A calm call to check foundational details before declaring something genuinely finished",
     meaning:
-      "944 combines 9 (completion) with double 4 (foundation, structure amplified), offering a calm call to verify foundational details before declaring something genuinely finished, rather than assuming completion without checking. This favors treating verification as a normal, healthy step before closure, not a sign that something is wrong.",
+      "944 connects 9 (completion) to double 4 (foundation, structure amplified), offering a calm call to verify foundational details before declaring something genuinely finished, rather than assuming completion without checking. This favors treating verification as a normal, healthy step before closure, not a sign that something is wrong.",
     love: "Single: before considering a chapter of your dating life fully closed, check whether any foundational loose ends, practical or emotional, still need addressing. Couple: before considering a chapter within the relationship fully closed, check together whether any foundational details still need addressing.",
     career: "Before declaring a professional project genuinely finished, verify that foundational details, documentation, handoffs, are actually in order.",
     money: "Before declaring a financial matter genuinely closed, verify that foundational details, paperwork, final payments, are actually in order.",

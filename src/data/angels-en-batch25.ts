@@ -623,7 +623,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     titleHook: "Strengthen Ground, Keep Wealth",
     summary: "A calm caution to reinforce foundational structure specifically to protect existing abundance",
     meaning:
-      "844 combines 8 (abundance) with double 4 (foundation, structure amplified), offering a calm caution to reinforce foundational structure, budgets, plans, agreements, specifically to protect and sustain the abundance you already have, rather than assuming it will remain secure on its own. This is a checkpoint, not an alarm, favoring proactive reinforcement.",
+      "844 places 8 (abundance) beside double 4 (foundation, structure amplified), offering a calm caution to reinforce foundational structure, budgets, plans, agreements, specifically to protect and sustain the abundance you already have, rather than assuming it will remain secure on its own. This is a checkpoint, not an alarm, favoring proactive reinforcement.",
     love: "Single: reinforce the practical foundations supporting your life, savings, plans, agreements, specifically to protect the security you've already built. Couple: reinforce the practical foundations supporting the relationship's shared resources, specifically to protect the abundance you've already built together.",
     career: "Reinforce the practical foundations supporting your professional financial security, specifically to protect what you've already built.",
     money: "Reinforce the practical foundations supporting your existing financial abundance, budgets, plans, agreements, specifically to protect what you've already built.",
@@ -695,7 +695,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     titleHook: "Holding Too Tight Risks Loss",
     summary: "A calm caution that gripping material things too tightly within close relationships risks losing them",
     meaning:
-      "866 combines 8 (abundance, material) with double 6 (home, care amplified), offering a calm caution that gripping material things too tightly within close relationships or home life specifically risks losing them, rather than protecting them. This favors loosening an anxious material grip, trusting that a more relaxed hold actually preserves what matters better than a tight one.",
+      "866 rests 8 (abundance, material) against doubled 6 (home, care amplified), offering a calm caution that gripping material things too tightly within close relationships or home life specifically risks losing them, rather than protecting them. This favors loosening an anxious material grip, trusting that a more relaxed hold actually preserves what matters better than a tight one.",
     love: "Single: gripping too tightly to material security within your close relationships may be specifically what's pushing genuine connection away — loosen that grip. Couple: gripping too tightly to material control within the relationship may be specifically what's creating strain — loosen that grip and trust the relationship more than the material control.",
     career: "Gripping too tightly to material control within a professional or family-adjacent situation may be specifically what's creating strain — loosen that grip.",
     money: "Gripping too tightly to material control within close relationships may be specifically risking the very security you're trying to protect — loosen that grip deliberately.",

@@ -17,7 +17,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Self-Focus Opens To Others",
     summary: "An intense period of self-focus now genuinely ready to open toward partnership and connection",
     meaning:
-      "1112 combines triple 1 (self, new beginnings, saturated) with a single 2 (partnership, balance), describing an intense period of self-focus that's now genuinely ready to open toward partnership and connection. This favors trusting that the inward work you've been doing has reached a natural point of readiness to include someone else, rather than needing to extend the self-focused phase indefinitely.",
+      "1112 holds three 1 (self, new beginnings, saturated) alongside one 2 (partnership, balance), describing an intense period of self-focus that's now genuinely ready to open toward partnership and connection. This favors trusting that the inward work you've been doing has reached a natural point of readiness to include someone else, rather than needing to extend the self-focused phase indefinitely.",
     love: "Single: the intense self-focused work you've been doing is genuinely ready to open toward a real connection now — trust that readiness rather than continuing to delay. Couple: an intense period of individual focus is genuinely ready to open back toward more shared connection in the relationship now.",
     career: "An intense period of individual, self-directed work is genuinely ready to open toward more collaborative partnership now.",
     money: "An intense period of individually managing your finances is genuinely ready to open toward a more collaborative financial approach now.",
@@ -51,7 +51,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Self-Focus Becomes Creative",
     summary: "An intense period of self-focus now overflowing into genuine creative expression",
     meaning:
-      "1113 combines triple 1 (self, new beginnings, saturated) with a single 3 (creativity, expression), describing an intense period of self-focus that's now overflowing into genuine creative expression. This favors trusting that the inward work has produced real creative material, worth channeling outward now rather than keeping it entirely internal.",
+      "1113 stacks triple 1 (self, new beginnings, saturated) with a single 3 (creativity, expression), describing an intense period of self-focus that's now overflowing into genuine creative expression. This favors trusting that the inward work has produced real creative material, worth channeling outward now rather than keeping it entirely internal.",
     love: "Single: the self-focused understanding you've gained is overflowing into a genuinely creative way of expressing yourself in dating now. Couple: individual self-focus you've each done is overflowing into genuinely creative expression within the relationship now.",
     career: "Individual, self-focused professional development is overflowing into genuinely creative work now, worth channeling outward.",
     money: "Self-focused financial understanding is overflowing into a genuinely creative approach to money now.",
@@ -85,7 +85,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Self-Focus Builds Real Ground",
     summary: "An intense period of self-focus now settling into genuine, solid personal foundation",
     meaning:
-      "1114 combines triple 1 (self, new beginnings, saturated) with a single 4 (foundation, structure), describing an intense period of self-focus that's now settling into genuine, solid personal foundation, distinct from the self-focus remaining purely reflective or unstructured. This favors trusting that the inward work is now translating into something concrete and stable in your life.",
+      "1114 builds on three 1 (self, new beginnings, saturated), touched by one 4 (foundation, structure), describing an intense period of self-focus that's now settling into genuine, solid personal foundation, distinct from the self-focus remaining purely reflective or unstructured. This favors trusting that the inward work is now translating into something concrete and stable in your life.",
     love: "Single: the self-focused work you've done is now settling into genuine personal foundation, worth trusting as you consider building something with someone else. Couple: individual self-focus each of you has done is now settling into a more stable foundation within the relationship.",
     career: "Individual, self-focused professional development is now settling into genuine, stable foundation in your career.",
     money: "Self-focused financial understanding is now settling into a genuinely stable personal financial foundation.",
@@ -119,7 +119,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Self-Focus Opens To Change",
     summary: "An intense period of self-focus now genuinely ready to open into real, active change",
     meaning:
-      "1115 combines triple 1 (self, new beginnings, saturated) with a single 5 (change, freedom), describing an intense period of self-focus that's now genuinely ready to open into real, active change, rather than remaining purely internal and reflective. This favors trusting that the inward work has reached a point where outward action and change are the natural next step.",
+      "1115 runs triple 1 (self, new beginnings, saturated) beside one 5 (change, freedom), describing an intense period of self-focus that's now genuinely ready to open into real, active change, rather than remaining purely internal and reflective. This favors trusting that the inward work has reached a point where outward action and change are the natural next step.",
     love: "Single: the self-focused clarity you've gained is genuinely ready to open into real change in your dating life now — trust that readiness for action. Couple: individual self-focus is genuinely ready to open into real change within the relationship now.",
     career: "Individual, self-focused professional clarity is genuinely ready to open into real change in your career now.",
     money: "Self-focused financial clarity is genuinely ready to open into real change in your approach to money now.",
@@ -153,7 +153,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Self-Focus Extends To Home",
     summary: "An intense period of self-focus now genuinely ready to extend outward into home and family life",
     meaning:
-      "1116 combines triple 1 (self, new beginnings, saturated) with a single 6 (home, care), describing an intense period of self-focus that's now genuinely ready to extend outward into home and family life, rather than remaining entirely inward. This favors trusting that the self-understanding you've gained is ready to inform how you show up for people close to you.",
+      "1116 grounds three 1 (self, new beginnings, saturated) in one 6 (home, care), describing an intense period of self-focus that's now genuinely ready to extend outward into home and family life, rather than remaining entirely inward. This favors trusting that the self-understanding you've gained is ready to inform how you show up for people close to you.",
     love: "Single: the self-focused understanding you've gained is genuinely ready to extend into how you care for close friends and family now. Couple: individual self-focus each of you has done is genuinely ready to extend into renewed care for your shared home life now.",
     career: "If your work touches home life, individual self-focus is genuinely ready to extend into that caregiving domain now.",
     money: "Self-focused financial understanding is genuinely ready to extend into how you manage household finances now.",
@@ -187,7 +187,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Self-Focus Deepens To Insight",
     summary: "An intense period of self-focus now deepening into genuine, significant insight",
     meaning:
-      "1117 combines triple 1 (self, new beginnings, saturated) with a single 7 (insight, wisdom), describing an intense period of self-focus that's now deepening into genuine, significant insight, rather than staying at a surface level of self-reflection. This favors trusting that the depth of understanding you're reaching right now is real and substantial.",
+      "1117 holds three 1 (self, new beginnings, saturated) alongside one 7 (insight, wisdom), describing an intense period of self-focus that's now deepening into genuine, significant insight, rather than staying at a surface level of self-reflection. This favors trusting that the depth of understanding you're reaching right now is real and substantial.",
     love: "Single: your self-focused reflection on love is deepening into genuine, significant insight right now — trust the depth of what you're understanding. Couple: individual self-focus is deepening into genuine, shared insight about the relationship right now.",
     career: "Individual, self-focused reflection on your career is deepening into genuine, significant insight right now.",
     money: "Self-focused reflection on money is deepening into genuine, significant insight right now.",
@@ -221,7 +221,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Self-Focus Attracts Abundance",
     summary: "An intense period of self-focus specifically now attracting real material abundance",
     meaning:
-      "1118 combines triple 1 (self, new beginnings, saturated) with a single 8 (abundance), describing an intense period of self-focus as what's specifically now attracting real material abundance, distinct from abundance requiring you to prioritize others or external validation first. This favors trusting that the inward work itself is the source of what's arriving.",
+      "1118 stacks triple 1 (self, new beginnings, saturated) with a single 8 (abundance), describing an intense period of self-focus as what's specifically now attracting real material abundance, distinct from abundance requiring you to prioritize others or external validation first. This favors trusting that the inward work itself is the source of what's arriving.",
     love: "Single: the self-focused work you've done is specifically now attracting real abundance into your love life, more security, more ease — trust that the inward work is the source. Couple: individual self-focus each of you has done is specifically now attracting real, shared abundance into the relationship.",
     career: "Individual, self-focused professional development is specifically now attracting real material abundance in your career.",
     money: "Self-focused financial understanding is specifically now attracting real abundance — trust that the inward work is the source.",
@@ -255,7 +255,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Self-Focus Nears Completion",
     summary: "An intense period of self-focus specifically approaching a genuine, natural conclusion",
     meaning:
-      "1119 combines triple 1 (self, new beginnings, saturated) with a single 9 (completion), describing an intense period of self-focus as specifically approaching a genuine, natural conclusion, worth recognizing rather than assuming it must continue indefinitely. This favors preparing to transition out of this phase, having done the work it was meant for.",
+      "1119 builds on three 1 (self, new beginnings, saturated), touched by one 9 (completion), describing an intense period of self-focus as specifically approaching a genuine, natural conclusion, worth recognizing rather than assuming it must continue indefinitely. This favors preparing to transition out of this phase, having done the work it was meant for.",
     love: "Single: your intense self-focused period is specifically approaching a natural conclusion, worth recognizing as you consider opening back up in your love life. Couple: an intense period of individual self-focus is specifically approaching a natural conclusion within the relationship.",
     career: "An intense period of individual, self-focused professional development is specifically approaching a natural conclusion.",
     money: "An intense period of self-focused financial work is specifically approaching a natural conclusion.",
@@ -563,7 +563,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Completion Opens To A Bond",
     summary: "An intense period of completion now genuinely ready to open toward partnership and connection",
     meaning:
-      "9992 combines triple 9 (completion, saturated) with a single 2 (partnership, balance), describing an intense period of completion and closure that's now genuinely ready to open toward partnership and connection. This favors trusting that the closure work you've done has reached a natural point of readiness to welcome someone else in.",
+      "9992 runs triple 9 (completion, saturated) beside one 2 (partnership, balance), describing an intense period of completion and closure that's now genuinely ready to open toward partnership and connection. This favors trusting that the closure work you've done has reached a natural point of readiness to welcome someone else in.",
     love: "Single: the intense closure work you've done is genuinely ready to open toward a real new connection now — trust that readiness rather than continuing to delay. Couple: an intense period of completing an old chapter is genuinely ready to open back toward more connection in the relationship now.",
     career: "An intense period of closing out professional chapters is genuinely ready to open toward new collaborative partnership now.",
     money: "An intense period of closing out financial chapters is genuinely ready to open toward a new collaborative financial approach now.",
@@ -597,7 +597,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Completion Becomes Creative",
     summary: "An intense period of completion now overflowing into genuine creative expression",
     meaning:
-      "9993 combines triple 9 (completion, saturated) with a single 3 (creativity, expression), describing an intense period of completion and closure that's now overflowing into genuine creative expression. This favors trusting that the closure work has produced real creative material, worth channeling outward now.",
+      "9993 grounds three 9 (completion, saturated) in one 3 (creativity, expression), describing an intense period of completion and closure that's now overflowing into genuine creative expression. This favors trusting that the closure work has produced real creative material, worth channeling outward now.",
     love: "Single: the closure work you've done around past relationships is overflowing into a genuinely creative way of expressing yourself in dating now. Couple: completing an old chapter together is overflowing into genuinely creative expression within the relationship now.",
     career: "Closing out a professional chapter is overflowing into genuinely creative work now, worth channeling outward.",
     money: "Closing out a financial chapter is overflowing into a genuinely creative approach to money now.",
@@ -631,7 +631,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Completion Builds Real Ground",
     summary: "An intense period of completion now settling into genuine, solid personal foundation",
     meaning:
-      "9994 combines triple 9 (completion, saturated) with a single 4 (foundation, structure), describing an intense period of completion and closure that's now settling into genuine, solid personal foundation. This favors trusting that the closure work is translating into something concrete and stable in your life, not staying purely in the realm of processing.",
+      "9994 holds three 9 (completion, saturated) alongside one 4 (foundation, structure), describing an intense period of completion and closure that's now settling into genuine, solid personal foundation. This favors trusting that the closure work is translating into something concrete and stable in your life, not staying purely in the realm of processing.",
     love: "Single: the closure work you've done is now settling into genuine personal foundation, worth trusting as you consider what comes next. Couple: completing an old chapter together is now settling into a more stable foundation within the relationship.",
     career: "Closing out a professional chapter is now settling into genuine, stable foundation in your career.",
     money: "Closing out a financial chapter is now settling into a genuinely stable personal financial foundation.",
@@ -665,7 +665,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Completion Opens To Change",
     summary: "An intense period of completion now genuinely ready to open into real, active change",
     meaning:
-      "9995 combines triple 9 (completion, saturated) with a single 5 (change, freedom), describing an intense period of completion and closure that's now genuinely ready to open into real, active change, rather than remaining purely in the realm of closure and reflection. This favors trusting that the completion has reached a point where outward change is the natural next step.",
+      "9995 stacks triple 9 (completion, saturated) with a single 5 (change, freedom), describing an intense period of completion and closure that's now genuinely ready to open into real, active change, rather than remaining purely in the realm of closure and reflection. This favors trusting that the completion has reached a point where outward change is the natural next step.",
     love: "Single: the closure you've reached is genuinely ready to open into real change in your dating life now — trust that readiness for action. Couple: completing an old chapter is genuinely ready to open into real change within the relationship now.",
     career: "Closing out a professional chapter is genuinely ready to open into real change in your career now.",
     money: "Closing out a financial chapter is genuinely ready to open into real change in your approach to money now.",

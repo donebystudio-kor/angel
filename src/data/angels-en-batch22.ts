@@ -48,7 +48,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     titleHook: "One Step Closer To The Dream",
     summary: "Steady, incremental progress toward a dream, built one deliberate step at a time",
     meaning:
-      "124 combines 1 (new beginnings) with 2 (partnership, patience) and 4 (foundation, structure), describing steady, incremental progress toward a dream, built deliberately one step at a time rather than in one dramatic leap. This favors trusting that each small, solid step is genuinely bringing the dream closer, worth honoring rather than measuring only against the finish line.",
+      "124 holds 1 (new beginnings) alongside 2 (partnership, patience) and 4 (foundation, structure), describing steady, incremental progress toward a dream, built deliberately one step at a time rather than in one dramatic leap. This favors trusting that each small, solid step is genuinely bringing the dream closer, worth honoring rather than measuring only against the finish line.",
     love: "Single: each small, deliberate step you're taking toward the relationship you want is genuinely bringing it closer, worth honoring rather than only measuring against the final goal. Couple: each small, deliberate step you're both taking toward a shared dream is genuinely building toward it, worth honoring along the way.",
     career: "Each small, deliberate professional step you're taking is genuinely bringing a larger goal closer, worth honoring as real progress rather than only measuring against the finish line.",
     money: "Each small, deliberate financial step you're taking is genuinely building toward a larger goal, worth honoring as real progress along the way.",
@@ -84,7 +84,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     titleHook: "Balance Within A Changing Bond",
     summary: "A partnership finding real equilibrium specifically while navigating genuine change together",
     meaning:
-      "125 combines 1 (new beginnings) with 2 (partnership, balance) and 5 (change, freedom), describing a partnership that's finding real equilibrium specifically in the midst of navigating genuine change together, rather than waiting for the change to end before feeling stable. This favors trusting that balance is available now, within the change, not only after it settles.",
+      "125 threads 1 (new beginnings) into 2 (partnership, balance) and 5 (change, freedom), describing a partnership that's finding real equilibrium specifically in the midst of navigating genuine change together, rather than waiting for the change to end before feeling stable. This favors trusting that balance is available now, within the change, not only after it settles.",
     love: "Single: real balance is available in how you're navigating a changing dating situation right now, worth finding within the change rather than waiting for it to settle first. Couple: real balance is available for the relationship right now, specifically within the change you're navigating together, not only once things settle down.",
     career: "Real balance is available in a professional partnership navigating change right now, worth finding within the change rather than waiting for stability first.",
     money: "Real balance is available in a financial partnership navigating change right now, worth actively finding within the change rather than waiting for it to resolve.",
@@ -120,7 +120,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     titleHook: "Fresh Air Blows Into Your Home",
     summary: "A new, refreshing energy entering home life specifically through a relationship or partnership dynamic",
     meaning:
-      "126 combines 1 (new beginnings) with 2 (partnership) and 6 (home, care), describing fresh, refreshing energy entering home life specifically through a relationship or partnership dynamic, distinct from 116's more general lightening of the home atmosphere. This favors recognizing that a specific relationship, not just circumstance generally, is the source of this new domestic energy.",
+      "126 draws 1 (new beginnings) into 2 (partnership) and 6 (home, care), describing fresh, refreshing energy entering home life specifically through a relationship or partnership dynamic, distinct from 116's more general lightening of the home atmosphere. This favors recognizing that a specific relationship, not just circumstance generally, is the source of this new domestic energy.",
     love: "Single: a new connection or renewed closeness with someone is specifically bringing fresh, refreshing energy into your home life right now. Couple: a fresh dynamic between you two is specifically bringing refreshing new energy into your shared home life right now, worth actively welcoming.",
     career: "A new professional relationship or collaboration is specifically bringing fresh energy into work that touches your home life.",
     money: "A new financial partnership or arrangement is specifically bringing fresh, positive energy into household finances.",
@@ -156,7 +156,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     titleHook: "Inner Wisdom Knows The Answer",
     summary: "Your own inner wisdom already holds the answer to a partnership question you've been sitting with",
     meaning:
-      "127 combines 1 (new beginnings) with 2 (partnership, decision) and 7 (insight, wisdom), describing an answer to a relationship or partnership question that your own inner wisdom already holds, worth trusting rather than continuing to seek external validation. This favors recognizing that the deliberation phase has likely already concluded internally, even if you haven't consciously acknowledged the answer yet.",
+      "127 gathers 1 (new beginnings), 2 (partnership, decision), and 7 (insight, wisdom), describing an answer to a relationship or partnership question that your own inner wisdom already holds, worth trusting rather than continuing to seek external validation. This favors recognizing that the deliberation phase has likely already concluded internally, even if you haven't consciously acknowledged the answer yet.",
     love: "Single: your own inner wisdom already knows the answer to a question you've been sitting with about a specific connection — trust it rather than continuing to seek outside opinions. Couple: your own inner wisdom already knows the answer to a question about the relationship's direction — trust it rather than continuing to seek outside validation.",
     career: "Your own inner wisdom already knows the answer to a question about a professional partnership — trust it rather than continuing to seek external confirmation.",
     money: "Your own inner wisdom already knows the answer to a question about a financial partnership — trust that internal knowing rather than continuing to seek outside opinions.",
@@ -192,7 +192,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     titleHook: "Abundance Is Knocking",
     summary: "A specific opportunity for material or financial gain arriving right now, worth answering promptly",
     meaning:
-      "128 combines 1 (new beginnings) with 2 (partnership, opportunity) and 8 (abundance), describing a specific opportunity for material or financial gain that's arriving right now, likely through a relationship or collaborative opening, worth answering promptly rather than letting it wait unanswered.",
+      "128 weaves 1 (new beginnings) through 2 (partnership, opportunity) and 8 (abundance), describing a specific opportunity for material or financial gain that's arriving right now, likely through a relationship or collaborative opening, worth answering promptly rather than letting it wait unanswered.",
     love: "Single: an opportunity connected to a new relationship or connection may be bringing real practical or material benefit right now — answer it promptly rather than letting it sit unaddressed. Couple: an opportunity connected to the relationship may be bringing real material benefit right now — answer it together promptly.",
     career: "A specific professional opportunity is knocking right now, likely through a partnership or collaboration — answer it promptly rather than letting it sit.",
     money: "A specific financial opportunity is knocking right now — answer it promptly, since this kind of opening often doesn't wait indefinitely.",
@@ -226,7 +226,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Journey Completed By Sharing",
     summary: "A shared journey reaching genuine completion specifically through mutual generosity and giving",
     meaning:
-      "129 combines 1 (new beginnings) with 2 (partnership, sharing) and 9 (completion), describing a shared journey that's reaching genuine, satisfying completion specifically through mutual generosity, giving and receiving, rather than through one party doing all the work. This favors recognizing that the completion feels whole precisely because it was shared, not achieved alone.",
+      "129 holds 1 (new beginnings) alongside 2 (partnership, sharing) and 9 (completion), describing a shared journey that's reaching genuine, satisfying completion specifically through mutual generosity, giving and receiving, rather than through one party doing all the work. This favors recognizing that the completion feels whole precisely because it was shared, not achieved alone.",
     love: "Single: a chapter of growth completed alongside close friends or family, through real mutual give-and-take, is reaching a genuinely satisfying conclusion right now. Couple: a shared journey the two of you have been on is reaching genuine, satisfying completion specifically because of mutual giving and generosity between you.",
     career: "A shared professional journey is reaching genuine completion specifically because of mutual generosity and support between collaborators, not one person carrying it alone.",
     money: "A shared financial goal is reaching genuine completion specifically because of mutual generosity and contribution from everyone involved.",
@@ -262,7 +262,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Moment Of Creative Leap",
     summary: "A specific, decisive moment to take a bold creative leap from a place of open possibility",
     meaning:
-      "130 combines 1 (new beginnings) with 3 (creativity, expression) and 0 (open potential), describing a specific, decisive moment worth taking a bold creative leap from a place of genuinely open possibility, rather than continuing to plan cautiously. This favors trusting that the moment for a leap, not further preparation, has arrived.",
+      "130 threads 1 (new beginnings) into 3 (creativity, expression) and 0 (open potential), describing a specific, decisive moment worth taking a bold creative leap from a place of genuinely open possibility, rather than continuing to plan cautiously. This favors trusting that the moment for a leap, not further preparation, has arrived.",
     love: "Single: take a bold, creative leap in how you approach a new connection right now, trusting that the moment for boldness, not more cautious planning, has arrived. Couple: take a bold, creative leap together for the relationship right now, trusting the moment rather than continuing to plan cautiously.",
     career: "Take a bold, creative professional leap right now, trusting that the moment for boldness has arrived, rather than continuing to plan and prepare indefinitely.",
     money: "Take a bold, creative financial leap right now, trusting the moment has arrived rather than continuing to deliberate without acting.",
@@ -334,7 +334,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     titleHook: "Collaboration Makes It Shine",
     summary: "Creative work specifically shining and succeeding because of genuine collaboration with others",
     meaning:
-      "132 combines 1 (new beginnings) with 3 (creativity, expression) and 2 (partnership, collaboration), describing creative work that's specifically shining and succeeding because of genuine collaboration, rather than solo effort alone. This favors recognizing collaboration as what's elevating the work right now, worth actively continuing rather than reverting to working alone.",
+      "132 draws 1 (new beginnings) into 3 (creativity, expression) and 2 (partnership, collaboration), describing creative work that's specifically shining and succeeding because of genuine collaboration, rather than solo effort alone. This favors recognizing collaboration as what's elevating the work right now, worth actively continuing rather than reverting to working alone.",
     love: "Single: a creative or expressive effort you're making is shining specifically because of collaboration with a friend or family member, worth continuing that partnership rather than reverting to working alone. Couple: a creative project you're building together is shining specifically because of your collaboration, worth continuing to lean into that partnership.",
     career: "A creative professional project is shining specifically because of genuine collaboration, worth continuing to invest in that partnership rather than reverting to solo work.",
     money: "A creative financial approach is succeeding specifically because of collaboration with others, worth continuing to lean into that partnership.",
@@ -406,7 +406,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     titleHook: "Build The Idea Into Reality",
     summary: "A creative idea specifically ready to be built into solid, real form, not just refined further",
     meaning:
-      "134 combines 1 (new beginnings) with 3 (creativity, ideas) and 4 (foundation, structure), describing a creative idea that's specifically ready to be built into solid, real form, distinct from 114's broader vision-into-reality framing. Where 114 is about any vision generally, 134 is specifically about a creative idea, one with real expressive or artistic content, ready for concrete construction now.",
+      "134 gathers 1 (new beginnings), 3 (creativity, ideas), and 4 (foundation, structure), describing a creative idea that's specifically ready to be built into solid, real form, distinct from 114's broader vision-into-reality framing. Where 114 is about any vision generally, 134 is specifically about a creative idea, one with real expressive or artistic content, ready for concrete construction now.",
     love: "Single: a creative idea about how to approach dating or express yourself is specifically ready to be built into something real right now, not further refined in your head. Couple: a creative idea you have for the relationship is specifically ready to be built into something real right now, worth acting on together.",
     career: "A creative professional idea is specifically ready to be built into something real right now, not further refined — start construction.",
     money: "A creative financial idea is specifically ready to be built into something real right now, not further deliberated on — start putting it into concrete form.",
@@ -442,7 +442,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     titleHook: "Be The One Who Leads Change",
     summary: "A call to actively lead and initiate change, rather than waiting for it or reacting to it",
     meaning:
-      "135 combines 1 (new beginnings, self) with 3 (creativity, expression) and 5 (change, freedom), describing a specific call to actively lead and initiate change through creative, expressive action, rather than waiting for change to arrive or simply reacting to it. This favors recognizing your own agency as the source of the coming shift, not a bystander role.",
+      "135 weaves 1 (new beginnings, self) through 3 (creativity, expression) and 5 (change, freedom), describing a specific call to actively lead and initiate change through creative, expressive action, rather than waiting for change to arrive or simply reacting to it. This favors recognizing your own agency as the source of the coming shift, not a bystander role.",
     love: "Single: be the one who actively initiates a needed change in your dating life, through a bold conversation or a new approach, rather than waiting for it to happen to you. Couple: be the one who actively initiates a needed change within the relationship, through honest, creative expression, rather than waiting for circumstances to force it.",
     career: "Be the one who actively initiates a needed professional change, through a proposal or a bold move, rather than waiting for someone else to make it happen.",
     money: "Be the one who actively initiates a needed financial change, through a concrete plan or proposal, rather than waiting passively for circumstances to shift.",
@@ -478,7 +478,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     titleHook: "Creative Energy Enters Home",
     summary: "A fresh, specifically creative energy entering home life, distinct from a general lightening",
     meaning:
-      "136 combines 1 (new beginnings) with 3 (creativity, expression) and 6 (home, care), describing a fresh, specifically creative energy entering your home life right now, distinct from 116's more general lightening of atmosphere. This favors recognizing that the fresh energy here has a distinctly creative or expressive quality, new ideas, new projects, new ways of decorating or living, rather than being about mood alone.",
+      "136 holds 1 (new beginnings) alongside 3 (creativity, expression) and 6 (home, care), describing a fresh, specifically creative energy entering your home life right now, distinct from 116's more general lightening of atmosphere. This favors recognizing that the fresh energy here has a distinctly creative or expressive quality, new ideas, new projects, new ways of decorating or living, rather than being about mood alone.",
     love: "Single: bring a specifically creative project or idea into your home life right now, trusting that this new creative energy is what's genuinely wanted, more than a general mood lift. Couple: bring a specifically creative shared project into your home life right now, cooking something new, redecorating, a joint creative pursuit, trusting that this is what's genuinely wanted between you.",
     career: "If your work touches home, bring a specifically creative approach into that space right now, rather than a purely functional one.",
     money: "A creative approach to managing household resources, not just a functional budget, is specifically what's wanted right now.",
@@ -514,7 +514,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     titleHook: "Trust Your Inner Wisdom",
     summary: "A direct, general call to trust your own inner wisdom specifically around a creative choice",
     meaning:
-      "137 combines 1 (new beginnings, self) with 3 (creativity, expression) and 7 (insight, wisdom), offering a direct call to trust your own inner wisdom specifically around a creative choice you're facing, rather than continuing to seek outside validation for something you already sense is right. This favors recognizing your own creative instincts as a legitimate, trustworthy source of guidance.",
+      "137 threads 1 (new beginnings, self) into 3 (creativity, expression) and 7 (insight, wisdom), offering a direct call to trust your own inner wisdom specifically around a creative choice you're facing, rather than continuing to seek outside validation for something you already sense is right. This favors recognizing your own creative instincts as a legitimate, trustworthy source of guidance.",
     love: "Single: trust your own inner wisdom about a creative or expressive choice in how you're approaching dating, rather than seeking outside opinions on something you already sense is right. Couple: trust your own inner wisdom about a creative choice for the relationship, a shared project, a way of expressing affection, rather than seeking outside validation.",
     career: "Trust your own inner wisdom about a creative professional choice, rather than continuing to seek external validation for something you already sense is right.",
     money: "Trust your own inner wisdom about a creative financial approach, rather than continuing to second-guess it based on outside opinions.",
@@ -550,7 +550,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     titleHook: "Abundance Flows Right In",
     summary: "Material abundance flowing in specifically through creative work and expression right now",
     meaning:
-      "138 combines 1 (new beginnings) with 3 (creativity, expression) and 8 (abundance), describing material abundance that's flowing in specifically through creative work and expression, rather than through unrelated channels. This favors recognizing and continuing to invest in whatever creative effort is currently generating this financial benefit, rather than assuming it's separate from your creative work.",
+      "138 draws 1 (new beginnings) into 3 (creativity, expression) and 8 (abundance), describing material abundance that's flowing in specifically through creative work and expression, rather than through unrelated channels. This favors recognizing and continuing to invest in whatever creative effort is currently generating this financial benefit, rather than assuming it's separate from your creative work.",
     love: "Single: a creative approach to how you're building your life is specifically bringing in real material benefit right now — recognize and continue that connection. Couple: a creative approach you're taking together is specifically bringing real material benefit into the relationship right now — recognize and continue investing in it.",
     career: "Creative professional work is specifically what's bringing in real material benefit right now — recognize that link and continue investing in the creative dimension of your work.",
     money: "Creative financial thinking is specifically what's bringing in real material benefit right now — recognize that link rather than crediting an unrelated factor.",
@@ -586,7 +586,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     titleHook: "The First Step Of Your Mission",
     summary: "A creative, expressive first step specifically launching a larger sense of purpose into motion",
     meaning:
-      "139 combines 1 (new beginnings) with 3 (creativity, expression) and 9 (completion, mission), describing a creative or expressive first step that's specifically launching a larger sense of purpose into motion, distinct from 79's broader, non-creative-specific framing of one concrete step. This favors recognizing that expression itself, writing, speaking, making, is the actual vehicle for the first step of a larger mission.",
+      "139 gathers 1 (new beginnings), 3 (creativity, expression), and 9 (completion, mission), describing a creative or expressive first step that's specifically launching a larger sense of purpose into motion, distinct from 79's broader, non-creative-specific framing of one concrete step. This favors recognizing that expression itself, writing, speaking, making, is the actual vehicle for the first step of a larger mission.",
     love: "Single: expressing something creatively, in writing, in conversation, in how you show up, is specifically the first step launching a larger sense of purpose in your love life. Couple: a creative or expressive act together is specifically the first step launching a larger shared purpose for the relationship.",
     career: "A creative or expressive professional act, writing, presenting, making something, is specifically the first step launching a larger sense of purpose into motion.",
     money: "A creative financial idea or expression of it, a pitch, a written plan, is specifically the first step launching a larger financial purpose into motion.",
@@ -622,7 +622,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Challenge On Solid Ground",
     summary: "A real challenge worth taking on right now specifically because solid ground already exists beneath it",
     meaning:
-      "140 combines 1 (new beginnings) with 4 (foundation, stability) and 0 (open potential), describing a real challenge that's worth taking on right now specifically because a solid foundation already exists underneath it, distinct from 40's more general framing of unshakeable foundation on its own. This favors recognizing that the existing ground is specifically what makes this particular challenge viable now, worth trusting rather than waiting for even more preparation.",
+      "140 weaves 1 (new beginnings) through 4 (foundation, stability) and 0 (open potential), describing a real challenge that's worth taking on right now specifically because a solid foundation already exists underneath it, distinct from 40's more general framing of unshakeable foundation on its own. This favors recognizing that the existing ground is specifically what makes this particular challenge viable now, worth trusting rather than waiting for even more preparation.",
     love: "Single: take on a real challenge in your love life, a bold conversation, a new kind of vulnerability, trusting that your existing emotional foundation is solid enough to support it. Couple: take on a real challenge for the relationship together, trusting that your existing foundation is solid enough to support it.",
     career: "Take on a real professional challenge right now, trusting that your existing foundation is solid enough to support it, rather than waiting for even more preparation.",
     money: "Take on a real financial challenge right now, trusting that your existing foundation is solid enough to support it.",
@@ -694,7 +694,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     titleHook: "The Power Of A Practical Bond",
     summary: "A partnership's real, practical power — what it actually accomplishes together, not just its stability",
     meaning:
-      "142 combines 1 (new beginnings) with 4 (foundation, practicality) and 2 (partnership), describing the real, practical power a partnership generates together, what it actually accomplishes and builds, distinct from 242's focus on the foundation of trust existing beneath a bond. Where 242 is about recognizing stability, 142 is about output: the tangible, practical things this partnership is actively capable of achieving together.",
+      "142 holds 1 (new beginnings) alongside 4 (foundation, practicality) and 2 (partnership), describing the real, practical power a partnership generates together, what it actually accomplishes and builds, distinct from 242's focus on the foundation of trust existing beneath a bond. Where 242 is about recognizing stability, 142 is about output: the tangible, practical things this partnership is actively capable of achieving together.",
     love: "Single: notice the practical power available in a close partnership, a friendship, a family connection, what you're actually able to accomplish together, not just how stable it feels. Couple: notice the real, practical power available in your partnership right now, what you're actually capable of building and accomplishing together.",
     career: "Notice the real, practical power available in a professional partnership right now, what you're actually capable of accomplishing together, worth actively using.",
     money: "Notice the real, practical power available in a financial partnership right now, what you're actually capable of building together, worth actively using.",

@@ -288,7 +288,7 @@ export const EN_BATCH30_NUMBERS: EnAngelNumber[] = [
     titleHook: "Completion Extends To Care",
     summary: "An intense period of completion now genuinely ready to extend outward into home and family life",
     meaning:
-      "9996 combines triple 9 (completion, saturated) with a single 6 (home, care), describing an intense period of completion and closure that's now genuinely ready to extend outward into home and family life. This favors trusting that the closure work you've done is ready to inform how you show up for people close to you.",
+      "9996 builds on three 9 (completion, saturated), touched by one 6 (home, care), describing an intense period of completion and closure that's now genuinely ready to extend outward into home and family life. This favors trusting that the closure work you've done is ready to inform how you show up for people close to you.",
     love: "Single: the closure work you've done is genuinely ready to extend into how you care for close friends and family now. Couple: completing an old chapter together is genuinely ready to extend into renewed care for your shared home life now.",
     career: "If your work touches home life, closing out a professional chapter is genuinely ready to extend into that caregiving domain now.",
     money: "Closing out a financial chapter is genuinely ready to extend into how you manage household finances now.",
@@ -322,7 +322,7 @@ export const EN_BATCH30_NUMBERS: EnAngelNumber[] = [
     titleHook: "Completion Deepens To Wisdom",
     summary: "An intense period of completion now deepening into genuine, significant insight",
     meaning:
-      "9997 combines triple 9 (completion, saturated) with a single 7 (insight, wisdom), describing an intense period of completion and closure that's now deepening into genuine, significant insight, rather than staying at a surface level of processing. This favors trusting that the depth of understanding you're reaching about a finished chapter is real and substantial.",
+      "9997 runs triple 9 (completion, saturated) beside one 7 (insight, wisdom), describing an intense period of completion and closure that's now deepening into genuine, significant insight, rather than staying at a surface level of processing. This favors trusting that the depth of understanding you're reaching about a finished chapter is real and substantial.",
     love: "Single: your reflection on a completed chapter of your love life is deepening into genuine, significant insight right now — trust the depth of what you're understanding. Couple: reflection on a completed chapter within the relationship is deepening into genuine, shared insight right now.",
     career: "Reflection on a completed professional chapter is deepening into genuine, significant insight right now.",
     money: "Reflection on a completed financial chapter is deepening into genuine, significant insight right now.",
@@ -356,7 +356,7 @@ export const EN_BATCH30_NUMBERS: EnAngelNumber[] = [
     titleHook: "Completion Attracts Abundance",
     summary: "An intense period of completion specifically now attracting real material abundance",
     meaning:
-      "9998 combines triple 9 (completion, saturated) with a single 8 (abundance), describing an intense period of completion and closure as what's specifically now attracting real material abundance. This favors trusting that the closure work itself is the source of what's arriving, rather than assuming abundance requires an unrelated new beginning first.",
+      "9998 grounds three 9 (completion, saturated) in one 8 (abundance), describing an intense period of completion and closure as what's specifically now attracting real material abundance. This favors trusting that the closure work itself is the source of what's arriving, rather than assuming abundance requires an unrelated new beginning first.",
     love: "Single: the closure work you've done is specifically now attracting real abundance into your love life, more security, more ease — trust that the completed work is the source. Couple: completing an old chapter together is specifically now attracting real, shared abundance into the relationship.",
     career: "Closing out a professional chapter is specifically now attracting real material abundance in your career.",
     money: "Closing out a financial chapter is specifically now attracting real abundance — trust that the completed work is the source.",
