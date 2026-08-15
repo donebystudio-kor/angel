@@ -40,6 +40,9 @@ export const EN_BATCH30_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "As a twin flame timing signal, 1999 is unusually specific — a single new-beginning energy meeting a triple completion wave often means something visible has just started in the physical world (a new chapter in either person's life, a change of circumstances) and that new start is what's bringing the previous cycle to its close. Reunion sightings of 1999 often precede contact by a relatively short window, because the new chapter beginning is completing the separation stage as a function of starting. The marker worth watching: what has genuinely opened or started in your life in the past few weeks?",
     manifestation:
       "1999 manifests by trusting a new beginning as the trigger for necessary closures — the practical move is letting one old obligation conclude today as part of that wave, since this number's folklore treats that follow-through as what completes the process well.",
   },
@@ -110,6 +113,9 @@ export const EN_BATCH30_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "For twin flames, 3999 often appears at the moment when a creative or expressive action — sending something, saying something honestly, posting something visible — has just triggered a wave of completion energy in the connection. For the person in the chaser dynamic, this sometimes marks the moment where speaking up creates more distance rather than less, and the completion wave that follows can feel like a setback. 3999's message is that the expression was right even if the immediate result was space — honest communication in twin flame connections often accelerates the separation stage rather than bypassing it. What did your most recent honest expression actually complete?",
     manifestation:
       "3999 manifests by trusting a creative act as the trigger for necessary closures — the practical move is letting one old pattern conclude today as part of that wave, since this number's folklore treats that follow-through as what completes the process well.",
   },
@@ -144,6 +150,9 @@ export const EN_BATCH30_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "4999 in a twin flame context has a specific texture: it tends to appear when everything you've been building in yourself — the stable ground, the internal work, the foundation — is about to meet the completion stage of a cycle, and that meeting brings up doubt rather than confidence. The doubt isn't a signal that the foundation is wrong; it's frequently a sign that something deeply stable is being asked to carry something new, and the unfamiliarity triggers uncertainty. The question 4999 is actually raising isn't whether you've done the work, but whether you trust it now that it's about to matter. What would you do if you were certain the foundation held?",
     manifestation:
       "4999 manifests by trusting stability as the trigger for necessary closures — the practical move is letting one old obligation conclude today as part of that wave, since this number's folklore treats that follow-through as what completes the process well.",
   },
@@ -178,6 +187,9 @@ export const EN_BATCH30_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "Right at the point in a twin flame separation where the purpose of the distance becomes genuinely legible — not as a concept but as a lived understanding — 5999 tends to appear. The change energy of 5 meeting triple completion suggests the separation has done most of what it came to do, and the clarity of that purpose is itself part of what's completing. For many people seeing 5999, this is the moment where the separation stops feeling punitive and starts making sense in a way that couldn't have been accessed at the beginning. What do you now understand about yourself or the connection that the separation specifically made possible?",
     manifestation:
       "5999 manifests by trusting change as the trigger for necessary closures — the practical move is letting one old pattern conclude today as part of that wave, since this number's folklore treats that follow-through as what completes the process well.",
   },
@@ -212,6 +224,9 @@ export const EN_BATCH30_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "6999 specifically points at care-related patterns completing in a twin flame connection — most often a dynamic of over-caring, over-monitoring, or maintaining the connection through emotional labor rather than genuine, easy presence. The completion wave it signals isn't cold or distancing; it's a clearing of the particular way care has been operating in the dynamic, not care itself. Inner work during a 6999 period tends to focus on the difference between showing up for the connection and propping it up, and that distinction is harder to see clearly than it sounds. What has your care for this connection been protecting you from feeling directly?",
     manifestation:
       "6999 manifests by trusting a home-rooted moment as the trigger for necessary closures — the practical move is letting one old obligation conclude today as part of that wave, since this number's folklore treats that follow-through as what completes the process well.",
   },
@@ -314,6 +329,9 @@ export const EN_BATCH30_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "9996 brings a care or home dimension into a triple-9 completion, and in twin flame contexts this often marks a period when the connection's current chapter is closing while a third person or family circumstance is actively present. That third element isn't necessarily an obstacle — it's often part of what the chapter was there to complete. Seeing 9996 during a difficult stretch doesn't mean the connection is being replaced or redirected permanently; it tends to signal that the people or circumstances currently involved are part of the resolution, not the whole story. What is genuinely completing here, versus what feels like an ending but isn't?",
     manifestation:
       "9996 manifests by extending closure into care for others — the practical move is one caring action today rooted in recently completed work, since this number's folklore treats that extension outward as what completes the closure.",
   },
