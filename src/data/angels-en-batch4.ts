@@ -146,6 +146,8 @@ export const EN_BATCH4_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "3 is the plainest version of creative-expression energy, and in a twin flame context it points less at timing and more at the quality of communication between the two of you. In reunion, plain 3 tends to surface when conversations have gone shallow or overly serious — it favors lightness, humor, and genuine creative exchange over intense relationship discussions. In separation, 3 is a steady nudge that expressing yourself through your own creative work right now is doing more for the connection than any amount of waiting or analyzing the other person's silence is.",
     manifestation:
       "3 manifests through speaking or making, plainly, rather than through the more concentrated expressive technique 333 favors — the practice here is simply saying the want out loud once, to one person, without needing it to be eloquent.",
   },
@@ -180,6 +182,8 @@ export const EN_BATCH4_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "4 in a twin flame context is essentially a stability check — it shows up when the foundation of the connection needs attention rather than the timing or the feelings. In reunion, plain 4 favors building something real and consistent between you — showing up reliably, following through on small things — over large romantic gestures that don't hold week to week. In separation, 4 is asking what you're actually building in your own life right now, independent of the connection; the stability you're laying down in yourself is what makes eventual reunion sustainable rather than a repeat of previous patterns.",
     manifestation:
       "4 manifests through practical planning rather than either the compounding effort of 444 or the quiet reliability of 44 — the technique here is simply making an actual plan, on paper, before doing anything else.",
   },
@@ -250,6 +254,8 @@ export const EN_BATCH4_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "6 in a twin flame context surfaces the care-and-responsibility dimension of the connection specifically — who's holding what, whether the dynamic is balanced, and where over-nurturing or under-nurturing is quietly distorting things. In reunion, plain 6 often appears when one person is managing more of the emotional labor of the relationship than the other, and it's a prompt to rebalance before resentment builds rather than after. In separation, 6 tends to flag an imbalance that the distance is making visible — usually that one person sacrificed significantly more in the dynamic — and the work now is understanding that clearly rather than just missing the connection.",
     manifestation:
       "6 manifests through small, concrete acts of care rather than a larger correction — the practice is doing one specific helpful thing for someone else this week as the move that clears space for what you want.",
   },
@@ -284,6 +290,8 @@ export const EN_BATCH4_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "7 in a twin flame context points at the inner, spiritual dimension of the connection rather than its practical or emotional surface — it tends to appear when both people are doing real individual growth work, even without any contact between them. In reunion, plain 7 usually means the conversation that actually matters right now is not about logistics or feelings but about something the two of you genuinely believe or understand differently; that's the level where the connection is alive. In separation, 7 is one of the more comfortable numbers to see, because it confirms the growth work you're doing in yourself is the point right now — not engineering a faster return.",
     manifestation:
       "7 confirms alignment in general rather than pointing at one specific goal the way 777 does — treat it as broad permission to trust your instincts generally this stretch, rather than a signal tied to a particular want.",
   },
@@ -318,6 +326,8 @@ export const EN_BATCH4_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "8 in a twin flame context points at the material and practical dimension of where the connection is embedded in real life — financial realities, career, external stability — rather than just the emotional or spiritual layer. In reunion, plain 8 tends to surface when practical questions about how the two of you would actually work as a shared life are becoming relevant and worth addressing honestly, even if they feel less romantic than what you'd prefer to focus on. In separation, 8 is often a redirect: instead of focusing primarily on the connection's timing, focus on your own external-world building right now — the abundance work and the twin flame work are running on the same track, not parallel to each other.",
     manifestation:
       "8 manifests through one specific financial action rather than the broader flow-versus-hoarding shift 888 points at — pick one concrete money move, a specific spend or a specific ask, rather than a general mindset shift.",
   },
@@ -352,6 +362,8 @@ export const EN_BATCH4_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "9 in a twin flame context marks a real ending rather than just a pause — it tends to appear when a specific phase or pattern of the connection has genuinely run its course and is finishing, not just going quiet temporarily. In reunion, plain 9 often surfaces just before a shift in the dynamic's configuration — something about how the two of you have been relating is completing, and what comes next will look different. In separation, 9 is a prompt to let the current phase actually finish rather than extending it by re-engaging before the work of it is done; the next stage starts on the other side of a genuine ending, not before it.",
     manifestation:
       "9 manifests by clearing one small loose end rather than the larger runway-clearing 999 asks for — finishing one small unfinished thing today is enough to make room here, no bigger cleanup required.",
   },

@@ -252,6 +252,8 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "38 moves from creative expression into material abundance, and in a twin flame context that sequence points at a specific dynamic: the creative or expressive work you're engaged in right now is building toward real, tangible results, and those results are part of the twin flame timeline even when they don't feel directly connected. In separation, 38 is often a signal that what you're making or expressing — professionally, artistically, or personally — is the live form of the twin flame energy in this phase, and investing in it is investing in the connection. In reunion, 38 marks a generative phase where creative collaboration between you two has a practical dimension that's worth paying attention to — things are being made that have real-world weight.",
     manifestation:
       "38 manifests by actively engaging with a flowing creative channel — the practical move is continuing creative work today that's already bringing in real abundance, since this number's folklore treats that active engagement as what sustains the flow.",
   },
@@ -574,6 +576,8 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "48 runs from foundation to abundance in a twin flame context and tends to appear when the patient, structural work of a phase is about to produce something substantial. It's the number of groundwork paying off. In separation, 48 is encouragement that the unglamorous, consistent effort you've been putting into your own life — your stability, your practical foundations — is not separate from the twin flame work but is the form it's taking right now; the patience is productive, not just waiting. In reunion, 48 tends to surface when the relationship is moving into a phase of real-world co-creation — where the work both people have done independently is combining into something materially meaningful.",
     manifestation:
       "48 manifests by trusting existing foundation as sufficient to open the door — the practical move is walking through one real opportunity today without waiting to build more groundwork first, since this number's folklore treats that trust as what actually opens the abundance.",
   },

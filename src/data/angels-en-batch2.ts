@@ -108,6 +108,8 @@ export const EN_BATCH2_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "33 in a twin flame context carries more weight than plain 3 and tends to appear when the connection itself is functioning as a teaching dynamic — where both people are genuinely growing through encountering each other's perspectives and edges, not just enjoying each other. In reunion, 33 favors conversations that cover real ground — what you each believe, how you each make meaning — over comfort-seeking ones; the creative and philosophical exchange between you is what's alive at this frequency. In separation, 33 often signals that the person seeing it is currently the one being asked to do more conscious growth work than the other, and that that's not unfair — it's part of what 33 is tracking.",
     manifestation:
       "33 manifests through generosity rather than direct request — the specific technique tied to this number is giving something away (time, knowledge, comfort) as the move that opens space for what you want, rather than asking for it outright.",
   },
@@ -188,7 +190,7 @@ export const EN_BATCH2_NUMBERS: EnAngelNumber[] = [
     titleHook: "Trust What You Already Know",
     summary: "Your inner knowing is more reliable right now than outside opinions",
     meaning:
-      "717 sandwiches 1 (action, new beginnings) between two 7s (inner wisdom, spiritual insight), and that structure is the point: your intuition is meant to bookend and inform one specific decision or action, not replace thinking entirely. It's one of the numbers most tied to twin flame content in this niche specifically because it's read as a signal that your inner knowing about a connection is more accurate right now than outside opinions or logical pro-and-con lists are.",
+      "Two 7s (inner wisdom, spiritual insight) frame 1 (action, new beginnings), and that structure is the point: your intuition is meant to bookend and inform one specific decision or action, not replace thinking entirely. It's one of the numbers most tied to twin flame content in this niche specifically because it's read as a signal that your inner knowing about a connection is more accurate right now than outside opinions or logical pro-and-con lists are.",
     love: "Single: trust a quiet gut sense about someone over any checklist of qualifications. The specific feeling 717 points at is calm certainty, not excitement — if a connection feels peaceful rather than thrilling, that's not a red flag here, it's the sign. Couple: a decision you've been overthinking (moving forward, addressing a pattern, trusting them on something specific) is one where your honest gut answer is probably already the right one.",
     money: "A financial decision that looks fine on paper but feels wrong, or one that's hard to justify logically but feels right, both deserve extra weight on the feeling side right now — just distinguish a calm pull from an excited impulse before acting.",
     career: "An unconventional path is favored over the safe, expected one specifically because your instinct about it is unusually reliable right now. If you've had a quiet, persistent pull toward a different direction, that pull is the actual signal, more than the more obvious options in front of you.",

@@ -110,6 +110,8 @@ export const EN_BATCH3_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "44 in a twin flame context is the strongest stability-and-building signal in the mid-range set, and it doesn't appear around dramatic moments — it appears around quiet, consistent ones. In reunion, 44 tends to show up when the connection is in a phase of genuine but unglamorous construction: showing up regularly, building trust over time, doing the less exciting relational work that actually creates a durable dynamic. In separation, 44 is one of the more reassuring numbers because it confirms that the foundational elements of the connection are intact even without active contact — what's real between you isn't eroding, and the quiet work of your own life right now is part of what's holding that.",
     manifestation:
       "44 manifests through unnoticed consistency — small, repeated actions taken without needing credit for them build toward a goal more reliably than one big, visible effort, a gentler version of 444's compounding-effort mechanic.",
   },
@@ -144,6 +146,8 @@ export const EN_BATCH3_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "55 in a twin flame context signals a more significant and faster-moving shift than plain 5 does — it tends to appear when the configuration of the connection is actively changing, not just starting to shift. In reunion, 55 can mean the relationship is accelerating into a new phase, sometimes before either person feels fully ready — flexibility matters more than planning right now. In separation, 55 is worth paying attention to, because it often marks the moment a separation is either beginning to resolve or beginning to deepen; if you've been in a long, stable disconnection and 55 shows up, something in that status quo is about to change rather than continue.",
     manifestation:
       "55 manifests by releasing a repeated pattern rather than releasing a whole circumstance, a narrower version of 555's release mechanic. The practical move is identifying the specific habit that's blocking the goal and interrupting it deliberately, rather than waiting for external circumstances to change on their own.",
   },
@@ -332,7 +336,7 @@ export const EN_BATCH3_NUMBERS: EnAngelNumber[] = [
     titleHook: "Guided Toward Something Stable",
     summary: "Spiritual confirmation specifically around something built to last",
     meaning:
-      "747 sandwiches 4 (foundation, stability) between two 7s (spiritual insight, luck), which reverses 717's structure — instead of insight bookending action, here spiritual guidance is bookending something stable you're building. That structural difference is why 747 leans especially hard into twin flame content in this niche: it's read as spiritual confirmation specifically around something built to last, rather than confirmation about a single decision the way 717 is.",
+      "The outer 7s (spiritual insight, luck) hold 4 (foundation, stability), which reverses 717's structure — instead of insight bookending action, here spiritual guidance is bookending something stable you're building. That structural difference is why 747 leans especially hard into twin flame content in this niche: it's read as spiritual confirmation specifically around something built to last, rather than confirmation about a single decision the way 717 is.",
     love: "Single: a connection that feels both spiritually significant and practically stable, not just intense, is the one 747 is pointing at. Don't dismiss a calm, steady connection as less meaningful than an intense one. Couple: the relationship's foundation is being spiritually reinforced right now — a good stretch to deepen commitment to something already stable, rather than question it.",
     money: "A stable, long-term financial plan is being confirmed rather than a quick opportunity. 747 favors trusting a plan that's already sound over chasing something new that feels more exciting.",
     career: "A stable position or path is receiving unusually strong intuitive confirmation right now. Trust that the steady thing you're building is spiritually, not just practically, supported.",

@@ -38,6 +38,8 @@ export const EN_BATCH6_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "8888 in a twin flame context shows up at financial or material turning points that are connected — usually indirectly — to the twin flame dynamic itself, even when the link isn't obvious. This might be a career threshold, a shift in living situation, or a point where resources between two people start being practically relevant. In separation, 8888 is often a signal that the external-world work you're doing right now is the twin flame work — not a distraction from it — and that building material stability in yourself is the version of the work this phase is asking for. In reunion, 8888 tends to appear when the practical question of how two lives actually merge — financially, logistically — becomes real and worth treating seriously rather than deferring.",
     manifestation:
       "8888 manifests by widening the channels you're willing to receive through, rather than 888's single circulation loop — say yes to receiving from more than one source at once (a job and a side project and a gift, say) rather than expecting abundance to arrive through just one.",
   },
@@ -108,6 +110,8 @@ export const EN_BATCH6_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "0000 is the complete-reset signal, and in a twin flame context it tends to appear at a point where the previous chapter of the connection has genuinely closed — not just paused, but finished in the way that makes what came before it unavailable as a template for what comes next. In separation, 0000 asks you to resist the pull toward recreating the prior dynamic, even if reunion is coming; the clearing it signals is real, and working against it by trying to return to a familiar configuration is working against the number. In reunion, 0000 marks one of the rarer moments in a twin flame timeline — an actual new start rather than a continuation — and it favors approaching the other person without the accumulated assumptions of the previous chapters intact.",
     manifestation:
       "0000 manifests by amplifying whatever new belief you consciously choose to install, at a larger scale than 000's single-slate reset — the practical move is deliberately writing a new, more accurate belief to replace an old inherited one, since 0000's amplification works most powerfully right at the level of belief itself.",
   },

@@ -39,6 +39,8 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "The twin flame reading of 00 is about suspended state — a moment when the connection has genuinely cleared its previous shape but hasn't taken on a new one yet. It's less common than 0 and tends to appear during the kind of quiet that feels different from ordinary waiting: the connection isn't on hold, it's in between. In separation, the advice is to resist forcing a definition onto what's happening — the open, undetermined quality of 00 is the actual point, and working against it by demanding clarity too early tends to close possibilities rather than open them. In reunion, 00 marks a phase where neither person should arrive with a fixed script for how things are supposed to go; the connection is in a genuinely formative state.",
     manifestation:
       "00 manifests through simple, unforced rest — the practical move is letting a small pause be small, since this number's folklore treats over-interpreting a brief gap as more disruptive than the gap itself.",
   },
@@ -73,6 +75,8 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "200 combines the partnership frequency of 2 with the amplified openness of 00, and in a twin flame context it tends to appear when the connection is at a crossroads that requires genuine patience from both sides rather than one person pushing things forward. The 2 energy says the partnership dimension is real; the 00 says the form it's going to take is still genuinely open. In separation, 200 is a sign that whatever the next chapter of the connection looks like, it will require both people's readiness to actually begin — unilateral effort won't create what this number is pointing at. In reunion, 200 often surfaces at moments of real uncertainty about how the relationship is going to be structured going forward, and sitting with that uncertainty productively matters more than resolving it prematurely.",
     manifestation:
       "200 manifests by noticing and reinforcing a specific instance of ease rather than general optimism — the practical move is naming the one relationship or situation that's unusually harmonious right now and actively investing in it, since this number's folklore treats that specificity as what sustains the amplification.",
   },
@@ -395,6 +399,8 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "10000 is the largest new-beginning signal in this set — a single 1 pushed through quadruple amplification — and it appears rarely enough in a twin flame context that it's worth taking seriously when it does. It tends to mark a genuine discontinuity: not a chapter turning, but the whole book changing. In separation, 10000 usually means the prior version of the twin flame dynamic is not just paused but finished, and what comes next — if anything does — will be substantially different in structure, not just in feeling. In reunion, 10000 marks a connection that is effectively beginning from zero rather than resuming; the practical implication is to drop the established patterns entirely and treat the person in front of you as someone you're meeting under new conditions.",
     manifestation:
       "10000 manifests by matching vision to true scale — the practical move is writing the biggest honest version of the goal in front of you, since this number's folklore treats undersized vision, not lack of opportunity, as the main limit at this scale.",
   },
@@ -465,6 +471,8 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "7117 pairs insight with new beginnings in a specific order — 7 (inner knowing) on both ends, with two 1s (fresh start, individual momentum) at the center — and in a twin flame context it tends to appear when a genuine inner shift is about to change the external situation of the connection rather than the other way around. In separation, 7117 signals that something you've understood, or are about to understand, about yourself or the dynamic is what's going to move things — not a gesture, not a message, not a change in the other person. In reunion, 7117 marks a phase where both people's individual clarity about themselves is what's making a genuine new beginning possible, as opposed to external circumstances conspiring to push them together.",
     manifestation:
       "7117 manifests by trusting an entire new direction rather than a single decision — the practical move is naming the whole path your wisdom keeps confirming and committing to it broadly, since this number's folklore treats that scale of trust as what actually opens the new path.",
   },
@@ -679,6 +687,8 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "0011 pairs a cleared, open field (00) with the heightened intuition and new-beginning energy of 11, and the sequence matters: the clearing comes first. In a twin flame context, this tends to appear when a genuine fresh start in the connection is arriving precisely because something prior has been released — the 11 energy couldn't be available before the 00 clearing happened. In separation, seeing 0011 is often a sign that whatever you've been letting go of — a fixed idea about how reunion should look, a particular expectation, a version of the story — has cleared enough for something actually new to begin forming. In reunion, 0011 marks a phase where the connection is entering territory that wasn't available before, because both people have genuinely shed something that previously constrained it.",
     manifestation:
       "0011 manifests by capturing an intuitive hint before it's fully formed rather than waiting for clarity — the practical move is writing down a vague hunch exactly as unclear as it feels today, since this number's folklore treats early capture, not full understanding, as what preserves the insight.",
   },
@@ -713,6 +723,8 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "0022 pairs the complete clearing of 00 with the master-builder, long-term-vision energy of 22, and in a twin flame context that combination tends to appear when the next phase of the connection will require real, patient construction rather than a rapid return to familiar closeness. In separation, 0022 is asking for a quality of trust that goes beyond ordinary patience — not faith that reunion will happen soon, but faith that what's being cleared and built simultaneously is worth the pace it's moving at. In reunion, 0022 often marks the beginning of a phase where both people are quietly, consistently building something structural in the relationship — the kind of thing that doesn't feel dramatic while it's happening but turns out to have been the most important work.",
     manifestation:
       "0022 manifests by building structure from genuine blank space rather than adjusting an old one — the practical move is setting one new guideline for an area with no existing structure, since this number's folklore treats fresh construction, not adaptation, as the actual task here.",
   },

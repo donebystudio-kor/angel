@@ -112,6 +112,8 @@ export const EN_BATCH8_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "1414 alternates new beginning and foundation energy, and in a twin flame context the specific pattern it points at is the interior process of starting something that requires self-trust to sustain. It's not about what's being built externally — it's about the internal experience of beginning something and then having to locate the steadiness within yourself to continue it when novelty fades and real commitment is what's being asked. In separation, 1414 often appears when the person seeing it is doing exactly that: starting something meaningful in their own life and discovering that they have more interior stability than they previously credited themselves with. In reunion, 1414 marks a phase where both people are encountering, and navigating, the gap between the excitement of beginning and the quieter commitment that follows it.",
     manifestation:
       "1414 manifests by removing the hesitation gap between intention and action — the practical move is starting today on whatever you've been delaying for safety's sake, since this number's folklore treats the safety net as already built, not something still being constructed.",
   },
@@ -298,7 +300,7 @@ export const EN_BATCH8_NUMBERS: EnAngelNumber[] = [
     titleHook: "Abundance Around A Decision",
     summary: "A resourced, supported moment surrounding one specific new step",
     meaning:
-      "818 sandwiches 1 (new beginnings, action) between two 8s (abundance), a mirror structure that parallels 717's insight-sandwiching-action and 747's stability-sandwiching-foundation. Where those numbers confirm trust or steadiness around a decision, 818 confirms something more material: the resources to support a specific new step are already there, bracketing the decision on both sides.",
+      "1 (new beginnings, action), wrapped in 8 (abundance) on both sides, a mirror structure that parallels 717's insight-sandwiching-action and 747's stability-sandwiching-foundation. Where those numbers confirm trust or steadiness around a decision, 818 confirms something more material: the resources to support a specific new step are already there, bracketing the decision on both sides.",
     love: "Single: a new relationship or renewed effort at dating is well-supported by your current sense of abundance and self-worth, not scarcity or desperation. Couple: a shared financial step (a joint purchase, a shared plan) tied to relationship growth is well-supported right now.",
     career: "A specific career move, a new role, a negotiation, a pitch, is bracketed by real material support: the resources and reputation to back it up are already there on both sides of the decision.",
     money: "This favors one specific bold financial step (an investment, a purchase, a negotiation) rather than general abundance thinking — the resources to support that one decision are already in place.",
@@ -334,7 +336,7 @@ export const EN_BATCH8_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Calling Between Two Endings",
     summary: "A new sense of purpose emerging between two moments of completion",
     meaning:
-      "919 sandwiches 1 (new beginnings) between two 9s (completion), which is the reverse structure of 818's abundance-around-action pattern — here, completion brackets a new beginning, rather than abundance bracketing it. The practical read is specific: a genuine sense of purpose or calling tends to emerge in the space between one thing ending and the next one not yet fully begun, and 919 is the number for noticing it in that gap.",
+      "9 (completion) opens and closes around 1 (new beginnings), which is the reverse structure of 818's abundance-around-action pattern — here, completion brackets a new beginning, rather than abundance bracketing it. The practical read is specific: a genuine sense of purpose or calling tends to emerge in the space between one thing ending and the next one not yet fully begun, and 919 is the number for noticing it in that gap.",
     love: "Single: a clearer sense of what you actually want, not from a checklist but from a genuine sense of purpose, is emerging as an old chapter closes and before a new one starts. Couple: a renewed sense of shared purpose, not novelty, tends to define this stretch, especially after both of you have closed out an old dynamic together.",
     career: "A genuine calling, distinct from a simple next job, tends to surface here, specifically in the space after one role ends and before the next is fully defined. Pay attention to what pulls at you in that gap rather than rushing to fill it.",
     money: "A shift toward more purpose-driven financial choices, not just income maximizing, tends to define this stretch, particularly as one financial chapter closes.",

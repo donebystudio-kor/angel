@@ -73,6 +73,8 @@ export const EN_BATCH7_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "22222 is the farthest amplification of the partnership frequency in this number set, and it doesn't tend to appear during ordinary phases of a twin flame connection — it surfaces at threshold moments where the patience the dynamic has been asking for is about to be vindicated rather than prolonged indefinitely. In separation, 22222 asks for a quality of trust that isn't passive: actively holding the belief that the connection's timeline is real, even in the absence of any confirmation, because the scale of this number is proportional to the scale of what's being built. In reunion, 22222 tends to mark a phase where the depth and durability of the partnership becomes genuinely visible to both people — not a new feeling but a confirmed one.",
     manifestation:
       "22222 manifests by trusting the process completely rather than managing individual details — the practical move is releasing tight control over how things come together, since the folklore treats forced control as the main thing that disrupts harmony at this scale.",
   },
@@ -107,6 +109,8 @@ export const EN_BATCH7_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "33333 marks an unusually high point of creative resonance in a twin flame connection, and it tends to appear when both people's individual creative lives are more entangled than either realizes. The link isn't always obvious — it can be two people in entirely different creative fields who are nonetheless working through the same underlying themes at the same time without any coordination. In separation, 33333 is a signal to follow creative output aggressively right now, not as a distraction from the connection but as its most active expression. In reunion, this number marks a phase where making something together — anything, even a long conversation that produces real insight — operates at a different register than usual.",
     manifestation:
       "33333 manifests through fully mobilized, shared expression — the practical move is putting your message or work in front of the widest audience you reasonably can right now, since this number's folklore treats reach, not just sincerity, as part of what completes the manifestation at this scale.",
   },
@@ -141,6 +145,8 @@ export const EN_BATCH7_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "44444 in a twin flame context is less about what you're building externally and more about whether you actually trust yourself to hold something real when it arrives. The deepest work this number points at is internal architecture — the beliefs about your own worth, your own constancy, your own ability to stay present without collapsing or withdrawing when the connection intensifies. In separation, 44444 tends to surface when the primary obstacle to reunion is not timing or the other person's readiness but a gap in self-trust on your side. In reunion, it marks a phase where genuine solidity is being asked of both people — not performance of stability, but the real version of it, which requires having done the inner work rather than just deciding to appear steady.",
     manifestation:
       "44444 manifests by removing hesitation as the last blocker — the practical move is taking the bold action you've been delaying purely out of caution, since this number's folklore treats the remaining gap between intention and result as fear-based rather than circumstantial at this level of protection.",
   },
@@ -175,6 +181,8 @@ export const EN_BATCH7_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "55555 marks a rate of change in the twin flame dynamic that's genuinely unusual — not just a shift in the connection but a fundamental alteration in who both people are becoming, which is the underlying driver of any movement in the external situation. It tends to appear during stretches of life that feel chaotic or accelerated on multiple fronts at once, and in a twin flame context that acceleration is the work rather than a disruption of it. In separation, 55555 asks for real flexibility about what reunion could look like — the version you've been imagining may not be the version that's actually arriving. In reunion, 55555 marks a phase where the only strategy that works is adapting in real time rather than applying a template from the prior version of the connection.",
     manifestation:
       "55555 manifests by releasing an entire identity rather than a pattern, a circumstance, or several circumstances — the practical move is allowing who you are to change, not just what you have, since this number's folklore treats identity-level release as the actual mechanism at this scale.",
   },
@@ -209,6 +217,8 @@ export const EN_BATCH7_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "66666 in a twin flame context names something specific and usually uncomfortable: a long-running pattern of over-giving, over-caretaking, or shouldering disproportionate emotional weight that has become structural in the dynamic rather than situational. The amplification of the number is proportional to how long that pattern has been operating. In separation, the work 66666 is pointing at isn't about the other person — it's about understanding, in detail, what it cost you to maintain that dynamic, and whether you'd be willing to go back into the same arrangement. In reunion, 66666 is the number that asks whether the renegotiation of care — who holds what, who carries what — has actually happened or is just being assumed to have happened.",
     manifestation:
       "66666 manifests through a rebuilt system rather than a single insight or audit — the practical move is creating an actual, repeatable structure (a schedule, a budget, a boundary) rather than relying on willpower or awareness alone to maintain balance.",
   },
@@ -243,6 +253,8 @@ export const EN_BATCH7_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "77777 marks a stretch of the twin flame journey where the development is almost entirely inward, and the external situation of the connection is lagging well behind where both people actually are internally. It appears during long, quiet phases that look like stagnation from the outside but are, in practice, periods of sustained depth work. In separation, 77777 is one of the few numbers that genuinely asks you to stop checking external progress entirely and trust that what's happening at the inner level is real and has weight, even without any visible evidence. In reunion, 77777 marks a phase of unusual understanding between the two of you — not explained, not performed, just present — where the inward work of both people has caught them up to each other without requiring a dramatic external event to make it happen.",
     manifestation:
       "77777 manifests by trusting sharpened discernment over analysis — the practical move is making the decision your calm gut is already pointing to, rather than continuing to weigh pros and cons after the feeling has already resolved.",
   },
@@ -277,6 +289,8 @@ export const EN_BATCH7_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "88888 in a twin flame context is about energetic flow rather than material accumulation — it appears when something that has been held tightly, either by one person or the dynamic itself, is ready to move rather than stay fixed. The release of a fixed expectation, a long-held position, or a rigid idea of what the connection is supposed to look like creates the kind of circulation this number is pointing at. In separation, 88888 often marks the moment when letting go of a specific outcome — not the connection, but the particular form you've been insisting it take — is what actually allows things to move. In reunion, 88888 tends to appear when the relationship is crossing a threshold that requires both people to release the version of the connection that got them here in order to enter the version that's available now.",
     manifestation:
       "88888 manifests by acknowledging effort that's already been made rather than adding new effort — the practical move is listing and recognizing the real work you've discounted, since this number's folklore treats that recognition itself as what unlocks the harvest.",
   },
@@ -311,6 +325,8 @@ export const EN_BATCH7_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "99999 marks the fullest completion signal available in this number set, and in a twin flame context it tends to appear at transitions of such genuine depth that the word 'reunion' or 'separation' barely captures what's happening — what's shifting is the entire framework of how the connection has operated. In separation, 99999 is not a signal of abandonment but of genuine completion at a very fundamental level: a chapter has closed that cannot be revisited, and the next form of the connection, if it comes, will be built entirely on different premises. In reunion, 99999 marks a phase where both people have arrived at something that the earlier versions of themselves could not have sustained — the work was real, it was long, and this is what it produced.",
     manifestation:
       "99999 manifests through passive, natural release rather than deliberate clearing — the practical move is noticing what's already loosening its grip and letting it go, rather than actively working to release something the way 9999's runway-clearing asks.",
   },
@@ -345,6 +361,8 @@ export const EN_BATCH7_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "1313 alternates new beginning and creativity in a repeating loop, and in a twin flame context that cycling pattern tends to appear when the connection is in a genuinely generative phase — not moving toward a specific outcome but producing insight, expression, and forward momentum as a kind of ongoing mode. In separation, 1313 is one of the less anxious numbers to see: it suggests both people are independently creating and growing in ways that are feeding the connection rather than depleting it. In reunion, 1313 tends to mark a phase where the relationship feels unusually alive and inventive rather than settled — where new approaches, new conversations, and new ways of being together keep presenting themselves and are worth following rather than stabilizing away from.",
     manifestation:
       "1313 manifests through launching, not just expressing — the practical move is taking the first concrete action on a specific creative idea today, rather than continuing to sit with or refine it privately.",
   },

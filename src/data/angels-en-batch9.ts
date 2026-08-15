@@ -14,7 +14,7 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
     titleHook: "Facing A Genuinely New Self",
     summary: "New beginnings (1) bookending amplified potential (0) — a reinvention number",
     meaning:
-      "1001 sandwiches double 0 (amplified potential) between two 1s (new beginnings), a palindrome structure that reads as a full loop: starting, opening into wide-open possibility, and starting again on the other side of it. Unlike 1000, which favors one bold, specific venture, or 0101, which favors repeatable small restarts, 1001 is about a more complete kind of reinvention — meeting a genuinely different version of yourself on the other side of the potential in the middle, not just trying something new.",
+      "A doubled 0 (amplified potential) sits at the center of two 1s (new beginnings), a palindrome structure that reads as a full loop: starting, opening into wide-open possibility, and starting again on the other side of it. Unlike 1000, which favors one bold, specific venture, or 0101, which favors repeatable small restarts, 1001 is about a more complete kind of reinvention — meeting a genuinely different version of yourself on the other side of the potential in the middle, not just trying something new.",
     love: "Single: you may find yourself drawn to a completely different kind of person or approach to dating than before, which is a sign of real change rather than inconsistency. Couple: this favors both of you rediscovering each other as if meeting somewhat new versions of yourselves, especially after a significant shared change.",
     money: "A genuinely new financial identity, not just a new habit, is forming — how you think of yourself around money, not just what you do with it. This favors reflecting on who you're becoming financially, not only what you're doing differently.",
     career: "This marks a deeper professional reinvention than a role change — a shift in how you see your own capabilities and identity at work, not only your job title.",
@@ -50,7 +50,7 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
     titleHook: "An Infinite, Harmonious Cycle",
     summary: "Partnership and balance (2) bookending amplified potential (0) in a repeating loop",
     meaning:
-      "2002 sandwiches double 0 (amplified potential) between two 2s (balance, partnership), a palindrome that reads as harmony cycling continuously rather than reaching one endpoint. Unlike 222, which confirms patient progress toward a specific outcome, or 2222, which reassures invisible growth, 2002 describes an ongoing, self-sustaining rhythm of balance — less a destination and more a cycle that renews itself.",
+      "The outer 2s (balance, partnership) hold a double 0 (amplified potential), a palindrome that reads as harmony cycling continuously rather than reaching one endpoint. Unlike 222, which confirms patient progress toward a specific outcome, or 2222, which reassures invisible growth, 2002 describes an ongoing, self-sustaining rhythm of balance — less a destination and more a cycle that renews itself.",
     love: "Single: rather than looking for one perfect partner, this favors trusting an ongoing rhythm of give and take across your relationships and connections generally. Couple: an already-strong relationship's balance isn't a one-time achievement here but a renewing cycle — trust that the equilibrium you've built will keep regenerating itself through changes, not just hold static.",
     career: "Collaborative work here functions best as an ongoing rhythm rather than a single successful project — the value is in the sustained back-and-forth with colleagues or partners, not a single win.",
     money: "A joint financial arrangement (with a partner, a family member, a business) works best here as a sustained, renewing rhythm of give and take, not a one-time settlement.",
@@ -86,7 +86,7 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
     titleHook: "Your Creativity, Reflected Back",
     summary: "Doubled creative energy (3) bookended by new beginnings (1)",
     meaning:
-      "1331 sandwiches double 3 (creativity, expression) between two 1s (new beginnings), a palindrome that reads as a fresh start opening into amplified creative energy and returning to a new beginning on the other side. Unlike 3333, which describes sustained creative support in general, or 1313, which pushes you to launch one specific creative idea, 1331 is about creativity itself functioning as a mirror — what you create right now reflects, and reinforces, who you're becoming.",
+      "Two 1s (new beginnings) frame a doubled 3 (creativity, expression), a palindrome that reads as a fresh start opening into amplified creative energy and returning to a new beginning on the other side. Unlike 3333, which describes sustained creative support in general, or 1313, which pushes you to launch one specific creative idea, 1331 is about creativity itself functioning as a mirror — what you create right now reflects, and reinforces, who you're becoming.",
     love: "Single: creative self-expression, more than a specific dating strategy, is what's actually attracting the right kind of attention right now — let your genuine interests and quirks show rather than downplaying them. Couple: making something together, even something small and playful, reflects and strengthens where the relationship is actually headed right now.",
     career: "A creative project you're working on right now is likely to reflect, and shape, your next professional chapter more directly than usual — treat it as more than a side interest.",
     money: "Creative work you make right now may become a marker of a new financial direction, not just a one-off project. Notice if a specific creative effort is quietly becoming a bigger part of your income story.",
@@ -122,7 +122,7 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
     titleHook: "Trust Is Building A New Path",
     summary: "New beginnings (1) doubled and bookended by trust and partnership (2)",
     meaning:
-      "2112 sandwiches double 1 (new beginnings, intuition) between two 2s (trust, partnership), a palindrome where trust frames a fresh start on both sides. Unlike 1122, which pairs a full block of intuition with a full block of building, or 2121, which sequences balance before a new beginning, 2112 is about trust itself actively creating room for something new — the trust isn't a precondition to satisfy once, it's actively generating the new path as it goes.",
+      "A double 1 (new beginnings, intuition), wrapped in 2 (trust, partnership) on both sides, a palindrome where trust frames a fresh start on both sides. Unlike 1122, which pairs a full block of intuition with a full block of building, or 2121, which sequences balance before a new beginning, 2112 is about trust itself actively creating room for something new — the trust isn't a precondition to satisfy once, it's actively generating the new path as it goes.",
     love: "Single: trusting the process of dating, rather than needing certainty before opening up, is what's actually creating new opportunities right now. Couple: mutual trust is actively opening a new phase together, not simply supporting one that's already decided — the trust and the new direction are developing together.",
     career: "Trust between you and a colleague, mentor, or partner is actively creating a new professional path, not just enabling one that already exists. Lean into that developing trust rather than waiting for the path to be fully clear first.",
     money: "A financial partnership built on trust is actively opening new options as it develops, rather than trust simply being a requirement to unlock an already-fixed opportunity.",
@@ -302,7 +302,7 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
     titleHook: "Still Working On The Answer",
     summary: "A question that hasn't resolved yet, without anything having gone wrong",
     meaning:
-      "404 sandwiches 0 (potential, the unresolved middle) between two 4s (foundation, stability), a palindrome describing a stable situation with one open question still pending in the middle of it. Unlike 000's cleared blank slate or 4444's active reassurance, 404 is quieter: it simply says the answer to something specific isn't available yet, and that not-yet-resolved state is fine, not a sign anything has broken.",
+      "0 (potential, the unresolved middle) sits at the center of two 4s (foundation, stability), a palindrome describing a stable situation with one open question still pending in the middle of it. Unlike 000's cleared blank slate or 4444's active reassurance, 404 is quieter: it simply says the answer to something specific isn't available yet, and that not-yet-resolved state is fine, not a sign anything has broken.",
     love: "Single: a question about someone or about your own readiness may genuinely not have an answer yet, and that's fine to sit with rather than force a conclusion. Couple: an unresolved question in the relationship doesn't need to be forced to a resolution today — some things take longer to become clear, without anything being wrong in the meantime.",
     career: "A pending decision or unclear next step at work is genuinely still unresolved, not a sign you're missing something obvious. Give it the time it needs rather than forcing a premature answer.",
     money: "An open financial question, whether to invest, when to make a move, doesn't have a clear answer yet, and waiting a bit longer is a legitimate option, not avoidance.",
@@ -338,7 +338,7 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Door Opening Toward Freedom",
     summary: "Open potential (0) framing a change specifically toward independence",
     meaning:
-      "505 sandwiches 0 (open potential) between two 5s (change, freedom), a palindrome that reads as change opening outward on both sides rather than change alone. Unlike 55's personal-pattern-break or 555's major already-active shift, 505 is specifically about change aimed at freedom and independence — less about what's changing and more about the direction it's heading, toward more room to move, not just difference for its own sake.",
+      "5 (change, freedom) opens and closes around 0 (open potential), a palindrome that reads as change opening outward on both sides rather than change alone. Unlike 55's personal-pattern-break or 555's major already-active shift, 505 is specifically about change aimed at freedom and independence — less about what's changing and more about the direction it's heading, toward more room to move, not just difference for its own sake.",
     love: "Single: a shift toward more independence, not necessarily away from relationships but toward dating on your own terms, defines this stretch. Couple: this favors a change that gives both people more individual freedom within the relationship, rather than more restriction.",
     career: "A move toward more autonomy, more control over your schedule, your projects, or your direction, is what this change is actually aimed at, more than a specific new role.",
     money: "A financial change aimed specifically at independence, paying off a debt that limits your choices, building savings that create options, matters more here than growth for its own sake.",
@@ -374,7 +374,7 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
     titleHook: "Encouragement From The Masters",
     summary: "New beginnings (1) framed by creative, expressive support (3) on both sides",
     meaning:
-      "313 sandwiches 1 (new beginnings) between two 3s (creativity, expression, and in this tradition, ascended-master guidance), a palindrome reading as a new start actively encouraged and supported on both sides. Unlike 333, which confirms guidance is available generally, or 33333, the rare peak of that same support, 313 is more targeted: encouragement specifically aimed at one particular new beginning you're considering right now.",
+      "Two 3s (creativity, expression, and in this tradition, ascended-master guidance) frame 1 (new beginnings), a palindrome reading as a new start actively encouraged and supported on both sides. Unlike 333, which confirms guidance is available generally, or 33333, the rare peak of that same support, 313 is more targeted: encouragement specifically aimed at one particular new beginning you're considering right now.",
     love: "Single: a specific new step in your dating life, reaching out, trying something different, is specifically supported and encouraged right now, more than a general sense that things will work out. Couple: starting a specific new chapter together is well-encouraged, more than staying in the current pattern.",
     career: "A specific new professional step, applying, pitching, starting, has real support behind it right now. This favors acting on that particular idea rather than waiting for broader confirmation.",
     money: "A specific new financial step, starting an investment, launching a side project, is encouraged here, more than a general sense of financial optimism.",
@@ -410,7 +410,7 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
     titleHook: "Guidance Framing One Decision",
     summary: "One specific new step, protected and stabilized on both sides",
     meaning:
-      "414 sandwiches 1 (new beginnings, action) between two 4s (foundation, protection), a palindrome structure parallel to 717's insight-sandwich and 818's abundance-sandwich, but here the theme bracketing the action is stability itself. Unlike 1414, which repeats the '14' block to emphasize that hesitation, not risk, is the obstacle, 414 is about one single decision specifically framed by protection on both sides — a narrower, single-instance version of that same reassurance.",
+      "Two 4s (foundation, protection) frame 1 (new beginnings, action), a palindrome structure parallel to 717's insight-sandwich and 818's abundance-sandwich, but here the theme bracketing the action is stability itself. Unlike 1414, which repeats the '14' block to emphasize that hesitation, not risk, is the obstacle, 414 is about one single decision specifically framed by protection on both sides — a narrower, single-instance version of that same reassurance.",
     love: "Single: one specific step, reaching out to someone, having a particular conversation, is protected and supported on both sides right now, more than dating in general. Couple: one specific decision together (a commitment, a shared plan) is well-supported by the relationship's existing stability.",
     career: "One specific professional decision, not your whole career direction, is well-protected by your existing foundation right now. Focus on that particular choice rather than a broader life plan.",
     money: "One specific financial decision is well-supported by your existing stability. This favors acting on that one choice rather than waiting for a stronger overall financial position.",
@@ -446,7 +446,7 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
     titleHook: "The Door Change Opens",
     summary: "New beginnings (1) framed by change (5) on both sides",
     meaning:
-      "515 sandwiches 1 (new beginnings) between two 5s (change, freedom), a palindrome that reads as a new start emerging directly out of change and opening into further change on the other side. Unlike 414's protective sandwich, 515 doesn't offer reassurance so much as momentum — the message is less you're safe to start and more the door is already open, specifically because of the changes already underway.",
+      "1 (new beginnings) sits at the center of two 5s (change, freedom), a palindrome that reads as a new start emerging directly out of change and opening into further change on the other side. Unlike 414's protective sandwich, 515 doesn't offer reassurance so much as momentum — the message is less you're safe to start and more the door is already open, specifically because of the changes already underway.",
     love: "Single: a recent change in your life, not necessarily related to dating, may be exactly what's opening the door to a new connection. Notice the link rather than treating them as separate. Couple: a recent shift together is opening into a genuinely new phase, worth walking through actively rather than waiting for it to settle first.",
     career: "A recent professional change is directly opening a new opportunity, not a coincidence alongside it. This favors actively walking through the door rather than waiting for more stability first.",
     money: "A recent financial change is opening a new option worth pursuing now, while the door is actually open, rather than waiting for things to fully settle.",
@@ -616,6 +616,8 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "78 connects insight directly to material outcomes, and in a twin flame context it tends to appear at the point where the inner work — the genuine self-examination and growth — is about to produce visible, external results rather than remaining purely internal. In separation, 78 is a sign that the spiritual and psychological work of this phase is not abstract; it's building toward something concrete in your life and, indirectly, in the connection. In reunion, 78 tends to mark a specific moment when both people can feel that the inner growth they've each done is actually translating into a more functional, real-world version of their relationship — the gap between who you're becoming and how you're relating is closing.",
     manifestation:
       "78 manifests through straightforward translation of insight into result — the practical move is simply continuing whatever inner development is already producing visible progress, since this number's folklore treats the direct link between the two as the whole mechanism, without needing anything more elaborate.",
   },

@@ -36,6 +36,8 @@ export const EN_BATCH1_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "000 in a twin flame context is a softer version of 0000's reset energy — less total, but still pointing at a genuine clearing in the connection rather than just a pause in activity. It tends to appear during stretches of unusual quiet, where neither person is pushing anything and the dynamic seems suspended. In separation, 000 is less urgent than the bigger reset numbers; it's asking you to let the quiet be quiet rather than filling it with analysis, hope-management, or forced action. In reunion, 000 signals a phase of openness rather than momentum — a period where the connection isn't building toward anything specific yet, and both people being present without an agenda is more valuable than having a plan.",
     manifestation:
       "0 is the amplifier digit in numerology — it doesn't create energy, it multiplies whatever's already there. That's why 000 is the number most tied to a clean-slate style of manifestation: your intentions right now are landing with close to zero resistance, which means hopeful and anxious thoughts get amplified equally. The practical move is to set one specific, written intention within 24 hours of seeing 000, while the slate is genuinely blank, rather than defaulting to whatever worry happens to fill the silence first.",
   },
@@ -106,6 +108,8 @@ export const EN_BATCH1_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "333 tends to show up in twin flame contexts during periods when the connection is clearly spiritually active but not necessarily moving toward reunion in any visible way — it's the number that bridges inner experience and outer reality without resolving the gap cleanly. Seeing it repeatedly during separation usually means the creative or expressive work you're engaged in right now is the most active form of the connection, and that following that thread matters more than tracking the other person's timeline. In reunion, 333 often marks a phase where the relationship is genuinely generative — where conversations or shared experiences produce something that neither person could have reached alone — and staying in that generative frequency is what the number is reinforcing.",
     manifestation:
       "333 manifests through expression rather than silent intention, which is the opposite mechanic from 111. Saying a goal out loud to one specific person, or writing it somewhere public, is the actual lever here — the folklore reasoning is that 3 governs communication, so holding a 333-era intention silently tends to stall it rather than protect it.",
   },
@@ -284,6 +288,8 @@ export const EN_BATCH1_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "888 tends to appear in twin flame contexts right at the edge of a material shift — a point where the external circumstances of both people's lives are about to change in ways that will matter for the connection. It isn't usually about romantic timing specifically; it's more often about whether the practical conditions for a real, sustained reunion are being built or eroded. In separation, 888 is worth taking as a signal to focus real energy on external stability — career, finances, living situation — not because it's more important than the connection but because those conditions are part of what the twin flame timing is actually waiting on. In reunion, 888 signals that the co-creative or practical dimension of the relationship is ready to be engaged directly rather than left implicit.",
     manifestation:
       "888 is the number most associated with a flow style of manifestation, as opposed to 111's instant-thought style or 444's steady grind. The specific technique from this niche is to practice giving something away, money, time, or a resource, right when you want more of it, since 8's shape has no start or end point — its manifestation logic runs on circulation, not accumulation.",
   },

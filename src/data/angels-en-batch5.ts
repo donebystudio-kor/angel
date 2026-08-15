@@ -37,6 +37,8 @@ export const EN_BATCH5_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "66 in a twin flame context amplifies the care-and-imbalance signal of plain 6, and it tends to appear when a specific dynamic in the connection has been significantly uneven for a while rather than just momentarily. In reunion, 66 points directly at a pattern — usually one person consistently managing more anxiety, more planning, or more emotional caretaking than the other — and asks that it be addressed explicitly rather than just hoped to self-correct. In separation, 66 is one of the more important numbers to sit with honestly, because it tends to name the actual dynamic that made reunion difficult or that separation is surfacing: not just the fact of missing each other, but what was structurally off.",
     manifestation:
       "66 manifests through steady, repeated domestic care rather than a grand gesture — the folklore holds that consistently tending to the ordinary parts of home life, not a single dramatic investment, is what actually opens space for what you want here.",
   },
@@ -71,6 +73,8 @@ export const EN_BATCH5_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "The twin flame reading of 77 is almost always positive, which is rarer than people expect from a spiritual number. It tends to surface when both people in the connection are doing real inner work simultaneously — not coordinated, just running parallel — and the synchrony is genuine rather than manufactured. In separation, seeing 77 repeatedly is confirmation that the distance is being used well on both sides, even if you have no way of verifying that. In reunion, 77 often marks a phase where something unspoken between you is finally being understood without having to be explained — the attunement is working at a level that's ahead of the words.",
     manifestation:
       "77 manifests by confirming a decision already made rather than generating a new one — the practical move is recommitting to an intention you'd started to doubt, rather than replacing it with a new one.",
   },
@@ -141,6 +145,8 @@ export const EN_BATCH5_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "99 is close enough to full completion that it tends to create a specific kind of restlessness — the sense that something is almost done but the finish line isn't quite here yet. In a twin flame context, that restlessness usually means the inner work of a particular chapter is 90% complete and the remaining piece is the part you've been avoiding. In separation, 99 is worth taking seriously as a prompt to identify what's actually left unresolved — not in the connection, but in yourself — and finish it. In reunion, 99 often marks the last stretch of a long phase in the dynamic, where both people are close to completing something that has taken real time.",
     manifestation:
       "99 manifests by closing one specific chapter, not your whole life story — the practical move is naming and formally ending the one role or story that's actually finished, a narrower, more personal version of 999's broader runway-clearing mechanic.",
   },
@@ -211,6 +217,8 @@ export const EN_BATCH5_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "3333 carries far more creative weight than plain 333, and in a twin flame context it tends to show up when the connection is operating at an unusually generative, expressive frequency — sometimes before either person realizes it. In separation, the practical signal is that the creative work you're putting out right now is the live channel between you and the twin flame energy, more so than any direct form of contact or communication. In reunion, 3333 marks phases where the two of you produce something together — a conversation, a project, a shared vision — that has a different quality than what either person generates alone, and that difference is worth paying attention to.",
     manifestation:
       "3333 manifests through continuous, sustained expression rather than 333's single act of speaking something once — the practice here is ongoing: keep talking about, writing about, or making the thing you want, repeatedly, since this stretch specifically rewards sustained communication over a single statement.",
   },
@@ -317,6 +325,8 @@ export const EN_BATCH5_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "6666 in a twin flame context doesn't carry the negative connotations the number gets in other contexts — it's a care-and-values signal at full volume, pointing at a specific place where the dynamic has become significantly imbalanced over time. It tends to appear when one person's emotional, domestic, or practical output in the connection has far exceeded the other's for long enough that the gap has become structural rather than situational. In reunion, the honest work is naming that gap directly and agreeing on how it changes. In separation, 6666 often marks the moment when the person seeing it can finally articulate what the imbalance actually cost them — which is more useful than it sounds, because that clarity is what prevents the same dynamic from reassembling on reunion.",
     manifestation:
       "6666 manifests through a full rebalancing across several areas rather than a single correction — the practical move is the four-area audit itself; addressing the lowest-scoring area first tends to unstick the others as a byproduct.",
   },
@@ -351,6 +361,8 @@ export const EN_BATCH5_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "7777 is one of the least common numbers to appear in a twin flame context, and when it does it's usually during a stretch of time when both people have been doing sustained, unglamorous inner work for a while. It's less a signal that reunion is close and more a signal that something genuinely rare is happening in terms of mutual spiritual development — both people growing at a matched pace without coordinating it. In separation, 7777 is worth acknowledging without acting on; it's confirming a state, not calling for a change. In reunion, it marks a phase where the conversation between you can go deeper than it previously could, because both people have actually caught up to the level the connection has been trying to reach.",
     manifestation:
       "7777 manifests through trusting the flow of coincidences rather than forcing a specific outcome — the practical move is following the thread that keeps reappearing, a name, an idea, an opportunity, rather than pushing toward a plan that isn't naturally lining up right now.",
   },
