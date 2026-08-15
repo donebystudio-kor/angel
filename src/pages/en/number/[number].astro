@@ -43,14 +43,14 @@ const relatedAngels = relatedNums
 
 // ── Sections (meaning gets auto-links; other sections stay plain) ──
 const sections = [
-  { icon: "💜", title: "What It Means", linked: linkedMeaning },
-  { icon: "❤️", title: "Love", content: angel.love },
-  ...(angel.money ? [{ icon: "💰", title: "Money", content: angel.money }] : []),
-  { icon: "💼", title: "Career", content: angel.career },
-  ...(angel.twinflame ? [{ icon: "🔥", title: "Twin Flame", content: angel.twinflame }] : []),
-  ...(angel.manifestation ? [{ icon: "✨", title: "Manifestation", content: angel.manifestation }] : []),
-  { icon: "🔮", title: "Spiritual Message", content: angel.spiritual },
-  { icon: "⚡", title: "What To Do Now", content: angel.action },
+  { id: "meaning",       icon: "💜", title: "What It Means",     linked: linkedMeaning },
+  { id: "love",          icon: "❤️", title: "Love",              content: angel.love },
+  ...(angel.money        ? [{ id: "money",         icon: "💰", title: "Money",            content: angel.money }] : []),
+  { id: "career",        icon: "💼", title: "Career",            content: angel.career },
+  ...(angel.twinflame    ? [{ id: "twin-flame",    icon: "🔥", title: "Twin Flame",       content: angel.twinflame }] : []),
+  ...(angel.manifestation? [{ id: "manifestation", icon: "✨", title: "Manifestation",    content: angel.manifestation }] : []),
+  { id: "spiritual",     icon: "🔮", title: "Spiritual Message", content: angel.spiritual },
+  { id: "what-to-do",   icon: "⚡", title: "What To Do Now",   content: angel.action },
 ];
 
 const jsonLd = {
@@ -103,7 +103,7 @@ const faqJsonLd = angel.faq && angel.faq.length > 0 ? {
     <div class="space-y-6">
       {sections.map((s) => (
         <section class="bg-angel-card border border-angel-border rounded-2xl p-6">
-          <h2 class="text-lg font-bold text-angel-text mb-3">
+          <h2 id={s.id} class="text-lg font-bold text-angel-text mb-3">
             {s.icon} {s.title}
           </h2>
           {"linked" in s
@@ -116,7 +116,7 @@ const faqJsonLd = angel.faq && angel.faq.length > 0 ? {
 
     {linkedFaq && linkedFaq.length > 0 && (
       <section class="mt-8">
-        <h2 class="text-xl font-bold text-angel-text mb-4">❓ Frequently Asked Questions</h2>
+        <h2 id="faq" class="text-xl font-bold text-angel-text mb-4">❓ Frequently Asked Questions</h2>
         <div class="space-y-3">
           {linkedFaq.map((f) => (
             <details class="bg-angel-card border border-angel-border rounded-2xl p-5 group">

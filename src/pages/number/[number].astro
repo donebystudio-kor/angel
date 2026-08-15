@@ -51,12 +51,12 @@ const relatedAngels = relatedNums
   .filter(Boolean);
 
 const sections = [
-  { icon: "💜", title: "숫자의 의미", linked: linkedMeaning },
-  { icon: "❤️", title: "사랑과 연애", content: angel.love },
-  ...(angel.money ? [{ icon: "💰", title: "금전과 재물", content: angel.money }] : []),
-  { icon: "💼", title: "직업과 재정", content: angel.career },
-  { icon: "🔮", title: "영적 메시지", content: angel.spiritual },
-  { icon: "⚡", title: "지금 해야 할 것", content: angel.action },
+  { id: "meaning",   icon: "💜", title: "숫자의 의미",   linked: linkedMeaning },
+  { id: "love",      icon: "❤️", title: "사랑과 연애",   content: angel.love },
+  ...(angel.money ? [{ id: "money",    icon: "💰", title: "금전과 재물", content: angel.money }] : []),
+  { id: "career",    icon: "💼", title: "직업과 재정",   content: angel.career },
+  { id: "spiritual", icon: "🔮", title: "영적 메시지",   content: angel.spiritual },
+  { id: "what-to-do",icon: "⚡", title: "지금 해야 할 것", content: angel.action },
 ];
 
 const jsonLd = {
@@ -119,7 +119,7 @@ const faqJsonLd = angel.faq && angel.faq.length > 0 ? {
     <div class="space-y-6">
       {sections.map((s) => (
         <section class="bg-angel-card border border-angel-border rounded-2xl p-6">
-          <h2 class="text-lg font-bold text-angel-text mb-3">
+          <h2 id={s.id} class="text-lg font-bold text-angel-text mb-3">
             {s.icon} {s.title}
           </h2>
           {"linked" in s
@@ -133,7 +133,7 @@ const faqJsonLd = angel.faq && angel.faq.length > 0 ? {
     <!-- 숫자별 고유 FAQ -->
     {linkedFaq && linkedFaq.length > 0 && (
       <section class="mt-8">
-        <h2 class="text-xl font-bold text-angel-text mb-4">❓ 자주 묻는 질문</h2>
+        <h2 id="faq" class="text-xl font-bold text-angel-text mb-4">❓ 자주 묻는 질문</h2>
         <div class="space-y-3">
           {linkedFaq.map((f) => (
             <details class="bg-angel-card border border-angel-border rounded-2xl p-5 group">
