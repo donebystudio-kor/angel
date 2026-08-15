@@ -38,6 +38,8 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "1551 addresses the discomfort of twin flame uncertainty directly rather than softening it: the surrounding circumstances are genuinely in flux, and waiting for them to settle before trusting the connection is the wrong sequence. The trust this number points at isn't certainty about the outcome — it's the willingness to hold the connection's significance while everything else feels unstable. In separation, 1551 is a specific encouragement: you don't need things to calm down before extending genuine faith in where this is going. Trusting in motion, not from a settled place, is the form of trust this phase calls for.",
     manifestation:
       "1551 manifests by acting courageously inside ongoing change rather than waiting for calm — the practical move is taking one new step today despite the surrounding volatility, since this number's folklore treats that courage-in-motion, not stillness first, as what actually carries the new beginning forward.",
   },
@@ -108,6 +110,8 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Reunion with 3003 isn't picking up where things left off — it specifically marks a fresh start with no inherited template from how the connection previously worked. The timing it signals isn't just about both people being available; it's about both people having genuinely released the old version of the dynamic, the old roles, the old patterns that defined how it felt before. This means genuinely treating each interaction as what it is now rather than what it would have been. 3003 rewards curiosity about who you each are to each other at this moment, not who you were.",
     manifestation:
       "3003 manifests by treating a fresh effort as genuinely unconstrained rather than built on an old template — the practical move is starting one thing today with no imported rules attached, since this number's folklore treats that openness, not accumulated technique, as what makes the unfolding feel limitless.",
   },
@@ -142,6 +146,8 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "3443 offers reassurance to the part of you that suspects lightness, ease, or joy in connection might signal superficiality — that real, deep bonds are supposed to feel harder or more labored. They're not. The structural energy in 3443 (4s holding 3s) is specific: it says that creativity, expressiveness, and genuine ease are real building materials, not indicators that something important is missing. For twin flames, this distinction matters when self-doubt presents as criticism of the connection's quality. If it feels natural and joyful between you, that's information, not evidence of shallowness. Real depth and genuine lightness coexist regularly.",
     manifestation:
       "3443 manifests by recognizing joy as a real building material, not a side effect — the practical move is naming one thing built from genuine enjoyment and investing further in it today, since this number's folklore treats that joyful origin, not obligation, as what makes a foundation actually last.",
   },

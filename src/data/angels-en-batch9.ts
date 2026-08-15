@@ -40,6 +40,8 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "1001 gives the twin flame separation period a specific purpose: genuine reinvention — not just personal growth but a deeper encounter with a version of yourself that hasn't fully existed before. What you're becoming during this time is specifically what the connection, if it advances, will actually meet. In separation, 1001 is less a call to wait patiently and more a reminder that the reinvention underway is the point of this phase, not a side effect of it. Let yourself become genuinely new. That becoming is the work the separation is designed to do.",
     manifestation:
       "1001 manifests through identity change rather than a single stated want — the practical move is picturing who you're becoming, not just what you want to have, since this number's folklore treats the shift in self as the actual mechanism, with circumstances following from it.",
   },
@@ -110,6 +112,8 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "1331 suggests that the internal shifts you're making right now — patterns released, clarity developed, how you're seeing yourself and the connection differently — are already reflected in how the connection is quietly evolving, even without direct contact. This isn't mystical: it's the natural result of real inner work genuinely changing the dynamic. In reunion, 1331 marks the moment when those parallel shifts have produced enough visible change in each person that the new chapter can actually hold. The mirroring itself is the signal. Look for evidence in who you're becoming, not just in external events.",
     manifestation:
       "1331 manifests by treating creative output as a mirror of intention — the practical move is making something that reflects the specific outcome you want, since this number's folklore treats the created object or expression as a working model of the thing being manifested, not separate from it.",
   },

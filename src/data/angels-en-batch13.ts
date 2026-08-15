@@ -471,6 +471,8 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "171 addresses a specific kind of doubt that arises in twin flame connections — the question of whether what you feel is real, accurate, or just a story you're telling yourself. This number's answer is tied to your current self-belief: when confidence in yourself is solid, your read on the connection is reliable, because the two aren't actually separate. In separation, notice whether doubt about the connection spikes precisely when your self-trust dips — that pattern is usually more about you than about them. In reunion, the clarity you're feeling right now is genuinely trustworthy.",
     manifestation:
       "171 manifests by trusting self-belief as the source of clear instinct — the practical move is acting on one gut read today without first seeking outside confirmation, since this number's folklore treats that self-trust, not external validation, as what makes the instinct reliable.",
   },
@@ -505,6 +507,8 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "181 puts the pace of reconnection directly in your hands — not through waiting or watching for their move, but through the quality and consistency of the actions you take on your own behalf right now. The mirror structure here reflects the same principle back: what you do on one side of the connection registers on the other, even without visible confirmation. If contact has been quiet, 181 isn't asking you to reach out — it's asking whether your daily actions match the pace you want this connection to develop at. That alignment, chosen and practiced, is what shifts timing.",
     manifestation:
       "181 manifests through direct, self-initiated action rather than passive waiting — the practical move is taking one concrete step today that you initiate yourself, since this number's folklore treats personal agency, not sensed timing, as the actual mechanism here.",
   },
@@ -573,6 +577,8 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "When both people in a twin flame connection are separately grounded, the quality of communication between them changes noticeably — less reactive, more honest, more willing to say the actual thing. 343 points at that mutual calm as a meaningful indicator, not just a pleasant circumstance. In separation, check whether your expression around this connection is becoming calmer and more honest over time — that calming is a genuine readout of how the inner work is going, not just a sign of giving up or moving on. The clarity in expression is the evidence.",
     manifestation:
       "343 manifests by consciously crediting an existing foundation for current creative ease — the practical move is naming one piece of stability that's enabling a specific expression today and building on it deliberately, since this number's folklore treats that acknowledged link as what sustains the flourishing.",
   },
@@ -607,6 +613,8 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "1441 describes a specific kind of readiness: both people having developed enough inner stability independently that reunion can genuinely hold rather than simply peak and destabilize. The number's structure reflects this — doubled stability on either side — and the twin flame reading follows: two people who've built real individual ground create a sustainable connection rather than one that runs on intensity alone. In separation, this is both reassurance and a direction: keep building the inner stability that's genuinely yours, knowing the other person's parallel work is equally part of what makes reunion real and lasting.",
     manifestation:
       "1441 manifests by starting from trust in an already-solid foundation rather than waiting for guaranteed ease — the practical move is beginning one new thing today expecting to handle bumps along the way, since this number's folklore treats resilience, not a smooth path, as the actual promise here.",
   },
@@ -677,6 +685,8 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "6006 marks the quiet completion of an old home or family pattern — the kind that has been operating in the background, shaping the expectations each person brings to close relationships, often without either person recognizing its influence. For twin flames, this kind of pattern completing is significant: it changes what reunion would actually involve, because one or both people are no longer carrying the same implicit template into connection. 6006 doesn't ask you to force this release — it signals that the process is already underway. Your part is recognizing when a familiar pull toward an old dynamic is beginning to lose its grip.",
     manifestation:
       "6006 manifests by consciously closing an outdated home or family arrangement rather than maintaining it out of habit — the practical move is naming the specific chapter that's finished today and taking one step toward the different one ready to open, since this number's folklore treats that deliberate closing as what actually clears space.",
   },
@@ -711,6 +721,8 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "8118 marks reunion as built from existing abundance — from what each person has already accumulated, developed, and brought: self-understanding, resilience, practical wisdom, inner resources. The reconnection doesn't start from nothing; it's made from the material each person genuinely brings to it. In reunion, 8118 is a reminder to recognize what you've developed during this separation as real, valuable input to what's being rebuilt together, not just obstacles survived to get here. Take stock of what you've actually gained — that's the substance the new chapter is standing on.",
     manifestation:
       "8118 manifests by consciously starting from existing resources rather than from an assumed blank slate — the practical move is naming one specific resource you already have and using it deliberately in a new beginning today, since this number's folklore treats that existing foundation, not a fresh scarcity mindset, as what makes the start solid.",
   },

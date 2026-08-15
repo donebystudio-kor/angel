@@ -77,6 +77,8 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "6336 addresses a particular pattern in the person who has been withdrawing: the loss of playfulness as a relational mode. When the weight of the twin flame dynamic becomes primary — when everything about it feels significant, heavy, or high-stakes — connection becomes harder to sustain for the one already inclined toward distance. 6336 points at creative ease and levity as things the withdrawing person can deliberately reclaim, not as avoidance of depth but as re-entry into connection. One small move toward lightness — a creative expression, a moment of genuine humor, an unguarded exchange — can reset a withdrawal pattern that pressure and seriousness have been reinforcing.",
     manifestation:
       "6336 manifests by deliberately adding creative play to home life rather than treating it as optional — the practical move is one genuinely joyful, creative act at home today, since this number's folklore treats that specific ingredient, not general home maintenance, as what's currently needed.",
   },
@@ -111,6 +113,8 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "6446 redirects attention toward practical, external factors rather than spiritual narrative — specifically, what circumstances would actually need to be in place for this connection to work in a grounded, real-world way. In reunion, this means checking the actual fundamentals: logistics, life situations, whether both people's practical circumstances genuinely allow for what's being hoped for. In separation, 6446 invites an honest look at what would concretely need to be true for the connection to be workable. Getting clear on that is real, useful work — and it's more respectful of the connection than projecting significance onto timing alone.",
     manifestation:
       "6446 manifests through calm, periodic review rather than anxious vigilance or complacent avoidance — the practical move is checking one specific safety net today as routine maintenance, since this number's folklore treats that steady checkup, not worry, as what keeps the foundation genuinely solid.",
   },
@@ -145,6 +149,8 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "6556 speaks to the runner's core fear — that fully committing to the connection means sacrificing a kind of freedom or selfhood that can only be preserved by staying separate. This number's specific answer is that the freedom being sought is available within the connection, often through renegotiating the pace, the shape of closeness, or what commitment actually requires, rather than by escaping it entirely. In separation, 6556 is a prompt to look honestly at what's actually being run toward — because what the runner needs is more likely findable within the connection than beyond it.",
     manifestation:
       "6556 manifests by finding freedom inside structure rather than outside it — the practical move is identifying one piece of flexibility within a current duty and using it today, since this number's folklore treats that internal freedom, not escape, as what actually satisfies the need for change.",
   },
@@ -281,6 +287,8 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "7337 describes reunion timing that becomes readable through a specific signal: when both people's intuitive and creative lives begin operating in natural alignment, even without coordinated effort or awareness of each other's current state. This isn't about magical thinking — it's observable. If you find yourself drawn toward the same themes, the same creative territory, or the same questions that you sense are present for them, 7337 marks that as a timing indicator rather than coincidence. Reunion tends to arrive when the inner alignment is already present, not when the outer logistics get resolved. The alignment you're noticing internally is the more reliable signal.",
     manifestation:
       "7337 manifests by acting on intuition and creativity simultaneously rather than sequentially — the practical move is creating something today that draws on both at once, since this number's folklore treats that combined activation, not careful separation, as what makes the moment powerful.",
   },
@@ -521,6 +529,8 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "9449 sets the pace of the connection's next phase through the thoroughness of whatever you're completing right now, not through urgency or forcing forward movement. For twin flames in a closure or completion period — finishing something significant, ending something overdue, releasing something that has served its purpose — the quality of that completion directly shapes what the next opening looks like. 9449 doesn't reward rushing through to get to reunion faster; it rewards doing the completion properly. The care you bring to finishing what needs to be finished is not time lost — it's the actual preparation for what comes next. Thoroughness here is a pace-setting act.",
     manifestation:
       "9449 manifests through thorough, methodical completion followed by patient trust — the practical move is finishing one lingering detail properly today, then consciously waiting rather than forcing what comes next, since this number's folklore treats that sequence, not urgency, as what actually opens the following chapter.",
   },
@@ -691,6 +701,8 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "8228 captures the twin flame connection's specific quality as collaborative multiplication: each person's growth genuinely accelerating beyond what either sustains independently when the timing is right. In reunion, this shows up as a felt sense that your development is moving more clearly and in a direction you couldn't have navigated alone — that's real signal, not coincidence. In separation, the honest intuition that you'd both grow more effectively together than apart is worth noting: it's accurate information about the connection's actual nature, and it's part of what the separation itself is helping you to clarify. Trust the read.",
     manifestation:
       "8228 manifests by actively investing in a collaboration that's genuinely multiplying results — the practical move is contributing further to one specific partnership today, recognizing its multiplying effect explicitly, since this number's folklore treats that continued investment as what sustains the amplified abundance.",
   },

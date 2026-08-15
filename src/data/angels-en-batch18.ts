@@ -41,6 +41,8 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "4554 speaks directly to a fear that surfaces during twin flame separation: that the foundation isn't solid enough to hold through what's being asked of you. This number's answer is specific — the underlying stability is already there, and it's exactly what makes the current changes navigable rather than overwhelming. In separation, 4554 is a reminder that you're not facing transformation without ground beneath you. The changes are real; so is the foundation that makes them workable. Trust the ground that's already present, and the separation's next phase becomes considerably less formidable than it looks from here.",
     manifestation:
       "4554 manifests by trusting existing stability to absorb real change — the practical move is pursuing one significant change today without waiting for extra reassurance, since this number's folklore treats the already-solid foundation, not additional preparation, as what makes the change safe.",
   },
@@ -75,6 +77,8 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "4664 gently challenges the expectation that care in a twin flame connection should feel effortless — that if it requires sustained, deliberate effort, something must be wrong. The structure of 4664 holds care (6) inside stability (4s), and it says plainly: real care within real structure is sometimes demanding, and that demand isn't a failure signal. For twin flames, this becomes relevant when one or both people begin to pull back because the connection requires more than felt comfortable. 4664 suggests releasing the expectation of effortlessness rather than the connection itself. Sustained, chosen effort is often what the reunion phase actually requires, practically.",
     manifestation:
       "4664 manifests through structure rather than more raw effort — the practical move is building one concrete system today for an existing caregiving responsibility, since this number's folklore treats that organization, not increased effort alone, as what actually sustains the care.",
   },

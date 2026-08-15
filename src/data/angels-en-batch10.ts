@@ -569,6 +569,8 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "5005 carries a specific kind of reassurance in twin flame separation: the range of what's actually possible between you is wider than what either of you could see from before the separation began. The separation isn't eliminating options — it's expanding the field of what can happen next, beyond the script that existed before. In separation, 5005 is a gentle encouragement to hold the outcome loosely: the next chapter may look genuinely different from what you originally pictured, and that difference is likely an improvement, not a loss. Keep the possibilities open.",
     manifestation:
       "5005 manifests by holding multiple possibilities open rather than narrowing early — the practical move is listing more than one direction a current change could take before committing, since this number's folklore treats premature narrowing, not indecision, as the actual risk here.",
   },
@@ -711,6 +713,8 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "4455 reframes twin flame separation not as a problem to solve but as a phase that runs its natural course. The long-held stability of being apart — individual routines, inner development, separate lives maintained — has served its full purpose. Now the number describes that stability naturally giving way to the next movement, not because anything failed, but because it's simply accomplished what it was here to do. For those in a long, settled separation, 4455 tends to appear as the energy starts shifting organically — not from forcing, but from the separation having genuinely completed its arc.",
     manifestation:
       "4455 manifests by using existing stability as a launchpad for change rather than starting over — the practical move is identifying one part of a stable foundation worth carrying into the coming change, since this number's folklore treats continuity, not a clean break, as what makes the transition durable.",
   },

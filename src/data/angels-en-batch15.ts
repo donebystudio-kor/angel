@@ -40,6 +40,8 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "The changes happening in your own life right now — shifts in how you see yourself, how you move through the world, who you're becoming — are the actual preparation for what's next in this connection. This isn't a metaphor; the change is functional. In separation, 151 suggests the personal transformation underway is building something specific in you that makes a future chapter genuinely possible. In reunion, the unusual confidence you're bringing to the connection right now is traceable directly to what's been changing. Trust that source rather than attributing the clarity to luck.",
     manifestation:
       "151 manifests by consciously linking confidence to its actual source — the practical move is naming the specific change behind today's self-assurance, since this number's folklore treats that acknowledged connection as what deepens the confidence further.",
   },
@@ -108,6 +110,8 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "232 favors letting creative exchange — shared humor, ideas built back and forth, making something together — set the natural pace of the connection rather than forcing progress through deliberate communication strategies. In reunion, allow the creative chemistry to reestablish before pushing for heavier conversations; the lighter, more playful exchange is often what genuinely grounds what comes after. In separation, notice how much of what you miss is specifically that creative back-and-forth — it's an accurate signal of the bond's real quality, not just nostalgia for company. That specificity is worth paying attention to.",
     manifestation:
       "232 manifests by actively engaging in shared creative expression rather than assuming connection happens passively — the practical move is creating something together with someone today, since this number's folklore treats that shared creative act as what actually builds the bond.",
   },
@@ -142,6 +146,8 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "242 grounds certainty in what is already traceable rather than in predictions about what hasn't happened yet. For twin flames sitting with recurring doubt — wondering whether the connection is real, whether the timing is right, whether their own read is accurate — this number points toward a specific inventory: what has actually occurred between you, what felt true, what you've witnessed in yourself since this connection began. That concrete record, not your best-case hope or your worst-case fear, is the reliable base. Doubt tends to lose traction when it meets an accurate accounting of what's already real.",
     manifestation:
       "242 manifests by consciously trusting an existing foundation rather than second-guessing calm — the practical move is naming the specific foundation beneath a stable bond today and appreciating it directly, since this number's folklore treats that recognition as what reinforces the stability further.",
   },
@@ -350,6 +356,8 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "What 353 tracks is a gradual shift in how you're describing this connection — to yourself first, then outward. When expression becomes simpler and more accurate over time, that's a signal that internal clarity is solidifying, and internal clarity is what tends to precede real movement. If you've noticed your own internal narrative about the connection shifting from confused to plain, from circular to direct, that's not a small thing. For twin flames in any phase, the shift in expression registers before external circumstances shift — watch for it, and trust what it's telling you about where things are heading.",
     manifestation:
       "353 manifests by actively using the clarity change produces rather than waiting for stability first — the practical move is expressing one thing clearly today that a recent change has helped you understand better, since this number's folklore treats that active use, not delay, as what solidifies the new voice.",
   },
@@ -452,6 +460,8 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "383 asks a direct question about abundance: not whether you want more, but whether you're accurately naming what's already real. For twin flames, this applies to the connection itself — doubt often frames what exists as insufficient, uncertain, or not-quite-real. 383 challenges that framing by pointing at what has actually been experienced between you: the moments of recognition, the unusual resonance, the things that happened that ordinary explanations don't quite reach. Naming those things honestly — not inflated, not minimized — is different from optimism. It's accuracy, and accuracy is steadier ground than hope for navigating whatever phase you're in.",
     manifestation:
       "383 manifests by speaking existing abundance aloud rather than keeping it unvoiced — the practical move is saying one true thing today about value or resources you already have, since this number's folklore treats that spoken claim, not silent hoping for more, as what actually reinforces abundance.",
   },
@@ -554,6 +564,8 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "454 reframes twin flame inner work as something that happens inside turbulence rather than away from it. The stability being built right now — through navigating real change rather than retreating from it — is the actual work, not a break from the work. In separation, the fact that you're handling ongoing difficulty with increasing groundedness is genuine progress, not just endurance. You don't need a quiet, settled period to do the inner work; the stability you're developing by moving through the change is precisely what makes a future chapter viable rather than just hoped for.",
     manifestation:
       "454 manifests by recognizing stability-in-progress rather than waiting for change to conclude first — the practical move is naming one way today's navigation of a change is actively building foundation, since this number's folklore treats that in-process building, not a future settled state, as the real stability here.",
   },
@@ -588,6 +600,8 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "464 turns attention to the practical domestic and caregiving circumstances surrounding the connection, not as background noise but as actual contributing factors. For twin flames, the external situation — who is responsible for what, what capacity each person has, how stable or unstable their immediate home environment is — shapes what's possible at this moment more than feelings do. 464 doesn't frame these circumstances as obstacles to overcome; it frames them as real variables that inform timing. Understanding which practical factors are genuinely in play right now, on both sides, gives more traction than trying to push through those realities.",
     manifestation:
       "464 manifests by treating consistent caregiving as genuine foundation-building — the practical move is doing one deliberate act of home or family care today and recognizing its real substance, since this number's folklore treats that consistency, not visibility, as what actually builds lasting foundation.",
   },

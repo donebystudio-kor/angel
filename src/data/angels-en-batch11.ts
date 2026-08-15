@@ -39,6 +39,8 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "3113 points at a specific pressure point in the runner-chaser dynamic: the runner often has a genuine intuitive sense about the connection — something they actually feel or recognize — that hasn't been given any outward form. The dynamic tends not to shift until that impulse is expressed: a message, an honest acknowledgment, something that carries the weight of what's actually there. The chaser doesn't need to force anything in the meantime — what's needed is the impulse being honored on the other end, because the unexpressed knowing is what keeps the dynamic from moving.",
     manifestation:
       "3113 manifests by giving an intuitive impulse creative shape immediately — the practical move is expressing the specific instinct today, in words, art, or a plan, since this number's folklore treats the act of shaping as what completes the manifestation, more than the raw insight alone.",
   },
@@ -143,6 +145,8 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "4334 marks the stage of twin flame inner work where enough of the heavy processing has genuinely been completed that real lightness and joy can return — not as distraction from the work but as a direct product of it. In separation, this shows up as a gradually warming relationship with your own daily life and spiritual practice; if humor and play are returning naturally, 4334 suggests that's an accurate indicator of genuine progress in the inner work, not a sign of avoidance. The lightness itself is the evidence that something real has shifted.",
     manifestation:
       "4334 manifests by using existing stability as permission for joy rather than treating them as opposites — the practical move is doing one playful, creative thing today specifically because the foundation can hold it, since this number's folklore treats safety as the enabler of joy, not its obstacle.",
   },
@@ -281,6 +285,8 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "7007 describes a particular kind of readiness that shows up before reunion becomes possible — the kind that comes from a completed inner reset rather than from accumulated patience. The mirror structure here carries that clearly: what's been reflected inward through wisdom and deep reflection now begins to translate outward, and the timing of reunion tends to follow that translation rather than precede it. If this number appears while you're in a period of solitude or deep reflection, treat that as signal, not delay. The reset you're completing is the actual preparation, not something happening in between the real work.",
     manifestation:
       "7007 manifests by trusting wisdom to guide a full reset rather than forcing a quick new direction — the practical move is spending real reflective time before adopting a new belief, since this number's folklore treats that patience as what makes the reset durable.",
   },
@@ -349,6 +355,8 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "9009 marks an era-level completion in twin flame connections: not just one chapter or one pattern but an entire framework for understanding the connection — what it means, what it's for, where it's going — that has genuinely run its course. What's being called for isn't a small adjustment but a real release of that old interpretive structure. In separation, this is rarely comfortable: it asks you to let the familiar story of the connection go, without knowing yet what replaces it. That release is what makes room for what comes next, at a scale that genuinely matters.",
     manifestation:
       "9009 manifests by giving a large-scale ending its full due before filling the space it opens — the practical move is marking the era's conclusion deliberately today, since this number's folklore treats that acknowledgment as what makes room for something at an equally large scale next.",
   },

@@ -581,6 +581,8 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "5050 resists the framing of separation as the problem and reunion as the solution. For twin flames, this number describes the movement between togetherness and apartness as a working rhythm — purposeful on both ends, not a malfunction to correct. In active separation, 5050 suggests the space itself is serving something; pushing to collapse it prematurely tends to interrupt a process mid-cycle rather than advance it. In reunion, this number is less a finish line than a reminder that the rhythm continues: closeness and independent development will keep alternating, and that alternation is the design, not a residue of unresolved issues.",
     manifestation:
       "5050 manifests by engaging continuously with change's rhythm — the practical move is taking one small action today that flows with ongoing change, rather than waiting for a single defining shift, since this number's folklore treats that continuous engagement as what actually works with this rhythm.",
   },
@@ -615,6 +617,8 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "6060 in a twin flame context anchors attention back to care as an active, living signal — specifically, self-care. The steady rhythm of taking care of yourself during separation, maintaining warmth, rest, and nourishment without waiting for the other person's presence, broadcasts something real about the state of the connection. This isn't metaphor; it's practical: the version of yourself cultivated through that care is what reunion, if it comes, actually meets. 6060 doesn't ask you to wait. It asks you to tend to what's yours to tend, at a sustainable pace, and trust that the care itself is doing meaningful work regardless of what's happening on the other side.",
     manifestation:
       "6060 manifests by regularly engaging with an ongoing rhythm of care — the practical move is one small, consistent caring act today, since this number's folklore treats that regular engagement as what sustains the rhythm.",
   },
@@ -649,6 +653,8 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "7070 describes twin flame inner work as a rhythm rather than a project with a finish line — specifically, the cycle of gaining insight, sitting with it, and then gaining sharper insight as the previous understanding settles. In separation, this is the actual work: not a single revelation that resolves everything, but a sustained, unhurried cycle of deepening clarity. Each pass produces a clearer read on the connection, on personal patterns, on what actually happened. The insight doesn't accumulate in a straight line — it spirals, each loop slightly more accurate than the last. 7070 confirms that rhythm is active, productive, and worth continuing without forcing conclusions.",
     manifestation:
       "7070 manifests by regularly refreshing insight rather than relying on a single past realization — the practical move is checking in today with your current understanding of a specific question, since this number's folklore treats that regular renewal as what keeps the wisdom genuinely current.",
   },
@@ -683,6 +689,8 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "8080 addresses a particular form of doubt in twin flame connections: the fear that the bond requires constant active maintenance to stay real and will diminish if not tended every single day. This number's answer is specific — the connection flows more like a sustained current than a flame that needs constant stoking. Abundance here isn't material; it's about the depth of what's been built between two people genuinely oriented toward each other. In separation, the connection isn't leaking. In reunion, the sense that something is always abundant between you when you're aligned isn't inflation — it's an accurate read of what's actually there.",
     manifestation:
       "8080 manifests by steadily drawing on an ongoing flow — the practical move is engaging today with abundance that's already present and flowing, rather than waiting for a dramatic beginning, since this number's folklore treats that steady engagement as what makes the most of the flow.",
   },
@@ -717,6 +725,8 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "9090 reframes letting go as a rhythm rather than a single dramatic moment. In twin flame separations, the tendency is to look for the one conversation, the one decision, the one day when release finally happens. 9090 describes something steadier: a continuous sequence of small completions — releasing one expectation, then another, then the next — each one real and sufficient on its own, without requiring the whole connection to be resolved in a single act. In reunion, this number describes the same ongoing completion: each chapter closing cleanly as the next opens, without carrying old forms of the dynamic forward unnecessarily.",
     manifestation:
       "9090 manifests by honoring small completions as they happen — the practical move is recognizing and marking one small closure today, since this number's folklore treats that ongoing recognition, not waiting for one big ending, as what actually completes things well.",
   },
