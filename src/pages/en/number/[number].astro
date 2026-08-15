@@ -17,6 +17,13 @@ export function getStaticPaths() {
 
 const { angel } = Astro.props;
 const site = SITE_URL;
+
+// ── Component numbers ─────────────────────────────────────────────
+const EN_VALID = new Set(EN_ANGEL_NUMBERS.map((a) => a.number));
+const digits = [...new Set(angel.number.split(""))];
+const composingNumbers = EN_ANGEL_NUMBERS.filter(
+  (a) => digits.includes(a.number) && a.number !== angel.number && EN_VALID.has(a.number)
+);
 // Title template convention for all /en/ number pages — see the titleHook
 // doc comment in src/data/angels.en.ts for the authoring constraints.
 const title = `Angel Number ${angel.number} Meaning: ${angel.titleHook}`;
@@ -25,7 +32,6 @@ const url = `${site}/en/number/${angel.number}`;
 const koUrl = `${site}/number/${angel.number}`;
 
 // ── Auto-link setup ───────────────────────────────────────────────
-const EN_VALID = new Set(EN_ANGEL_NUMBERS.map((a) => a.number));
 const BASE_URL = "/en/number/";
 const counter = makeCounter(8);
 
@@ -126,6 +132,21 @@ const faqJsonLd = angel.faq && angel.faq.length > 0 ? {
               </summary>
               <p class="mt-3 text-angel-muted text-sm leading-relaxed" set:html={f.a} />
             </details>
+          ))}
+        </div>
+      </section>
+    )}
+
+    {composingNumbers.length > 0 && (
+      <section class="mt-8 bg-angel-card border border-angel-border rounded-2xl p-6">
+        <h2 class="text-lg font-bold text-angel-text mb-3">🔢 Component Numbers</h2>
+        <p class="text-angel-muted text-sm mb-4">The individual digits that make up {angel.number} and their energy:</p>
+        <div class="space-y-3">
+          {composingNumbers.map((c) => (
+            <a href={`/en/number/${c.number}`} class="block p-3 bg-angel-bg/50 rounded-xl hover:bg-angel-border/30 transition-colors">
+              <span class="font-bold text-angel-primary">{c.number}</span>
+              <span class="text-angel-muted text-sm ml-2">— {c.summary}</span>
+            </a>
           ))}
         </div>
       </section>

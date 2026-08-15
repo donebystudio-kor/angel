@@ -56,8 +56,32 @@ const canonicalUrl = canonical || new URL(Astro.url.pathname, site).href;
         <a href="/en/" class="flex items-center gap-2 font-bold text-lg text-angel-accent hover:text-angel-primary transition-colors">
           👼 AngelDone
         </a>
+        <nav class="hidden md:flex items-center gap-3 text-sm text-angel-muted">
+          <a href="/en/category/love" class="hover:text-angel-primary transition-colors">❤️ Love</a>
+          <a href="/en/category/money" class="hover:text-angel-primary transition-colors">💰 Money</a>
+          <a href="/en/category/career" class="hover:text-angel-primary transition-colors">💼 Career</a>
+          <a href="/en/category/spiritual" class="hover:text-angel-primary transition-colors">🔮 Spiritual</a>
+          <a href="/en/category/twinflame" class="hover:text-angel-primary transition-colors">🔥 Twin Flame</a>
+          <a href="/en/guide" class="hover:text-angel-primary transition-colors">📖 Guide</a>
+        </nav>
+        <button id="en-mobile-menu-btn" class="md:hidden text-angel-muted hover:text-angel-primary text-xl" aria-label="Open menu">☰</button>
       </div>
+      <nav id="en-mobile-menu" class="hidden md:hidden border-t border-angel-border bg-angel-card/95 backdrop-blur-sm">
+        <div class="max-w-4xl mx-auto px-4 py-3 flex flex-col gap-2 text-sm">
+          <a href="/en/category/love" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">❤️ Love</a>
+          <a href="/en/category/money" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">💰 Money</a>
+          <a href="/en/category/career" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">💼 Career</a>
+          <a href="/en/category/spiritual" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">🔮 Spiritual</a>
+          <a href="/en/category/twinflame" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">🔥 Twin Flame</a>
+          <a href="/en/guide" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">📖 Guide</a>
+        </div>
+      </nav>
     </header>
+    <script>
+      const btn = document.getElementById('en-mobile-menu-btn');
+      const menu = document.getElementById('en-mobile-menu');
+      btn?.addEventListener('click', () => menu?.classList.toggle('hidden'));
+    </script>
     <main>
       <slot />
     </main>
