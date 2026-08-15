@@ -26,3 +26,4 @@ pnpm-debug.log*
 .vercel
 .claude/
 dev.log
+.indexnow-last.json

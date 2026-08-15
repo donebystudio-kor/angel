@@ -23,7 +23,10 @@ const ROOT   = resolve(__dir, '..');
 const KEY          = '20597918a1d547699adf7a8861fc3656';
 const HOST         = 'angeldone.com';
 const KEY_LOCATION = `https://${HOST}/${KEY}.txt`;
-const ENDPOINT     = 'https://api.indexnow.org/indexnow';
+// Bing 직접 엔드포인트 사용 (Bing이 다른 IndexNow 파트너에 자동 전달).
+// api.indexnow.org 애그리게이터는 키 파일 최초 배포 직후 SiteVerificationNotCompleted(403)
+// 반환 가능 — 몇 시간 후 자동 해소되나, Bing 직접 제출이 더 빠르고 안정적.
+const ENDPOINT     = 'https://www.bing.com/indexnow';
 const SITEMAP_PATH = resolve(ROOT, 'dist/sitemap-0.xml');
 const GUARD_PATH   = resolve(ROOT, '.indexnow-last.json');
 const COOLDOWN_MS  = 60 * 60 * 1000; // 1시간
@@ -96,6 +99,7 @@ try {
 const status = res.status;
 const text   = await res.text().catch(() => '');
 
+// Bing은 성공 시 200, 일부 엔진은 202 반환
 if (status === 200 || status === 202) {
   console.log(`[IndexNow] ✅ 성공 — HTTP ${status}`);
   console.log(`           제출 URL 수: ${urls.length}`);
