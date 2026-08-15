@@ -13,7 +13,7 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
     titleHook: "Inspiration Turning Into Action",
     summary: "Creative energy framing and channeling a doubled intuitive spark into motion",
     meaning:
-      "3113 sandwiches double 1 (new beginnings, intuition) between two 3s (creativity, expression), which reverses 1331's bookend order. Where 1331 has new beginnings framing creativity, 3113 has creative energy itself framing and channeling an intensified intuitive impulse into actual, concrete action — inspiration isn't just felt here, it's actively given shape and direction.",
+      "Two 3s (creativity, expression) frame a doubled 1 (new beginnings, intuition), which reverses 1331's bookend order. Where 1331 has new beginnings framing creativity, 3113 has creative energy itself framing and channeling an intensified intuitive impulse into actual, concrete action — inspiration isn't just felt here, it's actively given shape and direction.",
     love: "Single: express interest or affection directly and creatively, a message, a gesture, rather than waiting passively for a feeling to resolve into certainty. Couple: a creative shared activity right now is what's actually channeling a strong mutual pull into something real and lasting, not just a passing spark.",
     career: "A burst of inspiration deserves to be shaped into an actual proposal or project today, rather than left as a loose idea. The creative framing is what turns the spark into something usable.",
     money: "A creative or intuitive financial idea is ready to be given real form, a plan, a pitch, a first step, rather than staying a hunch.",
@@ -83,7 +83,7 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Blueprint For Balance",
     summary: "A solid foundation making room for real, sustained balance in relationships",
     meaning:
-      "4224 sandwiches double 2 (balance, partnership) between two 4s (foundation, structure), describing a durable, structural blueprint for balance specifically, rather than 2244's side-by-side pairing of partnership and stability, or 2112's trust actively generating a new path. This is about the actual architecture of a balanced relationship or life, built deliberately rather than happening by accident.",
+      "Two 4s (foundation, structure) frame a doubled 2 (balance, partnership), describing a durable, structural blueprint for balance specifically, rather than 2244's side-by-side pairing of partnership and stability, or 2112's trust actively generating a new path. This is about the actual architecture of a balanced relationship or life, built deliberately rather than happening by accident.",
     love: "Single: look for a connection where balance feels structurally built in, shared responsibilities, mutual respect, rather than something you'd have to constantly negotiate. Couple: this favors deliberately designing how balance works in the relationship, who does what, how decisions get made, rather than leaving it to chance.",
     career: "A deliberately structured approach to work-life balance, actual rules and boundaries, not just intentions, is what actually holds here. Design the structure rather than hoping balance happens naturally.",
     money: "A deliberately structured financial balance, a real budget split, clear agreements with a partner, works better here than an informal, ad hoc approach.",
@@ -119,7 +119,7 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
     titleHook: "Joy Made Safe By Stability",
     summary: "A stable foundation making genuine room for creative joy to flourish",
     meaning:
-      "4334 sandwiches double 3 (creativity, joy, expression) between two 4s (foundation, stability), describing safety specifically enabling real creative joy, rather than 3344's side-by-side pairing of expression and stability, or 4114's safe intuitive awakening. This is about play and genuine joy becoming possible precisely because the foundation underneath is solid enough to not need protecting constantly.",
+      "The outer 4s (foundation, stability) hold a double 3 (creativity, joy, expression), describing safety specifically enabling real creative joy, rather than 3344's side-by-side pairing of expression and stability, or 4114's safe intuitive awakening. This is about play and genuine joy becoming possible precisely because the foundation underneath is solid enough to not need protecting constantly.",
     love: "Single: a relationship built on real stability makes room for genuine playfulness and joy, rather than the two being in tension. Look for that combination rather than choosing excitement over security. Couple: use the relationship's existing stability as permission to actually be playful and joyful together, rather than treating stability and fun as separate modes.",
     career: "A stable position gives you real room to bring creativity and genuine enjoyment into your work, rather than needing to stay purely serious to protect your standing.",
     money: "Financial stability creates real room for a bit of joyful, creative spending or a fun project, rather than needing every dollar to serve pure security.",
@@ -189,7 +189,7 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
     titleHook: "Trust Carrying You Through Change",
     summary: "Change made smoother specifically because trust and balance frame it",
     meaning:
-      "5225 sandwiches double 2 (trust, balance, partnership) between two 5s (change), describing a change process that goes more smoothly specifically because trust and partnership bracket it on both sides. Unlike 2121's sequential balance-then-new-beginning, or 4455's stability giving way to change, 5225 is about trust functioning as the actual container that makes an active change navigable, rather than something to figure out during the change itself.",
+      "Two 5s (change) frame a doubled 2 (trust, balance, partnership), describing a change process that goes more smoothly specifically because trust and partnership bracket it on both sides. Unlike 2121's sequential balance-then-new-beginning, or 4455's stability giving way to change, 5225 is about trust functioning as the actual container that makes an active change navigable, rather than something to figure out during the change itself.",
     love: "Single: dating through a period of personal change goes better when you trust the process and the people around you, rather than trying to navigate every shift entirely alone. Couple: a change you're going through together is genuinely made easier by the trust already built between you — lean on that trust actively rather than treating the change as a solo test for each of you.",
     career: "A professional change goes more smoothly when you trust colleagues, mentors, or the process itself, rather than trying to control every variable alone.",
     money: "A financial change is easier to navigate by trusting a plan or an advisor you've already vetted, rather than second-guessing every step alone.",
@@ -259,7 +259,7 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Complete Inner Reset",
     summary: "Insight framing the biggest possible reset of your inner potential",
     meaning:
-      "7007 sandwiches double 0 (unlimited potential) between two 7s (insight, spiritual wisdom), describing the most complete inner reset in this family — bigger in scale than 0707's amplified-intuition framing, since the doubled 0 here marks the reset itself as maximally open, bracketed by wisdom that ensures the reset is meaningful rather than directionless.",
+      "A double 0 (unlimited potential), wrapped in 7 (insight, spiritual wisdom) on both sides, describing the most complete inner reset in this family — bigger in scale than 0707's amplified-intuition framing, since the doubled 0 here marks the reset itself as maximally open, bracketed by wisdom that ensures the reset is meaningful rather than directionless.",
     love: "Single: your entire approach to understanding what you want in love may be resetting completely, guided by real insight rather than starting over blindly. Couple: this favors a full, honest reassessment of the relationship's deeper direction, guided by real wisdom rather than reacting to a single issue.",
     career: "A complete reset of your professional self-understanding, not just a role change, is unfolding here, guided by genuine insight about what actually matters to you.",
     money: "A full reset of your relationship to money and its meaning in your life, more than a single habit change, is underway, guided by real reflection rather than panic.",
@@ -329,7 +329,7 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
     titleHook: "Ending Into A Whole New Era",
     summary: "Completion framing the biggest possible reset into an entirely new era",
     meaning:
-      "9009 sandwiches double 0 (unlimited potential) between two 9s (completion), describing the largest-scale version of ending-into-beginning in this family — bigger than 0909's immediate meeting of ending and beginning. Where 0909 marks the two meeting directly without a gap, 9009 emphasizes the sheer scale of what opens up afterward: not just a next chapter, but room for an entirely new era, doubled for emphasis.",
+      "A doubled 0 (unlimited potential) sits at the center of two 9s (completion), describing the largest-scale version of ending-into-beginning in this family — bigger than 0909's immediate meeting of ending and beginning. Where 0909 marks the two meeting directly without a gap, 9009 emphasizes the sheer scale of what opens up afterward: not just a next chapter, but room for an entirely new era, doubled for emphasis.",
     love: "Single: an entire era of your romantic life, not one relationship or one pattern, is closing to make way for something genuinely new at scale. Couple: if the relationship itself is ending, this frames it as the completion of a full era deserving real acknowledgment, with equally significant room opening up next.",
     career: "An entire professional era, not one job, is concluding, making room for something at a genuinely new scale next. Give the ending its due weight before rushing into what's next.",
     money: "A whole financial era, not a single account or goal, is closing, opening substantial room for an entirely new approach next.",
@@ -685,7 +685,7 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Mission Shared, Not Solo",
     summary: "A meaningful purpose that's completed through trusted collaboration, not alone",
     meaning:
-      "92 combines 9 (completion, service) with 2 (trust, partnership), describing a meaningful purpose or mission specifically realized through collaboration with others, rather than through solo effort. Distinct from 919's calling-in-the-gap-between-endings, 92 is about the mechanism of completion itself: this particular purpose is designed to be finished together, not carried by one person alone.",
+      "92 links 9 (completion, service) with 2 (trust, partnership), describing a meaningful purpose or mission specifically realized through collaboration with others, rather than through solo effort. Distinct from 919's calling-in-the-gap-between-endings, 92 is about the mechanism of completion itself: this particular purpose is designed to be finished together, not carried by one person alone.",
     love: "Single: a meaningful shared purpose with a future partner, not just chemistry, is part of what this number points toward — someone to build a sense of mission with, not just spend time with. Couple: a shared sense of purpose, a cause, a project, a way of helping others together, deepens the relationship right now more than personal goals pursued in parallel.",
     career: "A meaningful professional goal is more achievable through genuine collaboration than solo effort right now — seek out the right partners rather than trying to accomplish it alone.",
     money: "A financially meaningful goal, one tied to helping others or serving a larger purpose, works better achieved with collaborators than pursued solo.",

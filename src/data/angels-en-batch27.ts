@@ -10,7 +10,7 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Seed Of Positivity Grows",
     summary: "A positive mindset you've already planted actively growing into something real",
     meaning:
-      "31 combines 3 (creativity, expression) with 1 (new beginnings), describing a seed of positivity you've already planted, a hopeful thought, an optimistic decision, that's actively growing into something real right now. This favors trusting that the growth is genuinely underway, worth tending rather than assuming it needs to be replanted or doubted.",
+      "31 links 3 (creativity, expression) with 1 (new beginnings), describing a seed of positivity you've already planted, a hopeful thought, an optimistic decision, that's actively growing into something real right now. This favors trusting that the growth is genuinely underway, worth tending rather than assuming it needs to be replanted or doubted.",
     love: "Single: a positive shift in how you think about love that you've already planted is actively growing right now — tend it rather than second-guessing whether it took root. Couple: a positive shift you've already planted in how you approach the relationship is actively growing right now — tend it together.",
     career: "A positive professional mindset you've already planted is actively growing right now — tend it rather than doubting whether it's really working.",
     money: "A positive financial mindset you've already planted is actively growing right now — tend it rather than second-guessing its progress.",
@@ -154,7 +154,7 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
     titleHook: "Fill Your Own Heart First",
     summary: "A call to prioritize filling your own emotional needs before expressing outward or giving to others",
     meaning:
-      "36 combines 3 (creativity, expression) with 6 (home, care, heart), describing a specific call to fill your own emotional cup first, before continuing to expressively give to others. This favors recognizing that your own heart's needs deserve attention now, not as selfishness but as necessary maintenance for sustainable giving.",
+      "36 weaves 3 (creativity, expression) together with 6 (home, care, heart), describing a specific call to fill your own emotional cup first, before continuing to expressively give to others. This favors recognizing that your own heart's needs deserve attention now, not as selfishness but as necessary maintenance for sustainable giving.",
     love: "Single: fill your own emotional needs first, through self-care and self-understanding, before continuing to pour outward into dating and connection. Couple: fill your own emotional cup first, so that what you give to the relationship comes from genuine fullness, not depletion.",
     career: "Fill your own professional and emotional needs first, so that what you give at work comes from genuine capacity, not depletion.",
     money: "Address your own emotional relationship with money first, before continuing to give financially to others from a depleted place.",
@@ -260,7 +260,7 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
     titleHook: "Time To Send Off The Old",
     summary: "A call to give something old a genuine, deliberate send-off rather than letting it just fade",
     meaning:
-      "39 combines 3 (creativity, expression) with 9 (completion), describing a specific call to give something old a genuine, deliberate send-off, an expressed farewell, rather than letting it simply fade away unacknowledged. This favors treating the release as worth actual ceremony or words, not just quiet abandonment.",
+      "39 joins 3 (creativity, expression) and 9 (completion), describing a specific call to give something old a genuine, deliberate send-off, an expressed farewell, rather than letting it simply fade away unacknowledged. This favors treating the release as worth actual ceremony or words, not just quiet abandonment.",
     love: "Single: give an old pattern or relationship a genuine, expressed send-off, words, a ritual, a clear acknowledgment, rather than letting it simply fade. Couple: give an old dynamic within the relationship a genuine, expressed send-off together, rather than letting it fade unaddressed.",
     career: "Give an old professional role or approach a genuine, expressed send-off, rather than letting it fade without acknowledgment.",
     money: "Give an old financial habit or arrangement a genuine, expressed send-off, rather than letting it fade without acknowledgment.",
@@ -440,7 +440,7 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Turning Point In Stability",
     summary: "A significant turning point happening specifically from within an already-stable base",
     meaning:
-      "45 combines 4 (foundation, stability) with 5 (change, turning point), describing a significant turning point that's happening specifically from within an already-stable base, rather than emerging from instability. This favors trusting that the foundation underneath this pivot is solid, making the turn safer than it might otherwise feel.",
+      "45 sets 4 (foundation, stability) next to 5 (change, turning point), describing a significant turning point that's happening specifically from within an already-stable base, rather than emerging from instability. This favors trusting that the foundation underneath this pivot is solid, making the turn safer than it might otherwise feel.",
     love: "Single: a significant turning point in your love life is happening from an already-stable place within you — trust that solid base beneath the pivot. Couple: a significant turning point for the relationship is happening from an already-stable place between you — trust that foundation beneath the change.",
     career: "A significant professional turning point is happening from an already-stable base — trust that solid ground beneath the pivot.",
     money: "A significant financial turning point is happening from an already-stable base — trust that foundation beneath the change.",
@@ -548,7 +548,7 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
     titleHook: "Abundance's Door Opens",
     summary: "A solid, existing foundation specifically opening a real door to material abundance now",
     meaning:
-      "48 combines 4 (foundation, stability) with 8 (abundance), describing a solid, already-existing foundation as what's specifically opening a real door to material abundance right now, rather than abundance requiring you to build a new foundation first. This favors trusting that your existing groundwork is sufficient to walk through this door.",
+      "48 blends 4 (foundation, stability) and 8 (abundance), describing a solid, already-existing foundation as what's specifically opening a real door to material abundance right now, rather than abundance requiring you to build a new foundation first. This favors trusting that your existing groundwork is sufficient to walk through this door.",
     love: "Single: your existing personal foundation is specifically opening a real door to abundance in your love life right now — trust that existing ground is sufficient. Couple: your existing shared foundation is specifically opening a real door to abundance for the relationship right now.",
     career: "Your existing professional foundation is specifically opening a real door to abundance right now — trust that existing ground is sufficient to walk through it.",
     money: "Your existing financial foundation is specifically opening a real door to abundance right now — trust that existing ground is sufficient.",
@@ -582,7 +582,7 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Turn Toward Your Mission",
     summary: "A grounded, stable pivot specifically toward a larger sense of purpose, worth trusting fully",
     meaning:
-      "49 combines 4 (foundation, stability) with 9 (completion, mission), describing a grounded, stable pivot that's specifically turning you toward a larger sense of purpose right now, distinct from a shaky or uncertain change of direction. This favors trusting that this particular turn is well-supported, worth committing to fully.",
+      "49 links 4 (foundation, stability) with 9 (completion, mission), describing a grounded, stable pivot that's specifically turning you toward a larger sense of purpose right now, distinct from a shaky or uncertain change of direction. This favors trusting that this particular turn is well-supported, worth committing to fully.",
     love: "Single: a grounded pivot in your love life is specifically turning you toward a relationship or approach that fits your larger purpose — trust that well-supported turn. Couple: a grounded pivot for the relationship is specifically turning toward a shared larger purpose — trust that well-supported turn together.",
     career: "A grounded professional pivot is specifically turning you toward your larger purpose — trust that well-supported turn rather than doubting it.",
     money: "A grounded financial pivot is specifically turning you toward supporting your larger purpose — trust that well-supported turn.",
@@ -618,7 +618,7 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Free New Flow Begins",
     summary: "A wide-open, amplified new flow of freedom and change beginning right now",
     meaning:
-      "50 combines 5 (change, freedom) with 0 (potential, amplification), describing a wide-open, amplified new flow of freedom and change that's beginning right now, distinct from a single, contained shift. This favors trusting that this is a genuinely expansive opening, worth engaging with a correspondingly open, unrestricted mindset.",
+      "50 weaves 5 (change, freedom) together with 0 (potential, amplification), describing a wide-open, amplified new flow of freedom and change that's beginning right now, distinct from a single, contained shift. This favors trusting that this is a genuinely expansive opening, worth engaging with a correspondingly open, unrestricted mindset.",
     love: "Single: a wide-open new flow of freedom is beginning in your love life right now, worth engaging with an equally open mindset rather than a narrow, cautious one. Couple: a wide-open new flow of freedom is beginning for the relationship right now, worth engaging with together openly.",
     career: "A wide-open new flow of professional freedom is beginning right now, worth engaging with an equally open, unrestricted mindset.",
     money: "A wide-open new flow of financial freedom is beginning right now, worth engaging with an equally open mindset rather than a narrow, cautious one.",
@@ -690,7 +690,7 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
     titleHook: "Trust Change, Move Forward",
     summary: "A direct call to trust a specific change enough to move forward within a relational context",
     meaning:
-      "52 combines 5 (change, freedom) with 2 (partnership, faith), describing a direct call to trust a specific change enough to move forward, particularly within a relationship or partnership context, rather than continuing to hesitate at the threshold. This favors recognizing that faith, more than more certainty, is what's needed to move forward here.",
+      "52 joins 5 (change, freedom) and 2 (partnership, faith), describing a direct call to trust a specific change enough to move forward, particularly within a relationship or partnership context, rather than continuing to hesitate at the threshold. This favors recognizing that faith, more than more certainty, is what's needed to move forward here.",
     love: "Single: trust a change happening in a specific connection enough to move forward with it, rather than continuing to hesitate at the threshold. Couple: trust a change happening within the relationship enough to move forward together, rather than continuing to hesitate.",
     career: "Trust a change happening within a professional partnership enough to move forward with it, rather than continuing to hesitate.",
     money: "Trust a change happening within a financial partnership enough to move forward with it, rather than continuing to hesitate for more certainty.",

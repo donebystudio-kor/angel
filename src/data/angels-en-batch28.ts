@@ -15,7 +15,7 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Master Leads This Change",
     summary: "A significant change specifically guided by higher wisdom, not left to chance",
     meaning:
-      "53 combines 5 (change, freedom) with 3 (creativity, expression, traditionally linked to ascended-master energy), describing a significant change that's specifically being guided by higher wisdom right now, rather than unfolding randomly. This favors trusting that the change has real, wise direction behind it, worth following rather than resisting out of uncertainty.",
+      "53 sets 5 (change, freedom) next to 3 (creativity, expression, traditionally linked to ascended-master energy), describing a significant change that's specifically being guided by higher wisdom right now, rather than unfolding randomly. This favors trusting that the change has real, wise direction behind it, worth following rather than resisting out of uncertainty.",
     love: "Single: a change in your love life is being guided by real wisdom, not left to chance — trust that direction rather than resisting out of uncertainty. Couple: a change moving through the relationship is being guided by real wisdom, worth trusting together rather than resisting.",
     career: "A professional change is being guided by real wisdom, not left to chance — trust that direction rather than resisting out of uncertainty.",
     money: "A financial change is being guided by real wisdom, not left to chance — trust that direction.",
@@ -123,7 +123,7 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     titleHook: "Intuition Is Leading This Change",
     summary: "A specific change actively being led by your own intuition, worth trusting as the navigator",
     meaning:
-      "57 combines 5 (change, freedom) with 7 (insight, intuition), describing a specific change that's actively being led by your own intuition right now, worth trusting as the actual navigator of the shift. This favors recognizing that your gut, more than external logic, is steering this particular change well.",
+      "57 blends 5 (change, freedom) and 7 (insight, intuition), describing a specific change that's actively being led by your own intuition right now, worth trusting as the actual navigator of the shift. This favors recognizing that your gut, more than external logic, is steering this particular change well.",
     love: "Single: your intuition is actively leading a change in how you approach dating right now — trust it as the navigator rather than deferring to external logic alone. Couple: your shared intuition is actively leading a change for the relationship right now — trust it as the navigator.",
     career: "Your intuition is actively leading a professional change right now — trust it as the navigator rather than deferring to external logic alone.",
     money: "Your intuition is actively leading a financial change right now — trust it as the navigator.",
@@ -159,7 +159,7 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     titleHook: "An Abundant Transition Ahead",
     summary: "A transition currently underway specifically leading toward greater material abundance",
     meaning:
-      "58 combines 5 (change, freedom) with 8 (abundance), describing a transition currently underway as what's specifically leading toward greater material abundance, distinct from 85's more general framing of a favorable financial wind. This favors trusting that the transition itself, even if uncomfortable in the moment, is genuinely heading somewhere abundant.",
+      "58 links 5 (change, freedom) with 8 (abundance), describing a transition currently underway as what's specifically leading toward greater material abundance, distinct from 85's more general framing of a favorable financial wind. This favors trusting that the transition itself, even if uncomfortable in the moment, is genuinely heading somewhere abundant.",
     love: "Single: a transition you're navigating is specifically leading toward greater abundance in your love life, worth trusting even if the transition itself feels uncomfortable right now. Couple: a transition you're navigating together is specifically leading toward greater shared abundance.",
     career: "A professional transition you're navigating is specifically leading toward greater material abundance — trust that direction even if the transition itself is uncomfortable.",
     money: "A financial transition you're navigating is specifically leading toward greater abundance — trust that direction even if the process feels uncomfortable right now.",
@@ -231,7 +231,7 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     titleHook: "A New Door Opens At Home",
     summary: "A genuinely new door specifically opening within home or family life right now",
     meaning:
-      "61 combines 6 (home, care) with 1 (new beginnings), describing a genuinely new door that's specifically opening within home or family life right now, worth actively walking through rather than assuming home life stays static. This favors recognizing fresh possibility specifically in the domestic sphere.",
+      "61 weaves 6 (home, care) together with 1 (new beginnings), describing a genuinely new door that's specifically opening within home or family life right now, worth actively walking through rather than assuming home life stays static. This favors recognizing fresh possibility specifically in the domestic sphere.",
     love: "Single: a genuinely new door is opening in your home or family life right now, worth walking through actively. Couple: a genuinely new door is opening in your shared home life right now, worth walking through together.",
     career: "If your work touches home life, a genuinely new door is opening there right now, worth walking through actively.",
     money: "A genuinely new door is opening in household finances right now, worth walking through actively.",
@@ -267,7 +267,7 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     titleHook: "Faith While You Wait",
     summary: "A specific season of waiting that specifically calls for genuine faith, not passive worry",
     meaning:
-      "62 combines 6 (home, care) with 2 (partnership, faith), describing a specific season of waiting, for a relationship to develop, for home circumstances to settle, that specifically calls for genuine faith rather than passive worry. This favors trusting the wait actively, through faith, rather than experiencing it as empty, anxious time.",
+      "62 joins 6 (home, care) and 2 (partnership, faith), describing a specific season of waiting, for a relationship to develop, for home circumstances to settle, that specifically calls for genuine faith rather than passive worry. This favors trusting the wait actively, through faith, rather than experiencing it as empty, anxious time.",
     love: "Single: a season of waiting for the right connection specifically calls for genuine faith, not passive worry — trust the wait actively. Couple: a season of waiting for the relationship to reach its next stage specifically calls for genuine, shared faith.",
     career: "A season of waiting for a professional opportunity related to home or stability specifically calls for genuine faith, not passive worry.",
     money: "A season of waiting for household financial circumstances to settle specifically calls for genuine faith, not passive worry.",
@@ -303,7 +303,7 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Small, Real Miracle",
     summary: "A small, ordinary moment in daily life carrying genuine, real significance worth noticing",
     meaning:
-      "63 combines 6 (home, care) with 3 (creativity, expression), describing a small, ordinary moment in daily home life that carries genuine, real significance, worth actively noticing rather than passing over as unremarkable. This favors recognizing that meaningful moments don't have to be dramatic to be real.",
+      "63 sets 6 (home, care) next to 3 (creativity, expression), describing a small, ordinary moment in daily home life that carries genuine, real significance, worth actively noticing rather than passing over as unremarkable. This favors recognizing that meaningful moments don't have to be dramatic to be real.",
     love: "Single: a small, ordinary moment in your daily life carries real significance for your love life right now — notice it rather than only watching for something dramatic. Couple: a small, ordinary daily moment between you carries real significance right now — notice and appreciate it.",
     career: "A small, ordinary professional moment carries real significance right now — notice it rather than only watching for something dramatic.",
     money: "A small, ordinary financial moment or decision carries real significance right now — notice it rather than dismissing it as too minor to matter.",
@@ -447,7 +447,7 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     titleHook: "Abundance Knocks At Home",
     summary: "A specific opportunity for abundance arriving through home or family life, worth answering",
     meaning:
-      "68 combines 6 (home, care) with 8 (abundance), describing a specific opportunity for material abundance that's arriving through home or family life right now, worth answering promptly rather than overlooking it because it doesn't look like a typical financial opportunity. This favors recognizing abundance can arrive through domestic channels, not just professional ones.",
+      "68 blends 6 (home, care) and 8 (abundance), describing a specific opportunity for material abundance that's arriving through home or family life right now, worth answering promptly rather than overlooking it because it doesn't look like a typical financial opportunity. This favors recognizing abundance can arrive through domestic channels, not just professional ones.",
     love: "Single: an opportunity for real abundance is arriving through your home or family life right now — answer it rather than overlooking it. Couple: an opportunity for shared abundance is arriving through home or family life right now — answer it together.",
     career: "If your career touches home life, a real opportunity for abundance is arriving through that channel right now.",
     money: "A real financial opportunity is arriving through home or family life right now, worth answering promptly.",

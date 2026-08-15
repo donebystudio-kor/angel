@@ -403,7 +403,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Gift Hidden In Change",
     summary: "Creative growth folded quietly into a period of change",
     meaning:
-      "13 combines 1 (new beginnings) with 3 (creativity, expression), describing a gift, often creative or expressive, quietly developing inside a period of change rather than separate from it. In Western culture, the number 13 carries an old, unrelated superstition about bad luck; this reading has nothing to do with that and treats 13 as an ordinary combination of new-beginning and creative energy.",
+      "13 sets 1 (new beginnings) next to 3 (creativity, expression), describing a gift, often creative or expressive, quietly developing inside a period of change rather than separate from it. In Western culture, the number 13 carries an old, unrelated superstition about bad luck; this reading has nothing to do with that and treats 13 as an ordinary combination of new-beginning and creative energy.",
     love: "Single: a period of change in your dating life is quietly developing a creative or expressive gift, a better sense of what you actually want to say, that you'll only notice in hindsight. Couple: a change you're going through together is quietly developing a positive, creative capacity between you, worth noticing rather than only focusing on the disruption.",
     career: "A period of professional change is quietly developing a creative skill or capacity you'll recognize more clearly once the change settles.",
     money: "A financial change is quietly developing better creative resourcefulness around money, worth recognizing rather than only focusing on the instability.",

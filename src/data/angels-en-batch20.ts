@@ -49,7 +49,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     titleHook: "Wisdom Leads A Fresh Start",
     summary: "Genuine insight and understanding specifically leading you into a new beginning",
     meaning:
-      "71 combines 7 (insight, wisdom) with 1 (new beginnings), describing a new beginning that's specifically being led by genuine understanding, rather than impulse or circumstance alone. This favors trusting that the insight you've already gained is sufficient to start something new with real confidence, not more analysis before beginning.",
+      "71 links 7 (insight, wisdom) with 1 (new beginnings), describing a new beginning that's specifically being led by genuine understanding, rather than impulse or circumstance alone. This favors trusting that the insight you've already gained is sufficient to start something new with real confidence, not more analysis before beginning.",
     love: "Single: the understanding you've gained about what you actually want is specifically what's leading you into a new, wiser approach to dating — trust that insight as sufficient to begin. Couple: genuine understanding you've reached together is specifically what's leading the relationship into a new, wiser stage.",
     career: "Genuine professional insight you've gained is specifically what's leading you into a new direction — trust that understanding as sufficient to begin, rather than needing more analysis first.",
     money: "Genuine financial insight you've gained is specifically what's leading you into a wiser new approach — trust that understanding as sufficient to act on.",
@@ -85,7 +85,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     titleHook: "The Power Of Quiet Certainty",
     summary: "A calm, settled confidence — not loud assertion — quietly carrying real power right now",
     meaning:
-      "72 combines 7 (insight, wisdom) with 2 (partnership, balance), describing a quiet, settled certainty, more calm confidence than loud assertion, that's carrying real power in a relationship or decision right now. This favors trusting the quiet version of confidence, the one that doesn't need to prove itself loudly, as genuinely sufficient.",
+      "72 weaves 7 (insight, wisdom) together with 2 (partnership, balance), describing a quiet, settled certainty, more calm confidence than loud assertion, that's carrying real power in a relationship or decision right now. This favors trusting the quiet version of confidence, the one that doesn't need to prove itself loudly, as genuinely sufficient.",
     love: "Single: your quiet, settled confidence about what you want, more than any loud declaration, is what's genuinely powerful in how you're approaching connection right now. Couple: a quiet, settled certainty about the relationship, held calmly rather than announced loudly, is what's genuinely stabilizing things between you right now.",
     career: "Your quiet, settled confidence in a professional situation, more than loud assertion, is what's genuinely carrying weight right now — trust the calm version of certainty.",
     money: "A quiet, settled confidence about a financial decision, rather than loud conviction, is what's genuinely reliable here — trust the calm certainty.",
@@ -121,7 +121,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Pour Of Pure Inspiration",
     summary: "A specific, active period of inspiration pouring in, worth capturing while it's flowing",
     meaning:
-      "73 combines 7 (insight, wisdom) with 3 (creativity, expression), describing a specific, active period where inspiration is pouring in more freely than usual, worth capturing while it's flowing rather than assuming it will keep arriving at this rate indefinitely. This favors active capture, writing things down, sketching, recording ideas, over passive appreciation of the inspired feeling.",
+      "73 joins 7 (insight, wisdom) and 3 (creativity, expression), describing a specific, active period where inspiration is pouring in more freely than usual, worth capturing while it's flowing rather than assuming it will keep arriving at this rate indefinitely. This favors active capture, writing things down, sketching, recording ideas, over passive appreciation of the inspired feeling.",
     love: "Single: inspired ideas about how to express your feelings or approach dating are pouring in right now — capture them while the inspiration is flowing rather than letting them slip by. Couple: inspired ideas about deepening the relationship are pouring in for one or both of you right now — capture and share them while the inspiration is active.",
     career: "Inspired professional ideas are pouring in more freely than usual right now — capture them actively rather than assuming they'll keep coming at this rate.",
     money: "Inspired financial ideas are pouring in right now — capture them actively while the inspiration flows, rather than waiting to develop them fully first.",
@@ -157,7 +157,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     titleHook: "Persistence Shapes The Fruit",
     summary: "Steady, consistent effort over time specifically shaping the result you're now seeing",
     meaning:
-      "74 combines 7 (insight, wisdom) with 4 (foundation, stability), describing a result that's been specifically shaped by steady, consistent effort applied over time, rather than a sudden success. This favors recognizing your own persistence as the actual cause of what's now taking form, worth crediting rather than attributing to luck or circumstance.",
+      "74 sets 7 (insight, wisdom) next to 4 (foundation, stability), describing a result that's been specifically shaped by steady, consistent effort applied over time, rather than a sudden success. This favors recognizing your own persistence as the actual cause of what's now taking form, worth crediting rather than attributing to luck or circumstance.",
     love: "Single: the steady, consistent effort you've put into understanding yourself and what you want is specifically what's shaping a more mature approach to dating now — credit your own persistence. Couple: the steady, consistent effort you've both put in over time is specifically what's shaping the relationship's current strength — credit that persistence rather than attributing it to luck.",
     career: "Steady, consistent professional effort over time is specifically what's shaping the results you're now seeing — credit your own persistence rather than luck.",
     money: "Steady, consistent financial effort over time is specifically what's shaping the stability you're now seeing — credit that persistence and continue it.",
@@ -193,7 +193,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     titleHook: "Change Follows Your Gut",
     summary: "A change already in motion specifically following the direction your intuition already sensed",
     meaning:
-      "75 combines 7 (insight, intuition) with 5 (change, freedom), describing a change that's unfolding specifically in the direction your gut had already sensed, rather than something unpredictable happening to you. This favors recognizing that your intuition called this shift before it arrived, worth trusting more in the future as a reliable predictor.",
+      "75 blends 7 (insight, intuition) and 5 (change, freedom), describing a change that's unfolding specifically in the direction your gut had already sensed, rather than something unpredictable happening to you. This favors recognizing that your intuition called this shift before it arrived, worth trusting more in the future as a reliable predictor.",
     love: "Single: a shift in your love life happening now is unfolding in exactly the direction your gut had already sensed — trust that your intuition called it accurately. Couple: a shift happening in the relationship now is unfolding in the direction your intuition had already sensed for one or both of you — trust that accuracy.",
     career: "A professional shift happening now is unfolding in the direction your gut had already sensed — trust that your intuition called it accurately, and trust it more going forward.",
     money: "A financial shift happening now is unfolding in the direction your intuition had already sensed — trust that accuracy and lean on your gut more for what comes next.",
@@ -229,7 +229,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     titleHook: "Your Soul's Home Grows Warm",
     summary: "A deep, inner sense of belonging and home warming right now, more spiritual than literal",
     meaning:
-      "76 combines 7 (insight, spirit) with 6 (home, care), describing a deep, inner sense of belonging, your soul's home, growing warmer right now, distinct from a literal physical home improving. This favors recognizing that this warmth is happening at the level of your inner sense of belonging and self-acceptance, not necessarily tied to your actual living situation.",
+      "76 links 7 (insight, spirit) with 6 (home, care), describing a deep, inner sense of belonging, your soul's home, growing warmer right now, distinct from a literal physical home improving. This favors recognizing that this warmth is happening at the level of your inner sense of belonging and self-acceptance, not necessarily tied to your actual living situation.",
     love: "Single: a deep inner sense of belonging with yourself is warming right now, worth recognizing on its own terms rather than waiting for a romantic relationship to provide it. Couple: a deep, inner sense of belonging with each other is warming right now, beyond just your physical living situation — notice that spiritual dimension of home you're building together.",
     career: "A deeper sense of belonging in your professional identity, feeling like your work genuinely fits who you are, is warming right now.",
     money: "A deeper, inner sense of security and belonging is warming right now, worth recognizing as real even independent of your current financial specifics.",
@@ -337,7 +337,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Creative Leap In Abundance",
     summary: "A bold, creative approach specifically opening new financial or material possibility right now",
     meaning:
-      "83 combines 8 (abundance) with 3 (creativity, expression), describing a bold, creative approach as specifically what's opening new financial or material possibility right now, rather than a conventional, cautious approach. This favors trusting an unconventional or creative idea about generating abundance, rather than sticking only to the tried-and-tested path.",
+      "83 weaves 8 (abundance) together with 3 (creativity, expression), describing a bold, creative approach as specifically what's opening new financial or material possibility right now, rather than a conventional, cautious approach. This favors trusting an unconventional or creative idea about generating abundance, rather than sticking only to the tried-and-tested path.",
     love: "Single: a creative, unconventional approach to how you build a life and resources for yourself is specifically what's opening new possibility right now — trust that inventive angle. Couple: a creative, unconventional approach to building shared resources together is specifically what's opening new possibility for the relationship right now.",
     career: "A creative, unconventional professional idea is specifically what's opening new financial possibility right now — trust that inventive approach over a purely conventional one.",
     money: "A creative, unconventional financial idea is specifically what's opening new possibility right now — trust that inventive approach, rather than sticking only to the conventional path.",
@@ -373,7 +373,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     titleHook: "Effort Finally Gets Rewarded",
     summary: "A season where consistent past effort is now specifically translating into material reward",
     meaning:
-      "84 combines 8 (abundance) with 4 (foundation, effort), describing a season where consistent effort already invested is now specifically translating into material reward, rather than reward arriving independently of past work. This favors recognizing the direct link between what you've already put in and what's now coming back, worth celebrating rather than dismissing as luck.",
+      "84 joins 8 (abundance) and 4 (foundation, effort), describing a season where consistent effort already invested is now specifically translating into material reward, rather than reward arriving independently of past work. This favors recognizing the direct link between what you've already put in and what's now coming back, worth celebrating rather than dismissing as luck.",
     love: "Single: the consistent effort you've put into your own growth is specifically translating into a season of reward in your love life now — recognize that link rather than crediting luck. Couple: the consistent effort you've both put into the relationship is specifically translating into a rewarding season now — recognize and celebrate that link.",
     career: "The consistent professional effort you've put in is specifically translating into material reward now — recognize that direct link rather than downplaying it as luck.",
     money: "The consistent financial effort you've put in is specifically translating into material reward now — recognize and celebrate that direct link.",
@@ -409,7 +409,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Wind Of Abundant Change",
     summary: "A significant, favorable shift specifically moving through your financial or material circumstances",
     meaning:
-      "85 combines 8 (abundance) with 5 (change, freedom), describing a significant, generally favorable shift specifically moving through your financial or material circumstances right now, distinct from 500's general life-wave framing or 5885's more neutral, high-stakes uncertainty. This favors leaning into the shift with openness, since the change described here tends toward improvement rather than uncertain volatility.",
+      "85 sets 8 (abundance) next to 5 (change, freedom), describing a significant, generally favorable shift specifically moving through your financial or material circumstances right now, distinct from 500's general life-wave framing or 5885's more neutral, high-stakes uncertainty. This favors leaning into the shift with openness, since the change described here tends toward improvement rather than uncertain volatility.",
     love: "Single: a favorable shift in your material circumstances may be opening new possibilities in your love life, more freedom, more ease, worth noticing and welcoming. Couple: a favorable shift in shared material circumstances is moving through the relationship right now, worth welcoming and making the most of.",
     career: "A favorable shift in your professional financial circumstances is moving through right now, worth welcoming and leaning into with openness.",
     money: "A favorable shift in your financial circumstances is moving through right now — lean into it with openness rather than bracing for it to be difficult.",
@@ -481,7 +481,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Wise Path To Abundance",
     summary: "A specific, thoughtful path toward abundance, favoring wisdom over speed or shortcuts",
     meaning:
-      "87 combines 8 (abundance) with 7 (insight, wisdom), describing a specific, thoughtful path toward abundance that favors wisdom and careful consideration over speed or shortcuts. This favors trusting a slower, wiser approach right now, rather than chasing the fastest possible route to a financial or material goal.",
+      "87 blends 8 (abundance) and 7 (insight, wisdom), describing a specific, thoughtful path toward abundance that favors wisdom and careful consideration over speed or shortcuts. This favors trusting a slower, wiser approach right now, rather than chasing the fastest possible route to a financial or material goal.",
     love: "Single: approach building a life and resources for yourself with wisdom and patience, rather than chasing shortcuts — a wiser, steadier path serves you better right now. Couple: approach building shared resources together with wisdom and patience, rather than chasing a faster but riskier path.",
     career: "Approach a professional financial goal with wisdom and patience, rather than chasing the fastest possible route — the wiser, steadier path serves you better right now.",
     money: "Approach a financial goal with wisdom and careful consideration, rather than chasing a shortcut or the fastest possible outcome.",
@@ -553,7 +553,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Solid Start After Closure",
     summary: "A genuinely stable new beginning specifically arriving because a previous chapter properly closed",
     meaning:
-      "94 combines 9 (completion) with 4 (foundation, stability), describing a genuinely stable new beginning that's specifically arriving because a previous chapter was properly and fully closed. This favors trusting that the solidity you're feeling now has a real, traceable source in that completed closure, rather than being coincidental.",
+      "94 weaves 9 (completion) together with 4 (foundation, stability), describing a genuinely stable new beginning that's specifically arriving because a previous chapter was properly and fully closed. This favors trusting that the solidity you're feeling now has a real, traceable source in that completed closure, rather than being coincidental.",
     love: "Single: the stable, solid feeling you have starting to date again specifically comes from having properly closed the previous chapter, not from moving on quickly. Couple: the stable, solid feeling in the relationship's current stage specifically comes from an earlier chapter having been properly closed first.",
     career: "The stable, solid feeling in a new professional chapter specifically comes from the previous one having been properly closed, not left with loose ends.",
     money: "The stable, solid feeling in a new financial chapter specifically comes from the previous one having been properly closed out first.",
@@ -589,7 +589,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Free, Unburdened New Start",
     summary: "A new beginning arriving specifically unburdened, without the weight of what came before",
     meaning:
-      "95 combines 9 (completion) with 5 (change, freedom), describing a new beginning that's arriving specifically unburdened, free of the weight or baggage of what came before. This favors trusting that this fresh start genuinely doesn't require carrying forward old patterns or expectations, a real, clean freedom rather than a burdened continuation.",
+      "95 joins 9 (completion) and 5 (change, freedom), describing a new beginning that's arriving specifically unburdened, free of the weight or baggage of what came before. This favors trusting that this fresh start genuinely doesn't require carrying forward old patterns or expectations, a real, clean freedom rather than a burdened continuation.",
     love: "Single: a new chapter in your love life is arriving genuinely free of old baggage — trust that freedom rather than assuming old patterns must continue into it. Couple: a new chapter for the relationship is arriving genuinely free of old baggage from a previous stage — trust that freedom rather than carrying forward old expectations.",
     career: "A new professional chapter is arriving genuinely free of old baggage from a previous role — trust that freedom rather than assuming old patterns must continue.",
     money: "A new financial chapter is arriving genuinely free of old baggage — trust that freedom rather than continuing to carry forward old financial anxieties.",
@@ -661,7 +661,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Spiritual Journey Completes",
     summary: "A specific stage of spiritual growth or understanding reaching a genuine, significant completion",
     meaning:
-      "97 combines 9 (completion) with 7 (insight, spirit), describing a specific stage of spiritual growth or understanding reaching a genuine, significant completion, worth honoring as real progress rather than an endless, never-finished process. This favors recognizing when a particular chapter of inner growth has genuinely concluded, even while understanding that growth in general continues.",
+      "97 sets 9 (completion) next to 7 (insight, spirit), describing a specific stage of spiritual growth or understanding reaching a genuine, significant completion, worth honoring as real progress rather than an endless, never-finished process. This favors recognizing when a particular chapter of inner growth has genuinely concluded, even while understanding that growth in general continues.",
     love: "Single: a specific stage of your own inner growth around self-worth and readiness for love has genuinely concluded — recognize and honor that completion. Couple: a specific stage of spiritual or emotional growth you've navigated together has genuinely concluded, worth honoring before the next stage naturally opens.",
     career: "A specific stage of professional or personal growth has genuinely concluded — recognize and honor that completion before moving to whatever's next.",
     money: "A specific stage of growth in your relationship with money and security has genuinely concluded — recognize and honor that completion.",
@@ -697,7 +697,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     titleHook: "The Door Of Reward Opens",
     summary: "A door of material reward specifically opening now, following completed effort",
     meaning:
-      "98 combines 9 (completion) with 8 (abundance), describing a door of material or financial reward specifically opening now, following effort or a chapter that's already been completed. This favors trusting that the completion you've already achieved has earned this opening, worth walking through with confidence rather than hesitation.",
+      "98 blends 9 (completion) and 8 (abundance), describing a door of material or financial reward specifically opening now, following effort or a chapter that's already been completed. This favors trusting that the completion you've already achieved has earned this opening, worth walking through with confidence rather than hesitation.",
     love: "Single: a door of reward, more confidence, more ease, more opportunity, is opening in your love life specifically because of a chapter of growth you've already completed. Couple: a door of reward is opening for the relationship specifically because of a chapter you've already completed together — walk through it together with confidence.",
     career: "A door of professional reward is specifically opening now because of effort and a chapter you've already completed — walk through it with confidence.",
     money: "A door of financial reward is specifically opening now because of effort you've already completed — walk through it with confidence rather than hesitation.",

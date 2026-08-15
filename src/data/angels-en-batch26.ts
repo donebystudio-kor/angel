@@ -334,7 +334,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     titleHook: "Full Circle To A Fresh Start",
     summary: "A cyclical return to where you began, now specifically opening into a genuinely fresh start",
     meaning:
-      "10 combines 1 (new beginnings) with 0 (potential, completion of a cycle), describing a return to where you began, having come full circle, that's now specifically opening into a genuinely fresh start. This favors recognizing that arriving back at a familiar point isn't a failure to progress, it's specifically the setup for a new beginning informed by the full cycle just completed.",
+      "10 joins 1 (new beginnings) and 0 (potential, completion of a cycle), describing a return to where you began, having come full circle, that's now specifically opening into a genuinely fresh start. This favors recognizing that arriving back at a familiar point isn't a failure to progress, it's specifically the setup for a new beginning informed by the full cycle just completed.",
     love: "Single: you've come full circle in your love life, back to a familiar starting point, but now specifically equipped for a genuinely fresh start informed by everything you've learned. Couple: you've come full circle together, back to an earlier feeling or stage, now specifically opening into a fresh start informed by the journey since.",
     career: "You've come full circle professionally, back to a familiar starting point, now specifically equipped for a fresh start informed by everything since.",
     money: "You've come full circle financially, back to a familiar starting point, now specifically equipped for a fresh, more informed approach.",
@@ -370,7 +370,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     titleHook: "The Wise Adventurer's Path",
     summary: "A path that balances bold adventure with real wisdom, neither reckless nor overly cautious",
     meaning:
-      "14 combines 1 (new beginnings, adventure) with 4 (foundation, wisdom), describing a path that specifically balances bold adventure with real wisdom, neither reckless risk-taking nor overly cautious hesitation. This favors trusting that you can pursue something new and bold while still being genuinely grounded and thoughtful about it.",
+      "14 blends 1 (new beginnings, adventure) and 4 (foundation, wisdom), describing a path that specifically balances bold adventure with real wisdom, neither reckless risk-taking nor overly cautious hesitation. This favors trusting that you can pursue something new and bold while still being genuinely grounded and thoughtful about it.",
     love: "Single: approach dating with the balance of a wise adventurer, open to bold new experiences while still grounded in real self-knowledge, neither reckless nor overly cautious. Couple: approach a new adventure together with that same balance, boldness paired with genuine wisdom about what serves you both.",
     career: "Approach a professional risk with the balance of a wise adventurer, bold enough to pursue it, grounded enough to do so thoughtfully.",
     money: "Approach a financial risk with the balance of a wise adventurer, bold enough to pursue real opportunity, grounded enough to do so with genuine wisdom.",
@@ -406,7 +406,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     titleHook: "Change Led By Intuition",
     summary: "A fresh change specifically guided by your own intuition, rather than external circumstance alone",
     meaning:
-      "15 combines 1 (new beginnings) with 5 (change, freedom), describing a fresh change that's specifically being guided by your own intuition, rather than purely by external circumstance or pressure. This favors trusting your gut as the actual navigator of this particular shift, worth following even without complete external certainty.",
+      "15 links 1 (new beginnings) with 5 (change, freedom), describing a fresh change that's specifically being guided by your own intuition, rather than purely by external circumstance or pressure. This favors trusting your gut as the actual navigator of this particular shift, worth following even without complete external certainty.",
     love: "Single: let your intuition, not external pressure or expectation, guide a fresh change in how you approach dating right now. Couple: let your shared intuition, not external pressure, guide a fresh change for the relationship right now.",
     career: "Let your intuition, not external pressure alone, guide a fresh professional change right now — trust your gut as the actual navigator.",
     money: "Let your intuition, not external advice alone, guide a fresh financial change right now — trust your gut as the actual navigator.",
@@ -442,7 +442,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Season Talent Blooms",
     summary: "A specific season where personal or collaborative talent is genuinely flourishing, worth using now",
     meaning:
-      "23 combines 2 (partnership, balance) with 3 (creativity, talent), describing a specific season where personal or collaborative talent is genuinely flourishing, worth actively using now rather than letting the moment pass unused. This favors recognizing that this particular window for creative talent is especially fertile right now.",
+      "23 joins 2 (partnership, balance) and 3 (creativity, talent), describing a specific season where personal or collaborative talent is genuinely flourishing, worth actively using now rather than letting the moment pass unused. This favors recognizing that this particular window for creative talent is especially fertile right now.",
     love: "Single: your talent for genuine connection and creative self-expression in dating is especially flourishing right now — use this fertile season actively. Couple: your combined talents as a couple are especially flourishing right now, worth actively using in a shared creative pursuit.",
     career: "Your professional talent is especially flourishing right now — use this fertile season actively, rather than letting the moment pass unused.",
     money: "Your talent for creative financial thinking is especially flourishing right now — use this fertile season actively.",
@@ -478,7 +478,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     titleHook: "Angels Are Staying Close",
     summary: "A steady sense of support and companionship remaining genuinely present right now",
     meaning:
-      "24 combines 2 (partnership, presence) with 4 (foundation, steadiness), describing a steady sense of support and companionship that's genuinely remaining present around you right now, worth noticing and trusting rather than feeling alone even during a quiet or uncertain stretch. This favors recognizing you're not navigating things by yourself, even when it feels that way.",
+      "24 sets 2 (partnership, presence) next to 4 (foundation, steadiness), describing a steady sense of support and companionship that's genuinely remaining present around you right now, worth noticing and trusting rather than feeling alone even during a quiet or uncertain stretch. This favors recognizing you're not navigating things by yourself, even when it feels that way.",
     love: "Single: real support and companionship are staying close around you right now, even if romantic connection feels distant — notice and trust that presence. Couple: steady support and presence are staying close around the relationship right now, worth trusting even during a quiet stretch.",
     career: "Steady support is staying close around you professionally right now, worth noticing and trusting even during an uncertain stretch.",
     money: "Steady support is staying close around a financial situation right now, worth trusting even during an uncertain stretch.",
@@ -514,7 +514,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     titleHook: "Trust It, Then Dive In",
     summary: "A specific invitation to trust a coming change enough to genuinely dive into it",
     meaning:
-      "25 combines 2 (partnership, faith) with 5 (change, freedom), describing a specific invitation to trust a coming change enough to genuinely dive into it, rather than standing at the edge deliberating indefinitely. This favors recognizing that faith, more than more information, is what's actually needed to move forward here.",
+      "25 blends 2 (partnership, faith) and 5 (change, freedom), describing a specific invitation to trust a coming change enough to genuinely dive into it, rather than standing at the edge deliberating indefinitely. This favors recognizing that faith, more than more information, is what's actually needed to move forward here.",
     love: "Single: trust a coming change in your love life enough to genuinely dive in, rather than continuing to deliberate at the edge of it. Couple: trust a coming change for the relationship enough to genuinely dive in together, rather than continuing to hesitate at the edge.",
     career: "Trust a coming professional change enough to genuinely dive in, rather than continuing to deliberate indefinitely at the edge of it.",
     money: "Trust a coming financial change enough to genuinely dive in, rather than continuing to hesitate for more certainty that may not arrive.",
@@ -550,7 +550,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     titleHook: "Material And Heart, Balanced",
     summary: "A genuine balance between material concerns and emotional matters, worth actively maintaining",
     meaning:
-      "26 combines 2 (partnership, balance) with 6 (home, care, heart), describing a genuine balance between material concerns and emotional or heart matters, worth actively maintaining rather than letting one consistently dominate the other. This favors recognizing when the two are in healthy proportion right now, and working to keep them there.",
+      "26 links 2 (partnership, balance) with 6 (home, care, heart), describing a genuine balance between material concerns and emotional or heart matters, worth actively maintaining rather than letting one consistently dominate the other. This favors recognizing when the two are in healthy proportion right now, and working to keep them there.",
     love: "Single: keep a genuine balance between practical, material considerations and matters of the heart as you approach dating, rather than letting either one dominate. Couple: keep a genuine balance between material concerns and emotional connection within the relationship, worth actively maintaining.",
     career: "Keep a genuine balance between material, financial considerations and matters that genuinely matter to your heart in your career choices.",
     money: "Keep a genuine balance between material financial goals and what genuinely matters emotionally, worth actively maintaining rather than letting one dominate.",
@@ -586,7 +586,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     titleHook: "Follow Your Inner Compass",
     summary: "A specific call to trust your own inner sense of direction to navigate a balance-related decision",
     meaning:
-      "27 combines 2 (partnership, balance) with 7 (insight, direction), describing a specific call to trust your own inner compass, your intuitive sense of direction, to navigate a decision involving relationship or balance, rather than relying solely on external maps or advice. This favors recognizing your own inner guidance as reliable here.",
+      "27 weaves 2 (partnership, balance) together with 7 (insight, direction), describing a specific call to trust your own inner compass, your intuitive sense of direction, to navigate a decision involving relationship or balance, rather than relying solely on external maps or advice. This favors recognizing your own inner guidance as reliable here.",
     love: "Single: trust your own inner compass, more than outside dating advice, to navigate a decision about a specific connection right now. Couple: trust your own inner compass, more than outside opinions, to navigate a decision about the relationship's direction right now.",
     career: "Trust your own inner compass, more than external advice alone, to navigate a decision about a professional partnership right now.",
     money: "Trust your own inner compass, more than outside opinions alone, to navigate a decision about a financial partnership right now.",
@@ -622,7 +622,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     titleHook: "A New Door Is Opening",
     summary: "A new door specifically opening through collaboration or partnership, worth walking through",
     meaning:
-      "28 combines 2 (partnership, collaboration) with 8 (abundance, opportunity), describing a new door that's specifically opening through collaboration or partnership right now, worth walking through actively rather than assuming it will remain open indefinitely. This favors recognizing that the opportunity here is specifically relational, not something you'd find working alone.",
+      "28 joins 2 (partnership, collaboration) and 8 (abundance, opportunity), describing a new door that's specifically opening through collaboration or partnership right now, worth walking through actively rather than assuming it will remain open indefinitely. This favors recognizing that the opportunity here is specifically relational, not something you'd find working alone.",
     love: "Single: a new opportunity in your love life is specifically opening through a connection with someone else, not something you'll find working entirely alone — walk through it. Couple: a new opportunity for the relationship is specifically opening through your collaboration together right now, worth walking through actively.",
     career: "A new professional door is specifically opening through a collaboration or partnership right now, worth walking through actively.",
     money: "A new financial door is specifically opening through a partnership or collaboration right now, worth walking through actively.",
@@ -658,7 +658,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     titleHook: "Follow Your Soul's Mission",
     summary: "A call to balance personal purpose with partnership, following your soul's mission within relationship",
     meaning:
-      "29 combines 2 (partnership, balance) with 9 (completion, mission), describing a call to follow your soul's larger mission while genuinely balancing it with partnership and relationship, rather than treating the two as competing priorities. This favors recognizing that your personal purpose and your close relationships can be pursued together, not one at the expense of the other.",
+      "29 sets 2 (partnership, balance) next to 9 (completion, mission), describing a call to follow your soul's larger mission while genuinely balancing it with partnership and relationship, rather than treating the two as competing priorities. This favors recognizing that your personal purpose and your close relationships can be pursued together, not one at the expense of the other.",
     love: "Single: pursue your own larger sense of purpose while staying genuinely open to partnership, rather than treating the two as mutually exclusive right now. Couple: pursue your shared or individual larger purposes while maintaining genuine balance within the relationship, rather than one crowding out the other.",
     career: "Pursue your larger professional purpose while maintaining genuine balance with your close relationships, rather than one crowding out the other.",
     money: "Pursue larger financial goals tied to your sense of purpose while maintaining genuine balance with shared financial partnership.",
@@ -694,7 +694,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     titleHook: "Say It Before It Fades",
     summary: "A specific idea or feeling that risks fading away if it isn't actively expressed soon",
     meaning:
-      "30 combines 3 (creativity, expression) with 0 (potential, amplification), describing a specific idea, feeling, or piece of creative inspiration that risks quietly fading away if it isn't actively expressed soon. This favors treating expression as time-sensitive here, worth acting on now rather than assuming it will keep indefinitely unspoken.",
+      "30 blends 3 (creativity, expression) and 0 (potential, amplification), describing a specific idea, feeling, or piece of creative inspiration that risks quietly fading away if it isn't actively expressed soon. This favors treating expression as time-sensitive here, worth acting on now rather than assuming it will keep indefinitely unspoken.",
     love: "Single: a feeling or thought about someone risks fading if you don't express it soon — say it now rather than assuming it will keep. Couple: a feeling or idea about the relationship risks fading if it isn't expressed soon — say it now rather than letting it go unspoken.",
     career: "A professional idea risks fading if it isn't expressed or acted on soon — voice it now rather than assuming it will keep indefinitely.",
     money: "A financial idea risks fading if it isn't expressed or acted on soon — voice it now rather than letting the window close unaddressed.",
