@@ -181,6 +181,8 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Steady, calm winding-down — specifically of an old chapter rather than rushing through its final stages — is what allows a twin flame connection to build on real ground rather than unfinished residue. 4994 favors the process of closing as much as the closure itself: how something ends matters, and a chaotic or rushed ending leaves fragments underneath the next thing. In separation, this number asks whether you're handling the conclusion of an old chapter with the steadiness it deserves — not just declaring it finished but actually walking through the final stages calmly. What old chapter connected to this person needs a steadier, more careful closing than it's currently getting?",
     manifestation:
       "4994 manifests through a steady, unhurried closing process — the practical move is handling one detail of a concluding chapter calmly today, rather than rushing it, since this number's folklore treats that steady process itself, not just the outcome, as what actually matters here.",
   },
@@ -317,6 +319,8 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "External stability — specifically the financial and material dimension — has more to do with what a twin flame separation is for than people usually acknowledge. 5885 names the high-stakes quality of a significant financial shift and connects it directly to the work of this period: if the material landscape is uncertain, that instability tends to shape everything else, including what you're able to bring to a connection. In separation, 5885 suggests that getting genuinely clear and stable on the material dimension is part of the preparation, not a distraction from it. The external stability you're building now has direct relevance to what reunion would actually require. What material stability are you working toward that this period seems specifically designed to address?",
     manifestation:
       "5885 manifests through calm, clear-eyed preparation rather than panic or blind optimism — the practical move is taking one concrete preparatory step today for financial uncertainty, since this number's folklore treats that steady readiness, not assumption either way, as what actually serves you here.",
   },

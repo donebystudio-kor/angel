@@ -182,6 +182,8 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Voicing a change you're going through — saying it out loud rather than holding it as a private, internal shift — applies directly to what twin flame connections call for. 5335 is specific: the shift you've been experiencing around this connection wants to be named, not kept internal. In reunion, expressing the change that's happened since you were last in real contact moves things forward in a way that presenting the old, unchanged version of yourself doesn't. In separation, saying the shift out loud, even in writing, gives it a shape that internal processing alone often can't. What has genuinely shifted in how you understand this connection that you haven't yet said out loud?",
     manifestation:
       "5335 manifests by voicing a private shift rather than keeping it internal — the practical move is saying the change out loud today, in conversation or writing, since this number's folklore treats that spoken articulation, not silent processing, as what actually moves the shift forward.",
   },

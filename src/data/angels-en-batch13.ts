@@ -543,6 +543,8 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Authority over an ending — deciding something is complete, on your own, without waiting for an external sign — is exactly what a period of separation tends to require. 191 frames the ending it carries not as a loss but as a self-authorized act: you close a chapter because you decide it's time, not because circumstances force it. For twin flames in separation, this matters because waiting for the other person or for clarity from outside tends to extend what doesn't need to be extended. Whatever chapter of your own story you can close by your own decision today: do it. What chapter are you ready to close on your own authority right now?",
     manifestation:
       "191 manifests by acting on your own authority to close and reopen a chapter — the practical move is making the decision today without waiting for outside confirmation or a fully-processed lesson, since this number's folklore treats self-authorized closure as valid on its own.",
   },

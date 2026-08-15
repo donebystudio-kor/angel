@@ -185,6 +185,8 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Quiet growth — the kind happening specifically within the safety of home and ordinary domestic life, without dramatic external markers — is what 6776 marks as genuine preparation for a twin flame connection. This readiness doesn't look like visible progress. It looks like deepened intuition, a calmer relationship with your own inner life, a more settled sense of who you are in your own space. In separation, this often goes unrecognized because it doesn't feel like forward momentum. But the quality of person you're becoming through this quiet, home-grounded development is exactly what the connection needs. Is your growth right now happening quietly at home, and are you giving it the credit it actually deserves?",
     manifestation:
       "6776 manifests by recognizing and honoring quiet, domestic growth as real — the practical move is naming one way you've genuinely grown through ordinary home life today, since this number's folklore treats that acknowledgment as what allows the growth to continue deepening.",
   },
@@ -323,6 +325,8 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Readiness to act on an intuitive answer, rather than continuing to reflect on it, is a specific reunion timing signal. 7447 marks the point where the insight phase is complete and construction should begin — not more processing, but actually building on what intuition has already found. For twin flames, this is significant because both reunion and sustained connection require concrete action, not just increasingly refined clarity. In reunion, the moment when reflection shifts to building is often what timing responds to. In separation, check whether you've been processing the same intuitive knowing repeatedly without moving to action. What does your intuition about this connection already know that you haven't yet acted on?",
     manifestation:
       "7447 manifests by shifting from reflection to construction — the practical move is taking one concrete step today that builds directly on an already-settled intuitive answer, since this number's folklore treats that shift to action, not more thinking, as what's actually called for.",
   },
@@ -495,6 +499,8 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Sharing what you've genuinely learned — teaching it, articulating it to someone who could use it — is what 9339 marks as a timing signal. The return loop of real teaching is that sharing creates new understanding, and that new understanding is often the readiness marker rather than the outcome of reunion. For twin flames, this means the completion of an inner learning cycle tends to show up through your capacity to give it away, to articulate it clearly to others. In separation, check whether there's something you've genuinely learned through this period that you haven't yet shared. What has this period of growth actually taught you that you could give to someone who needs to hear it?",
     manifestation:
       "9339 manifests through the active cycle of teaching and learning — the practical move is sharing one specific lesson with someone today and paying attention to what it teaches you in return, since this number's folklore treats that reciprocal cycle as how understanding actually deepens.",
   },

@@ -547,6 +547,8 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Beneath the foundation you're consciously building, 4004 points at a layer of essentially unlimited potential — what becomes possible when the groundwork is genuinely solid. For twin flames, the interior dimension of this is significant: the kind of inner grounding that doesn't depend on external circumstances removes a specific kind of anxiety from the connection. When your own base is that deep, the connection doesn't have to carry the weight of making you feel stable. In separation, 4004 suggests that the inner work worth focusing on is the kind that reaches deeper than ordinary stability — not just managing what's already there, but uncovering what's actually possible beneath it. How deep does your current inner foundation actually go?",
     manifestation:
       "4004 manifests by using expansive safety to explore rather than to merely feel secure — the practical move is taking one exploratory step you've avoided out of caution, since this number's folklore treats the width of the safety margin, not just its existence, as the invitation.",
   },

@@ -75,6 +75,8 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Safe conditions for a deepening intuitive awakening are a reliable readiness signal for a twin flame connection. 4114 doesn't measure readiness by whether everything is resolved or settled on the outside — it measures it by whether something is safely opening on the inside, a deepening instinct, a growing clarity, an intuition you couldn't access before. In reunion, the clearest signal is often internal: a knowing that wasn't there before starts becoming accessible. In separation, this number favors attending to that awakening rather than suppressing it, because the intuition that's opening now is likely the most accurate guide to what's next. What intuitive knowing is becoming available to you now that wasn't before?",
     manifestation:
       "4114 manifests by trusting protection as permission to go deeper — the practical move is exploring a deepening instinct today rather than staying cautious, since this number's folklore treats the stable foundation as specifically built to hold that exploration.",
   },
@@ -181,6 +183,8 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Freedom — the deep desire to be fully and authentically yourself, without the weight of obligation or expectation — is at the center of what 5115 describes. For someone who has felt the pull to create distance from a twin flame connection, this number is specific: the freedom being sought is genuinely real, and the pull toward it isn't confusion or avoidance. It's a soul-level need that deserves to be taken seriously, not managed. The practical question 5115 raises is whether the freedom you're reaching for requires the distance you've put between you, or whether it might actually be accessible in a different form. What would genuine freedom feel like within this connection rather than away from it?",
     manifestation:
       "5115 manifests by honoring a deep want for freedom rather than dismissing it as impractical — the practical move is naming the specific independence you're craving and taking one real step toward it, since this number's folklore treats that depth of want as trustworthy, not excessive.",
   },
@@ -321,6 +325,8 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Stalled cycles — in abundance, in opportunity, in the quality of a connection — restart through active re-engagement rather than passive waiting. 8008 marks a specific moment: not a new cycle beginning from scratch, but a previously real cycle that had slowed down now finding fresh momentum. For twin flames, this is a timing signal specific to reconnection: the energy of the connection is restarting, not at the same level it paused at, but genuinely fresh. In separation, the restart isn't about going back to what existed before — it's about recognizing that the original quality of the connection is re-activating. What deliberate re-engagement with this connection would signal that you're meeting the restart rather than waiting for it?",
     manifestation:
       "8008 manifests by actively restarting a stalled cycle rather than waiting for it to resume — the practical move is taking one deliberate action today in an area of abundance that's gone quiet, since this number's folklore treats the restart as needing a genuine fresh action, not passive continuation.",
   },

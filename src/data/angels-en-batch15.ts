@@ -76,6 +76,8 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Confidence that you're feeling right now has a specific, traceable source: the stability of your home life is actively producing it. For twin flames, this is a useful reframe when doubt surfaces, because doubt tends to assume the connection itself is the thing that needs to be certain. 161 points elsewhere — toward the quality of the ground you're standing on. When your home base is stable, your read on the connection tends to be more accurate and less reactive. In separation, check whether current doubt is about the connection or about an unsettled home foundation. Are you trusting the connection, or just waiting for your home base to feel steady?",
     manifestation:
       "161 manifests by drawing confidence consciously from home stability — the practical move is naming that grounded source before making today's decision, since this number's folklore treats that acknowledgment as what makes the confidence sustainable.",
   },
@@ -182,6 +184,8 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Change navigated alongside someone doesn't only deepen an external bond — it reveals something about your own interior. What you reach for when things shift, how you handle uncertainty in the presence of another person, what you're willing to be honest about under pressure: these show up when change is shared. For twin flames, 252 points at individual inner work as inseparable from the shared experience, not something to do privately before connection is possible. In separation, the changes each person is navigating individually are part of what's preparing the connection for whatever comes next. What is the current change specifically showing you about yourself?",
     manifestation:
       "252 manifests by leaning into shared change rather than resisting it as a threat to closeness — the practical move is navigating one current change together deliberately today, since this number's folklore treats that shared navigation, not shared stability, as what's actually deepening the bond.",
   },
@@ -286,6 +290,8 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Material ease — when shared stability takes some financial and logistical pressure off — has a direct effect on how a connection moves. When that external pressure is lower, the pace of the relationship naturally has more room to breathe without urgency. For twin flames, 282 is a pacer: it asks whether the acceleration you might be feeling is from genuine readiness or from external pressure, because those two feel different once you distinguish them. In reunion, ease allows both people to arrive without urgency distorting timing. In separation, reducing material pressure on yourself first may matter more than you're currently giving it credit. What would change if the external pressure on this connection were lower?",
     manifestation:
       "282 manifests by consciously recognizing material ease as a relational asset — the practical move is naming one way shared security is easing a specific relationship today and appreciating it directly, since this number's folklore treats that acknowledgment as what sustains the ease further.",
   },
@@ -392,6 +398,8 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Security at home gives permission for something most people underestimate: the freedom to say the actual thing. In a twin flame connection, honest expression — not performance or management of impression — tends to move things forward in ways that careful presentation can't. 363 points at the relationship between feeling secure and being able to speak the truth of your experience. If honest expression about this connection has felt risky or impossible, check whether the home base underneath it feels genuinely settled. In reunion, this connection tends to open when both people feel secure enough to speak plainly. What would you say about this connection if you felt completely safe saying it?",
     manifestation:
       "363 manifests by using home-rooted security to fuel honest expression elsewhere — the practical move is saying one honest thing today, drawing confidence from a secure home base, since this number's folklore treats that grounded courage as what makes the expression land well.",
   },
@@ -530,6 +538,8 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Speaking something clearly — naming it, saying it directly, putting it into words — doesn't just follow the foundation of a twin flame connection. It actually builds it. 434 runs in a specific direction: expression first, solidity as the result, not the precondition. This means waiting to feel certain before you speak tends to reverse the sequence. In reunion, the honest conversation that feels premature is often what constructs the ground that reunion actually stands on. In separation, naming what you're experiencing truthfully, even to yourself in writing, is foundation-building work, not just processing. What needs to be said that you've been waiting to feel certain enough to say?",
     manifestation:
       "434 manifests by treating expression as an active construction tool, not a byproduct of stability — the practical move is speaking up or creating something today specifically to build ground under a situation, since this number's folklore treats that immediate causal act, not waiting for prior stability, as what actually produces the foundation.",
   },
@@ -670,6 +680,8 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Building material abundance and inner stability is not separate from twin flame work — it's the foundation that the connection eventually stands on. 484 frames this without apology: what you're constructing during this time, financially, professionally, or as reserves of character and skill, is exactly what the connection needs once it's ready to hold real weight. In reunion, the foundation you've built is what you bring. In separation, 484 treats resource-building not as distraction but as preparation. What, specifically, are you building right now that this connection would actually require?",
     manifestation:
       "484 manifests by actively directing existing abundance toward foundation-building — the practical move is using one piece of available resource today specifically to build longer-term stability, since this number's folklore treats that deliberate use, not passive accumulation, as what actually constructs solid ground.",
   },

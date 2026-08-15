@@ -151,6 +151,8 @@ export const EN_BATCH17_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "More than one thing needs to finish before a genuinely new beginning is possible — that's 1991's specific understanding. For twin flames in separation, this matters because it reframes the time apart: not one loose end being resolved, but several threads concluding together. The separation isn't waiting for a single thing to complete; it's holding space for a more thorough clearing. In practice, this means looking beyond the most obvious unfinished chapter to find the second or third one that also needs closing. What do you discover when you look for the second thing that needs to conclude, beyond the one already on your radar?",
     manifestation:
       "1991 manifests through thorough, multi-threaded closure rather than addressing just one obvious ending — the practical move is finding and closing a second loose end today, since this number's folklore treats that doubled completion, not a single fix, as what makes the following new start genuinely clean.",
   },
@@ -435,6 +437,8 @@ export const EN_BATCH17_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Recurring intuitive messages — the ones that keep returning rather than arriving once and settling — are pointing at something specific in a twin flame connection: they're asking to be released, not just repeatedly noticed. 3773 names this pattern directly. Holding onto the signal, sitting with it, analyzing it again doesn't resolve it. What actually shifts is voicing it, naming it clearly, and then releasing the grip. In separation, this often means naming what keeps coming back about the connection, saying it honestly, and then consciously letting the analysis go. The message has already arrived; continuing to process it is different from hearing it. What intuitive message keeps returning that you haven't yet released?",
     manifestation:
       "3773 manifests by voicing a recurring intuitive message rather than continuing to privately notice it — the practical move is saying the repeating message out loud today, since this number's folklore treats that repetition as the actual signal to finally express it, not another cue to wait.",
   },
@@ -537,6 +541,8 @@ export const EN_BATCH17_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Creative output — making something, producing something tangible, completing a real piece of work — is where certainty about a twin flame connection tends to ground itself more reliably than reflection. 8338 makes a specific case: it's what you create, not what you think, that tends to resolve the doubt. When doubt about the connection circulates in thought without action, it stays unresolved. But when the same energy goes into actual making, something clarifies. This isn't about making something related to the connection — it's about the act of creation itself restoring a grounded sense of what you know is real. What could you create or complete today that would make your sense of this connection feel steadier?",
     manifestation:
       "8338 manifests through tangible creative output rather than verbal planning alone — the practical move is producing one real, finished piece of work today, since this number's folklore treats that actual making, not talk or affirmation, as what's currently calling in the abundance.",
   },
