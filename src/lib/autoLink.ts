@@ -117,7 +117,9 @@ export function linkMeaning(
 
 /**
  * Link angel numbers in a FAQ answer, but ONLY inside comparison sentences.
- * A sentence qualifies if it contains EN or KO comparison keywords.
+ * A sentence qualifies if it (or the associated question) contains EN or KO
+ * comparison keywords. Passing questionText allows "What's the difference
+ * between X and Y?" style questions to unlock linking in all answer sentences.
  */
 export function linkFaqAnswer(
   text: string,
@@ -125,18 +127,22 @@ export function linkFaqAnswer(
   validSet: Set<string>,
   baseUrl: string,
   counter: LinkCounter,
+  questionText = "",
 ): string {
   if (counter.count >= counter.max) return escapeHtml(text);
 
   const isKo = !baseUrl.startsWith("/en/");
   const compRe = isKo ? KO_COMPARISON_RE : EN_COMPARISON_RE;
 
+  // If the question itself is a comparison question, link all answer sentences
+  const questionIsComparison = questionText !== "" && compRe.test(questionText);
+
   // Split into sentences; preserve the delimiter character
   const parts = text.split(/(?<=[.?!])\s+/);
 
   return parts
     .map((sentence) => {
-      if (compRe.test(sentence)) {
+      if (questionIsComparison || compRe.test(sentence)) {
         return applyLinks(sentence, currentNum, validSet, baseUrl, counter);
       }
       return escapeHtml(sentence);

@@ -32,7 +32,7 @@ const counter = makeCounter(8);
 const linkedMeaning = linkMeaning(angel.meaning, angel.number, EN_VALID, BASE_URL, counter);
 const linkedFaq = angel.faq?.map((f: { q: string; a: string }) => ({
   q: f.q,
-  a: linkFaqAnswer(f.a, angel.number, EN_VALID, BASE_URL, counter),
+  a: linkFaqAnswer(f.a, angel.number, EN_VALID, BASE_URL, counter, f.q),
 }));
 
 // ── Related numbers panel ─────────────────────────────────────────

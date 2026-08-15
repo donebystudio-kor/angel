@@ -41,7 +41,7 @@ const koCounter = makeCounter(8);
 const linkedMeaning = linkMeaning(angel.meaning, angel.number, KO_VALID, KO_BASE, koCounter);
 const linkedFaq = angel.faq?.map((f: { q: string; a: string }) => ({
   q: f.q,
-  a: linkFaqAnswer(f.a, angel.number, KO_VALID, KO_BASE, koCounter),
+  a: linkFaqAnswer(f.a, angel.number, KO_VALID, KO_BASE, koCounter, f.q),
 }));
 
 // ── Related numbers panel ─────────────────────────────────────────
