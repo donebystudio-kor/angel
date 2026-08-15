@@ -5,6 +5,8 @@
 import LayoutEn from "../../../layouts/LayoutEn.astro";
 import { EN_ANGEL_NUMBERS } from "../../../data/angels.en";
 import { SITE_URL } from "../../../site";
+import { linkMeaning, linkFaqAnswer, makeCounter } from "../../../lib/autoLink";
+import { getRelatedNumbers } from "../../../lib/relatedNumbers";
 
 export function getStaticPaths() {
   return EN_ANGEL_NUMBERS.map((a) => ({
@@ -22,8 +24,26 @@ const description = `What angel number ${angel.number} means for love, money, ca
 const url = `${site}/en/number/${angel.number}`;
 const koUrl = `${site}/number/${angel.number}`;
 
+// ── Auto-link setup ───────────────────────────────────────────────
+const EN_VALID = new Set(EN_ANGEL_NUMBERS.map((a) => a.number));
+const BASE_URL = "/en/number/";
+const counter = makeCounter(8);
+
+const linkedMeaning = linkMeaning(angel.meaning, angel.number, EN_VALID, BASE_URL, counter);
+const linkedFaq = angel.faq?.map((f: { q: string; a: string }) => ({
+  q: f.q,
+  a: linkFaqAnswer(f.a, angel.number, EN_VALID, BASE_URL, counter),
+}));
+
+// ── Related numbers panel ─────────────────────────────────────────
+const relatedNums = getRelatedNumbers(angel.number, EN_VALID);
+const relatedAngels = relatedNums
+  .map((n) => EN_ANGEL_NUMBERS.find((a) => a.number === n))
+  .filter(Boolean);
+
+// ── Sections (meaning gets auto-links; other sections stay plain) ──
 const sections = [
-  { icon: "💜", title: "What It Means", content: angel.meaning },
+  { icon: "💜", title: "What It Means", linked: linkedMeaning },
   { icon: "❤️", title: "Love", content: angel.love },
   ...(angel.money ? [{ icon: "💰", title: "Money", content: angel.money }] : []),
   { icon: "💼", title: "Career", content: angel.career },
@@ -86,23 +106,40 @@ const faqJsonLd = angel.faq && angel.faq.length > 0 ? {
           <h2 class="text-lg font-bold text-angel-text mb-3">
             {s.icon} {s.title}
           </h2>
-          <p class="text-angel-muted leading-relaxed">{s.content}</p>
+          {"linked" in s
+            ? <p class="text-angel-muted leading-relaxed" set:html={s.linked} />
+            : <p class="text-angel-muted leading-relaxed">{s.content}</p>
+          }
         </section>
       ))}
     </div>
 
-    {angel.faq && angel.faq.length > 0 && (
+    {linkedFaq && linkedFaq.length > 0 && (
       <section class="mt-8">
         <h2 class="text-xl font-bold text-angel-text mb-4">❓ Frequently Asked Questions</h2>
         <div class="space-y-3">
-          {angel.faq.map((f: { q: string; a: string }) => (
+          {linkedFaq.map((f) => (
             <details class="bg-angel-card border border-angel-border rounded-2xl p-5 group">
               <summary class="font-semibold text-angel-text cursor-pointer list-none flex items-center justify-between text-sm">
                 {f.q}
                 <span class="text-angel-muted group-open:rotate-180 transition-transform ml-2 shrink-0">▼</span>
               </summary>
-              <p class="mt-3 text-angel-muted text-sm leading-relaxed">{f.a}</p>
+              <p class="mt-3 text-angel-muted text-sm leading-relaxed" set:html={f.a} />
             </details>
+          ))}
+        </div>
+      </section>
+    )}
+
+    {relatedAngels.length > 0 && (
+      <section class="mt-8 bg-angel-card border border-angel-border rounded-2xl p-6">
+        <h2 class="text-lg font-bold text-angel-text mb-3">🔗 Related Angel Numbers</h2>
+        <div class="grid grid-cols-3 gap-3">
+          {relatedAngels.map((a) => (
+            <a href={`/en/number/${a!.number}`} class="block p-3 bg-angel-bg/50 rounded-xl hover:bg-angel-border/30 transition-colors text-center">
+              <div class="font-bold text-angel-primary">{a!.number}</div>
+              <div class="text-xs text-angel-muted mt-1 line-clamp-2">{a!.summary}</div>
+            </a>
           ))}
         </div>
       </section>

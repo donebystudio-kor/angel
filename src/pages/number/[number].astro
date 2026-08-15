@@ -7,6 +7,8 @@ import { TOPICS } from "../../data/topics";
 import type { Category } from "../../data/angels";
 import { hasEnAngelNumber } from "../../data/angels.en";
 import { SITE_URL } from "../../site";
+import { linkMeaning, linkFaqAnswer, makeCounter } from "../../lib/autoLink";
+import { getRelatedNumbers } from "../../lib/relatedNumbers";
 
 export function getStaticPaths() {
   return ANGEL_NUMBERS.map((a) => ({
@@ -22,10 +24,6 @@ const site = SITE_URL;
 const url = `${site}/number/${angel.number}`;
 const categoryLabel = CATEGORY_LABELS[angel.category as Category];
 
-const related = ANGEL_NUMBERS.filter(
-  (a) => a.category === angel.category && a.number !== angel.number
-).slice(0, 6);
-
 const digits = [...new Set(angel.number.split(""))];
 const composingNumbers = ANGEL_NUMBERS.filter(
   (a) => digits.includes(a.number) && a.number !== angel.number
@@ -35,8 +33,25 @@ const relatedTopics = TOPICS.filter((t) => t.numbers.includes(angel.number));
 
 const alternateEnUrl = hasEnAngelNumber(angel.number) ? `${site}/en/number/${angel.number}` : undefined;
 
+// ── Auto-link setup ───────────────────────────────────────────────
+const KO_VALID = new Set(ANGEL_NUMBERS.map((a) => a.number));
+const KO_BASE = "/number/";
+const koCounter = makeCounter(8);
+
+const linkedMeaning = linkMeaning(angel.meaning, angel.number, KO_VALID, KO_BASE, koCounter);
+const linkedFaq = angel.faq?.map((f: { q: string; a: string }) => ({
+  q: f.q,
+  a: linkFaqAnswer(f.a, angel.number, KO_VALID, KO_BASE, koCounter),
+}));
+
+// ── Related numbers panel ─────────────────────────────────────────
+const relatedNums = getRelatedNumbers(angel.number, KO_VALID);
+const relatedAngels = relatedNums
+  .map((n) => ANGEL_NUMBERS.find((a) => a.number === n))
+  .filter(Boolean);
+
 const sections = [
-  { icon: "💜", title: "숫자의 의미", content: angel.meaning },
+  { icon: "💜", title: "숫자의 의미", linked: linkedMeaning },
   { icon: "❤️", title: "사랑과 연애", content: angel.love },
   ...(angel.money ? [{ icon: "💰", title: "금전과 재물", content: angel.money }] : []),
   { icon: "💼", title: "직업과 재정", content: angel.career },
@@ -107,23 +122,26 @@ const faqJsonLd = angel.faq && angel.faq.length > 0 ? {
           <h2 class="text-lg font-bold text-angel-text mb-3">
             {s.icon} {s.title}
           </h2>
-          <p class="text-angel-muted leading-relaxed">{s.content}</p>
+          {"linked" in s
+            ? <p class="text-angel-muted leading-relaxed" set:html={s.linked} />
+            : <p class="text-angel-muted leading-relaxed">{s.content}</p>
+          }
         </section>
       ))}
     </div>
 
     <!-- 숫자별 고유 FAQ -->
-    {angel.faq && angel.faq.length > 0 && (
+    {linkedFaq && linkedFaq.length > 0 && (
       <section class="mt-8">
         <h2 class="text-xl font-bold text-angel-text mb-4">❓ 자주 묻는 질문</h2>
         <div class="space-y-3">
-          {angel.faq.map((f: {q: string; a: string}) => (
+          {linkedFaq.map((f) => (
             <details class="bg-angel-card border border-angel-border rounded-2xl p-5 group">
               <summary class="font-semibold text-angel-text cursor-pointer list-none flex items-center justify-between text-sm">
                 {f.q}
                 <span class="text-angel-muted group-open:rotate-180 transition-transform ml-2 shrink-0">▼</span>
               </summary>
-              <p class="mt-3 text-angel-muted text-sm leading-relaxed">{f.a}</p>
+              <p class="mt-3 text-angel-muted text-sm leading-relaxed" set:html={f.a} />
             </details>
           ))}
         </div>
@@ -163,14 +181,14 @@ const faqJsonLd = angel.faq && angel.faq.length > 0 ? {
     <ShareButtons title={title} url={url} />
 
     <!-- 관련 엔젤넘버 -->
-    {related.length > 0 && (
-      <section class="mt-12">
-        <h2 class="text-xl font-bold text-angel-text mb-4">🔗 같은 유형의 엔젤넘버</h2>
-        <div class="grid grid-cols-2 md:grid-cols-3 gap-3">
-          {related.map((a) => (
-            <a href={`/number/${a.number}`} class="bg-angel-card border border-angel-border rounded-xl p-4 hover:shadow-md hover:shadow-angel-glow hover:border-angel-primary/40 transition-all">
-              <div class="text-xl font-bold text-angel-primary">{a.number}</div>
-              <div class="text-xs text-angel-muted mt-1 line-clamp-1">{a.summary}</div>
+    {relatedAngels.length > 0 && (
+      <section class="mt-8 bg-angel-card border border-angel-border rounded-2xl p-6">
+        <h2 class="text-lg font-bold text-angel-text mb-3">🔗 관련 엔젤넘버</h2>
+        <div class="grid grid-cols-3 gap-3">
+          {relatedAngels.map((a) => (
+            <a href={`/number/${a!.number}`} class="block p-3 bg-angel-bg/50 rounded-xl hover:bg-angel-border/30 transition-colors text-center">
+              <div class="font-bold text-angel-primary">{a!.number}</div>
+              <div class="text-xs text-angel-muted mt-1 line-clamp-2">{a!.summary}</div>
             </a>
           ))}
         </div>
