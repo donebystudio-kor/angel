@@ -360,6 +360,9 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "Partnership and expression trading off in 2323 create a twin flame dynamic that tends to be genuinely alive in its best phase and stuck in its frustrated phase — and which one you're experiencing tells you a lot about where the connection is right now. When 2323 appears in a separation, the invitation is usually to keep the creative, expressive side of you active regardless of the connection's status, because what's most generative in you right now is what the reunion will most need. This isn't about reaching out — it's about not letting the creative back-and-forth go unexpressed inside yourself. What have you been making or thinking that you'd want to share?",
     manifestation:
       "2323 manifests by engaging actively in creative exchange rather than working solo — the practical move is one piece of playful back-and-forth with another person today, since this number's folklore treats that shared rhythm, not individual output, as what it's actually pointing toward.",
   },
@@ -394,6 +397,9 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "Acceptance and change alternating in 2525 describe a twin flame dynamic where the pace of movement in the connection is genuinely outside your control — and the number is specifically about making peace with that rather than trying to manage the speed. 2525 tends to appear when internal acceptance is the only move that actually works, because external attempts to affect the timing have been producing friction. What it favors is accepting the current pace as appropriate rather than as a problem to solve. The question it raises: if you stopped trying to influence the timing, what would feel genuinely okay about where things currently are?",
     manifestation:
       "2525 manifests through acceptance rather than resistance or active voicing — the practical move is naming one change you've been fighting and consciously accepting it today, since this number's folklore treats that surrender, not further resistance or explanation, as what actually clears the path.",
   },
@@ -428,6 +434,9 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "Home and care cycling insistently in 2626 point at a twin flame pattern where care has become the mechanism for maintaining the connection — checking in, staying available, offering consistent nurturance — in a way that functions more as a way of not letting go than genuinely giving. The letting-go that 2626 favors isn't withdrawing care; it's releasing the need to offer it continuously as a way of keeping the thread alive. In separation, 2626 often marks the moment when stepping back from active care-maintenance gives both people more room. What form of care have you been offering primarily to manage your own anxiety rather than from genuine, free choice?",
     manifestation:
       "2626 manifests through a repeated practice, not a one-time gesture — the practical move is scheduling a recurring check-in with home or family life starting today, since this number's folklore treats sustained, repeated attention, not a single fix, as what actually answers the message.",
   },
@@ -462,6 +471,9 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "Simultaneous completion and new beginning in 2929 create a specific runner-chaser dynamic — one person's closing is another person's opening, and the tension between those two states drives the push-pull rather than any fundamental incompatibility. 2929 tends to appear when one person is in a finishing phase and the other is in a starting energy, and the resulting mismatch creates the familiar pattern. The reassurance here is that the timing misalignment is temporary rather than fundamental: each person's cycle will complete. What phase — ending, beginning, or somewhere between — does each person in this connection appear to be in right now?",
     manifestation:
       "2929 manifests by holding two truths at once rather than forcing a tidy sequence — the practical move is naming both the ending and the beginning today and giving each real attention, since this number's folklore treats that simultaneous acknowledgment as what lets both move forward cleanly.",
   },
@@ -496,6 +508,9 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "Zero preceding 111 in 0111 places the awakening signal at the very earliest stage of emergence — before it's formed enough to feel certain, before it's loud enough to dismiss the doubt. For twin flame connections, this is a specific state: the faint, early awareness that something is real before you have enough evidence to trust it fully. 0111 tends to appear when the recognition is genuine but not yet stable — which means the uncertainty you're feeling about the connection isn't a verdict on its reality but a feature of being at the very beginning of understanding something. What do you feel with enough certainty not to ignore, but not enough certainty to fully claim?",
     manifestation:
       "0111 manifests by capturing early inspiration before it's fully formed — the practical move is writing down a rough, unfinished idea today rather than waiting for it to become fully clear first, since this number's folklore treats early capture as what preserves the spark until it's ready to develop.",
   },
@@ -566,6 +581,9 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "From zero, 0333 describes a pure creative beginning — no accumulated style, no prior expectations, no previous way of doing it to maintain. For twin flame connections, this tends to appear during a reset period when the creative or expressive approaches that worked in a previous phase have cleared, and what comes next hasn't formed yet. The invitation of 0333 is to begin something creative from that genuinely open state rather than waiting for inspiration to arrive fully formed. What would you create, express, or begin in this connection if you had absolutely no expectations about how it should look?",
     manifestation:
       "0333 manifests by approaching an effort as a genuine beginner rather than carrying accumulated expectation — the practical move is starting one creative thing today without measuring it against past work, since this number's folklore treats that fresh origin point as what lets real creativity bloom unburdened.",
   },
@@ -600,6 +618,9 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "Rebuilding from zero is the specific challenge of 0444 — and in a twin flame context, it tends to appear when both the foundation work and the open-state reset are actively happening at the same time. This isn't starting over as a failure; it's starting over as a beginning. 0444 is one of the more practically grounding numbers to see during a separation: it's asking you to actively work on what is foundational in your own life, not to wait for the connection to resolve before building. A solid foundation in yourself, built now, is what any future phase of this connection will actually stand on. What are you specifically rebuilding right now?",
     manifestation:
       "0444 manifests through active, deliberate reconstruction rather than passive waiting — the practical move is taking one concrete rebuilding step today, since this number's folklore treats your own effort, not outside arrival, as what completes this particular foundation.",
   },

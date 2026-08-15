@@ -228,6 +228,9 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "Insight is the direction 1117 points — the triple 1's intense self-focus period has been gathering something real, and the 7 signals it's ready to crystallize into actual understanding rather than staying as surface clarity. For twin flame connections, that tends to mean understanding that doesn't need the other person to confirm it: something about what the connection has developed in you, what you've learned in the gap. This isn't analysis — it's the quieter recognition that arrives after analysis has run its course. What understanding have you been circling that you haven't fully landed yet?",
     manifestation:
       "1117 manifests by honoring genuinely deep self-insight — the practical move is naming and writing down one significant realization today, since this number's folklore treats that acknowledgment as what solidifies the depth reached.",
   },
@@ -262,6 +265,9 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "Material abundance arriving alongside 1118's triple awakening usually signals readiness rather than reward on its own. For twin flame connections, this appears when something external — a job shift, financial stability, a move — coincides with a wave of new-beginning clarity, and the combination signals that circumstances are now actually supporting what the inner work has been preparing for. Whether that's reunion, a deeper phase of the connection, or simply a more stable separation period, 1118 says the ground is genuinely more solid than it was. What changed in your external circumstances in the past weeks?",
     manifestation:
       "1118 manifests by continuing self-focused work as the source of abundance — the practical move is investing further in your own growth today, trusting that connection, since this number's folklore treats that continued self-investment as what sustains the attraction.",
   },
@@ -296,6 +302,9 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "Completion arriving at the tail end of triple awakening energy gives 1119 a specific quality — the intensive self-focus period is winding down not because it failed but because it's done what it came to do. For twin flames in a separation, this is one of the cleaner signals that the distance has served its actual function: the awakening was the separation's purpose, and you've reached the other side of it. The practical question isn't how much longer — it's what the awakening specifically produced, since that's what the next phase of the connection will be working with. What has the period of self-focus most clearly shown you?",
     manifestation:
       "1119 manifests by recognizing and preparing for a natural conclusion — the practical move is acknowledging today that a self-focused phase is wrapping up, and taking one step to prepare for what's next, since this number's folklore treats that recognition as what completes the phase well.",
   },
@@ -551,6 +560,9 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "When a single abundance moment fires the full 111 awakening sequence in 8111, the twin flame reading is specifically about pace. Material change — a windfall, a career shift, new financial stability — can create the impulse to match that speed in the connection too. 8111 favors letting the material shift settle first, before treating it as momentum for major relational moves. The awakening is genuine, but grounding it before acting makes the result more stable. What specifically changed in your circumstances, and how is that affecting what you want from this connection right now?",
     manifestation:
       "8111 manifests by honoring abundance as the spark for new energy — the practical move is naming today the specific abundant moment that ignited your current momentum, since this number's folklore treats that acknowledgment as what sustains the resulting wave.",
   },
@@ -585,6 +597,9 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "Endings, in 9111's structure, are specifically what fire the next beginning — a completed chapter, a closed relationship stage, or a finalized decision is what's currently running the triple awakening energy you're experiencing. For twin flames, this is a meaningful distinction: 9111 tends to appear when the completion of one stage is itself the timing signal for what comes next. Reunion sightings of 9111 often cluster around the formal or emotional close of a previous chapter, not at a neutral moment. The specific thing worth noticing is what completed or closed in the days or weeks just before this number started appearing.",
     manifestation:
       "9111 manifests by honoring a completed ending as the spark for new energy — the practical move is naming today the specific closure that ignited your current momentum, since this number's folklore treats that acknowledgment as what sustains the resulting wave.",
   },

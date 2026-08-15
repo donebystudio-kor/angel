@@ -261,6 +261,9 @@ export const EN_BATCH30_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "Releasing, in 7999's framework, is what insight is specifically for. A single moment of real understanding — something you've seen clearly about the connection, about yourself in it, or about what you've been holding — is triggering the completion wave. The twin flame reading of 7999 is that the insight you've had or are about to have is what makes it safe to let something go: not forced acceptance, but release that becomes possible precisely because you now understand what you're releasing. In separation, 7999 tends to mark the moment an intellectual understanding becomes an actual felt shift. What do you now understand well enough to release?",
     manifestation:
       "7999 manifests by trusting a realization as the trigger for necessary closures — the practical move is letting one old pattern conclude today as part of that wave, since this number's folklore treats that follow-through as what completes the process well.",
   },
@@ -295,6 +298,9 @@ export const EN_BATCH30_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "Outside forces — a third person, a shared social context, family, or a circumstance neither person chose — are often what 8999 points at in twin flame dynamics. The abundance energy of 8 meeting triple completion suggests something material or external is involved in how this cycle is closing. That external element isn't necessarily a threat; it's more often a catalyst that the completion needs to move through. Seeing 8999 during a complicated period doesn't mean the connection is being displaced — it means the closing chapter includes context that will have to be moved through rather than around. What external factor is most present right now?",
     manifestation:
       "8999 manifests by trusting abundance as the trigger for necessary closures — the practical move is letting one old obligation conclude today as part of that wave, since this number's folklore treats that follow-through as what completes the process well.",
   },
@@ -366,6 +372,9 @@ export const EN_BATCH30_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "Near the end of a triple-9 completion wave, 9997 sends insight rather than resolution — and insight at this stage often arrives as doubt before it settles as clarity. For twin flames, this tends to appear when the cycle has almost finished and something in you starts questioning whether the connection, the growth, or the effort was what it seemed. That questioning is not the signal to restart or reconsider; it's more often what genuine completion feels like from the inside in its final moments. What are you questioning that might actually be answering itself rather than remaining genuinely open?",
     manifestation:
       "9997 manifests by honoring genuinely deep insight from a closed chapter — the practical move is naming and writing down one significant realization today, since this number's folklore treats that acknowledgment as what solidifies the depth reached.",
   },
@@ -400,6 +409,9 @@ export const EN_BATCH30_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "Abundance arriving at the end of a completion wave has a specific communication implication in 9998 — the thing worth saying isn't a declaration about the future but a genuine acknowledgment of what's been built during the cycle. For twin flame connections, this number tends to appear when closure is near and there's something to articulate: what the journey through this chapter produced, what was real, what is being carried forward. The expression 9998 favors is precise rather than sentimental — a single honest sentence about what you now have that you didn't before is more useful than a long explanation. What specifically has this chapter built in you?",
     manifestation:
       "9998 manifests by continuing to build on completed work as the source of abundance — the practical move is investing further in what a closed chapter has already produced today, trusting that connection, since this number's folklore treats that continued building as what sustains the attraction.",
   },

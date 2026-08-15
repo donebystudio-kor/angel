@@ -39,6 +39,9 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "Doubled in 1515, the new-beginning-plus-change signal is stronger than either element alone, and in a twin flame context that doubling tends to function as a timing amplifier. When this number appears during a reunion phase, movement tends to happen faster than expected — not because 1515 forces it, but because both elements (beginning and change) are compounding. During separation, 1515 often marks the moment when things that felt static for a long time are starting to actually shift. The doubling matters: this is less a nudge and more a confirmation that real movement is happening. What felt stuck recently that's beginning to move?",
     manifestation:
       "1515 manifests by matching the scale of your intention to the scale of the opportunity — the practical move is writing down the new direction in terms that reflect its real significance, since this number's folklore treats undersized intentions as the main thing that limits a genuinely big opportunity.",
   },
@@ -73,6 +76,9 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "Recurring abundance following recurring new beginnings is the specific pattern of 1818, and in a twin flame context that recurrence is itself the message: readiness isn't a single event but a sustained pattern that keeps reinforcing itself. If you've been waiting for one clear sign, 1818 suggests the signs have been there in series — each new beginning producing something tangible — and that sustained pattern is what confirms the ground is ready. For reunion, this often appears when practical circumstances have stabilized enough to support what the connection needs next. What pattern of new-beginning-then-tangible-result have you noticed in your life recently?",
     manifestation:
       "1818 manifests by trusting a repeating pattern rather than treating each new start as an isolated bet — the practical move is starting again, deliberately, on the strength of a previous success, since this number's folklore treats the repetition itself as reinforcing the pattern.",
   },
@@ -107,6 +113,9 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "Cycling between endings and beginnings, 1919 describes a twin flame separation pattern that can feel like it's repeating without progress — but the doubled structure contains a reassurance: each completion has been changing something real, and each new beginning that follows is genuinely different. The purpose of this separation, in 1919's frame, isn't a single lesson but a layered series of closings that have been incrementally preparing both people. In reunion, 1919 often marks the moment the cycling itself stops — not another loop, but arrival at something that doesn't keep repeating. What feels like it actually completed this time, rather than just pausing?",
     manifestation:
       "1919 manifests by consciously sizing the intention for what's next bigger than what's ending — the practical move is writing down a next-chapter goal that genuinely exceeds the current one in scope, since this number's folklore treats undersized expectations as the main thing that limits the upgrade.",
   },
@@ -213,6 +222,9 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+
+    twinflame:
+      "Building and trusting running in parallel is the specific texture of 2424 — not waiting before doing, or doing before trusting, but both at once. For twin flame connections, this number tends to appear during a separation phase where both the practical and the inner are actively needed: real foundation work on yourself while simultaneously trusting the connection's direction without visible evidence. What makes 2424 specifically encouraging is that both activities are the work — the groundwork you're laying and the patience you're practicing are both contributing to the same outcome. What foundation have you been actively building in yourself during this period?",
     manifestation:
       "2424 manifests by combining trust with concrete action rather than choosing between them — the practical move is doing one small, practical task today on something you're also being asked to have faith in, since this number's folklore treats the pairing itself, not either alone, as what actually builds a durable result.",
   },
