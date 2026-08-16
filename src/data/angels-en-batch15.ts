@@ -220,6 +220,8 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Partnership centered on small, practical acts of care — checking in, showing up, remembering what matters — generates a specific kind of relational safety for twin flames that more dramatic gestures don't. 262 points at this: what you do quietly and consistently builds the ground that real honesty requires. In a twin flame connection, communication that actually moves things forward tends to rest on a foundation of small, sustained care, not declarations. In reunion, the texture of daily attention is what tells each person whether the closeness is real. What small act of care today would most accurately express what you haven't yet said about this connection?",
     manifestation:
       "262 manifests through small, consistent acts of care rather than occasional grand gestures — the practical move is one specific caring act today, since this number's folklore treats that consistency, not scale, as what actually deepens the bond.",
   },
@@ -434,6 +436,8 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Intuition that's already reached a conclusion tends to create a specific discomfort when it goes unvoiced: a gap between what you privately know and what you're willing to say out loud. 373 points at that gap. For twin flames, certainty doesn't require more evidence once intuition has settled — it requires expression. The doubt that surfaces is often not about whether the knowing is real, but about whether you trust yourself enough to state it plainly. In separation, claiming what you already know, without waiting for external confirmation, is often the actual work. What does your intuition already know about this connection that you haven't fully claimed yet?",
     manifestation:
       "373 manifests by voicing an already-settled intuitive knowing rather than continuing to search for the answer — the practical move is saying one clear thing today that your gut has already confirmed, since this number's folklore treats that direct expression, not more deliberation, as the actual next step.",
   },
@@ -504,6 +508,8 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Spoken closure — words actually delivered, not just felt internally — is what 393 treats as necessary for a twin flame connection to move cleanly forward. A chapter that ends without any closing expression tends to remain technically open, not because the connection is unfinished, but because the ending itself was never named. In separation, 393 asks whether there's an unspoken close still hanging: something that should have been said, and wasn't. Releasing it doesn't require the other person to receive the words — it can be a letter, a journal entry, something given form. What closing expression, delivered or undelivered, would let this chapter fully conclude?",
     manifestation:
       "393 manifests through spoken or written closure rather than assumed, silent resolution — the practical move is writing or saying the actual closing words for one lingering chapter today, since this number's folklore treats that expression as what completes the ending, not time passing alone.",
   },
@@ -646,6 +652,8 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Groundwork built through genuine understanding — through real insight into yourself and the dynamics of this twin flame connection — is more durable than groundwork built through determination or hope alone. 474 is specific: the inner work that matters here isn't about processing feelings generally, but about developing actual, checked understanding of what this connection is and what it requires from you. In reunion, what you've genuinely understood becomes what you bring. In separation, the discipline of honest self-inquiry, regular and structured rather than sentimental, is the actual preparation. What specific understanding about yourself in this connection have you developed that you couldn't have arrived at before this period began?",
     manifestation:
       "474 manifests by building deliberately on verified understanding rather than assumption — the practical move is checking one piece of understanding for accuracy today before building further on it, since this number's folklore treats that verified ground, not confident guessing, as what makes the resulting structure solid.",
   },
@@ -716,6 +724,8 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Solid ground under a twin flame connection requires, specifically, that the preceding chapter was genuinely finished — not declared finished, but actually closed. 494 is precise: the stability of what comes next depends directly on the thoroughness of what was completed before it. In separation, this frames the period not as waiting but as the work of actual closure: checking what's been left partially resolved, what's been avoided, what hasn't yet been fully processed. The groundwork of the next phase is being laid right now, through the quality of how this one closes. What specifically from the previous chapter of this connection still needs to be more thoroughly completed?",
     manifestation:
       "494 manifests by ensuring a prior chapter is genuinely, not just nominally, finished — the practical move is checking for and closing any remaining loose end from an old situation today, since this number's folklore treats that thorough completion as what makes the new foundation actually solid.",
   },

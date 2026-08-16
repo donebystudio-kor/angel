@@ -113,6 +113,8 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Developing intuition as a structured discipline — not a passive experience, but a practiced skill — is a specific readiness signal for twin flame connections. 4774 describes foundation built through repeated, deliberate intuitive inquiry: checking in regularly, noting what surfaces, building real skill at distinguishing genuine insight from wishful thinking. In reunion, this practiced discernment means you arrive with a reliable internal compass. In separation, becoming genuinely good at reading your own knowing is practical preparation, not theoretical. What intuitive practice are you currently building, and how consistent has it actually been?",
     manifestation:
       "4774 manifests by building intuition into a repeatable system — the practical move is starting one structured check-in practice today, a journal entry, a regular reflection, since this number's folklore treats that ongoing structure, not occasional insight alone, as what makes intuition a reliable long-term tool.",
   },
@@ -217,6 +219,8 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Both the pull toward change and the need for stability deserve to be honored in twin flame work rather than treated as a contradiction to resolve. 5445 names this as an inner work challenge: how do you remain genuinely open to transformation while keeping the foundational stability that inner growth requires? For twin flames, the answer tends to come from building what might be called a mobile anchor — practices, values, and self-knowledge that hold steady even as circumstances shift. In separation, the quality of change you're going through matters less than whether it's grounded. What do you reach for when change feels destabilizing, and is it actually working?",
     manifestation:
       "5445 manifests by honoring two real needs simultaneously rather than forcing a choice — the practical move is naming one concrete way today to make room for both change and stability, since this number's folklore treats that integration, not a forced either/or decision, as what actually resolves the tension.",
   },
@@ -251,6 +255,8 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Changing the method — specifically how you approach care within the connection, not how much effort you apply — is what 5665 points at. For someone in a twin flame dynamic who tends toward distance or withdrawal, this is often the actual issue: it's not effort that's needed, but a genuinely different approach. 5665 asks whether the current pattern of creating space is renewed by true necessity or repeated by default. What would it mean to try a different method rather than increasing the distance? What might a genuinely new approach to staying present in this connection look like?",
     manifestation:
       "5665 manifests by trying a genuinely new method rather than more effort within an old one — the practical move is testing one different approach to a home routine today, since this number's folklore treats that methodological change, not increased effort, as what actually improves things.",
   },
@@ -285,6 +291,8 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Sharpened intuition — the kind that develops specifically through navigating change rather than through calm — applies directly to how a twin flame connection moves and when. 5775 suggests that the instincts developed through a difficult period are more trustworthy than quieter ones, precisely because they've been tested. For pacing a twin flame connection, this matters: the instinct about when to reach out, when to stay quiet, when something has shifted — it's more accurate now than before. In separation, trust the intuitive reads that came through the hard part, not just the ones that feel comfortable. Which of your current intuitions about this connection is most worth acting on?",
     manifestation:
       "5775 manifests by recognizing and trusting intuition that's genuinely grown through recent change — the practical move is naming one way your instincts have sharpened and trusting that developed skill in a decision today, since this number's folklore treats that growth as real and usable, not incidental.",
   },

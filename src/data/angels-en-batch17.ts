@@ -223,6 +223,8 @@ export const EN_BATCH17_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Fairness in how care and responsibility are shared — an honest check on whether the emotional and practical labor is actually balanced — has a direct effect on what a twin flame connection can honestly express. When the distribution is inequitable and unacknowledged, it creates a silent layer that makes direct communication harder over time. 2662 asks whether this is happening. In reunion, the conversations that matter most tend to require an equitable base to land well. In separation, check whether an unexpressed imbalance has been distorting how you understand the connection overall. Is there an unacknowledged fairness issue in this dynamic that's making honest expression harder?",
     manifestation:
       "2662 manifests through honest, direct assessment rather than assumed fairness — the practical move is having one explicit conversation today about whether caregiving is currently balanced, since this number's folklore treats that direct check, not silent assumption, as what actually maintains equity.",
   },
@@ -507,6 +509,8 @@ export const EN_BATCH17_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Grace in how something ends — the care with which you close a chapter — determines whether what's released actually releases. 3993 is specific to twin flames: a closing expression delivered without genuine care tends to leave residue, a partial closure that doesn't fully free either person. The quality of the ending matters as much as the ending itself. In reunion, what was closed with grace tends to stay closed, making room for something genuinely new. In separation, the way you're currently expressing an ending determines whether you're actually releasing it. What closing expression, if delivered with real care and honesty, would let you genuinely let go of what needs releasing?",
     manifestation:
       "3993 manifests through graceful, considered closing rather than minimal efficiency — the practical move is taking extra time today to deliver one closing expression with genuine care, since this number's folklore treats that quality of delivery, not just the fact of closure, as what it's actually pointing toward.",
   },
@@ -613,6 +617,8 @@ export const EN_BATCH17_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Volatility — the high-stakes uncertainty of a period when a significant shift could go in either direction — can specifically create the opening that twin flame reunion requires. 8558 describes this: real windows in these connections tend to appear during periods of genuine change, not during stable, predictable stretches. The window calls for decisive movement rather than extended deliberation. In separation, if the external landscape is genuinely shifting right now, that volatility is worth treating as a potential timing signal — not as proof, but as real context for what might be opening. What current shift, if moved on decisively, could be the opening this connection has been waiting for?",
     manifestation:
       "8558 manifests by acting quickly on an opportunity created by volatility rather than waiting for calm first — the practical move is identifying one real, change-linked opportunity today and moving on it promptly, since this number's folklore treats that speed, not patience, as what actually captures the abundance here.",
   },
@@ -681,6 +687,8 @@ export const EN_BATCH17_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Depth of self-understanding — genuinely knowing your own patterns, needs, and blind spots in relationship — is the inner resource 8778 describes as actively securing emotional stability. For twin flames, this inner work has a specific yield: the more accurately you understand yourself in relation to this connection, the less reactive and anxious your engagement with it becomes. In separation, the goal isn't to understand the other person better — it's to understand your own role and patterns with much greater precision. What specific blind spot in your own relationship patterns have you come to understand more clearly during this period?",
     manifestation:
       "8778 manifests by trusting existing understanding to secure current stability rather than chasing new insight — the practical move is recognizing one piece of already-developed depth today and letting it guarantee your stability, since this number's folklore treats that trust, not new realization, as what's actually needed right now.",
   },

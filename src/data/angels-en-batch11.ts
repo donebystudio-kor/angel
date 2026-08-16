@@ -255,6 +255,8 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Leading — taking a clear, self-directed step rather than waiting — is the specific reunion timing signal 6116 marks. When both people in a twin flame connection are internally aligned and one takes a direct, unambiguous step, the timing often responds to that initiative rather than to continued waiting. In reunion, this tends to look like a concrete act: initiating contact with genuine intention, not testing the waters obliquely. In separation, the readiness for reunion often shows up first as an inner shift — a quiet certainty that you're prepared to lead, not just to respond. Is what you're currently waiting for actually a sign from the outside, or is there already an inner readiness to take a direct step?",
     manifestation:
       "6116 manifests through active leadership rather than passive absorption — the practical move is actually stepping up to organize or decide something at home today, since this number's folklore treats taking the lead, not further reflection, as what's actually needed.",
   },
