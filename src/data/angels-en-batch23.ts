@@ -37,6 +37,8 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Delivering a message of genuine affection or intention — clearly, directly, without excessive hedging — is what 143 points at. The progression 1-4-3 describes new beginning grounded in foundation expressed with creativity: a way of saying something real with enough solidity that it lands rather than gets lost in qualification. For twin flames, this is a communication signal: the message is ready, and the groundedness behind it is what makes it deliverable. In reunion, 143 favors saying the actual thing rather than a carefully diluted version. In separation, it may mean expressing to yourself, clearly and without qualification, what this connection genuinely means. What message about this connection, if stated with full groundedness, are you ready to deliver?",
     manifestation:
       "143 manifests by delivering a grounded message rather than continuing to hold it back — the practical move is speaking one genuine message of love or appreciation today, since this number's folklore treats that clear delivery, not further waiting, as what the moment calls for.",
   },

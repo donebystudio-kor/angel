@@ -257,6 +257,8 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Completing a caregiving role — the season of it genuinely ending, not prematurely abandoned — releases the specific weight that often drives withdrawal in a twin flame connection. 6996 is precise: the doubled completion (9) wrapping doubled caregiving (6) marks genuine completion, not fatigue. For someone whose pattern of distance has been driven partly by feeling responsible for another person's wellbeing, this completion matters: when caregiving is genuinely done, what made distance feel necessary changes. In separation, the question is whether the caregiving chapter has actually concluded or is still running. What responsibility, if recognized as genuinely complete, would change how available you feel?",
     manifestation:
       "6996 manifests by consciously releasing a completed burden rather than carrying it from habit — the practical move is naming and setting down one specific weight today, since this number's folklore treats that deliberate release as what actually completes the caregiving cycle properly.",
   },
@@ -615,6 +617,8 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Caregiving that has run its full, natural course — not abandoned but genuinely completed — releases something that's been held in place by the weight of it. 9669 marks this specifically: doubled caregiving (6) framed by completion (9) on both sides, describing a season of care reaching its actual endpoint. For twin flames, this often appears around the end of attending to someone else — a family member, a friend, an old connection — that was running alongside the twin flame dynamic. Releasing it isn't abandoning care; it's recognizing when care has accomplished its purpose. What caregiving role has recently come to its natural end that you haven't yet fully released?",
     manifestation:
       "9669 manifests by consciously honoring a completed caregiving season rather than immediately filling the space — the practical move is acknowledging today that a specific role has genuinely concluded, since this number's folklore treats that recognition as what opens the next role cleanly.",
   },
@@ -649,6 +653,8 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
       },
     ],
     isPlaceholder: false,
+    twinflame:
+      "Genuine understanding — specifically, reaching clear comprehension of what a chapter of the twin flame connection actually was and what it meant — is what closes it with real finality. 9779 makes this specific: the doubled insight (77) framed by completion (9) on both sides describes a chapter that concludes through genuine realization, not through time passing or circumstances changing. The inner work required isn't about processing feelings more; it's about arriving at actual comprehension. In separation, this means looking honestly at what the chapter was, including what you preferred not to see, until understanding arrives rather than stops short. What about this chapter, if understood honestly and completely, would finally let it close?",
     manifestation:
       "9779 manifests through genuine understanding rather than mere distance — the practical move is spending real reflective time today on a chapter you assume is closed, checking that the understanding actually matches the assumed closure, since this number's folklore treats that verified understanding as what genuinely shuts the door.",
   },
