@@ -1,0 +1,174 @@
+---
+// Japanese-only guide essay. Written natively in Japanese, not translated
+// from EN. Isolated under src/pages/ja/guide/.
+import LayoutJa from "../../../layouts/LayoutJa.astro";
+import { SITE_URL } from "../../../site";
+
+const site = SITE_URL;
+const title = "ツインレイ・ナンバーとは？出会いからサイレント期間まで";
+const description = "ツインレイの旅にはどんな段階があり、それぞれの局面でどんなエンジェルナンバーが現れやすいのか。出会い・テスト・サイレント期間・統合まで、意味と理由を解説します。";
+const url = `${site}/ja/guide/twin-flame-numbers`;
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: title,
+  description,
+  url,
+  publisher: { "@type": "Organization", name: "AngelDone" },
+  mainEntityOfPage: { "@type": "WebPage", "@id": url },
+};
+---
+
+<LayoutJa title={title} description={description} canonical={url}>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  </Fragment>
+
+  <article class="max-w-3xl mx-auto px-4 py-12">
+    <nav class="text-sm text-angel-muted mb-6 flex items-center gap-2 flex-wrap">
+      <a href="/ja/" class="hover:text-angel-primary transition-colors">ホーム</a>
+      <span>›</span>
+      <a href="/ja/guide/" class="hover:text-angel-primary transition-colors">ガイド一覧</a>
+      <span>›</span>
+      <span class="text-angel-text">ツインレイ・ナンバーとは？</span>
+    </nav>
+
+    <h1 class="text-3xl md:text-4xl font-bold text-angel-text mb-3">ツインレイ・ナンバーとは？</h1>
+    <p class="text-lg text-angel-accent font-medium mb-10">
+      出会いからサイレント期間、統合まで——どの局面でどんな数字が現れやすいのか
+    </p>
+
+    <div class="space-y-8 text-angel-muted leading-relaxed">
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">「ツインレイ」とはどういう関係か</h2>
+        <p class="mb-3">
+          「ツインレイ」という言葉は広く使われていますが、この伝統の中でどう位置づけられて
+          いるかは、はっきりさせておく価値があります。ソウルメイトが「心地よく支え合える
+          相性の良い相手」として語られるのに対し、ツインレイはもっと激しいものとして
+          語られます——お互いを映し出す鏡のような二人で、ただ安心を与え合うのではなく、
+          双方の中に眠っていた成長課題や未解決の感情を表面化させる関係だとされています。
+          これはスピリチュアルや数秘術の文化から生まれた、ひとつの信念の枠組みであって、
+          科学的に証明された事実ではありません。当サイトでも、数秘術全般と同じように、
+          ひとつの一貫した伝統として真剣に扱いつつも、確立された事実としては扱わない
+          という立場を取っています。
+        </p>
+        <p>
+          ツインレイの関係を特徴づけているのは、一度きりで完結せず、出会い・距離を置く
+          時間・再会というサイクルを、多くの場合何度も繰り返しながら進んでいくという点
+          です。だからこそ、この分野で数字が頻繁に語られるのです。それぞれの局面には
+          固有のサインがあるとされ、繰り返す数字は、今その関係がどの段階にあるかを示す
+          目印として読み解かれています。
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">旅路の段階と、それぞれで現れやすい数字</h2>
+        <p class="mb-3">
+          ツインレイの旅は、コミュニティの中でおおよそ次のような段階として語られることが
+          多いです。すべての関係が同じ順序をたどるとは限りませんし、複数の段階を同時に
+          経験することもあります。
+        </p>
+        <ul class="list-disc pl-5 space-y-3">
+          <li>
+            <strong class="text-angel-text">出会い</strong>——新しいサイクルが始まる段階。
+            <a href="/ja/number/111" class="text-angel-primary hover:text-angel-accent font-semibold">111</a>
+            は、この最初の一歩を後押しするサインとしてよく語られます。
+          </li>
+          <li>
+            <strong class="text-angel-text">テスト(試練)</strong>——関係の土台が試される段階。
+            <a href="/ja/number/444" class="text-angel-primary hover:text-angel-accent font-semibold">444</a>
+            は、この時期を支える保護のサインとされています。
+          </li>
+          <li>
+            <strong class="text-angel-text">危機(転換点)</strong>——それまでの関係の形が
+            大きく揺さぶられる段階。
+            <a href="/ja/number/555" class="text-angel-primary hover:text-angel-accent font-semibold">555</a>
+            は、壊れることではなく作り変えられることを示すサインとして語られます。
+          </li>
+          <li>
+            <strong class="text-angel-text">サイレント期間</strong>——連絡が途絶える、
+            距離を感じるといった沈黙の時間。
+            <a href="/ja/number/222" class="text-angel-primary hover:text-angel-accent font-semibold">222</a>
+            は、この時間が終わりではなく準備期間であることを伝えるサインです。
+          </li>
+          <li>
+            <strong class="text-angel-text">手放し</strong>——相手への執着を一度置いて、
+            自分自身と向き合う段階。
+            <a href="/ja/number/777" class="text-angel-primary hover:text-angel-accent font-semibold">777</a>
+            は、この内省の時間の大切さを伝えるサインとされます。
+          </li>
+          <li>
+            <strong class="text-angel-text">覚醒</strong>——精神的な目覚めが進む段階。
+            <a href="/ja/number/333" class="text-angel-primary hover:text-angel-accent font-semibold">333</a>
+            は、双方の魂が同時に成長していることを示すサインとして語られます。
+          </li>
+          <li>
+            <strong class="text-angel-text">統合</strong>——二人のエネルギーが深く重なり
+            合っていく段階。
+            <a href="/ja/number/1111" class="text-angel-primary hover:text-angel-accent font-semibold">1111</a>
+            は強い一致の瞬間として、
+            <a href="/ja/number/1212" class="text-angel-primary hover:text-angel-accent font-semibold">1212</a>
+            は日々の積み重ねの中で段階的に進むプロセスとして、それぞれ語られます。
+          </li>
+          <li>
+            <strong class="text-angel-text">再会</strong>——それまでの学びが一区切りを
+            迎える段階。
+            <a href="/ja/number/888" class="text-angel-primary hover:text-angel-accent font-semibold">888</a>
+            は、蒔いてきた種が実りを迎えるサインとして語られます。
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">ランナー・チェイサーというもうひとつの視点</h2>
+        <p class="mb-3">
+          旅路の段階とは別に、ツインレイの関係性そのものを表す視点として「ランナー・
+          チェイサー」という力学もよく語られます。片方が距離を置こうとし(ランナー)、
+          もう片方がつながりを求める(チェイサー)——この役割は固定されたものではなく、
+          時期によって入れ替わることも珍しくないといわれます。左右対称の並びを持つ
+          <a href="/ja/number/717" class="text-angel-primary hover:text-angel-accent font-semibold">717</a>
+          は、この「互いを映し合う」構造そのものを象徴する数字として語られます。
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">動きのサインか、安心のサインか</h2>
+        <p class="mb-3">
+          ひとつ、共通して言える傾向があります。出会い・覚醒・統合・再会の段階で現れる数字は、
+          「今まさに何かが動いている、整いつつある」というタイミングの確認として機能する
+          ことが多いです。一方、サイレント期間や手放しの段階で現れる数字は、外側に何の
+          証拠もないからこそ、「内側で起きている変化は本物だ」という安心材料として機能する
+          ことが多いとされます。今見ている数字がどちらのタイプなのかを意識すると、
+          ひとつのサインをすべて同じように受け取るより、ずっと実用的な読み方ができます。
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">数字とどう向き合うか</h2>
+        <p class="mb-3">
+          この分野でもっとも起こりやすい落とし穴は、一つひとつのサインをカウントダウンの
+          ように扱ってしまうことです。次のサインを常にチェックし、見かけるたびに
+          「もうすぐ何かが起きる」と結論づけてしまう——そうした姿勢よりも、今どの段階に
+          いるかに関わらず、自分自身の成長に淡々と取り組み続けるほうが、結果的に関係を
+          前に進める力になるといわれています。数字は、行動を強制する指示ではなく、
+          今どこに立っているかを確認する、定期的なチェックポイントとして使うのがちょうど
+          いい距離感です。
+        </p>
+        <p>
+          エンジェルナンバーそのものについてまだ馴染みがない方は、
+          <a href="/ja/guide/what-is-an-angel-number" class="text-angel-primary hover:text-angel-accent">エンジェルナンバーとは？</a>
+          から読んでみてください。ツインレイの文脈を離れて、自分自身に結びついた数字が
+          気になる方は、
+          <a href="/ja/guide/how-to-find-your-angel-number" class="text-angel-primary hover:text-angel-accent">自分のエンジェルナンバーの見つけ方</a>
+          で計算方法や気づき方を紹介しています。
+        </p>
+      </section>
+    </div>
+
+    <div class="mt-10 flex justify-between items-center text-sm flex-wrap gap-3">
+      <a href="/ja/guide/how-to-find-your-angel-number" class="text-angel-primary hover:text-angel-accent transition-colors">← 自分の数字の見つけ方</a>
+      <a href="/ja/guide/" class="text-angel-primary hover:text-angel-accent transition-colors">ガイド一覧 →</a>
+    </div>
+  </article>
+</LayoutJa>

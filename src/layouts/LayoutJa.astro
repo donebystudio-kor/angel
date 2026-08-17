@@ -26,6 +26,19 @@ const canonicalUrl = canonical || new URL(Astro.url.pathname, site).href;
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script is:inline>
+      // Full-page (non-transition) navigations should always start at the
+      // top, not wherever the browser's bfcache/scroll-restoration last
+      // left off (e.g. after clicking a footer link). Anchor navigations
+      // (#twin-flame etc.) are left untouched — they keep native jump
+      // behavior since we only reset when there's no hash.
+      if ("scrollRestoration" in history) {
+        history.scrollRestoration = "manual";
+      }
+      if (!location.hash) {
+        window.scrollTo(0, 0);
+      }
+    </script>
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl} />
@@ -67,6 +80,7 @@ const canonicalUrl = canonical || new URL(Astro.url.pathname, site).href;
           <a href="/ja/category/career" class="hover:text-angel-primary transition-colors">💼 仕事</a>
           <a href="/ja/category/spiritual" class="hover:text-angel-primary transition-colors">🔮 スピリチュアル</a>
           <a href="/ja/category/twinflame" class="hover:text-angel-primary transition-colors">🔥 ツインレイ</a>
+          <a href="/ja/guide/" class="hover:text-angel-primary transition-colors">📖 ガイド</a>
         </nav>
         <button id="ja-mobile-menu-btn" class="md:hidden text-angel-muted hover:text-angel-primary text-xl" aria-label="メニューを開く">☰</button>
       </div>
@@ -77,6 +91,7 @@ const canonicalUrl = canonical || new URL(Astro.url.pathname, site).href;
           <a href="/ja/category/career" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">💼 仕事</a>
           <a href="/ja/category/spiritual" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">🔮 スピリチュアル</a>
           <a href="/ja/category/twinflame" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">🔥 ツインレイ</a>
+          <a href="/ja/guide/" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">📖 ガイド</a>
         </div>
       </nav>
     </header>
@@ -125,12 +140,19 @@ const canonicalUrl = canonical || new URL(Astro.url.pathname, site).href;
             </div>
           </div>
           <div>
-            <h4 class="font-semibold text-angel-accent mb-2">他の言語</h4>
+            <h4 class="font-semibold text-angel-accent mb-2">ガイド</h4>
             <div class="space-y-1">
-              <a href="/" class="block text-angel-muted hover:text-angel-primary transition-colors">🇰🇷 한국어</a>
-              <a href="/en/" class="block text-angel-muted hover:text-angel-primary transition-colors">🇺🇸 English</a>
+              <a href="/ja/guide/what-is-an-angel-number" class="block text-angel-muted hover:text-angel-primary transition-colors">エンジェルナンバーとは？</a>
+              <a href="/ja/guide/how-to-find-your-angel-number" class="block text-angel-muted hover:text-angel-primary transition-colors">自分の数字の見つけ方</a>
+              <a href="/ja/guide/twin-flame-numbers" class="block text-angel-muted hover:text-angel-primary transition-colors">ツインレイ・ナンバー</a>
             </div>
           </div>
+        </div>
+        <!-- 他の言語 -->
+        <div class="flex items-center justify-center gap-4 flex-wrap mb-6 text-sm text-angel-muted">
+          <span>他の言語で見る:</span>
+          <a href="/" class="hover:text-angel-primary transition-colors">🇰🇷 한국어</a>
+          <a href="/en/" class="hover:text-angel-primary transition-colors">🇺🇸 English</a>
         </div>
         <div class="border-t border-angel-border pt-6 text-center text-sm text-angel-muted">
           <nav class="flex items-center justify-center gap-4 flex-wrap mb-3">

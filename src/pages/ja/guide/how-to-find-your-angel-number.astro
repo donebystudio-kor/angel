@@ -1,0 +1,159 @@
+---
+// Japanese-only guide essay. Written natively in Japanese, not translated
+// from EN. Isolated under src/pages/ja/guide/.
+import LayoutJa from "../../../layouts/LayoutJa.astro";
+import { SITE_URL } from "../../../site";
+
+const site = SITE_URL;
+const title = "自分のエンジェルナンバーの見つけ方 | 計算方法つき";
+const description = "生年月日からライフパスナンバーを計算する方法と、日常生活の中で繰り返す数字に気づくコツを、具体例つきでわかりやすく解説します。";
+const url = `${site}/ja/guide/how-to-find-your-angel-number`;
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: title,
+  description,
+  url,
+  publisher: { "@type": "Organization", name: "AngelDone" },
+  mainEntityOfPage: { "@type": "WebPage", "@id": url },
+};
+---
+
+<LayoutJa title={title} description={description} canonical={url}>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  </Fragment>
+
+  <article class="max-w-3xl mx-auto px-4 py-12">
+    <nav class="text-sm text-angel-muted mb-6 flex items-center gap-2 flex-wrap">
+      <a href="/ja/" class="hover:text-angel-primary transition-colors">ホーム</a>
+      <span>›</span>
+      <a href="/ja/guide/" class="hover:text-angel-primary transition-colors">ガイド一覧</a>
+      <span>›</span>
+      <span class="text-angel-text">自分のエンジェルナンバーの見つけ方</span>
+    </nav>
+
+    <h1 class="text-3xl md:text-4xl font-bold text-angel-text mb-3">自分のエンジェルナンバーの見つけ方</h1>
+    <p class="text-lg text-angel-accent font-medium mb-10">
+      生年月日から計算する方法と、日常の中で繰り返す数字に気づくコツ
+    </p>
+
+    <div class="space-y-8 text-angel-muted leading-relaxed">
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">「自分の数字」には2つの意味がある</h2>
+        <p class="mb-3">
+          計算を始める前に、混同されがちな2つの概念を整理しておきましょう。ひとつ目は
+          <strong class="text-angel-text">ライフパスナンバー</strong>——生年月日から算出される、
+          一生変わらない固定の数字です。星占いでいう太陽星座に近いイメージで、「今この瞬間の
+          メッセージ」というより、生まれ持った大まかな性格の傾向を表すものとされています。
+        </p>
+        <p>
+          もうひとつは
+          <a href="/ja/number/111" class="text-angel-primary hover:text-angel-accent">111</a>
+          や
+          <a href="/ja/number/717" class="text-angel-primary hover:text-angel-accent">717</a>
+          のように、時計やレシート、車のナンバープレートなどで日常的に繰り返し目にする
+          <strong class="text-angel-text">反復する数字</strong>です。こちらは時期によって変わり、
+          固定された個人の資質というより、今の状況に結びついた一時的なサインとして読まれます。
+          当サイトの数字ページの多くは、この2つ目のタイプを扱っています。このガイドでは
+          両方の見つけ方を紹介します。
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">ライフパスナンバーの計算方法</h2>
+        <p class="mb-3">
+          もっとも一般的な方法はシンプルです。生年月日をすべて数字として書き出し、
+          一桁ずつすべて足し合わせ、合計が一桁になるまで足し続けます(ただし後述する
+          例外がひとつあります)。1990年11月23日を例に、実際にやってみましょう。
+        </p>
+        <div class="bg-angel-card border border-angel-border rounded-2xl p-6 mb-3">
+          <p class="mb-2"><strong class="text-angel-text">ステップ1 — 各桁を書き出す:</strong> 1, 1, 2, 3, 1, 9, 9, 0</p>
+          <p class="mb-2"><strong class="text-angel-text">ステップ2 — すべて足す:</strong> 1+1+2+3+1+9+9+0 = 26</p>
+          <p><strong class="text-angel-text">ステップ3 — 一桁になるまで足す:</strong> 2+6 = 8</p>
+        </div>
+        <p class="mb-3">
+          この生年月日の場合、ライフパスナンバーは
+          <a href="/ja/number/8" class="text-angel-primary hover:text-angel-accent">8</a>
+          になります。あとは、他の数字と同じように8のページを読めば意味がわかります。
+        </p>
+        <p class="mb-3">
+          例外がひとつあります。計算の途中で合計が11、22、33になった場合は、そこで
+          計算を止めてください。これらはマスターナンバーとして、それ自体で固有の意味を
+          持つとされています(
+          <a href="/ja/number/11" class="text-angel-primary hover:text-angel-accent">11</a>、
+          <a href="/ja/number/22" class="text-angel-primary hover:text-angel-accent">22</a>、
+          <a href="/ja/number/33" class="text-angel-primary hover:text-angel-accent">33</a>
+          のページを参照)。
+        </p>
+        <p class="mb-3">
+          実際にマスターナンバーになる例として、2001年8月29日で計算してみます。
+        </p>
+        <div class="bg-angel-card border border-angel-border rounded-2xl p-6 mb-3">
+          <p class="mb-2"><strong class="text-angel-text">ステップ1 — 各桁を書き出す:</strong> 0, 8, 2, 9, 2, 0, 0, 1</p>
+          <p><strong class="text-angel-text">ステップ2 — すべて足す:</strong> 0+8+2+9+2+0+0+1 = 22</p>
+        </div>
+        <p>
+          合計がすでに22というマスターナンバーになっているため、2+2=4とさらに縮めることは
+          せず、ここで計算を止めます。この生年月日のライフパスナンバーは、4ではなく
+          <a href="/ja/number/22" class="text-angel-primary hover:text-angel-accent">22</a>
+          です。
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">日常で繰り返す数字に気づくコツ</h2>
+        <p class="mb-3">
+          ライフパスナンバーとは違い、反復する数字は事前に計算できるものではありません。
+          繰り返し現れるからこそ気づくものです。パターンを見つけやすくするポイントを
+          いくつか紹介します。
+        </p>
+        <ol class="list-decimal pl-5 space-y-2">
+          <li>
+            <strong class="text-angel-text">簡単なメモを取る。</strong>
+            スマホのメモアプリで十分です。気になる数字を見かけるたびに、数字・見た場所・
+            そのとき何を考えていたかを書き留めておきましょう。
+          </li>
+          <li>
+            <strong class="text-angel-text">よくある場所をチェックする。</strong>
+            時計、レシート、車のナンバープレート、ページ番号、注文確認メール、電話番号
+            などは、多くの人が最初にパターンに気づく場所です。
+          </li>
+          <li>
+            <strong class="text-angel-text">1〜2週間、様子を見る。</strong>
+            1回見かけただけなら偶然かもしれません。同じ数字が1〜2週間のうちに3〜4回
+            現れるようなら、調べてみる価値があります。
+          </li>
+          <li>
+            <strong class="text-angel-text">数字だけでなく、状況にも注目する。</strong>
+            気づいたときの状況(何かを決めようとしていた、難しい会話の直後だったなど)は、
+            数字そのものと同じくらい多くのことを教えてくれます。
+          </li>
+        </ol>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">見つけた数字をどう扱うか</h2>
+        <p class="mb-3">
+          計算したライフパスナンバーであれ、繰り返し見かけている数字であれ、見つけたら
+          「エンジェルナンバー」をひとつの大きなカテゴリーとして捉えるのではなく、その数字
+          固有の意味を調べてみてください——数字が違えば、意味も本当に変わってきます。
+          特定の人間関係と結びついているように感じるなら、
+          <a href="/ja/guide/twin-flame-numbers" class="text-angel-primary hover:text-angel-accent">ツインレイ・ナンバーとは？</a>
+          のガイドで、どの数字がその関連性を持ちやすいか、その理由も含めて紹介しています。
+        </p>
+        <p>
+          そもそもこの考え方自体がまだよくわからない、という方は、
+          <a href="/ja/guide/what-is-an-angel-number" class="text-angel-primary hover:text-angel-accent">エンジェルナンバーとは？</a>
+          のガイドで、由来や向き合い方の背景から確認してみてください。
+        </p>
+      </section>
+    </div>
+
+    <div class="mt-10 flex justify-between items-center text-sm flex-wrap gap-3">
+      <a href="/ja/guide/what-is-an-angel-number" class="text-angel-primary hover:text-angel-accent transition-colors">← エンジェルナンバーとは？</a>
+      <a href="/ja/guide/twin-flame-numbers" class="text-angel-primary hover:text-angel-accent transition-colors">ツインレイ・ナンバー →</a>
+    </div>
+  </article>
+</LayoutJa>

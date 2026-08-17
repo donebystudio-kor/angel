@@ -1,0 +1,161 @@
+---
+// Japanese-only guide essay. Written natively in Japanese, not translated
+// from EN. Isolated under src/pages/ja/guide/.
+import LayoutJa from "../../../layouts/LayoutJa.astro";
+import { SITE_URL } from "../../../site";
+
+const site = SITE_URL;
+const title = "エンジェルナンバーとは？意味と由来をわかりやすく解説";
+const description = "エンジェルナンバーとは何なのか、その由来、そしてなぜ同じ数字を繰り返し見るのかを、数秘術と心理学の両方の視点からわかりやすく解説します。";
+const url = `${site}/ja/guide/what-is-an-angel-number`;
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: title,
+  description,
+  url,
+  publisher: { "@type": "Organization", name: "AngelDone" },
+  mainEntityOfPage: { "@type": "WebPage", "@id": url },
+};
+---
+
+<LayoutJa title={title} description={description} canonical={url}>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  </Fragment>
+
+  <article class="max-w-3xl mx-auto px-4 py-12">
+    <nav class="text-sm text-angel-muted mb-6 flex items-center gap-2 flex-wrap">
+      <a href="/ja/" class="hover:text-angel-primary transition-colors">ホーム</a>
+      <span>›</span>
+      <a href="/ja/guide/" class="hover:text-angel-primary transition-colors">ガイド一覧</a>
+      <span>›</span>
+      <span class="text-angel-text">エンジェルナンバーとは？</span>
+    </nav>
+
+    <h1 class="text-3xl md:text-4xl font-bold text-angel-text mb-3">エンジェルナンバーとは？</h1>
+    <p class="text-lg text-angel-accent font-medium mb-10">
+      この考え方がどこから来たのか、そしてのめり込みすぎずに向き合うための視点
+    </p>
+
+    <div class="space-y-8 text-angel-muted leading-relaxed">
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">気づくきっかけは、たいてい些細なこと</h2>
+        <p class="mb-3">
+          最初から確信を持って探し始める人は、ほとんどいません。ふと時計を見たら11:11だった。
+          特に気にせず過ごしていたら、翌日も同じ時間に目が合う。数日後、レシートの合計が
+          1,111円になっていて、そこで初めて「あれ」と意識が向く——だいたいこんな流れです。
+          偶然が重なって、自分の意識のほうが後から追いついてくる。それがエンジェルナンバーに
+          気づく典型的なパターンです。
+        </p>
+        <p>
+          エンジェルナンバーとは、時計・レシート・車のナンバープレート・ページ番号などに
+          繰り返し現れる数字の並びで、単なる雑音ではなく立ち止まって意識を向ける価値がある
+          サインとして読み解かれるものを指します。数字そのものに魔法の力があるという話では
+          ありません。長い数秘術の伝統の中で、特定の並びに象徴的な意味が積み重ねられてきて
+          おり、その意味が、ちょうど意識を向けるべきタイミングで表面化しやすい——という
+          考え方です。
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">この考え方はどこから来たのか</h2>
+        <p class="mb-3">
+          ルーツをたどると数秘術、特にピタゴラスの思想に行き着きます。「万物は数である」——
+          性格や運命のような抽象的なものも含め、宇宙のすべては数字とその関係性を通じて
+          理解できる、という考え方です。以来、数秘術の伝統では0から9までの各数字に固有の
+          性質が割り当てられてきました。1は始まり、2は調和とパートナーシップ、8は豊かさ、
+          といった具合です(1から9までの一桁の数字がそれぞれどう読まれるかは、当サイトの
+          <a href="/ja/number/1" class="text-angel-primary hover:text-angel-accent">数字1</a>
+          〜<a href="/ja/number/9" class="text-angel-primary hover:text-angel-accent">数字9</a>
+          の各ページでも紹介しています)。
+        </p>
+        <p>
+          「エンジェルナンバー」という呼び方自体、そして天使が繰り返す数字を通じてメッセージを
+          送るという発想が広く知られるようになったのは比較的最近のことで、2000年代初頭に
+          スピリチュアル作家ドリーン・バーチューらが、より古い数秘術の伝統の上に体系化した
+          ものだといわれています。つまり、古代から一貫して受け継がれてきた確立された体系
+          というより、古い土台の上に築かれた比較的新しい解釈のレイヤーであり、情報源によって
+          同じ数字の解釈が少しずつ異なることも珍しくありません。
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">なぜ同じ数字ばかり見えるのか</h2>
+        <p class="mb-3">
+          これには、互いに矛盾しない2つの答えがあります。ひとつは心理学的な説明です。
+          脳がある数字を「重要」だとタグ付けすると、それ以降、以前よりずっと頻繁にその数字に
+          気づくようになります。数字の出現頻度が本当に増えたわけではなく、単に意識が
+          その数字を拾いやすくなっているだけです。これは「頻度錯覚」と呼ばれる、よく知られた
+          認知パターンで、他にどんな理由があるにせよ、実際に起こる現象です。111の意味を
+          知った週にやたら111を見かけるようになった、という経験は、少なくとも部分的には
+          この効果によるものでしょう。
+        </p>
+        <p>
+          もうひとつは、この伝統自体が提示する答えです。心理学者ユングが「シンクロニシティ」
+          と呼んだ、意味のある偶然の一致は、切り捨てるべき雑音ではなく、注意を払う価値のある
+          情報だという考え方です。この見方に立てば、特定の瞬間(難しい決断の直後、大事な会話の
+          直前など)に繰り返す数字が現れることは偶然ではなく、そのとき実際に起きていることに
+          意識を向けさせるための合図だと捉えられます。
+        </p>
+        <p>
+          どちらの説明が「正しい」かを完全に決着させる必要はありません。数字が現れた瞬間に
+          何を考え、何をしていたかを振り返る——その習慣自体は、偶然が目につきやすくなる
+          認知バイアスによるものであれ、この伝統が語るメッセージに近いものであれ、
+          どちらの立場でも実用的な意味を持ちます。
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">当サイトの向き合い方</h2>
+        <p class="mb-3">
+          当サイトでは、エンジェルナンバーを羽の生えた存在から一字一句伝えられる文字通りの
+          メッセージとしては扱いません。運命そのものとしても扱いません——特定の数字が現れた
+          からといって、あなたの判断力を上書きしたり、特定の結果を保証したりするものでは
+          ないということです。もっと実用的な捉え方は、指示ではなく確認のポイントとして
+          見ること。何か具体的なもの(パターン、感情、先延ばしにしてきた決断)に気づく
+          きっかけとして受け取る、というスタンスを一貫して採っています。
+        </p>
+        <p>
+          だからこそ、文化的に不吉なイメージを持たれがちな数字であっても、当サイトでは
+          強い警告調の表現を使いません。たとえば
+          <a href="/ja/number/666" class="text-angel-primary hover:text-angel-accent">666</a>
+          は不吉な前兆として扱われがちですが、数秘術の伝統では昔からバランスと責任を意味する
+          数字であり、繰り返しの形になってもなお「バランスを取り直そう」という促しとして
+          読まれるのであって、破滅の警告ではありません。
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-angel-text mb-3">自分の数字をどう読むか</h2>
+        <p class="mb-3">
+          当サイトの各数字ページは、恋愛・金運・仕事・スピリチュアルという一貫した切り口で
+          意味を読み解き、そこに今日からできる具体的な行動をひとつ添える構成になっています。
+          特にシーケンス(連続数字)やミラーナンバーの中には、ツインレイとの関係性と特に強く
+          結びつくとされる数字もあり、その詳細は
+          <a href="/ja/guide/twin-flame-numbers" class="text-angel-primary hover:text-angel-accent">ツインレイ・ナンバーとは？</a>
+          のガイドでまとめています。
+        </p>
+        <p>
+          もし日常の中で繰り返す数字に気づいているなら——
+          <a href="/ja/number/7" class="text-angel-primary hover:text-angel-accent">7</a>
+          のようなシンプルな数字でも、
+          <a href="/ja/number/1111" class="text-angel-primary hover:text-angel-accent">1111</a>
+          や
+          <a href="/ja/number/444" class="text-angel-primary hover:text-angel-accent">444</a>
+          のような大きな数字でも——「エンジェルナンバー」をひとつの漠然としたカテゴリーとして
+          捉えるより、その数字を個別に調べてみるのが一番早い方法です。生年月日から導き出す
+          自分だけの数字が気になる方は、
+          <a href="/ja/guide/how-to-find-your-angel-number" class="text-angel-primary hover:text-angel-accent">自分のエンジェルナンバーの見つけ方</a>
+          で計算方法を具体例つきで紹介しています。
+        </p>
+      </section>
+    </div>
+
+    <div class="mt-10 flex justify-between items-center text-sm flex-wrap gap-3">
+      <a href="/ja/guide/" class="text-angel-primary hover:text-angel-accent transition-colors">← ガイド一覧</a>
+      <a href="/ja/guide/how-to-find-your-angel-number" class="text-angel-primary hover:text-angel-accent transition-colors">自分の数字の見つけ方 →</a>
+    </div>
+  </article>
+</LayoutJa>

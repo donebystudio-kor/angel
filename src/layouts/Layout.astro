@@ -21,6 +21,19 @@ const canonicalUrl = canonical || new URL(Astro.url.pathname, site).href;
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script is:inline>
+      // Full-page (non-transition) navigations should always start at the
+      // top, not wherever the browser's bfcache/scroll-restoration last
+      // left off (e.g. after clicking a footer link). Anchor navigations
+      // (#twin-flame etc.) are left untouched — they keep native jump
+      // behavior since we only reset when there's no hash.
+      if ("scrollRestoration" in history) {
+        history.scrollRestoration = "manual";
+      }
+      if (!location.hash) {
+        window.scrollTo(0, 0);
+      }
+    </script>
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl} />
@@ -133,6 +146,12 @@ const canonicalUrl = canonical || new URL(Astro.url.pathname, site).href;
               <a href="/guide/angel-number-and-love" class="block text-angel-muted hover:text-angel-primary transition-colors">엔젤넘버와 사랑</a>
             </div>
           </div>
+        </div>
+        <!-- 다른 언어 -->
+        <div class="flex items-center justify-center gap-4 flex-wrap mb-6 text-sm text-angel-muted">
+          <span>다른 언어로 보기:</span>
+          <a href="/en/" class="hover:text-angel-primary transition-colors">🇺🇸 English</a>
+          <a href="/ja/" class="hover:text-angel-primary transition-colors">🇯🇵 日本語</a>
         </div>
         <div class="border-t border-angel-border pt-6 text-center text-sm text-angel-muted">
           <p class="mb-1">© 2026 엔젤던. 숫자가 전하는 우주의 메시지.</p>

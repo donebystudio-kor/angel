@@ -23,6 +23,19 @@ const canonicalUrl = canonical || new URL(Astro.url.pathname, site).href;
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script is:inline>
+      // Full-page (non-transition) navigations should always start at the
+      // top, not wherever the browser's bfcache/scroll-restoration last
+      // left off (e.g. after clicking a footer link). Anchor navigations
+      // (#twin-flame etc.) are left untouched — they keep native jump
+      // behavior since we only reset when there's no hash.
+      if ("scrollRestoration" in history) {
+        history.scrollRestoration = "manual";
+      }
+      if (!location.hash) {
+        window.scrollTo(0, 0);
+      }
+    </script>
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl} />
@@ -130,6 +143,12 @@ const canonicalUrl = canonical || new URL(Astro.url.pathname, site).href;
               <a href="/en/guide/twin-flame-numbers" class="block text-angel-muted hover:text-angel-primary transition-colors">Twin Flame Numbers</a>
             </div>
           </div>
+        </div>
+        <!-- Other languages -->
+        <div class="flex items-center justify-center gap-4 flex-wrap mb-6 text-sm text-angel-muted">
+          <span>View in other languages:</span>
+          <a href="/" class="hover:text-angel-primary transition-colors">🇰🇷 한국어</a>
+          <a href="/ja/" class="hover:text-angel-primary transition-colors">🇯🇵 日本語</a>
         </div>
         <div class="border-t border-angel-border pt-6 text-center text-sm text-angel-muted">
           <nav class="flex items-center justify-center gap-4 flex-wrap mb-3">
