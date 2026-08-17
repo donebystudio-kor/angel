@@ -1,14 +1,16 @@
-// Skeleton Japanese dataset for the /ja/ section (Phase 2: structure only,
-// no authored content yet). Unlike angels.en.ts, this file intentionally
-// imports the number/category list from the Korean dataset (angels.ts) —
-// NOT its content — purely to guarantee /ja/ has exactly one placeholder
-// entry per canonical angel number (521, matching KO). Content fields are
-// all authored later (Phase 3) directly in this file / future
-// angels-ja-batch*.ts files, at which point this import can stay (it only
-// ever supplies `number` + `category`, never text).
-// To roll back the Japanese section entirely: delete this file, the
-// src/pages/ja/ directory, and the JaAngelNumber wiring in autoLink.ts.
+// Japanese dataset for the /ja/ section. Authored entries live in
+// angels-ja-core.ts (and future angels-ja-batch*.ts files), written
+// natively in Japanese — never translated from KO/EN. Unlike angels.en.ts,
+// this file additionally imports the number/category list from the Korean
+// dataset (angels.ts) — NOT its content — purely to guarantee every KO
+// angel number (521) has a /ja/ page, even before it's authored: any
+// number without an authored entry falls back to an empty placeholder
+// (isPlaceholder: true) generated below.
+// To roll back the Japanese section entirely: delete this file,
+// angels-ja-core.ts, the src/pages/ja/ directory, and the JaAngelNumber
+// wiring in autoLink.ts.
 import { ANGEL_NUMBERS } from "./angels";
+import { JA_CORE_NUMBERS } from "./angels-ja-core";
 
 export type JaCategory =
   | "repeat"
@@ -49,10 +51,11 @@ export interface JaAngelNumber {
   manifestation?: string;
 }
 
-// Phase 2 skeleton: one empty-content placeholder per KO angel number,
-// carrying over only the number and the (language-neutral, pattern-based)
-// category. Phase 3 replaces this generated array with authored entries.
-export const JA_ANGEL_NUMBERS: JaAngelNumber[] = ANGEL_NUMBERS.map((a) => ({
+// One empty-content placeholder per KO angel number, carrying over only
+// the number and the (language-neutral, pattern-based) category. Authored
+// entries (JA_CORE_NUMBERS, growing batch by batch) take priority over
+// their generated placeholder counterpart via the dedup below.
+const JA_PLACEHOLDER_NUMBERS: JaAngelNumber[] = ANGEL_NUMBERS.map((a) => ({
   number: a.number,
   titleHook: "",
   summary: "",
@@ -65,6 +68,15 @@ export const JA_ANGEL_NUMBERS: JaAngelNumber[] = ANGEL_NUMBERS.map((a) => ({
   faq: [],
   isPlaceholder: true,
 }));
+
+const JA_ALL_NUMBERS: JaAngelNumber[] = [...JA_CORE_NUMBERS, ...JA_PLACEHOLDER_NUMBERS];
+
+const jaSeen = new Set<string>();
+export const JA_ANGEL_NUMBERS: JaAngelNumber[] = JA_ALL_NUMBERS.filter((a) => {
+  if (jaSeen.has(a.number)) return false;
+  jaSeen.add(a.number);
+  return true;
+});
 
 export function getJaAngelNumber(number: string): JaAngelNumber | undefined {
   return JA_ANGEL_NUMBERS.find((a) => a.number === number);
