@@ -1,0 +1,59 @@
+---
+// Japanese-only page. Self-canonical, no Korean counterpart.
+import LayoutJa from "../../layouts/LayoutJa.astro";
+import { SITE_URL } from "../../site";
+
+const site = SITE_URL;
+const title = "AngelDoneについて";
+const description = "AngelDoneがどんなサイトか、なぜ作られたのか、エンジェルナンバーへの向き合い方について。";
+const url = `${site}/ja/about`;
+---
+
+<LayoutJa title={title} description={description} canonical={url}>
+  <article class="max-w-3xl mx-auto px-4 py-12">
+    <nav class="text-sm text-angel-muted mb-6 flex items-center gap-2 flex-wrap">
+      <a href="/ja/" class="hover:text-angel-primary transition-colors">ホーム</a>
+      <span>›</span>
+      <span class="text-angel-text">サイトについて</span>
+    </nav>
+
+    <h1 class="text-3xl md:text-4xl font-bold text-angel-text mb-8">AngelDoneについて</h1>
+
+    <div class="space-y-5 text-angel-muted leading-relaxed">
+      <p>
+        AngelDoneは、よくある話と同じきっかけから生まれました――偶然と片付けるには何度も111を目にするように
+        なり、ネット上の説明に納得できなかったことです。エンジェルナンバーについての記事の多くは、同じような
+        情報源をなぞって少し言い換えただけのものが目立ちます。私たちは、具体的な状況や似た数字同士の
+        本当の違い、そして実際に検索されている疑問への率直な答えを、もっと中身のある形で届けたいと考えました。
+      </p>
+      <p>
+        当サイトは宗教的な立場ではなく、数秘術(ヌメロロジー)の視点から数字を扱っています。「この数字を見れば
+        必ずこうなる」「見たら悪いことが起きる」といった断定的な表現は使いません。数秘術の伝統では、数字は
+        予言というより「きっかけ」に近いものです――どこかから一字一句のメッセージが降りてくるのではなく、
+        自分の中にあった考えのパターンや、迷っていた決断に気づかせてくれるサインだと捉えています。
+      </p>
+      <p>
+        だからこそ、不当なイメージを背負っている数字については、はっきりお伝えするようにしています。
+        <a href="/ja/number/666" class="text-angel-primary hover:text-angel-accent">666</a>
+        はポップカルチャーでは不吉な数字として扱われがちですが、数秘術では昔からバランスと責任を意味する
+        数字です。話題性のために怖がらせるより、事実をそのまま説明することを大切にしています。
+      </p>
+      <p>
+        サイト内のすべての数字ページは同じ構成になっています――恋愛・金運・仕事・スピリチュアルの面での
+        意味と、今日からできる具体的な行動を1つ添えています。ツインレイとのつながりが強い数字については、
+        <a href="/ja/category/twinflame" class="text-angel-primary hover:text-angel-accent">ツインレイカテゴリー</a>
+        でまとめて確認できます。
+      </p>
+      <p>
+        当サイトは小規模で個人運営のプロジェクトであり、現在も掲載する数字を少しずつ増やしています。
+        分かりにくい点や誤りに気づいた場合は、ぜひ教えてください。
+        <a href="/ja/contact" class="text-angel-primary hover:text-angel-accent">お問い合わせページ</a>
+        からご連絡いただけます。
+      </p>
+    </div>
+
+    <div class="mt-10 text-center">
+      <a href="/ja/" class="text-angel-primary hover:text-angel-accent transition-colors text-sm">← ホームに戻る</a>
+    </div>
+  </article>
+</LayoutJa>

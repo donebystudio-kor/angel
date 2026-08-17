@@ -1,0 +1,181 @@
+---
+// Isolated Japanese route. Reads only from src/data/angels.ja.ts — never
+// touches the Korean or English datasets/pages. Safe to delete this whole
+// src/pages/ja/ directory to roll back the Japanese section.
+import LayoutJa from "../../../layouts/LayoutJa.astro";
+import ShareButtonsJa from "../../../components/ShareButtonsJa.astro";
+import { JA_ANGEL_NUMBERS } from "../../../data/angels.ja";
+import { hasEnAngelNumber } from "../../../data/angels.en";
+import { SITE_URL } from "../../../site";
+import { linkMeaning, linkFaqAnswer, makeCounter } from "../../../lib/autoLink";
+import { getRelatedNumbers } from "../../../lib/relatedNumbers";
+
+export function getStaticPaths() {
+  return JA_ANGEL_NUMBERS.map((a) => ({
+    params: { number: a.number },
+    props: { angel: a },
+  }));
+}
+
+const { angel } = Astro.props;
+const site = SITE_URL;
+
+// ── Component numbers ─────────────────────────────────────────────
+const JA_VALID = new Set(JA_ANGEL_NUMBERS.map((a) => a.number));
+const digits = [...new Set(angel.number.split(""))];
+const composingNumbers = JA_ANGEL_NUMBERS.filter(
+  (a) => digits.includes(a.number) && a.number !== angel.number && JA_VALID.has(a.number)
+);
+
+const title = angel.titleHook
+  ? `エンジェルナンバー${angel.number}の意味: ${angel.titleHook}`
+  : `エンジェルナンバー${angel.number}の意味`;
+const description = `エンジェルナンバー${angel.number}が伝える恋愛・金運・仕事・スピリチュアル・ツインレイの意味。${angel.summary}`;
+const url = `${site}/ja/number/${angel.number}`;
+// JA is generated 1:1 from the KO number list (see angels.ja.ts), so a KO
+// counterpart always exists.
+const koUrl = `${site}/number/${angel.number}`;
+const enUrl = hasEnAngelNumber(angel.number) ? `${site}/en/number/${angel.number}` : undefined;
+
+// ── Auto-link setup ───────────────────────────────────────────────
+const BASE_URL = "/ja/number/";
+const counter = makeCounter(8);
+
+const linkedMeaning = linkMeaning(angel.meaning, angel.number, JA_VALID, BASE_URL, counter);
+const linkedFaq = angel.faq?.map((f: { q: string; a: string }) => ({
+  q: f.q,
+  a: linkFaqAnswer(f.a, angel.number, JA_VALID, BASE_URL, counter, f.q),
+}));
+
+// ── Related numbers panel ─────────────────────────────────────────
+const relatedNums = getRelatedNumbers(angel.number, JA_VALID);
+const relatedAngels = relatedNums
+  .map((n) => JA_ANGEL_NUMBERS.find((a) => a.number === n))
+  .filter(Boolean);
+
+// ── Sections (meaning gets auto-links; other sections stay plain) ──
+const sections = [
+  { id: "meaning",       icon: "💜", title: "数字の意味",           linked: linkedMeaning },
+  { id: "love",          icon: "❤️", title: "恋愛",                content: angel.love },
+  ...(angel.money        ? [{ id: "money",         icon: "💰", title: "金運",             content: angel.money }] : []),
+  { id: "career",        icon: "💼", title: "仕事",                content: angel.career },
+  ...(angel.twinflame    ? [{ id: "twin-flame",    icon: "🔥", title: "ツインレイ",       content: angel.twinflame }] : []),
+  ...(angel.manifestation? [{ id: "manifestation", icon: "✨", title: "引き寄せ",         content: angel.manifestation }] : []),
+  { id: "spiritual",     icon: "🔮", title: "スピリチュアルメッセージ", content: angel.spiritual },
+  { id: "what-to-do",    icon: "⚡", title: "今すべきこと",         content: angel.action },
+];
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: title,
+  description,
+  url,
+  publisher: { "@type": "Organization", name: "AngelDone" },
+  mainEntityOfPage: { "@type": "WebPage", "@id": url },
+};
+
+const faqJsonLd = angel.faq && angel.faq.length > 0 ? {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: angel.faq.map((f: { q: string; a: string }) => ({
+    "@type": "Question",
+    name: f.q,
+    acceptedAnswer: { "@type": "Answer", text: f.a },
+  })),
+} : null;
+---
+
+<LayoutJa title={title} description={description} canonical={url} koUrl={koUrl} enUrl={enUrl}>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+    {faqJsonLd && <script type="application/ld+json" set:html={JSON.stringify(faqJsonLd)} />}
+  </Fragment>
+
+  <article class="max-w-3xl mx-auto px-4 py-12">
+    <nav class="text-sm text-angel-muted mb-6 flex items-center gap-2 flex-wrap">
+      <a href="/ja/" class="hover:text-angel-primary transition-colors">ホーム</a>
+      <span>›</span>
+      <span class="text-angel-text">{angel.number}</span>
+    </nav>
+
+    {angel.isPlaceholder && (
+      <div class="bg-angel-accent/10 border border-angel-accent/30 rounded-xl px-4 py-3 mb-6 text-sm text-angel-accent">
+        このページは現在準備中です。詳しい内容は近日公開予定です。
+      </div>
+    )}
+
+    <div class="text-center mb-10">
+      <h1 class="text-3xl md:text-4xl font-bold text-angel-text mb-3">
+        👼 エンジェルナンバー {angel.number}
+      </h1>
+      <p class="text-lg text-angel-accent font-medium">{angel.summary}</p>
+    </div>
+
+    <div class="space-y-6">
+      {sections.map((s) => (
+        <section class="bg-angel-card border border-angel-border rounded-2xl p-6">
+          <h2 id={s.id} class="text-lg font-bold text-angel-text mb-3">
+            {s.icon} {s.title}
+          </h2>
+          {"linked" in s
+            ? <p class="text-angel-muted leading-relaxed" set:html={s.linked} />
+            : <p class="text-angel-muted leading-relaxed">{s.content}</p>
+          }
+        </section>
+      ))}
+    </div>
+
+    {linkedFaq && linkedFaq.length > 0 && (
+      <section class="mt-8">
+        <h2 id="faq" class="text-xl font-bold text-angel-text mb-4">❓ よくある質問</h2>
+        <div class="space-y-3">
+          {linkedFaq.map((f) => (
+            <details class="bg-angel-card border border-angel-border rounded-2xl p-5 group">
+              <summary class="font-semibold text-angel-text cursor-pointer list-none flex items-center justify-between text-sm">
+                {f.q}
+                <span class="text-angel-muted group-open:rotate-180 transition-transform ml-2 shrink-0">▼</span>
+              </summary>
+              <p class="mt-3 text-angel-muted text-sm leading-relaxed" set:html={f.a} />
+            </details>
+          ))}
+        </div>
+      </section>
+    )}
+
+    {composingNumbers.length > 0 && (
+      <section class="mt-8 bg-angel-card border border-angel-border rounded-2xl p-6">
+        <h2 class="text-lg font-bold text-angel-text mb-3">🔢 構成数字の意味</h2>
+        <p class="text-angel-muted text-sm mb-4">{angel.number}を構成する基本数字のエネルギー:</p>
+        <div class="space-y-3">
+          {composingNumbers.map((c) => (
+            <a href={`/ja/number/${c.number}`} class="block p-3 bg-angel-bg/50 rounded-xl hover:bg-angel-border/30 transition-colors">
+              <span class="font-bold text-angel-primary">{c.number}</span>
+              <span class="text-angel-muted text-sm ml-2">— {c.summary}</span>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    {relatedAngels.length > 0 && (
+      <section class="mt-8 bg-angel-card border border-angel-border rounded-2xl p-6">
+        <h2 class="text-lg font-bold text-angel-text mb-3">🔗 関連するエンジェルナンバー</h2>
+        <div class="grid grid-cols-3 gap-3">
+          {relatedAngels.map((a) => (
+            <a href={`/ja/number/${a!.number}`} class="block p-3 bg-angel-bg/50 rounded-xl hover:bg-angel-border/30 transition-colors text-center">
+              <div class="font-bold text-angel-primary">{a!.number}</div>
+              <div class="text-xs text-angel-muted mt-1 line-clamp-2">{a!.summary}</div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <ShareButtonsJa title={title} url={url} />
+
+    <div class="mt-10 text-center">
+      <a href="/ja/" class="text-angel-primary hover:text-angel-accent transition-colors text-sm">← すべてのエンジェルナンバーを見る</a>
+    </div>
+  </article>
+</LayoutJa>

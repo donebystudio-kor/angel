@@ -1,0 +1,146 @@
+---
+// Japanese-only layout for the /ja/ section. Isolated from Layout.astro and
+// LayoutEn.astro — safe to delete this file (and src/pages/ja/) without
+// touching the Korean or English sites.
+import "../styles/global.css";
+import SearchBarJa from "../components/SearchBarJa.astro";
+import { SITE_URL } from "../site";
+
+interface Props {
+  title: string;
+  description: string;
+  canonical?: string;
+  /** The Korean counterpart of this page, if one exists. */
+  koUrl?: string;
+  /** The English counterpart of this page, if one exists. */
+  enUrl?: string;
+}
+
+const { title, description, canonical, koUrl, enUrl } = Astro.props;
+const site = SITE_URL;
+const canonicalUrl = canonical || new URL(Astro.url.pathname, site).href;
+---
+
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+    {koUrl && <link rel="alternate" hreflang="ko" href={koUrl} />}
+    {enUrl && <link rel="alternate" hreflang="en" href={enUrl} />}
+    <link rel="alternate" hreflang="ja" href={canonicalUrl} />
+    <link rel="alternate" hreflang="x-default" href={enUrl || canonicalUrl} />
+    <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48x48.png" />
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192x192.png" />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:locale" content="ja_JP" />
+    <meta property="og:site_name" content="AngelDone" />
+    <meta name="google-adsense-account" content="ca-pub-7048160642416104" />
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7048160642416104" crossorigin="anonymous"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-46Z6P1GDG5"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-46Z6P1GDG5');
+    </script>
+    <slot name="head" />
+  </head>
+  <body class="min-h-screen bg-angel-bg text-angel-text antialiased">
+    <header class="bg-angel-card/80 backdrop-blur-sm border-b border-angel-border sticky top-0 z-50">
+      <div class="max-w-4xl mx-auto px-4 h-14 flex items-center justify-between">
+        <a href="/ja/" class="flex items-center gap-2 font-bold text-lg text-angel-accent hover:text-angel-primary transition-colors">
+          👼 AngelDone
+        </a>
+        <nav class="hidden md:flex items-center gap-3 text-sm text-angel-muted">
+          <a href="/ja/category/love" class="hover:text-angel-primary transition-colors">❤️ 恋愛</a>
+          <a href="/ja/category/money" class="hover:text-angel-primary transition-colors">💰 金運</a>
+          <a href="/ja/category/career" class="hover:text-angel-primary transition-colors">💼 仕事</a>
+          <a href="/ja/category/spiritual" class="hover:text-angel-primary transition-colors">🔮 スピリチュアル</a>
+          <a href="/ja/category/twinflame" class="hover:text-angel-primary transition-colors">🔥 ツインレイ</a>
+        </nav>
+        <button id="ja-mobile-menu-btn" class="md:hidden text-angel-muted hover:text-angel-primary text-xl" aria-label="メニューを開く">☰</button>
+      </div>
+      <nav id="ja-mobile-menu" class="hidden md:hidden border-t border-angel-border bg-angel-card/95 backdrop-blur-sm">
+        <div class="max-w-4xl mx-auto px-4 py-3 flex flex-col gap-2 text-sm">
+          <a href="/ja/category/love" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">❤️ 恋愛</a>
+          <a href="/ja/category/money" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">💰 金運</a>
+          <a href="/ja/category/career" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">💼 仕事</a>
+          <a href="/ja/category/spiritual" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">🔮 スピリチュアル</a>
+          <a href="/ja/category/twinflame" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">🔥 ツインレイ</a>
+        </div>
+      </nav>
+    </header>
+    <script>
+      const btn = document.getElementById('ja-mobile-menu-btn');
+      const menu = document.getElementById('ja-mobile-menu');
+      btn?.addEventListener('click', () => menu?.classList.toggle('hidden'));
+    </script>
+    <main>
+      <slot />
+    </main>
+    <footer class="bg-angel-card border-t border-angel-border mt-16">
+      <div class="max-w-4xl mx-auto px-4 py-10">
+        <!-- フッター検索 -->
+        <div class="mb-8">
+          <p class="text-center text-sm text-angel-muted mb-3">エンジェルナンバーを検索</p>
+          <SearchBarJa />
+        </div>
+        <!-- フッターリンク -->
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-6 mb-8 text-sm">
+          <div>
+            <h4 class="font-semibold text-angel-accent mb-2">人気の数字</h4>
+            <div class="space-y-1">
+              <a href="/ja/number/111" class="block text-angel-muted hover:text-angel-primary transition-colors">111</a>
+              <a href="/ja/number/222" class="block text-angel-muted hover:text-angel-primary transition-colors">222</a>
+              <a href="/ja/number/333" class="block text-angel-muted hover:text-angel-primary transition-colors">333</a>
+              <a href="/ja/number/444" class="block text-angel-muted hover:text-angel-primary transition-colors">444</a>
+            </div>
+          </div>
+          <div>
+            <h4 class="font-semibold text-angel-accent mb-2">その他の数字</h4>
+            <div class="space-y-1">
+              <a href="/ja/number/555" class="block text-angel-muted hover:text-angel-primary transition-colors">555</a>
+              <a href="/ja/number/777" class="block text-angel-muted hover:text-angel-primary transition-colors">777</a>
+              <a href="/ja/number/888" class="block text-angel-muted hover:text-angel-primary transition-colors">888</a>
+              <a href="/ja/number/1111" class="block text-angel-muted hover:text-angel-primary transition-colors">1111</a>
+            </div>
+          </div>
+          <div>
+            <h4 class="font-semibold text-angel-accent mb-2">カテゴリー</h4>
+            <div class="space-y-1">
+              <a href="/ja/category/love" class="block text-angel-muted hover:text-angel-primary transition-colors">❤️ 恋愛</a>
+              <a href="/ja/category/money" class="block text-angel-muted hover:text-angel-primary transition-colors">💰 金運</a>
+              <a href="/ja/category/career" class="block text-angel-muted hover:text-angel-primary transition-colors">💼 仕事</a>
+              <a href="/ja/category/twinflame" class="block text-angel-muted hover:text-angel-primary transition-colors">🔥 ツインレイ</a>
+            </div>
+          </div>
+          <div>
+            <h4 class="font-semibold text-angel-accent mb-2">他の言語</h4>
+            <div class="space-y-1">
+              <a href="/" class="block text-angel-muted hover:text-angel-primary transition-colors">🇰🇷 한국어</a>
+              <a href="/en/" class="block text-angel-muted hover:text-angel-primary transition-colors">🇺🇸 English</a>
+            </div>
+          </div>
+        </div>
+        <div class="border-t border-angel-border pt-6 text-center text-sm text-angel-muted">
+          <nav class="flex items-center justify-center gap-4 flex-wrap mb-3">
+            <a href="/ja/about" class="hover:text-angel-primary transition-colors">サイトについて</a>
+            <a href="/ja/contact" class="hover:text-angel-primary transition-colors">お問い合わせ</a>
+            <a href="/ja/privacy" class="hover:text-angel-primary transition-colors">プライバシーポリシー</a>
+          </nav>
+          <p>© 2026 AngelDone. 数字が伝える宇宙からのメッセージ。</p>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

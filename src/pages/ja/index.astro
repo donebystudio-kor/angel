@@ -1,0 +1,91 @@
+---
+// Japanese landing page. Isolated under src/pages/ja/ — reads only from
+// src/data/angels.ja.ts, so it only ever lists numbers that actually have
+// a published /ja/number/ page. Safe to delete without touching KO/EN.
+import LayoutJa from "../../layouts/LayoutJa.astro";
+import SearchBarJa from "../../components/SearchBarJa.astro";
+import { JA_ANGEL_NUMBERS, getJaDisplayGroup, type JaDisplayGroup } from "../../data/angels.ja";
+import { SITE_URL } from "../../site";
+
+const site = SITE_URL;
+const title = "エンジェルナンバー — 意味・引き寄せ・ツインレイガイド";
+const description =
+  "よく見る数字が何を意味するのか、恋愛・金運・仕事・引き寄せ・ツインレイの観点から確認できます。";
+
+const POPULAR_NUMBERS = ["111", "1111", "222", "444", "777", "333", "717", "1212"];
+
+const popular = POPULAR_NUMBERS.map((n) => JA_ANGEL_NUMBERS.find((a) => a.number === n)).filter(
+  (a): a is (typeof JA_ANGEL_NUMBERS)[number] => Boolean(a)
+);
+
+const groupOrder: { group: JaDisplayGroup; label: string; desc: string }[] = [
+  { group: "single",      label: "一桁の数字",   desc: "0から9までの基本となる数字。" },
+  { group: "repeat",      label: "ゾロ目",       desc: "111、222、333など、同じ数字が並ぶパターン。" },
+  { group: "mirror",      label: "ミラーナンバー", desc: "717、1221、3443など、回文のように並ぶ数字。" },
+  { group: "sequence",    label: "連続数字",     desc: "123、456、789など、昇順・降順に並ぶ数字。" },
+  { group: "time",        label: "時刻ナンバー",  desc: "0101、1212、2222など、時計の表示に似た並び。" },
+  { group: "double",      label: "ダブルナンバー", desc: "0808、0101のような、数字のペアが繰り返される並び。" },
+  { group: "two_digit",   label: "2桁の数字",    desc: "10から99までの2桁のエンジェルナンバー。" },
+  { group: "three_digit", label: "3桁の数字",    desc: "100から999までの3桁のエンジェルナンバー。" },
+  { group: "round",       label: "キリ番",       desc: "100、200、1000など、節目となる数字。" },
+  { group: "other",       label: "その他",       desc: "上記のパターンに当てはまらない数字。" },
+];
+
+const sortedNumbers = (nums: typeof JA_ANGEL_NUMBERS) =>
+  [...nums].sort((a, b) => Number(a.number) - Number(b.number));
+
+const groups = groupOrder
+  .map((g) => ({
+    label: g.label,
+    desc: g.desc,
+    items: sortedNumbers(JA_ANGEL_NUMBERS.filter((a) => getJaDisplayGroup(a.number, a.category) === g.group)),
+  }))
+  .filter((g) => g.items.length > 0);
+---
+
+<LayoutJa title={title} description={description} canonical={`${site}/ja/`} koUrl={`${site}/`} enUrl={`${site}/en/`}>
+  <div class="max-w-3xl mx-auto px-4 py-12">
+    <div class="text-center mb-8">
+      <h1 class="text-3xl md:text-4xl font-bold text-angel-text mb-3">👼 エンジェルナンバー</h1>
+      <p class="text-lg text-angel-muted">よく見る数字が伝えるメッセージを調べてみましょう。</p>
+    </div>
+
+    <div class="mb-12">
+      <SearchBarJa />
+    </div>
+
+    <section class="mb-12">
+      <h2 class="text-lg font-bold text-angel-text mb-3">人気のエンジェルナンバー</h2>
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
+        {popular.map((a) => (
+          <a
+            href={`/ja/number/${a.number}`}
+            class="bg-angel-card border border-angel-border rounded-xl p-4 hover:shadow-md hover:shadow-angel-glow hover:border-angel-primary/40 transition-all"
+          >
+            <div class="text-xl font-bold text-angel-primary">{a.number}</div>
+            <div class="text-xs text-angel-muted mt-1 line-clamp-2">{a.summary}</div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    {groups.map((group) => (
+      <section class="mb-8">
+        <div class="mb-3">
+          <h2 class="text-lg font-bold text-angel-text">{group.label}</h2>
+          <p class="text-xs text-angel-muted mt-0.5">{group.desc}</p>
+        </div>
+        <div class="flex flex-wrap gap-2">
+          {group.items.map((a) => (
+            <a
+              href={`/ja/number/${a.number}`}
+              class="px-3 py-1.5 bg-angel-card border border-angel-border rounded-full text-sm text-angel-text hover:bg-angel-primary hover:text-white transition-colors"
+            >
+              {a.number}
+            </a>
+          ))}
+        </div>
+      </section>
+    ))}
+  </div>
+</LayoutJa>

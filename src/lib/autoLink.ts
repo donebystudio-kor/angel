@@ -32,7 +32,7 @@ const NUM_RE = /\b(\d{2,5})\b/g;
  * the number is a quantity/unit, not an angel number reference.
  */
 const UNIT_AFTER_RE =
-  /^(?:st|nd|rd|th|[-\/]\d|\s*(?:times?|minutes?|hours?|days?|weeks?|months?|years?|%|개|분|시간|일|주|개월|년|번|회|명|개월간|일간)\b)/i;
+  /^(?:st|nd|rd|th|[-\/]\d|\s*(?:times?|minutes?|hours?|days?|weeks?|months?|years?|%|개|분|시간|일|주|개월|년|번|회|명|개월간|일간|個|分間|時間|日間|週間|ヶ月|カ月|年間|回|人|才|歳)\b)/i;
 
 /** EN comparison sentence keywords. */
 const EN_COMPARISON_RE =
@@ -41,6 +41,10 @@ const EN_COMPARISON_RE =
 /** KO comparison sentence keywords. */
 const KO_COMPARISON_RE =
   /차이|다른가|다르[게냐]|비교|에\s*비해|보다\s*(?:더|덜)|반면|대신|와\s*달리|과\s*달리/;
+
+/** JA comparison sentence keywords. */
+const JA_COMPARISON_RE =
+  /違い|とは違|比較|に対して|より(?:も)?|一方|代わりに|似てい|ではなく/;
 
 // ── Core linker ───────────────────────────────────────────────────
 
@@ -131,8 +135,11 @@ export function linkFaqAnswer(
 ): string {
   if (counter.count >= counter.max) return escapeHtml(text);
 
-  const isKo = !baseUrl.startsWith("/en/");
-  const compRe = isKo ? KO_COMPARISON_RE : EN_COMPARISON_RE;
+  const compRe = baseUrl.startsWith("/ja/")
+    ? JA_COMPARISON_RE
+    : baseUrl.startsWith("/en/")
+      ? EN_COMPARISON_RE
+      : KO_COMPARISON_RE;
 
   // If the question itself is a comparison question, link all answer sentences
   const questionIsComparison = questionText !== "" && compRe.test(questionText);

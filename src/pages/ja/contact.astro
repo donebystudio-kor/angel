@@ -1,0 +1,49 @@
+---
+// Japanese-only page. Self-canonical, no Korean counterpart.
+import LayoutJa from "../../layouts/LayoutJa.astro";
+import { SITE_URL } from "../../site";
+
+const site = SITE_URL;
+const title = "お問い合わせ | AngelDone";
+const description = "AngelDoneへのお問い合わせ方法。";
+const url = `${site}/ja/contact`;
+
+const contactEmail = "donebystudio@gmail.com";
+---
+
+<LayoutJa title={title} description={description} canonical={url}>
+  <article class="max-w-3xl mx-auto px-4 py-12">
+    <nav class="text-sm text-angel-muted mb-6 flex items-center gap-2 flex-wrap">
+      <a href="/ja/" class="hover:text-angel-primary transition-colors">ホーム</a>
+      <span>›</span>
+      <span class="text-angel-text">お問い合わせ</span>
+    </nav>
+
+    <h1 class="text-3xl md:text-4xl font-bold text-angel-text mb-8">お問い合わせ</h1>
+
+    <div class="space-y-5 text-angel-muted leading-relaxed">
+      <p>
+        ページの内容に誤りを見つけた、扱ってほしい数字がある、サイトの使い方について質問がある――
+        どんな内容でもお気軽にご連絡ください。
+      </p>
+      <p>
+        一番確実な連絡方法はメールです。
+      </p>
+      <p class="bg-angel-card border border-angel-border rounded-2xl p-6 text-center">
+        <a href={`mailto:${contactEmail}`} class="text-angel-primary hover:text-angel-accent text-lg font-semibold transition-colors">
+          {contactEmail}
+        </a>
+      </p>
+      <p>
+        いただいたメッセージはすべて目を通していますが、小規模で個人運営のサイトのため、返信までお時間を
+        いただく場合があります。データの取り扱いや広告クッキーについては{" "}
+        <a href="/ja/privacy" class="text-angel-primary hover:text-angel-accent">プライバシーポリシー</a>
+        をご覧ください。
+      </p>
+    </div>
+
+    <div class="mt-10 text-center">
+      <a href="/ja/" class="text-angel-primary hover:text-angel-accent transition-colors text-sm">← ホームに戻る</a>
+    </div>
+  </article>
+</LayoutJa>

@@ -1,0 +1,64 @@
+---
+import LayoutJa from "../../../layouts/LayoutJa.astro";
+import { JA_TOPICS, getJaTopicNumbers } from "../../../data/topics.ja";
+import { SITE_URL } from "../../../site";
+
+export function getStaticPaths() {
+  return JA_TOPICS.map((t) => ({
+    params: { slug: t.slug },
+    props: { topic: t },
+  }));
+}
+
+const { topic } = Astro.props;
+const numbers = getJaTopicNumbers(topic.slug);
+const site = SITE_URL;
+const canonical = `${site}/ja/category/${topic.slug}`;
+// KO has no twinflame topic; EN has all 5.
+const koUrl = topic.slug !== "twinflame" ? `${site}/category/${topic.slug}` : undefined;
+const enUrl = `${site}/en/category/${topic.slug}`;
+
+const title = `${topic.name} — エンジェルナンバーガイド | AngelDone`;
+const description = topic.description;
+---
+
+<LayoutJa title={title} description={description} canonical={canonical} koUrl={koUrl} enUrl={enUrl}>
+  <section class="max-w-4xl mx-auto px-4 py-12">
+    <div class="text-center mb-10">
+      <div class="text-4xl mb-3">{topic.emoji}</div>
+      <h1 class="text-3xl font-bold text-angel-text mb-3">{topic.name}</h1>
+      <p class="text-angel-muted max-w-xl mx-auto">{topic.description}</p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      {numbers.map((a) => {
+        const snippet = topic.field === "twinflame"
+          ? (a.twinflame ?? a.spiritual)
+          : topic.field === "money"
+            ? (a.money ?? a.career)
+            : a[topic.field as "love" | "career" | "spiritual"];
+        return (
+          <a href={`/ja/number/${a.number}`} class="bg-angel-card border border-angel-border rounded-2xl p-5 hover:border-angel-primary/50 hover:shadow-lg hover:shadow-angel-glow transition-all group">
+            <div class="flex items-start justify-between mb-2">
+              <span class="text-2xl font-bold text-angel-primary group-hover:text-angel-accent transition-colors">{a.number}</span>
+            </div>
+            <h3 class="font-semibold text-angel-text text-sm mb-1">{a.summary}</h3>
+            <p class="text-xs text-angel-muted line-clamp-2">{snippet}</p>
+          </a>
+        );
+      })}
+    </div>
+
+    <!-- 他のカテゴリー -->
+    <div class="mt-12">
+      <h2 class="text-lg font-bold text-angel-accent mb-4">他のカテゴリーを見る</h2>
+      <div class="flex flex-wrap gap-3">
+        {JA_TOPICS.filter((t) => t.slug !== topic.slug).map((t) => (
+          <a href={`/ja/category/${t.slug}`} class="px-4 py-2 bg-angel-card border border-angel-border rounded-full text-sm text-angel-muted hover:text-angel-primary hover:border-angel-primary/50 transition-colors">
+            {t.emoji} {t.name}
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</LayoutJa>
