@@ -159,7 +159,7 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     titleHook: "Growth Within Home's Walls",
     summary: "Spiritual growth specifically happening within the boundary and safety of home",
     meaning:
-      "6776 sandwiches double 7 (insight, wisdom, spiritual growth) between two 6s (home, care), describing genuine spiritual or personal growth that's happening specifically within the safe boundary of home, rather than requiring you to leave it or seek growth elsewhere. This favors recognizing that a domestic, ordinary setting can be exactly where real inner development is taking place right now.",
+      "6776's 6s (home, care) open and close around double 7 (insight, wisdom, spiritual growth), describing genuine spiritual or personal growth that's happening specifically within the safe boundary of home, rather than requiring you to leave it or seek growth elsewhere. This favors recognizing that a domestic, ordinary setting can be exactly where real inner development is taking place right now.",
     love: "Single: real growth in self-understanding is happening for you right now within the safety of your own home life, not out in the dating world — trust that this quieter, domestic growth counts too. Couple: real growth is happening within the safety of your shared home life together, not just through dramatic external events.",
     career: "If your growth feels slow because it's happening quietly at home rather than through visible career milestones, this number confirms that domestic-context growth is real and valuable too.",
     money: "Financial wisdom is developing specifically through managing home and family finances, a legitimate, real form of growth, not a lesser substitute for more visible achievement.",
@@ -195,7 +195,7 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     titleHook: "Home's Wealth Grows Solid",
     summary: "Home's material foundation specifically solidifying, not just improving temporarily",
     meaning:
-      "6886 sandwiches double 8 (abundance) between two 6s (home, care), describing home's material foundation specifically becoming solid and lasting, rather than a temporary improvement. Distinct from 8448's framing of abundance building on already-stable foundation generally, 6886 is specifically domestic: household finances, property, family resources, are settling into genuine, durable solidity right now.",
+      "6886 places double 8 (abundance) at the center of two 6s (home, care), describing home's material foundation specifically becoming solid and lasting, rather than a temporary improvement. Distinct from 8448's framing of abundance building on already-stable foundation generally, 6886 is specifically domestic: household finances, property, family resources, are settling into genuine, durable solidity right now.",
     love: "Single: your personal financial foundation, savings, stability, is solidifying in a way that will genuinely support a future shared home, not just a temporary upswing. Couple: your household's material foundation is becoming genuinely solid and lasting right now, worth recognizing as durable, not just a good month.",
     career: "If your work supports household finances directly, recognize that the resulting stability is becoming genuinely durable right now, not a temporary high point.",
     money: "Household or family financial foundation is solidifying in a lasting way right now — this favors treating current gains as a durable base to build on, not a temporary windfall to spend freely.",
@@ -231,7 +231,7 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     titleHook: "It's Okay To Put It Down",
     summary: "Permission to release a burden you've been carrying, specifically at home",
     meaning:
-      "6996 sandwiches double 9 (completion) between two 6s (home, care), offering specific permission to put down a burden or responsibility you've been carrying at home, rather than continuing to hold it out of obligation after its real purpose has finished. This favors recognizing when a caregiving role or home-based duty has genuinely run its course, even if letting go feels uncomfortable.",
+      "6996's two 6s (home, care) frame double 9 (completion), offering specific permission to put down a burden or responsibility you've been carrying at home, rather than continuing to hold it out of obligation after its real purpose has finished. This favors recognizing when a caregiving role or home-based duty has genuinely run its course, even if letting go feels uncomfortable.",
     love: "Single: release a sense of responsibility for someone else's happiness that isn't actually yours to carry anymore, especially one rooted in an old family dynamic. Couple: release an old responsibility or role within the relationship that's run its course, rather than continuing to carry it simply because you always have.",
     career: "If a work responsibility has bled into home life beyond its useful purpose, this favors consciously setting it down rather than continuing to carry it out of habit.",
     money: "Release a financial responsibility for someone else that's genuinely run its course, rather than continuing to carry it out of guilt or old obligation.",
@@ -303,7 +303,7 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     titleHook: "Turn Insight Into Action",
     summary: "The specific instruction to act on an answer intuition has already found",
     meaning:
-      "7447 sandwiches double 4 (foundation, stability, groundedness) between two 7s (insight, intuition), carrying a specific instruction: take the answer intuition has already found and build it into concrete, grounded action, rather than continuing to sit with the insight. Distinct from 474's framing of foundation holding because it's built on verified understanding, 7447 is more directive: the insight is treated as already sufficient, and the task now is construction.",
+      "7447's outer 7s (insight, intuition) hold double 4 (foundation, stability, groundedness), carrying a specific instruction: take the answer intuition has already found and build it into concrete, grounded action, rather than continuing to sit with the insight. Distinct from 474's framing of foundation holding because it's built on verified understanding, 7447 is more directive: the insight is treated as already sufficient, and the task now is construction.",
     love: "Single: you already know, intuitively, what you want from dating — the task now is building concrete steps around that knowing, not continuing to reflect on it further. Couple: act concretely on an intuitive understanding you've already reached about the relationship, rather than continuing to only think about it.",
     career: "Build a concrete plan around a professional insight you've already intuitively settled on, rather than continuing to deliberate — the understanding phase is complete.",
     money: "Build a concrete financial plan around a decision your gut has already settled on, rather than continuing to second-guess it.",
@@ -339,7 +339,7 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     titleHook: "Instinct Anchors Rapid Change",
     summary: "Intuition holding steady and reliable specifically in the middle of fast-moving change",
     meaning:
-      "7557 sandwiches double 5 (change, freedom) between two 7s (insight, intuition), describing intuition that remains steady and trustworthy specifically in the middle of rapid, doubled change, rather than getting scrambled by it. This favors trusting your gut precisely because things are moving fast, not despite the speed — intuition tends to cut through faster than careful analysis can keep up with here.",
+      "7557 wraps double 5 (change, freedom) in 7s (insight, intuition) on both sides, describing intuition that remains steady and trustworthy specifically in the middle of rapid, doubled change, rather than getting scrambled by it. This favors trusting your gut precisely because things are moving fast, not despite the speed — intuition tends to cut through faster than careful analysis can keep up with here.",
     love: "Single: trust your gut read on a fast-moving dating situation, even without time to fully analyze it — the speed doesn't make the instinct less reliable here. Couple: trust your intuitive read on a rapidly shifting situation in the relationship, since careful analysis may not keep pace with how quickly things are changing.",
     career: "Trust your gut read on a fast-moving professional situation, a rapid negotiation, a quick pivot, since intuition can track the change faster than deliberate analysis here.",
     money: "Trust your instinct on a fast-moving financial decision, since the speed of the situation favors a quick, intuitive read over slow, methodical analysis.",
@@ -411,7 +411,7 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     titleHook: "Deep Insight Becomes Wealth",
     summary: "Genuine realization connecting directly to material abundance, not staying merely abstract",
     meaning:
-      "7887 sandwiches double 8 (abundance) between two 7s (insight, wisdom), describing a deep realization that's connecting directly and concretely to material abundance, rather than remaining an abstract or purely emotional insight. This favors recognizing that a genuine understanding you've reached has real, practical financial implications worth acting on, not just appreciating philosophically.",
+      "7887's 7s (insight, wisdom) open and close around double 8 (abundance), describing a deep realization that's connecting directly and concretely to material abundance, rather than remaining an abstract or purely emotional insight. This favors recognizing that a genuine understanding you've reached has real, practical financial implications worth acting on, not just appreciating philosophically.",
     love: "Single: an honest realization about what you actually need in a relationship has real practical implications for your life and resources, worth acting on concretely. Couple: a genuine realization you've reached together about how you want to live has real material implications worth planning around concretely.",
     career: "A genuine professional realization you've reached has real, practical financial implications, worth translating into a concrete career move rather than just an insight to appreciate.",
     money: "A deep realization about your relationship with money is translating directly into concrete financial improvement — trust and act on that connection.",
@@ -447,7 +447,7 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     titleHook: "Wisdom Closes This Chapter",
     summary: "A chapter concluding specifically through genuine understanding, not through time or avoidance",
     meaning:
-      "7997 sandwiches double 9 (completion) between two 7s (insight, wisdom), describing a chapter that's concluding specifically because you've reached genuine understanding of it, rather than simply because enough time has passed. This favors making sense of an ending before considering it truly closed — the wisdom gained is what actually completes the chapter, not the passage of time alone.",
+      "7997 places double 9 (completion) at the center of two 7s (insight, wisdom), describing a chapter that's concluding specifically because you've reached genuine understanding of it, rather than simply because enough time has passed. This favors making sense of an ending before considering it truly closed — the wisdom gained is what actually completes the chapter, not the passage of time alone.",
     love: "Single: a dating chapter closes more completely once you actually understand what it taught you, not just once enough time has passed since it ended. Couple: an old chapter within the relationship reaches genuine closure once you both understand what happened within it, not simply because you've stopped discussing it.",
     career: "A professional chapter closes more completely once you've genuinely understood its lessons, not merely because a new role has begun.",
     money: "A financial chapter reaches real closure once you understand what actually happened within it, not just because the specific situation has technically ended.",
@@ -483,7 +483,7 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     titleHook: "Share It, Learn It Again",
     summary: "Sharing what you've learned specifically produces new learning in return",
     meaning:
-      "9339 sandwiches double 3 (expression, creativity, teaching) between two 9s (completion, mission), describing a specific cycle: sharing or teaching what you've already learned brings new learning back to you in return. This favors treating knowledge as something that grows through active sharing, rather than something to finish accumulating privately before considering it complete.",
+      "9339's two 9s (completion, mission) frame double 3 (expression, creativity, teaching), describing a specific cycle: sharing or teaching what you've already learned brings new learning back to you in return. This favors treating knowledge as something that grows through active sharing, rather than something to finish accumulating privately before considering it complete.",
     love: "Single: share something you've learned from past relationships with a friend going through something similar — that act of sharing will teach you something new about your own experience. Couple: share what you've learned as a couple with others going through something similar, and notice what new understanding that sharing brings back to your own relationship.",
     career: "Share or teach something you've mastered professionally to someone else — the act of explaining it will likely surface new understanding for you as well.",
     money: "Share a financial lesson you've learned with someone who could use it — that act of teaching often clarifies your own understanding further.",
@@ -555,7 +555,7 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     titleHook: "An Era Ends In Rapid Change",
     summary: "A significant era concluding specifically through, not despite, a period of fast-moving change",
     meaning:
-      "9559 sandwiches double 5 (change, freedom) between two 9s (completion, mission), describing a significant era of your life concluding specifically through a period of rapid, doubled change, rather than through a slow, gradual winding-down. This favors recognizing that the fast pace of what's currently happening is itself the mechanism of the ending, not an obstacle delaying a calmer, more gradual conclusion.",
+      "9559's outer 9s (completion, mission) hold double 5 (change, freedom), describing a significant era of your life concluding specifically through a period of rapid, doubled change, rather than through a slow, gradual winding-down. This favors recognizing that the fast pace of what's currently happening is itself the mechanism of the ending, not an obstacle delaying a calmer, more gradual conclusion.",
     love: "Single: a significant chapter of your dating life is concluding through the fast pace of recent change itself, not despite it — trust that the speed is part of how this particular ending works. Couple: if a significant era of the relationship is ending, it's happening through rapid change rather than a slow fade, and that pace is part of the process, not something working against a cleaner ending.",
     career: "A significant professional era is concluding through fast-moving change, a sudden restructuring, a quick pivot, rather than a slow wind-down — trust the pace as part of the ending itself.",
     money: "A significant financial era is concluding through rapid change rather than gradual adjustment — plan for the pace of the ending rather than expecting it to slow down first.",
@@ -591,7 +591,7 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     titleHook: "A Season Of Care Concludes",
     summary: "A period of caregiving reaching genuine completion, opening room for a new role",
     meaning:
-      "9669 sandwiches double 6 (home, care) between two 9s (completion, mission), describing a season of caregiving, for a person, a role, a responsibility, reaching genuine completion, making room for a new role to begin. Distinct from 6996's framing of permission to release a burden, 9669 is broader: it marks the caregiving season itself as having fully run its natural course, not just permission to set something down early.",
+      "9669 wraps double 6 (home, care) in 9s (completion, mission) on both sides, describing a season of caregiving, for a person, a role, a responsibility, reaching genuine completion, making room for a new role to begin. Distinct from 6996's framing of permission to release a burden, 9669 is broader: it marks the caregiving season itself as having fully run its natural course, not just permission to set something down early.",
     love: "Single: a caregiving season, for a family member, a friend, an old partner, has genuinely concluded, opening real room for you to focus on your own needs in a new way. Couple: a specific caregiving role within the relationship, caring for a shared project, a family member, a hard period, has genuinely concluded, opening room for a different kind of role between you now.",
     career: "A caregiving or mentoring role at work has genuinely reached its natural completion, opening room for a different kind of professional role now.",
     money: "A season of financially supporting or caring for someone else has genuinely concluded, opening room for redirecting resources toward a new priority.",
@@ -627,7 +627,7 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     titleHook: "Wisdom Closes This Door",
     summary: "A door genuinely closing specifically through deep realization, not through drifting away from it",
     meaning:
-      "9779 sandwiches double 7 (insight, wisdom) between two 9s (completion, mission), describing a chapter that's closing specifically through deep, genuine realization about it, rather than through gradually drifting away or losing interest. This favors sitting with a chapter long enough to actually understand it fully before considering the door closed — the wisdom gained is precisely what shuts the door properly.",
+      "9779's 9s (completion, mission) open and close around double 7 (insight, wisdom), describing a chapter that's closing specifically through deep, genuine realization about it, rather than through gradually drifting away or losing interest. This favors sitting with a chapter long enough to actually understand it fully before considering the door closed — the wisdom gained is precisely what shuts the door properly.",
     love: "Single: a dating chapter closes with real finality once you've genuinely understood what it was really about, not just once you've stopped thinking about it as often. Couple: an old chapter within the relationship closes with real finality once you both genuinely understand what happened within it, not simply because you've moved past discussing it.",
     career: "A professional chapter closes with real finality once you've genuinely understood its lessons, not simply because your attention has moved elsewhere.",
     money: "A financial chapter closes with real finality once you understand what actually happened within it, not just because it's stopped actively affecting you day to day.",
@@ -663,7 +663,7 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     titleHook: "Completion Brings Abundance",
     summary: "Genuine completion of a chapter directly producing abundance that follows it",
     meaning:
-      "9889 sandwiches double 8 (abundance) between two 9s (completion, mission), describing genuine completion of a chapter as the direct, traceable cause of the abundance that follows it. This favors recognizing that finishing something properly, rather than leaving it loose or abandoning it early, is specifically what makes room for the material or emotional abundance that comes next.",
+      "9889 places double 8 (abundance) at the center of two 9s (completion, mission), describing genuine completion of a chapter as the direct, traceable cause of the abundance that follows it. This favors recognizing that finishing something properly, rather than leaving it loose or abandoning it early, is specifically what makes room for the material or emotional abundance that comes next.",
     love: "Single: properly and fully completing a chapter of your dating life, processing it, closing it with intention, is specifically what's making room for the richer connection that follows. Couple: properly completing an old chapter within the relationship is specifically what's making room for the deeper abundance, emotional or material, that's following it now.",
     career: "Properly completing a professional chapter, rather than leaving it loose or half-finished, is specifically what's opening the material and professional abundance that follows.",
     money: "Fully and properly completing a financial chapter, paying off a debt, closing an old account, is specifically what's opening the abundance that's following it now.",

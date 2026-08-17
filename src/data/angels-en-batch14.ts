@@ -156,7 +156,7 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
     titleHook: "Say The Change Out Loud",
     summary: "Change bookending doubled expression — the shift you're going through wants to be voiced, not held privately",
     meaning:
-      "5335 sandwiches double 3 (expression, communication) between two 5s (change, freedom), describing a change that specifically wants to be voiced and articulated, not processed silently. Distinct from 1551's framing of courage to ride change internally, 5335 is about the outward act: naming the change out loud, to yourself or someone else, is what this number is actually pointing at.",
+      "5335's outer 5s (change, freedom) hold double 3 (expression, communication), describing a change that specifically wants to be voiced and articulated, not processed silently. Distinct from 1551's framing of courage to ride change internally, 5335 is about the outward act: naming the change out loud, to yourself or someone else, is what this number is actually pointing at.",
     love: "Single: a shift in what you want from dating or relationships needs to be said out loud, to yourself at minimum, rather than left as a vague internal feeling. Couple: a change you've been quietly going through needs to actually be voiced to your partner, not just felt privately, for it to move the relationship forward.",
     career: "A shift in what you want professionally needs to be said out loud, to a mentor, a manager, or yourself in writing, rather than staying an unspoken internal shift.",
     money: "A change in your financial priorities needs to be voiced, in a conversation or a written plan, rather than staying an unspoken internal shift that no one else can act on with you.",

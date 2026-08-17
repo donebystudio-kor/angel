@@ -3,6 +3,7 @@
 // touches the Korean dataset or Korean pages. Safe to delete this whole
 // src/pages/en/ directory to roll back the English section.
 import LayoutEn from "../../../layouts/LayoutEn.astro";
+import ShareButtonsEn from "../../../components/ShareButtonsEn.astro";
 import { EN_ANGEL_NUMBERS } from "../../../data/angels.en";
 import { SITE_URL } from "../../../site";
 import { linkMeaning, linkFaqAnswer, makeCounter } from "../../../lib/autoLink";
@@ -165,6 +166,8 @@ const faqJsonLd = angel.faq && angel.faq.length > 0 ? {
         </div>
       </section>
     )}
+
+    <ShareButtonsEn title={title} url={url} />
 
     <div class="mt-10 text-center">
       <a href="/en/" class="text-angel-primary hover:text-angel-accent transition-colors text-sm">← All angel numbers</a>

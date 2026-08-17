@@ -2,6 +2,7 @@
 // English-only layout for the /en/ section. Isolated from Layout.astro —
 // safe to delete this file (and src/pages/en/) without touching the Korean site.
 import "../styles/global.css";
+import SearchBarEn from "../components/SearchBarEn.astro";
 import { SITE_URL } from "../site";
 
 interface Props {
@@ -86,13 +87,58 @@ const canonicalUrl = canonical || new URL(Astro.url.pathname, site).href;
       <slot />
     </main>
     <footer class="bg-angel-card border-t border-angel-border mt-16">
-      <div class="max-w-4xl mx-auto px-4 py-10 text-center text-sm text-angel-muted">
-        <nav class="flex items-center justify-center gap-4 flex-wrap mb-4">
-          <a href="/en/about" class="hover:text-angel-primary transition-colors">About</a>
-          <a href="/en/contact" class="hover:text-angel-primary transition-colors">Contact</a>
-          <a href="/en/privacy-policy" class="hover:text-angel-primary transition-colors">Privacy Policy</a>
-        </nav>
-        <p>© 2026 AngelDone. Angel number meanings, manifestation & twin flame guidance.</p>
+      <div class="max-w-4xl mx-auto px-4 py-10">
+        <!-- Footer search -->
+        <div class="mb-8">
+          <p class="text-center text-sm text-angel-muted mb-3">Search angel numbers</p>
+          <SearchBarEn />
+        </div>
+        <!-- Footer links -->
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-6 mb-8 text-sm">
+          <div>
+            <h4 class="font-semibold text-angel-accent mb-2">Popular Numbers</h4>
+            <div class="space-y-1">
+              <a href="/en/number/111" class="block text-angel-muted hover:text-angel-primary transition-colors">111</a>
+              <a href="/en/number/222" class="block text-angel-muted hover:text-angel-primary transition-colors">222</a>
+              <a href="/en/number/333" class="block text-angel-muted hover:text-angel-primary transition-colors">333</a>
+              <a href="/en/number/444" class="block text-angel-muted hover:text-angel-primary transition-colors">444</a>
+            </div>
+          </div>
+          <div>
+            <h4 class="font-semibold text-angel-accent mb-2">More Numbers</h4>
+            <div class="space-y-1">
+              <a href="/en/number/555" class="block text-angel-muted hover:text-angel-primary transition-colors">555</a>
+              <a href="/en/number/777" class="block text-angel-muted hover:text-angel-primary transition-colors">777</a>
+              <a href="/en/number/888" class="block text-angel-muted hover:text-angel-primary transition-colors">888</a>
+              <a href="/en/number/1111" class="block text-angel-muted hover:text-angel-primary transition-colors">1111</a>
+            </div>
+          </div>
+          <div>
+            <h4 class="font-semibold text-angel-accent mb-2">Categories</h4>
+            <div class="space-y-1">
+              <a href="/en/category/love" class="block text-angel-muted hover:text-angel-primary transition-colors">❤️ Love</a>
+              <a href="/en/category/money" class="block text-angel-muted hover:text-angel-primary transition-colors">💰 Money</a>
+              <a href="/en/category/career" class="block text-angel-muted hover:text-angel-primary transition-colors">💼 Career</a>
+              <a href="/en/category/twinflame" class="block text-angel-muted hover:text-angel-primary transition-colors">🔥 Twin Flame</a>
+            </div>
+          </div>
+          <div>
+            <h4 class="font-semibold text-angel-accent mb-2">Guide</h4>
+            <div class="space-y-1">
+              <a href="/en/guide/what-is-an-angel-number" class="block text-angel-muted hover:text-angel-primary transition-colors">What Is an Angel Number?</a>
+              <a href="/en/guide/how-to-find-your-angel-number" class="block text-angel-muted hover:text-angel-primary transition-colors">Find Your Angel Number</a>
+              <a href="/en/guide/twin-flame-numbers" class="block text-angel-muted hover:text-angel-primary transition-colors">Twin Flame Numbers</a>
+            </div>
+          </div>
+        </div>
+        <div class="border-t border-angel-border pt-6 text-center text-sm text-angel-muted">
+          <nav class="flex items-center justify-center gap-4 flex-wrap mb-3">
+            <a href="/en/about" class="hover:text-angel-primary transition-colors">About</a>
+            <a href="/en/contact" class="hover:text-angel-primary transition-colors">Contact</a>
+            <a href="/en/privacy-policy" class="hover:text-angel-primary transition-colors">Privacy Policy</a>
+          </nav>
+          <p>© 2026 AngelDone. Angel number meanings, manifestation & twin flame guidance.</p>
+        </div>
       </div>
     </footer>
   </body>

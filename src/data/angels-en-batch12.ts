@@ -445,7 +445,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     titleHook: "Insight Opens A New Path",
     summary: "Wisdom bookending a doubled intuitive spark, confirming an entirely new direction",
     meaning:
-      "7117 sandwiches double 1 (new beginnings, intuition) between two 7s (insight, wisdom), describing wisdom specifically confirming and opening an entirely new path, rather than 717's trust in one specific decision or 1177's emphasis on self-knowledge as the new beginning's source. Here, insight itself is what validates that a genuinely new direction, not just one choice, is correct.",
+      "7117 places double 1 (new beginnings, intuition) at the center of two 7s (insight, wisdom), describing wisdom specifically confirming and opening an entirely new path, rather than 717's trust in one specific decision or 1177's emphasis on self-knowledge as the new beginning's source. Here, insight itself is what validates that a genuinely new direction, not just one choice, is correct.",
     love: "Single: your overall sense of what direction your love life should take, not one specific decision, is being confirmed by deep insight right now — trust the whole new direction, not just a single step within it. Couple: wisdom is confirming an entirely new direction for the relationship, not one isolated choice — trust the bigger shift.",
     career: "A whole new professional direction, not a single decision, is being confirmed by genuine insight right now — trust the larger path rather than second-guessing individual steps within it.",
     money: "A new overall financial direction is being validated by real insight here, worth trusting as a direction rather than doubting one specific move within it.",
