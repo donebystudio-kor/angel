@@ -11,9 +11,11 @@ interface Props {
   canonical?: string;
   /** The Korean counterpart of this page, if one exists. */
   koUrl?: string;
+  /** The authored (non-placeholder) Japanese counterpart of this page, if one exists. */
+  jaUrl?: string;
 }
 
-const { title, description, canonical, koUrl } = Astro.props;
+const { title, description, canonical, koUrl, jaUrl } = Astro.props;
 const site = SITE_URL;
 const canonicalUrl = canonical || new URL(Astro.url.pathname, site).href;
 ---
@@ -41,6 +43,7 @@ const canonicalUrl = canonical || new URL(Astro.url.pathname, site).href;
     <link rel="canonical" href={canonicalUrl} />
     <link rel="alternate" hreflang="en" href={canonicalUrl} />
     {koUrl && <link rel="alternate" hreflang="ko" href={koUrl} />}
+    {jaUrl && <link rel="alternate" hreflang="ja" href={jaUrl} />}
     <link rel="alternate" hreflang="x-default" href={canonicalUrl} />
     <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48x48.png" />
     <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />

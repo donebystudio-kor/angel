@@ -90,6 +90,18 @@ export function hasJaAngelNumber(number: string): boolean {
 }
 
 /**
+ * True only when the /ja/ page for this number has authored content
+ * (isPlaceholder: false) — used for hreflang reverse-references from KO/EN
+ * pages. A KO or EN page should not point to a thin "準備中" JA shell as
+ * its language alternate (same reasoning as excluding placeholders from
+ * the sitemap in astro.config.mjs).
+ */
+export function hasAuthoredJaAngelNumber(number: string): boolean {
+  const a = getJaAngelNumber(number);
+  return !!a && !a.isPlaceholder;
+}
+
+/**
  * Display-only grouping for the /ja/ homepage. Identical pattern-detection
  * logic to getEnDisplayGroup in angels.en.ts (language-neutral — operates
  * purely on the digit string) — kept as a separate copy so angels.ja.ts

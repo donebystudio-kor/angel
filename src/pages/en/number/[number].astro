@@ -5,6 +5,7 @@
 import LayoutEn from "../../../layouts/LayoutEn.astro";
 import ShareButtonsEn from "../../../components/ShareButtonsEn.astro";
 import { EN_ANGEL_NUMBERS } from "../../../data/angels.en";
+import { hasAuthoredJaAngelNumber } from "../../../data/angels.ja";
 import { SITE_URL } from "../../../site";
 import { linkMeaning, linkFaqAnswer, makeCounter } from "../../../lib/autoLink";
 import { getRelatedNumbers } from "../../../lib/relatedNumbers";
@@ -31,6 +32,7 @@ const title = `Angel Number ${angel.number} Meaning: ${angel.titleHook}`;
 const description = `What angel number ${angel.number} means for love, money, career, manifestation and twin flames. ${angel.summary}.`;
 const url = `${site}/en/number/${angel.number}`;
 const koUrl = `${site}/number/${angel.number}`;
+const jaUrl = hasAuthoredJaAngelNumber(angel.number) ? `${site}/ja/number/${angel.number}` : undefined;
 
 // ── Auto-link setup ───────────────────────────────────────────────
 const BASE_URL = "/en/number/";
@@ -81,7 +83,7 @@ const faqJsonLd = angel.faq && angel.faq.length > 0 ? {
 } : null;
 ---
 
-<LayoutEn title={title} description={description} canonical={url} koUrl={koUrl}>
+<LayoutEn title={title} description={description} canonical={url} koUrl={koUrl} jaUrl={jaUrl}>
   <Fragment slot="head">
     <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
     {faqJsonLd && <script type="application/ld+json" set:html={JSON.stringify(faqJsonLd)} />}
