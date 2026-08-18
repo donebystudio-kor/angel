@@ -13,6 +13,7 @@ import { ANGEL_NUMBERS } from "./angels";
 import { JA_CORE_NUMBERS } from "./angels-ja-core";
 import { JA_BATCH2_NUMBERS } from "./angels-ja-batch2";
 import { JA_BATCH3_NUMBERS } from "./angels-ja-batch3";
+import { JA_BATCH4_NUMBERS } from "./angels-ja-batch4";
 
 export type JaCategory =
   | "repeat"
@@ -71,7 +72,7 @@ const JA_PLACEHOLDER_NUMBERS: JaAngelNumber[] = ANGEL_NUMBERS.map((a) => ({
   isPlaceholder: true,
 }));
 
-const JA_ALL_NUMBERS: JaAngelNumber[] = [...JA_CORE_NUMBERS, ...JA_BATCH2_NUMBERS, ...JA_BATCH3_NUMBERS, ...JA_PLACEHOLDER_NUMBERS];
+const JA_ALL_NUMBERS: JaAngelNumber[] = [...JA_CORE_NUMBERS, ...JA_BATCH2_NUMBERS, ...JA_BATCH3_NUMBERS, ...JA_BATCH4_NUMBERS, ...JA_PLACEHOLDER_NUMBERS];
 
 const jaSeen = new Set<string>();
 export const JA_ANGEL_NUMBERS: JaAngelNumber[] = JA_ALL_NUMBERS.filter((a) => {
