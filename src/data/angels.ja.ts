@@ -23,6 +23,8 @@ import { JA_BATCH10_NUMBERS } from "./angels-ja-batch10";
 import { JA_BATCH11_NUMBERS } from "./angels-ja-batch11";
 import { JA_BATCH12_NUMBERS } from "./angels-ja-batch12";
 import { JA_BATCH13_NUMBERS } from "./angels-ja-batch13";
+import { JA_BATCH14_NUMBERS } from "./angels-ja-batch14";
+import { JA_BATCH15_NUMBERS } from "./angels-ja-batch15";
 
 export type JaCategory =
   | "repeat"
@@ -81,7 +83,7 @@ const JA_PLACEHOLDER_NUMBERS: JaAngelNumber[] = ANGEL_NUMBERS.map((a) => ({
   isPlaceholder: true,
 }));
 
-const JA_ALL_NUMBERS: JaAngelNumber[] = [...JA_CORE_NUMBERS, ...JA_BATCH2_NUMBERS, ...JA_BATCH3_NUMBERS, ...JA_BATCH4_NUMBERS, ...JA_BATCH5_NUMBERS, ...JA_BATCH6_NUMBERS, ...JA_BATCH7_NUMBERS, ...JA_BATCH8_NUMBERS, ...JA_BATCH9_NUMBERS, ...JA_BATCH10_NUMBERS, ...JA_BATCH11_NUMBERS, ...JA_BATCH12_NUMBERS, ...JA_BATCH13_NUMBERS, ...JA_PLACEHOLDER_NUMBERS];
+const JA_ALL_NUMBERS: JaAngelNumber[] = [...JA_CORE_NUMBERS, ...JA_BATCH2_NUMBERS, ...JA_BATCH3_NUMBERS, ...JA_BATCH4_NUMBERS, ...JA_BATCH5_NUMBERS, ...JA_BATCH6_NUMBERS, ...JA_BATCH7_NUMBERS, ...JA_BATCH8_NUMBERS, ...JA_BATCH9_NUMBERS, ...JA_BATCH10_NUMBERS, ...JA_BATCH11_NUMBERS, ...JA_BATCH12_NUMBERS, ...JA_BATCH13_NUMBERS, ...JA_BATCH14_NUMBERS, ...JA_BATCH15_NUMBERS, ...JA_PLACEHOLDER_NUMBERS];
 
 const jaSeen = new Set<string>();
 export const JA_ANGEL_NUMBERS: JaAngelNumber[] = JA_ALL_NUMBERS.filter((a) => {
