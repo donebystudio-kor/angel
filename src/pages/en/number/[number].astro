@@ -44,6 +44,21 @@ const linkedFaq = angel.faq?.map((f: { q: string; a: string }) => ({
   a: linkFaqAnswer(f.a, angel.number, EN_VALID, BASE_URL, counter, f.q),
 }));
 
+// ── Deep-dive fields (2026-08 batch, ~5 pages only) ─────────────────
+// Own link-budget counter, separate from meaning/FAQ's, so these never
+// compete with or reduce linking on the sections every other page has.
+const deepDiveCounter = makeCounter(8);
+const deepDive = angel.structure
+  ? [
+      ...(angel.structure    ? [{ id: "structure",     icon: "🧩", title: "How The Digits Break Down", linked: linkMeaning(angel.structure, angel.number, EN_VALID, BASE_URL, deepDiveCounter) }] : []),
+      ...(angel.distinction  ? [{ id: "distinction",    icon: "🔍", title: "How It's Different",         linked: linkMeaning(angel.distinction, angel.number, EN_VALID, BASE_URL, deepDiveCounter) }] : []),
+      ...(angel.context      ? [{ id: "context",        icon: "🕐", title: "When You See It",             linked: linkMeaning(angel.context, angel.number, EN_VALID, BASE_URL, deepDiveCounter) }] : []),
+      ...(angel.misconception? [{ id: "misconception",  icon: "⚠️", title: "A Common Misreading",         linked: linkMeaning(angel.misconception, angel.number, EN_VALID, BASE_URL, deepDiveCounter) }] : []),
+      ...(angel.origin       ? [{ id: "origin",         icon: "📜", title: "Where This Reading Comes From", linked: linkMeaning(angel.origin, angel.number, EN_VALID, BASE_URL, deepDiveCounter) }] : []),
+      ...(angel.ambiguity    ? [{ id: "ambiguity",      icon: "🤔", title: "Where Interpretations Diverge", linked: linkMeaning(angel.ambiguity, angel.number, EN_VALID, BASE_URL, deepDiveCounter) }] : []),
+    ]
+  : [];
+
 // ── Related numbers panel ─────────────────────────────────────────
 const relatedNums = getRelatedNumbers(angel.number, EN_VALID);
 const relatedAngels = relatedNums
@@ -122,6 +137,19 @@ const faqJsonLd = angel.faq && angel.faq.length > 0 ? {
         </section>
       ))}
     </div>
+
+    {deepDive.length > 0 && (
+      <div class="space-y-6 mt-6">
+        {deepDive.map((s) => (
+          <section class="bg-angel-card border border-angel-border rounded-2xl p-6">
+            <h2 id={s.id} class="text-lg font-bold text-angel-text mb-3">
+              {s.icon} {s.title}
+            </h2>
+            <p class="text-angel-muted leading-relaxed" set:html={s.linked} />
+          </section>
+        ))}
+      </div>
+    )}
 
     {linkedFaq && linkedFaq.length > 0 && (
       <section class="mt-8">

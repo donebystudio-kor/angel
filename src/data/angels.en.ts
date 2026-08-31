@@ -74,6 +74,29 @@ export interface EnAngelNumber {
   twinflame?: string;
   /** English-only extension field: Law-of-Attraction / manifestation angle. */
   manifestation?: string;
+  // ── Deep-dive fields (2026-08 batch) ──────────────────────────────────────
+  // Reserved for a small set of pages that already rank and warrant content
+  // no other page in the dataset has. NOT meant to be filled in bulk — most
+  // entries should leave all six of these undefined. Only fill a field when
+  // there's something genuinely specific to say; leaving it undefined is the
+  // correct default, not a gap to fill later.
+  /** How the digits can be split/grouped, and which grouping the entry's
+   * own reading actually depends on. */
+  structure?: string;
+  /** How this number differs from a specific, named structural sibling —
+   * not a vague "this is unique" statement. */
+  distinction?: string;
+  /** A genuine interpretive fork based on when/how the number is encountered. */
+  context?: string;
+  /** A specific misreading this number invites, and why it's off. Omit if
+   * the FAQ already covers the closest real misconception. */
+  misconception?: string;
+  /** What's actually traceable about this number's digit-lineage, and what
+   * isn't. Omit rather than guess at a tradition, author, or date. */
+  origin?: string;
+  /** A real point where more than one reading is defensible. Omit rather
+   * than manufacture one. */
+  ambiguity?: string;
 }
 
 // 111 is the pilot entry, kept inline here. Later tiers live in
