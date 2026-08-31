@@ -437,6 +437,14 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
     isPlaceholder: false,
     manifestation:
       "1177 manifests by grounding a new intention in genuine self-knowledge — the practical move is writing down what you actually know to be true about yourself before setting a new direction, since this number's folklore treats that internal clarity, not external circumstance, as the real foundation.",
+    structure:
+      "Two doubled blocks sitting side by side, 11 and 77, is how the existing meaning already treats 1177, and it's the reading that holds up structurally too. Broken into four single digits instead, 1+1+7+7, the number loses that pairing and reads as a looser cluster rather than two distinct, self-contained signals meeting each other. The two-block reading fits better because each half genuinely functions as its own established number elsewhere, 11 and 77 both carry meaning independently, so 1177 reads as those two complete signals combining, not as four digits that happen to repeat.",
+    distinction:
+      "11 on its own is a spike in raw intuition and sensitivity, not yet attached to any one thing starting — a heightened state more than a specific direction. Paired into 1177, that same intuitive spike gets pointed somewhere and given a source requirement: the doubled 7 attached to it answers where the resulting new beginning is coming from. Seeing 11 alone means trusting a general heightened sensitivity; seeing it folded into 1177 means a new beginning is following from that sensitivity specifically because it's rooted in self-knowledge, not just picked up because it showed up.",
+    misconception:
+      "1177's first two digits match 1717's, and its overall shape fits the broader family of 11-led numbers, which invites folding it into a general lots-of-1s, big-new-beginning-number bucket. The doubled 7 isn't decoration on an 11-message, though, it's doing the specific job of naming where the new beginning has to come from. Treat 1177 as interchangeable with any other 11-heavy number and that requirement, that the beginning be self-sourced rather than externally prompted, gets lost.",
+    ambiguity:
+      "It's not fully settled which half of 1177 is doing the modifying. This entry reads 77 as specifying the source of an 11-style new beginning, confirmed self-knowledge behind a fresh start. It could just as easily run the other direction, 11 modifying 77, a new-beginning-flavored version of instinct-confirmation, less about starting something and more about a fresh way of trusting yourself. Both readings use the same two blocks; which one is doing the describing and which is being described isn't something the digits themselves settle.",
   },
   {
     number: "2233",
