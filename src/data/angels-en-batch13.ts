@@ -618,7 +618,7 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "1441 describes a specific kind of readiness: both people having developed enough inner stability independently that reunion can genuinely hold rather than simply peak and destabilize. The number's structure reflects this — doubled stability on either side — and the twin flame reading follows: two people who've built real individual ground create a sustainable connection rather than one that runs on intensity alone. In separation, this is both reassurance and a direction: keep building the inner stability that's genuinely yours, knowing the other person's parallel work is equally part of what makes reunion real and lasting.",
     manifestation:
-      "1441 manifests by starting from trust in an already-solid foundation rather than waiting for guaranteed ease — the practical move is beginning one new thing today expecting to handle bumps along the way, since this number's folklore treats resilience, not a smooth path, as the actual promise here.",
+      "1441 isn't promising a smooth road, and it's worth being clear about that up front. What it's actually telling you is that the foundation under you is already solid enough to absorb some friction. So begin the new thing today, expecting a few bumps along the way, rather than waiting around for a guarantee that none will come.",
   },
   {
     number: "2442",

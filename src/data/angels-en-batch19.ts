@@ -190,7 +190,7 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "3366 in a twin flame context favors warm, honest conversation as the specific healing mechanism for a strained stretch in the connection, more than time or distance alone. In reunion, this often means the reconnection is helped along by genuinely warm dialogue about what went wrong before, not just renewed closeness without addressing it. In separation, this number favors bringing warmth, not just honesty, to how you process the connection internally, since a purely critical or clinical accounting of what happened tends to heal less than a warmer, more compassionate one.",
     manifestation:
-      "3366 manifests through warmth paired with honesty — the practical move is having one genuinely warm, caring conversation today with someone you're strained with, since this number's folklore treats that warmth, not honesty alone, as the actual healing ingredient.",
+      "Have one genuinely warm conversation today with someone you're strained with — 3366's healing ingredient is the warmth itself, not just getting the honest thing said.",
   },
   {
     number: "4411",

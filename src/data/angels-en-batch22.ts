@@ -221,7 +221,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "128 sequences new beginning, partnership, and abundance in that order, and in a twin flame context it tends to appear when a fresh start in the connection is specifically moving through a period of partnership development before it arrives at material stability. In separation, 128 suggests that the sequence matters: a genuine individual fresh start (1) leads into real, balanced partnership work (2), which is what eventually produces abundance (8) — skipping the partnership step in favor of going straight to outcomes is what the number is implicitly cautioning against. In reunion, 128 marks a phase where a new beginning in the connection is genuinely progressing in order — the two of you are doing the partnership work, and the real-world results of that are coming.",
     manifestation:
-      "128 manifests through prompt response to a knocking opportunity — the practical move is answering one specific opening today rather than letting it wait, since this number's folklore treats that promptness, not delay, as what actually captures the abundance.",
+      "Answer the opening in front of you today, before it closes — 128 rewards promptness specifically, not deliberation.",
   },
   {
     number: "129",

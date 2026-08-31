@@ -611,7 +611,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Endings, in 9111's structure, are specifically what fire the next beginning — a completed chapter, a closed relationship stage, or a finalized decision is what's currently running the triple awakening energy you're experiencing. For twin flames, this is a meaningful distinction: 9111 tends to appear when the completion of one stage is itself the timing signal for what comes next. Reunion sightings of 9111 often cluster around the formal or emotional close of a previous chapter, not at a neutral moment. The specific thing worth noticing is what completed or closed in the days or weeks just before this number started appearing.",
     manifestation:
-      "9111 manifests by honoring a completed ending as the spark for new energy — the practical move is naming today the specific closure that ignited your current momentum, since this number's folklore treats that acknowledgment as what sustains the resulting wave.",
+      "Name the ending, specifically. When 9111 shows up, a completed chapter is usually the real source of your current momentum — naming that closure today keeps the energy it produced moving forward.",
   },
   {
     number: "9992",

@@ -406,7 +406,7 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "611 pairs home and family with heightened intuition, and in a twin flame community this maps onto a specific, often-discussed idea: that family-of-origin patterns are exactly what a twin flame connection tends to surface and work through, more directly than an ordinary relationship would. In reunion, 611 favors paying attention to what a current family dynamic is teaching you, since it's described as unusually relevant to how you'll actually show up in reunion. In separation, this number suggests unresolved family patterns, not just past romantic ones, are part of what this separation is specifically asking you to work through before reunion can hold.",
     manifestation:
-      "611 manifests through lessons learned in family relationships applied elsewhere — the practical move is naming one specific insight a family dynamic has taught you and deliberately using it in another area of life, since this number's folklore treats family as the training ground, not a separate concern from personal growth.",
+      "If a hard lesson came out of a family relationship — a boundary you finally learned to hold, a pattern you finally recognized — 611 wants that lesson put to work somewhere else. Don't let it stay filed under \"family stuff.\" Name the one specific insight that dynamic taught you, plainly, and carry it into whatever other part of your life could actually use it right now.",
   },
   {
     number: "711",

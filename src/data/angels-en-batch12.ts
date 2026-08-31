@@ -374,7 +374,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "3000 describes creative capacity operating at a vast, sustained scale, continuously available rather than one sudden spark the way 300 does. In a twin flame context this favors an ongoing creative practice, journaling, art, writing, kept up over the full length of the separation rather than one intense burst, as the actual tool for processing the connection. In reunion, 3000 suggests your capacity to express and communicate has grown to a scale that can genuinely hold whatever reunion requires, not just handle a single conversation. In separation, this number reassures that the creative outlet you've leaned on isn't running out, treat it as a renewable resource, not something to ration.",
     manifestation:
-      "3000 manifests by trusting an ongoing, vast creative capacity rather than waiting for a single perfect spark — the practical move is generating multiple ideas or solutions today rather than settling on the first one, since this number's folklore treats sustained generative capacity as the actual resource here.",
+      "Generate more than one option today. 3000 isn't asking you to wait for a single perfect idea — the resource here is a wide, ongoing supply, so treat the first version as a draft, not the answer.",
   },
   {
     number: "10000",

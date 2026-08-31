@@ -440,7 +440,7 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Home and care cycling insistently in 2626 point at a twin flame pattern where care has become the mechanism for maintaining the connection — checking in, staying available, offering consistent nurturance — in a way that functions more as a way of not letting go than genuinely giving. The letting-go that 2626 favors isn't withdrawing care; it's releasing the need to offer it continuously as a way of keeping the thread alive. In separation, 2626 often marks the moment when stepping back from active care-maintenance gives both people more room. What form of care have you been offering primarily to manage your own anxiety rather than from genuine, free choice?",
     manifestation:
-      "2626 manifests through a repeated practice, not a one-time gesture — the practical move is scheduling a recurring check-in with home or family life starting today, since this number's folklore treats sustained, repeated attention, not a single fix, as what actually answers the message.",
+      "Set up a repeating check-in with home or family life, starting today — 2626 answers to sustained, repeated attention, not a single one-time fix.",
   },
   {
     number: "2929",
@@ -624,7 +624,7 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Rebuilding from zero is the specific challenge of 0444 — and in a twin flame context, it tends to appear when both the foundation work and the open-state reset are actively happening at the same time. This isn't starting over as a failure; it's starting over as a beginning. 0444 is one of the more practically grounding numbers to see during a separation: it's asking you to actively work on what is foundational in your own life, not to wait for the connection to resolve before building. A solid foundation in yourself, built now, is what any future phase of this connection will actually stand on. What are you specifically rebuilding right now?",
     manifestation:
-      "0444 manifests through active, deliberate reconstruction rather than passive waiting — the practical move is taking one concrete rebuilding step today, since this number's folklore treats your own effort, not outside arrival, as what completes this particular foundation.",
+      "0444 puts the rebuilding in your hands. Pick the piece of the foundation that needs attention most and start on it today — your own effort is finishing this, not some outside arrival.",
   },
   {
     number: "0555",

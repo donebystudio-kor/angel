@@ -439,7 +439,7 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Intuition that's already reached a conclusion tends to create a specific discomfort when it goes unvoiced: a gap between what you privately know and what you're willing to say out loud. 373 points at that gap. For twin flames, certainty doesn't require more evidence once intuition has settled — it requires expression. The doubt that surfaces is often not about whether the knowing is real, but about whether you trust yourself enough to state it plainly. In separation, claiming what you already know, without waiting for external confirmation, is often the actual work. What does your intuition already know about this connection that you haven't fully claimed yet?",
     manifestation:
-      "373 manifests by voicing an already-settled intuitive knowing rather than continuing to search for the answer — the practical move is saying one clear thing today that your gut has already confirmed, since this number's folklore treats that direct expression, not more deliberation, as the actual next step.",
+      "Whatever your gut already settled on doesn't need more searching. Say the one clear thing you already know today, out loud, to someone — that's the move 373 is pointing at, not further deliberation.",
   },
   {
     number: "383",

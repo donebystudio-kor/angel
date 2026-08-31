@@ -221,7 +221,7 @@ export const EN_BATCH6_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "234 reads like a progress report, not an instruction: whatever stage of this journey you're in is unfolding in the right order, at the right pace, even without a dramatic milestone yet. In a twin flame context this favors trusting that the gradual deepening, of trust, of your own clarity, of the connection itself, is genuinely on schedule, not behind some faster timeline you're comparing it to. In reunion, 234 suggests each stage is building properly on the last. In separation, this number favors trusting your own growth is progressing correctly, in its actual order, without rushing toward a stage you haven't actually reached yet.",
     manifestation:
-      "234 manifests through respecting the natural order of a goal's stages — the practical move is trusting the current stage rather than trying to skip to the result, since this number's folklore specifically rewards patience with the process over urgency about the outcome.",
+      "234 rewards patience with a process over urgency about its outcome. Right now, that means trusting whatever stage you're actually in instead of reaching past it for the result you want. The order these things unfold in is doing real work here — skip ahead and you skip the part that was actually building the thing you're after.",
   },
   {
     number: "432",

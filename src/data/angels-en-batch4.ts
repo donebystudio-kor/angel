@@ -149,7 +149,7 @@ export const EN_BATCH4_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "3 is the plainest version of creative-expression energy, and in a twin flame context it points less at timing and more at the quality of communication between the two of you. In reunion, plain 3 tends to surface when conversations have gone shallow or overly serious — it favors lightness, humor, and genuine creative exchange over intense relationship discussions. In separation, 3 is a steady nudge that expressing yourself through your own creative work right now is doing more for the connection than any amount of waiting or analyzing the other person's silence is.",
     manifestation:
-      "3 manifests through speaking or making, plainly, rather than through the more concentrated expressive technique 333 favors — the practice here is simply saying the want out loud once, to one person, without needing it to be eloquent.",
+      "Say it out loud, plainly, to one person, once — 3 doesn't need eloquence, just the want spoken instead of held in.",
   },
   {
     number: "4",
@@ -329,7 +329,7 @@ export const EN_BATCH4_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "8 in a twin flame context points at the material and practical dimension of where the connection is embedded in real life — financial realities, career, external stability — rather than just the emotional or spiritual layer. In reunion, plain 8 tends to surface when practical questions about how the two of you would actually work as a shared life are becoming relevant and worth addressing honestly, even if they feel less romantic than what you'd prefer to focus on. In separation, 8 is often a redirect: instead of focusing primarily on the connection's timing, focus on your own external-world building right now — the abundance work and the twin flame work are running on the same track, not parallel to each other.",
     manifestation:
-      "8 manifests through one specific financial action rather than the broader flow-versus-hoarding shift 888 points at — pick one concrete money move, a specific spend or a specific ask, rather than a general mindset shift.",
+      "Pick one specific money move today — a particular spend, a particular ask — rather than trying to shift your whole mindset around money the way 888 does.",
   },
   {
     number: "9",

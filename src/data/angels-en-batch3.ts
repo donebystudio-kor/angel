@@ -77,7 +77,7 @@ export const EN_BATCH3_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "21 reverses 12's emphasis: here it's the attitude you're bringing to the connection, not a specific action, that's doing the real work. In a twin flame context this lines up with a common idea here: your own energy or vibration matters more to the timing than any single message or gesture. In reunion, 21 favors approaching the connection from genuine lightness and hope rather than anxious monitoring, since that shift in tone is described as more influential here than anything you could actually do. In separation, this number suggests the felt quality of how you're holding the situation, hopeful versus dreading, is shaping the separation's course more than external circumstances are.",
     manifestation:
-      "21 manifests through felt tone more than specific action — the emotional quality you bring to an intention (light, hopeful, playful) shapes the outcome here as much as the intention's content does, more so than with most numbers.",
+      "With 21, the feeling behind an intention counts for as much as the intention itself — bring lightness or hope into how you ask, not just what you ask for.",
   },
   {
     number: "44",
@@ -221,7 +221,7 @@ export const EN_BATCH3_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "420 has nothing to do with its more recent cultural association — numerologically it reads as a stable foundation (4) held in balance (2) with more room to grow than expected (0). In a twin flame context, that structure points at a connection whose foundation is already solid but whose actual scope, how much space it's allowed to take up in your life, is smaller than what the bond can support. In reunion, 420 favors letting the connection expand into areas you've been keeping it out of, rather than staying safely contained. In separation, this number suggests the groundwork built during the separation phase can support a bigger version of reunion than you're currently imagining.",
     manifestation:
-      "420's manifestation mechanic pairs a stable existing foundation with room for genuine expansion — the practice tied to this number is building from what's already solid rather than starting over, and allowing the goal to be bigger than the current version of it.",
+      "Don't restart from zero. 420 asks you to build straight out from a foundation that's already solid, and to let the goal you're working toward grow past whatever smaller version of it you first imagined.",
   },
   {
     number: "123",

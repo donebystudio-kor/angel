@@ -115,7 +115,7 @@ export const EN_BATCH8_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "1414 alternates new beginning and foundation energy, and in a twin flame context the specific pattern it points at is the interior process of starting something that requires self-trust to sustain. It's not about what's being built externally — it's about the internal experience of beginning something and then having to locate the steadiness within yourself to continue it when novelty fades and real commitment is what's being asked. In separation, 1414 often appears when the person seeing it is doing exactly that: starting something meaningful in their own life and discovering that they have more interior stability than they previously credited themselves with. In reunion, 1414 marks a phase where both people are encountering, and navigating, the gap between the excitement of beginning and the quieter commitment that follows it.",
     manifestation:
-      "1414 manifests by removing the hesitation gap between intention and action — the practical move is starting today on whatever you've been delaying for safety's sake, since this number's folklore treats the safety net as already built, not something still being constructed.",
+      "The safety net 1414 refers to is already in place, not something you're still waiting to finish building. Close the gap between deciding and doing — start today on whatever you've been putting off for safety's sake.",
   },
   {
     number: "2121",

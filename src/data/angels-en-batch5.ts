@@ -40,7 +40,7 @@ export const EN_BATCH5_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "66 in a twin flame context amplifies the care-and-imbalance signal of plain 6, and it tends to appear when a specific dynamic in the connection has been significantly uneven for a while rather than just momentarily. In reunion, 66 points directly at a pattern — usually one person consistently managing more anxiety, more planning, or more emotional caretaking than the other — and asks that it be addressed explicitly rather than just hoped to self-correct. In separation, 66 is one of the more important numbers to sit with honestly, because it tends to name the actual dynamic that made reunion difficult or that separation is surfacing: not just the fact of missing each other, but what was structurally off.",
     manifestation:
-      "66 manifests through steady, repeated domestic care rather than a grand gesture — the folklore holds that consistently tending to the ordinary parts of home life, not a single dramatic investment, is what actually opens space for what you want here.",
+      "66 isn't asking for a grand gesture. Keep tending the ordinary parts of home life — the small, repeated care — because that steady maintenance opens things up here, not one dramatic investment.",
   },
   {
     number: "77",
@@ -220,7 +220,7 @@ export const EN_BATCH5_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "3333 carries far more creative weight than plain 333, and in a twin flame context it tends to show up when the connection is operating at an unusually generative, expressive frequency — sometimes before either person realizes it. In separation, the practical signal is that the creative work you're putting out right now is the live channel between you and the twin flame energy, more so than any direct form of contact or communication. In reunion, 3333 marks phases where the two of you produce something together — a conversation, a project, a shared vision — that has a different quality than what either person generates alone, and that difference is worth paying attention to.",
     manifestation:
-      "3333 manifests through continuous, sustained expression rather than 333's single act of speaking something once — the practice here is ongoing: keep talking about, writing about, or making the thing you want, repeatedly, since this stretch specifically rewards sustained communication over a single statement.",
+      "Where 333 is satisfied with saying something once, 3333 wants it kept up: keep talking, writing, or making the thing you want, again and again, because this stretch specifically rewards staying with it over any single declaration.",
   },
   {
     number: "4444",
