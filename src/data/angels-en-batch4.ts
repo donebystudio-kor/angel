@@ -221,7 +221,7 @@ export const EN_BATCH4_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "5 is the lightest change-digit in this set, and in a twin flame context it points at a small shift in the connection rather than a major turning point — a slightly different feeling on an ordinary day, not a dramatic sign. In reunion, plain 5 favors noticing a small variation in how you're relating, a lighter conversation, less pressure, as worth trusting rather than waiting for a bigger moment to validate it. In separation, this number suggests a small, everyday change in how you're spending your time is doing more for the connection long-term than any single dramatic gesture would.",
     manifestation:
-      "5 manifests through small experiments rather than the bigger release 555 asks for — try a new small version of the want, a different approach or timing, rather than releasing the whole form of it.",
+      "5 favors small experiments over 555's sweeping release — try a different angle or timing, at a scale you can actually test.",
   },
   {
     number: "6",

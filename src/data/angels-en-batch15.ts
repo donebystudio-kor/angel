@@ -727,6 +727,6 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Solid ground under a twin flame connection requires, specifically, that the preceding chapter was genuinely finished — not declared finished, but actually closed. 494 is precise: the stability of what comes next depends directly on the thoroughness of what was completed before it. In separation, this frames the period not as waiting but as the work of actual closure: checking what's been left partially resolved, what's been avoided, what hasn't yet been fully processed. The groundwork of the next phase is being laid right now, through the quality of how this one closes. What specifically from the previous chapter of this connection still needs to be more thoroughly completed?",
     manifestation:
-      "494 manifests by ensuring a prior chapter is genuinely, not just nominally, finished — the practical move is checking for and closing any remaining loose end from an old situation today, since this number's folklore treats that thorough completion as what makes the new foundation actually solid.",
+      "A chapter that looks finished on paper isn't always finished in practice. 494 wants you to check for whatever loose end from that old situation is still technically open, and close it today — actually finish it, not just note that it's basically over.",
   },
 ];

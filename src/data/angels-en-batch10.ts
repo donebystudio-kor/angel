@@ -153,7 +153,7 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Family situations, shared social circles, and the practical logistics of where two people's lives are based can quietly shape a twin flame connection more than either person wants to admit. 0606's combination of love and boundless connection describes a dynamic where the external web connecting two people — through family, community, or shared history — is itself an active force in the relationship's unfolding. In reunion, this often shows up when a family circumstance or shared external relationship is what finally makes contact feel naturally available again. Notice which external connection to this person has quietly been holding a door open.",
     manifestation:
-      "0606 manifests by removing a self-imposed ceiling on love rather than adding a new want — the practical move is consciously expressing more warmth than feels routine, since this number's folklore treats the limiting belief, not a lack of love available, as the actual obstacle.",
+      "The obstacle here isn't a shortage of love available to you — 0606 is naming a ceiling you've quietly put on how much of it gets expressed or received. Push past your normal amount today: say the warmer thing, make the more generous gesture, past the point where it starts to feel like slightly too much.",
   },
   {
     number: "0909",
@@ -694,7 +694,7 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "3344 pairs expressive energy with solid foundation, and in a twin flame dynamic that often describes an asymmetry: one person tends to initiate, voice things, and actively engage, while the other holds quieter, steadier ground. Neither role is better or permanent — but knowing which role you're currently in helps. In separation, the person holding quiet ground isn't necessarily less invested; they may simply need a stable base more than expressive momentum. In reunion, 3344 suggests that consequential conversation — where what's said genuinely shapes what's being built — carries unusual weight. Which role are you currently playing in this connection, and has it shifted recently?",
     manifestation:
-      "3344 manifests through deliberate, weighted words rather than casual expression — the practical move is preparing exactly what to say before an important conversation, since this number's folklore treats precise, intentional language as directly shaping the material outcome here.",
+      "3344 isn't rewarded by whatever comes out naturally in the moment. Before a conversation that actually matters, have you actually worked out what you want to say — the specific words, not just the general point — or are you planning to wing it and hope for the best?",
   },
   {
     number: "4455",

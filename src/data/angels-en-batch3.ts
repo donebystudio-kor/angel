@@ -113,7 +113,7 @@ export const EN_BATCH3_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "44 in a twin flame context is the strongest stability-and-building signal in the mid-range set, and it doesn't appear around dramatic moments — it appears around quiet, consistent ones. In reunion, 44 tends to show up when the connection is in a phase of genuine but unglamorous construction: showing up regularly, building trust over time, doing the less exciting relational work that actually creates a durable dynamic. In separation, 44 is one of the more reassuring numbers because it confirms that the foundational elements of the connection are intact even without active contact — what's real between you isn't eroding, and the quiet work of your own life right now is part of what's holding that.",
     manifestation:
-      "44 manifests through unnoticed consistency — small, repeated actions taken without needing credit for them build toward a goal more reliably than one big, visible effort, a gentler version of 444's compounding-effort mechanic.",
+      "44 is consistency without an audience — small repeated actions, unnoticed, add up more reliably than one big visible push.",
   },
   {
     number: "55",
@@ -329,7 +329,7 @@ export const EN_BATCH3_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "911's alarming cultural association has nothing to do with its twin flame meaning: completion (9) paired with a spike in intuition (11), reassurance rather than emergency. In reunion, 911 tends to mark the actual end of a recognizable stage of the journey — awakening, testing, or waiting — with an unusually clear intuitive sense of which stage comes next. In separation, this number favors trusting a sudden clarity about what this specific separation has actually been teaching you, since that recognition, more than any external sign, is often what the number is confirming is complete.",
     manifestation:
-      "911 manifests through calm clarity rather than urgent action — the intuitive hit that comes with this number tends to be accurate, but the folklore is specific that acting from calm certainty works better here than acting from a rushed response to the number's alarming association.",
+      "The instinct that shows up with 911 is usually right. What decides whether it actually works is where it's coming from — an unhurried, settled certainty gets you further than the jolt of alarm this number's reputation tends to trigger. Act from the first, not the second.",
   },
   {
     number: "747",

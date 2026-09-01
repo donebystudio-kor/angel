@@ -187,7 +187,7 @@ export const EN_BATCH8_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Repeating in alternation — home, then new beginning, then home again — 1616 describes the natural rhythm of a twin flame connection's sustainable pace. Each cycle of the 16 block needs to be honored: genuine integration and settling between each new step forward, rather than chasing continuous movement. Rushing through the home phase to get to the next new beginning tends to undermine what the new beginning needs to hold. In reunion, 1616 favors allowing genuine settling between moves rather than treating settling as delay. In separation, the current home phase may be the necessary integration that makes the next step sustainable. Are you honoring the settling-in phase of this connection's rhythm, or treating integration as something to rush past?",
     manifestation:
-      "1616 manifests through committing to a new home-centered habit rather than a general life intention — the practical move is starting one specific, small domestic ritual today, since this number's folklore treats consistent small beginnings at home as what actually opens the new chapter.",
+      "1616 isn't pointing at your life in general — it's pointing at home, specifically, and it wants a habit, not a resolution. Skip the bigger life plan for now, pick one small domestic ritual you'd actually keep doing, and start it today.",
   },
   {
     number: "0808",
@@ -547,7 +547,7 @@ export const EN_BATCH8_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "987 asks for a pause rather than momentum, an external ending here needing to settle into reflection before anything else starts. A specific chapter, a stage of distance, a hope, a pattern, may be genuinely finishing for twin flames right now, and that deserves to register fully instead of triggering an immediate rush toward what's next. Reconnected already, whatever this chapter taught you is worth carrying in consciously rather than left behind in the rush to reconnect. Not yet reconnected, the pause itself is the point right now, not a delay before real progress, but the actual work this stretch is asking for.",
     manifestation:
-      "987 manifests by pausing to integrate completion before adding a new intention — the practical move is taking real stock of what's finished today, since this number's folklore treats that reflection as what prepares the ground for the next chapter, more than rushing ahead would.",
+      "987 wants a pause before the next thing starts — not because moving fast is wrong, but because skipping the stocktaking means the next chapter builds on ground you never actually finished clearing. Take real stock today of what's genuinely done; that accounting is what makes room for whatever comes next.",
   },
   {
     number: "2345",

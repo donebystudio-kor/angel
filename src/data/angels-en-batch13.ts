@@ -42,7 +42,7 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "4000 describes an active, large-scale shield rather than 400's finished, static foundation, walls doing their job right now, not just standing built. In a twin flame context this favors trusting that you're more protected from an old wound or pattern resurfacing than it feels, an active defense, not just healed-and-done. In reunion, 4000 suggests something is actively guarding the connection right now, keeping old dynamics or outside noise from derailing it. In separation, this number offers an unusually direct reassurance: you're being actively shielded from re-entering an old pattern before you're ready, not left unprotected while you heal.",
     manifestation:
-      "4000 manifests by acting from a sense of being already protected rather than still bracing — the practical move is taking one confident step today toward something you'd normally over-prepare for, since this number's folklore treats trust in existing protection, not additional defense, as what this stretch calls for.",
+      "4000 starts from a premise worth sitting with: the protection you'd normally spend energy building is, in this case, already there. That's exactly why a normal, confident step today toward whatever you'd usually over-prepare for actually makes sense — there's nothing left for the extra caution to protect against.",
   },
   {
     number: "5000",

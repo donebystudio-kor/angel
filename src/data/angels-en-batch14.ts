@@ -477,7 +477,7 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Simultaneous completion and new beginning in 2929 create a specific runner-chaser dynamic — one person's closing is another person's opening, and the tension between those two states drives the push-pull rather than any fundamental incompatibility. 2929 tends to appear when one person is in a finishing phase and the other is in a starting energy, and the resulting mismatch creates the familiar pattern. The reassurance here is that the timing misalignment is temporary rather than fundamental: each person's cycle will complete. What phase — ending, beginning, or somewhere between — does each person in this connection appear to be in right now?",
     manifestation:
-      "2929 manifests by holding two truths at once rather than forcing a tidy sequence — the practical move is naming both the ending and the beginning today and giving each real attention, since this number's folklore treats that simultaneous acknowledgment as what lets both move forward cleanly.",
+      "Most of the time, an ending and a beginning get told as a sequence — first this closes, then that opens, one clean handoff. 2929 describes something messier and more accurate: both are actually happening right now, overlapping rather than lined up in order. Naming both today, the thing ending and the thing starting, and actually giving each real attention rather than rushing past whichever feels less finished, is what lets them both move forward without either one quietly stalling because nobody named it.",
   },
   {
     number: "0111",
@@ -732,6 +732,6 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Only insight that arrives from a genuinely emptied mind — not from extended analysis or from reasoning things through — tends to produce real certainty about a twin flame connection. 0777 is specific about this: the doubled intuition of 77 operates at its most trustworthy when 0 has cleared the mental noise first. Doubt typically lives in the layer of active thought; what rises from genuine stillness tends to be more accurate than conclusions reached by deliberation. In separation, the certainty you're looking for isn't in more thinking about the connection — it's in what emerges when thinking stops. What does this connection look like when you stop analyzing it and simply notice what you know?",
     manifestation:
-      "0777 manifests by clearing mental noise before seeking an answer — the practical move is a few minutes of genuine quiet today before returning to a pressing question, since this number's folklore treats an emptied, receptive mind, not more active thinking, as what actually lets insight arrive.",
+      "There's a question you keep turning over without getting anywhere — 0777 doesn't want you thinking about it harder. Spend a few real minutes in quiet first, no phone, no problem-solving, then go back to it. Whether that actually gets you an answer depends on whether your mind is still full or finally had room to empty out.",
   },
 ];

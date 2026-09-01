@@ -537,7 +537,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "7111 is specifically about a single moment of genuine insight setting off a wave of internal reckoning — less about outer circumstances and more about what you've just understood. For twin flame connections, 7111 tends to appear around a realization rather than an event: a shift in perspective about the connection, about yourself in it, or about what you've been waiting for. That understanding is the actual work. It doesn't need to be acted on immediately to be real, and it doesn't require the other person to validate it. The practice 7111 points toward is sitting with what you've just realized rather than immediately reaching for the next layer of analysis.",
     manifestation:
-      "7111 manifests by honoring insight as the spark for new energy — the practical move is naming today the specific realization that ignited your current momentum, since this number's folklore treats that acknowledgment as what sustains the resulting wave.",
+      "There's usually one specific realization underneath whatever momentum you're riding when 7111 shows up — not a vague sense that things are going well, but a single insight that actually started it. Have you named that insight, specifically, or just kept riding the momentum without ever tracing it back to its source?",
   },
   {
     number: "8111",

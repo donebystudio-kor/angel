@@ -370,7 +370,7 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "The twin flame arc frequently includes a period of disruption that feels directionless — and 5511 specifically addresses that. It confirms the disruption had a destination: a genuine new beginning, not just change for its own sake. If you're mid-separation wondering whether any of this leads anywhere, 5511 answers yes, and specifically. The change has been generating something real on both ends, whether or not it's been visible. In reunion, this number marks the inflection point where that destination becomes legible — where the disruption that seemed open-ended is now recognizable as the path that produced exactly this.",
     manifestation:
-      "5511 manifests by trusting change as purposeful rather than as disruption without direction — the practical move is acting today as though the resulting new beginning is genuinely on its way, since this number's folklore treats that trust in the destination, not just endurance of the process, as what the moment calls for.",
+      "5511 makes a specific claim: the change underway isn't random, it has real direction. The harder question is whether you're acting like you believe that — are you just enduring the process, waiting it out, or actually moving today as though the destination on the other side is real?",
   },
   {
     number: "5533",

@@ -151,7 +151,7 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "2112 in a twin flame context describes trust as an active, generative force rather than a passive requirement. In reunion, extending trust, even without full certainty about the outcome, tends to be what actually opens the new phase, rather than waiting for guarantees first. In separation, this number suggests that trusting your own unfolding growth, without needing to see the whole path, is what's creating the conditions for what comes next.",
     manifestation:
-      "2112 manifests by treating trust as an active ingredient rather than a passive precondition — the practical move is extending trust in a specific relationship or process today, since this number's folklore treats that act of trust as what generates the new path, not something that simply confirms a path already fixed.",
+      "2112 treats trust as something you do, not a mood you wait to feel before acting. The next stretch of this actually opens up only if you extend that trust today, on purpose, in a specific relationship or process — or it stays exactly where it is if you keep waiting for enough certainty to arrive first.",
   },
   {
     number: "789",
@@ -385,7 +385,7 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "505 frames open potential with change on both sides, aimed specifically at freedom rather than change for its own sake, and in a twin flame context that reads as a nudge toward individual independence as part of the journey, not a step away from the connection. In reunion, 505 favors entering contact from a place of genuine personal freedom, not dependence on the reunion to complete you, since that self-sufficiency is described as part of what makes reunion sustainable. In separation, this number frames the distance as specifically useful for building the independence you'll actually need once contact resumes, rather than time to simply wait out.",
     manifestation:
-      "505 manifests by aiming change specifically at freedom rather than change for its own sake — the practical move is naming exactly what more independence would look like and making one concrete move toward it today, since this number's folklore treats direction, not just motion, as what matters here.",
+      "505's version of change has a specific target: freedom, not change for its own sake. Get concrete about what more independence would actually look like — a schedule that's finally yours to set, a call you no longer have to clear with someone else, a limit you're ready to hold. Once that picture is clear, take the one real move that gets you toward it today.",
   },
   {
     number: "313",
@@ -637,7 +637,7 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "78 connects insight directly to material outcomes, and in a twin flame context it tends to appear at the point where the inner work — the genuine self-examination and growth — is about to produce visible, external results rather than remaining purely internal. In separation, 78 is a sign that the spiritual and psychological work of this phase is not abstract; it's building toward something concrete in your life and, indirectly, in the connection. In reunion, 78 tends to mark a specific moment when both people can feel that the inner growth they've each done is actually translating into a more functional, real-world version of their relationship — the gap between who you're becoming and how you're relating is closing.",
     manifestation:
-      "78 manifests through straightforward translation of insight into result — the practical move is simply continuing whatever inner development is already producing visible progress, since this number's folklore treats the direct link between the two as the whole mechanism, without needing anything more elaborate.",
+      "78 traces a direct line from inner development to outward result — whatever growth you've been doing quietly is already showing up as real progress, so there's no need to add anything more elaborate on top of it. Keep going with the exact thing that's been working, at the same pace, and the visible results continue in step with it.",
   },
   {
     number: "81",
