@@ -117,7 +117,7 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Cycling between endings and beginnings, 1919 describes a twin flame separation pattern that can feel like it's repeating without progress — but the doubled structure contains a reassurance: each completion has been changing something real, and each new beginning that follows is genuinely different. The purpose of this separation, in 1919's frame, isn't a single lesson but a layered series of closings that have been incrementally preparing both people. In reunion, 1919 often marks the moment the cycling itself stops — not another loop, but arrival at something that doesn't keep repeating. What feels like it actually completed this time, rather than just pausing?",
     manifestation:
-      "1919 manifests by consciously sizing the intention for what's next bigger than what's ending — the practical move is writing down a next-chapter goal that genuinely exceeds the current one in scope, since this number's folklore treats undersized expectations as the main thing that limits the upgrade.",
+      "1919 only works if whatever comes after this is sized bigger than what's ending, not scaled down out of caution. Write down a goal that genuinely exceeds the current one in scope, not a smaller edition of the same plan. Undersized expectations are the actual limit here, more than any external obstacle — if what you're aiming for could fit comfortably inside what's finishing now, it isn't the upgrade this stretch is actually offering.",
   },
   {
     number: "0606",

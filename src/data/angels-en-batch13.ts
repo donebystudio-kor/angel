@@ -114,7 +114,7 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "6000 describes a vast, secure space of belonging already surrounding you, distinct from 600's energy you actively direct outward. In a twin flame context this is a direct counter to the fear of being incomplete without the connection: the home you already have, in friendships, family, your relationship with yourself, is real and large, whether or not reunion has happened yet. In reunion, 6000 favors entering contact from that already-full place rather than from scarcity. In separation, this number is a clear reminder that you're not living in a void while you wait — recognize the belonging that already exists around you.",
     manifestation:
-      "6000 manifests by recognizing an existing space of belonging rather than searching for a new one — the practical move is naming one part of that space today and actively appreciating it, since this number's folklore treats recognition, not construction, as what strengthens the nest further.",
+      "The belonging 6000 describes isn't new — it's a space that already surrounds you, one you've maybe stopped actively noticing. Name a single detail of it today and actually sit with your appreciation for a moment, because recognizing what already exists is what deepens a nest, not adding new members or new proof to it.",
   },
   {
     number: "7000",

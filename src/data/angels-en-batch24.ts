@@ -687,7 +687,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "622 in a twin flame context favors deliberately re-centering the connection as a priority, particularly if it's been unintentionally crowded out by other demands. In reunion, this often means actively making time and space for the connection again, rather than letting it remain secondary to everything else. In separation, this number favors re-centering your own home life and close relationships as a genuine priority, rather than letting the connection's uncertain status consume all your attention.",
     manifestation:
-      "622 manifests by deliberately re-centering deprioritized relationships — the practical move is taking one concrete action today that shifts focus back to home or a close bond, since this number's folklore treats that active re-centering as what the moment specifically calls for.",
+      "Whichever relationship has quietly slipped down your list of priorities, usually home or one specific close bond, is the one to act on today. Do one real thing that puts it back where it actually belongs.",
   },
   {
     number: "633",

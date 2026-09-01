@@ -298,7 +298,7 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "When 4433 appears in a twin flame reading, it connects the inner work already done to a specific outcome: clearer, wiser expression. The healing, the self-examination, the steady internal development — those aren't only personal growth; they're directly shaping how you would speak to your twin if contact resumed today. In separation, this is affirmation that the work is producing something real, and the signal is how much calmer and clearer your inner voice around this connection has become. In reunion, the more grounded way you're communicating now is traceable to that work. It isn't coincidence — it's the direct product.",
     manifestation:
-      "4433 manifests by trusting expression rooted in existing stability — the practical move is speaking from that grounded place in a conversation today, since this number's folklore treats that traceable source, not separate confidence-building, as what makes the expression genuinely wise.",
+      "The confidence 4433 describes only counts if you can say where it came from. Speak from that grounded place today, because expression tied to a traceable source reads as genuinely wise here — confidence with no clear origin doesn't carry the same weight.",
   },
   {
     number: "4466",
@@ -442,7 +442,7 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "5544 carries a specific message for twin flames who've moved through the hardest part: the letting go — of how you imagined the connection would unfold, of the timeline, of the outcome as you'd constructed it — has already happened, and what's settling in now is what arrives after. This isn't a lull before the next difficult wave. 5544 specifically frames the stability as earned and durable. In reunion, the calmer, less reactive way you're navigating each other reflects work genuinely done. In separation, the quieter internal state is the signal that releasing has completed, not that connection has faded.",
     manifestation:
-      "5544 manifests by trusting earned stability rather than continuing to brace for disruption — the practical move is settling into one area of genuine calm today without hedging against it, since this number's folklore treats that trust as what the moment, after real change, actually deserves.",
+      "If you're still hedging against a disruption that isn't actually coming, 5544 has something worth noticing: the calm you're currently in has already been earned, not borrowed. Settling into it today means being willing to stop bracing for something the stability itself has already ruled out.",
   },
   {
     number: "5566",

@@ -112,7 +112,7 @@ export const EN_BATCH5_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "88 carries a karmic-harvest meaning generally, and in a twin flame context it specifically points at reward for the inner work you've already done, not a new effort still required. In reunion, 88 tends to appear when the personal growth completed during separation is close to actually being met, read less as a sign to act and more as confirmation that divine timing is closing the gap. In separation, this number favors trusting that the work already put into healing and growth is genuinely accumulating toward something, rather than needing more visible proof before believing it's working.",
     manifestation:
-      "88 manifests by harvesting effort already invested rather than 888's active circulation mechanic — the practical implication is patience specifically: trust that something you already did is working, rather than starting a new effort to force a result.",
+      "88 favors patience over 888's constant active circulation — trust what you already did, don't start over.",
   },
   {
     number: "99",
@@ -256,7 +256,7 @@ export const EN_BATCH5_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "4444 in a twin flame context is reassurance during a hard stretch of separation specifically — it tends to appear when doubt about the connection's future has been running high, and the message is that the bond's foundation is intact even though it doesn't feel that way right now. In reunion, 4444 confirms that whatever you're rebuilding together is genuinely secure, which is useful specifically after a rocky patch. This is one of the more comforting twin flame numbers precisely because it's aimed at calming fear rather than confirming timing.",
     manifestation:
-      "4444 manifests by neutralizing fear-based blocks rather than adding a new intention — the practical technique is identifying the specific fear that's been quietly running in the background and replacing it with one piece of concrete, current evidence that things are more stable than the fear suggests.",
+      "4444 targets a fear that's been quietly running in the background long enough that it barely registers as fear anymore, more like just how things are. Find its specific shape — not fear in general, but the one sentence it would actually say — and place one concrete, current piece of evidence against it: something true right now the fear doesn't account for. What that actually does is narrow but real: that fear loses the specific claim it was resting on, not fear itself, just the one assumption holding it up.",
   },
   {
     number: "5555",

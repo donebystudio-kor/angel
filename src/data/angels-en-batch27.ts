@@ -111,7 +111,7 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "34 is fundamentally a reassurance number, and applied to a twin flame connection it says the bond isn't unfolding in isolation, real guidance is actively stabilizing it even when the process feels shaky. In reunion, 34 favors trusting that support beyond what you can see is backing the practical steps toward reconnecting, not just the feeling of it. In separation, this number is often most needed exactly when doubt about the whole thing creeps in, and it counters that doubt directly: the connection is genuinely supported, even during the parts that look like nothing is happening.",
     manifestation:
-      "34 manifests by trusting present support rather than assuming isolation — the practical move is continuing a creative effort today with confidence that real backing is there, since this number's folklore treats that trust as what steadies the work.",
+      "Continue the creative effort you've been second-guessing today — the backing you assumed wasn't there actually is, and it isn't necessary to hold off for a clearer signal before moving forward.",
   },
   {
     number: "35",

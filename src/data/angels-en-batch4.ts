@@ -257,7 +257,7 @@ export const EN_BATCH4_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "6 in a twin flame context surfaces the care-and-responsibility dimension of the connection specifically — who's holding what, whether the dynamic is balanced, and where over-nurturing or under-nurturing is quietly distorting things. In reunion, plain 6 often appears when one person is managing more of the emotional labor of the relationship than the other, and it's a prompt to rebalance before resentment builds rather than after. In separation, 6 tends to flag an imbalance that the distance is making visible — usually that one person sacrificed significantly more in the dynamic — and the work now is understanding that clearly rather than just missing the connection.",
     manifestation:
-      "6 manifests through small, concrete acts of care rather than a larger correction — the practice is doing one specific helpful thing for someone else this week as the move that clears space for what you want.",
+      "6 works through one specific, small act of care for someone else this week — that alone is what clears space for what you actually want.",
   },
   {
     number: "7",

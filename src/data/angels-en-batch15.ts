@@ -367,7 +367,7 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "What 353 tracks is a gradual shift in how you're describing this connection — to yourself first, then outward. When expression becomes simpler and more accurate over time, that's a signal that internal clarity is solidifying, and internal clarity is what tends to precede real movement. If you've noticed your own internal narrative about the connection shifting from confused to plain, from circular to direct, that's not a small thing. For twin flames in any phase, the shift in expression registers before external circumstances shift — watch for it, and trust what it's telling you about where things are heading.",
     manifestation:
-      "353 manifests by actively using the clarity change produces rather than waiting for stability first — the practical move is expressing one thing clearly today that a recent change has helped you understand better, since this number's folklore treats that active use, not delay, as what solidifies the new voice.",
+      "Say the thing a recent change has actually clarified for you, out loud, before the clarity fades back into vague impression. 353 doesn't require full stability first — what you now understand more clearly is usable right now, mid-transition, not only once everything settles.",
   },
   {
     number: "363",

@@ -223,7 +223,7 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "876 asks what a payoff like 678's is actually for, rather than describing its arrival. Stability or personal growth you've already built is ready to be shared here, redirected toward real warmth in this connection, instead of continued solo accumulation. Together again, what you've built matters less on its own than what you actually do with it. Apart still, this is worth a harder question: whether personal growth has quietly become the whole goal, standing in for the closeness it was originally meant to make room for.",
     manifestation:
-      "876 manifests by redirecting existing achievement rather than pursuing more of it — the practical move is choosing one concrete way to put existing success toward home or relationship today, since this number's folklore treats that redirection, not further accumulation, as the actual next step.",
+      "Point some of what you've already achieved toward home or a relationship today, rather than piling more onto it. 876 wants that redirection — pick one concrete way existing success can actually reach the people closest to you.",
   },
   {
     number: "3456",

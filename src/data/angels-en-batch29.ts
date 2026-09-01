@@ -574,7 +574,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "When a single abundance moment fires the full 111 awakening sequence in 8111, the twin flame reading is specifically about pace. Material change — a windfall, a career shift, new financial stability — can create the impulse to match that speed in the connection too. 8111 favors letting the material shift settle first, before treating it as momentum for major relational moves. The awakening is genuine, but grounding it before acting makes the result more stable. What specifically changed in your circumstances, and how is that affecting what you want from this connection right now?",
     manifestation:
-      "8111 manifests by honoring abundance as the spark for new energy — the practical move is naming today the specific abundant moment that ignited your current momentum, since this number's folklore treats that acknowledgment as what sustains the resulting wave.",
+      "Whatever's going well for you right now doesn't have to trace back to one identifiable event before it counts for 8111 — some of it built up too gradually, or from too many small directions at once, for there to be a single moment to point back to, and hunting for one is beside the point. Noticing what's actually here now, plainly, without needing an origin story attached to it, is already the whole move.",
   },
   {
     number: "9111",

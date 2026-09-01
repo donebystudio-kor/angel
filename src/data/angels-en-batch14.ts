@@ -660,7 +660,7 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Everything let go — genuinely released, not managed or set aside — is what 0555 says comes before real freedom arrives. The 0 here does specific work: it clears everything before the already-amplified change of 555 can move. For someone in a twin flame dynamic who keeps seeking distance as a way of preserving freedom, 0555 asks whether the freedom you're reaching for actually requires first releasing what you've been holding, including your certainty about what the connection demands of you. Freedom that requires permanent distance to maintain isn't the same as genuine freedom. What would need to be released for the freedom you're looking for to actually be available within this connection?",
     manifestation:
-      "0555 manifests by consciously linking a current sense of freedom to a specific past release — the practical move is naming that connection today and letting yourself fully enjoy the resulting ease, since this number's folklore treats that acknowledgment as what completes the release properly.",
+      "Somewhere behind the freedom you're feeling right now is a specific thing you let go of earlier — 0555 wants that connection actually named, not left as a vague, general sense of lightness. Trace the ease back to the release that produced it and say the link out loud today. Once it's named, the freedom stops floating and finally attaches to something real, and that's what actually makes it enjoyable instead of just noticeable.",
   },
   {
     number: "0666",

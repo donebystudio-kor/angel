@@ -439,7 +439,7 @@ export const EN_BATCH8_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Where 345 gathers momentum toward a leap, 543 describes the opposite motion: a chaotic stretch finally quieting enough for your actual voice to come through. Twin flames often reach this point after a run of confusion, mixed signals, conflicting advice, an unclear read on the connection, that's now settling into something plainer. With contact reestablished, what you're hearing from yourself in the calm deserves more trust than whatever the earlier noise was insisting. Still apart, the wiser move is waiting out the settling before deciding anything definite, since a read taken mid-chaos rarely holds up once things go quiet.",
     manifestation:
-      "543 manifests by trusting the clarity that follows disruption rather than the noise during it — the practical move is stating your genuine want plainly now, since this number's folklore treats post-chaos clarity as more reliable than anything decided mid-chaos.",
+      "543 trusts whatever became clear once the disruption actually passed, over whatever got decided in the middle of it. State your real want plainly now — clarity that lands after chaos settles holds up better than anything reasoned out mid-chaos.",
   },
   {
     number: "567",
@@ -689,7 +689,7 @@ export const EN_BATCH8_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "2727 is one of the more specifically encouraging twin flame numbers for a long wait nearing its end. In reunion, it tends to appear when contact or resolution is genuinely close, after a longer separation than 222 or 2222 typically describe — the alternating trust-and-luck rhythm is read as confirmation the timing is finally aligning. In separation, 2727 is a direct nudge not to give up now, specifically because the stage is closer to completion than it feels, unlike earlier in the process when patience alone was the message.",
     manifestation:
-      "2727 manifests by sustaining trust specifically at the point closest to completion — the practical move is recommitting to the original intention one more time today, since this number's folklore treats giving up near the end as the actual risk, more than the outcome itself being in doubt.",
+      "Recommit today, specifically right when you're most tempted to let this go — not at the start, when commitment is easy, but here, closest to the end. 2727 is naming this exact stretch as the real risk, more than whatever outcome you're actually worried about; stopping now would cost more than the original uncertainty ever did.",
   },
   {
     number: "108",

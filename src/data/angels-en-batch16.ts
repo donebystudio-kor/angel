@@ -304,7 +304,7 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "7337 describes reunion timing that becomes readable through a specific signal: when both people's intuitive and creative lives begin operating in natural alignment, even without coordinated effort or awareness of each other's current state. This isn't about magical thinking — it's observable. If you find yourself drawn toward the same themes, the same creative territory, or the same questions that you sense are present for them, 7337 marks that as a timing indicator rather than coincidence. Reunion tends to arrive when the inner alignment is already present, not when the outer logistics get resolved. The alignment you're noticing internally is the more reliable signal.",
     manifestation:
-      "7337 manifests by acting on intuition and creativity simultaneously rather than sequentially — the practical move is creating something today that draws on both at once, since this number's folklore treats that combined activation, not careful separation, as what makes the moment powerful.",
+      "Between doing the intuitive part first and the creative part second — or flipping that order — 7337 has no preference for either sequence. Make one thing today that draws on both together, instinct and craft moving as a single motion, not handed from one to the other in careful stages.",
   },
   {
     number: "7447",
@@ -664,7 +664,7 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Genuine understanding — specifically, reaching clear comprehension of what a chapter of the twin flame connection actually was and what it meant — is what closes it with real finality. 9779 makes this specific: the doubled insight (77) framed by completion (9) on both sides describes a chapter that concludes through genuine realization, not through time passing or circumstances changing. The inner work required isn't about processing feelings more; it's about arriving at actual comprehension. In separation, this means looking honestly at what the chapter was, including what you preferred not to see, until understanding arrives rather than stops short. What about this chapter, if understood honestly and completely, would finally let it close?",
     manifestation:
-      "9779 manifests through genuine understanding rather than mere distance — the practical move is spending real reflective time today on a chapter you assume is closed, checking that the understanding actually matches the assumed closure, since this number's folklore treats that verified understanding as what genuinely shuts the door.",
+      "If there's a chapter you've been treating as closed mostly because enough time has passed, 9779 is asking a more specific question than that. Distance alone doesn't confirm understanding — has the actual content of what happened been sat with, examined, genuinely made sense of, or has the passage of time just been doing the work that real reflection was supposed to do? A door that's closed because you looked directly at what was behind it and a door that's closed because you stopped looking are not the same door, even if both look shut from the outside, and only one of them actually stays that way.",
   },
   {
     number: "9889",

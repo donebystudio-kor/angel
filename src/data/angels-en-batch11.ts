@@ -78,7 +78,7 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Safe conditions for a deepening intuitive awakening are a reliable readiness signal for a twin flame connection. 4114 doesn't measure readiness by whether everything is resolved or settled on the outside — it measures it by whether something is safely opening on the inside, a deepening instinct, a growing clarity, an intuition you couldn't access before. In reunion, the clearest signal is often internal: a knowing that wasn't there before starts becoming accessible. In separation, this number favors attending to that awakening rather than suppressing it, because the intuition that's opening now is likely the most accurate guide to what's next. What intuitive knowing is becoming available to you now that wasn't before?",
     manifestation:
-      "4114 manifests by trusting protection as permission to go deeper — the practical move is exploring a deepening instinct today rather than staying cautious, since this number's folklore treats the stable foundation as specifically built to hold that exploration.",
+      "If part of you has read a stable foundation as a reason to stay cautious, 4114 reads it the opposite way — that stability is specifically what makes it safe to go further. Which reading fits comes down to whether you're protecting the foundation or building from it.",
   },
   {
     number: "4224",
@@ -514,7 +514,7 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     manifestation:
-      "2244 manifests through joint construction rather than solo effort — the practical move is inviting a specific person to help build something you've been carrying alone, since this number's folklore treats shared effort as what makes the result durable.",
+      "Next to 22's solo-built version of this, 2244 doesn't run on solo logic. Is what you're building still small enough to finish alone, or has it actually outgrown that by now?",
   },
   {
     number: "3311",
@@ -730,6 +730,6 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "92 pairs completion with partnership to describe a purpose specifically finished together, distinct from 919's calling that emerges in the gap between endings. In a twin flame context this favors resolving something through actual collaboration with them, or with your own support system, rather than waiting for an ending to create space for insight. In reunion, 92 suggests the way forward involves genuinely working through something together, not one person figuring it out alone and presenting a conclusion. In separation, this number favors leaning on trusted others, friends, mentors, community, to help complete inner work that isn't meant to be carried solo.",
     manifestation:
-      "92 manifests through shared completion rather than solo achievement — the practical move is inviting someone specific into a meaningful goal you've been carrying alone, since this number's folklore treats that partnership as what actually completes the mission, not individual effort.",
+      "Whatever goal you've been carrying by yourself has an obvious next move sitting right there: hand part of it to someone specific. Once another person actually has a stake in it, the finish line stops depending entirely on your own energy holding up.",
   },
 ];
