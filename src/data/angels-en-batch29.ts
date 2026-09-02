@@ -343,7 +343,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "2111 is one of the more specific twin flame numbers — it tends to appear for the person in the chaser position during a phase when the other person's movement (a message, a social post, a mutual contact mentioning them) has just triggered a full wave of new-beginning thoughts, possibilities, and clarity in you. The information gap between what you're experiencing and what they appear to be experiencing right now can feel disorienting. 2111 is less about their readiness and more about what that triggered clarity is showing you about yourself. What did their movement reveal about where you actually stand with your own path?",
     manifestation:
-      "2111 manifests by honoring the relational spark behind a surge of new energy — the practical move is naming today the specific connection that ignited your current momentum, since this number's folklore treats that acknowledgment as what sustains the resulting wave.",
+      "Whichever relationship in your life is actually behind this good stretch, 2111 wants that one named specifically — not the feeling it produced, the person themselves. If several connections are active at once, this isn't asking which memory or moment started it; it's pointing to who, currently, is the source.",
   },
   {
     number: "3111",

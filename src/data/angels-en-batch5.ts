@@ -364,6 +364,6 @@ export const EN_BATCH5_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "7777 is one of the least common numbers to appear in a twin flame context, and when it does it's usually during a stretch of time when both people have been doing sustained, unglamorous inner work for a while. It's less a signal that reunion is close and more a signal that something genuinely rare is happening in terms of mutual spiritual development — both people growing at a matched pace without coordinating it. In separation, 7777 is worth acknowledging without acting on; it's confirming a state, not calling for a change. In reunion, it marks a phase where the conversation between you can go deeper than it previously could, because both people have actually caught up to the level the connection has been trying to reach.",
     manifestation:
-      "7777 manifests through trusting the flow of coincidences rather than forcing a specific outcome — the practical move is following the thread that keeps reappearing, a name, an idea, an opportunity, rather than pushing toward a plan that isn't naturally lining up right now.",
+      "Behind whatever's been naturally reappearing for you lately — a name, an idea, an opening — is a thread 7777 wants followed, not bent to match an agenda that isn't cooperating. Are you actually tracking where that thread keeps leading, or still trying to steer things toward the version you originally planned?",
   },
 ];

@@ -79,7 +79,7 @@ export const EN_BATCH8_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "1717 in a twin flame context tends to mark trust in an entirely new phase of the connection, rather than confirming a single moment or decision the way 717 does. In reunion, it suggests the shift underway isn't just a single event (one message, one meeting) but a genuinely new direction for the connection, and your intuition about that broader shift deserves real weight. In separation, it points toward trusting a new personal direction of your own, distinct from the relationship, as the thing actually moving the connection forward.",
     manifestation:
-      "1717 manifests by trusting a whole new direction rather than a single wish — the practical move is stating the broader shift you're committing to (not just one outcome) and letting your intuition, doubly confirmed here, guide the specific steps as they come.",
+      "1717 trusts a full change of direction over a single wish granted — the doubling here means confirmation repeated, not confirmation given once and hoped to be enough. State the broader shift you're actually committing to, beyond any one outcome you had pictured, because a direction confirmed twice frees your instinct to handle the specific steps as they come, without every one needing to be mapped out in advance.",
   },
   {
     number: "1414",
@@ -511,7 +511,7 @@ export const EN_BATCH8_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "765 reverses that arc, taking insight and pushing it back outward into ordinary daily action instead of further inward into peace. In a twin flame situation this favors turning whatever you've realized, about the bond, about yourself, about what you actually need, into one small habit rather than leaving it as a private realization. That habit matters whether or not the connection is currently active: a changed daily practice holds up regardless of contact, unlike an insight that stays abstract and quietly fades. The test of whether the realization was real is usually what it changes about an ordinary Tuesday, not how meaningful it felt in the moment.",
     manifestation:
-      "765 manifests by grounding insight in one small daily action — the practical move is picking a single ordinary habit that reflects a realization you've already had, since this number's folklore treats grounded practice, not further insight, as the actual next step.",
+      "Choose one small, ordinary habit that reflects a realization you've genuinely had — not a bigger insight, just a daily action lined up with something you've already worked out. What's the plain, unglamorous version of that understanding — is it something you're actually living out day to day, or still something you're waiting to feel ready for?",
   },
   {
     number: "987",

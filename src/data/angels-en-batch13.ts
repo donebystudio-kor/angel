@@ -186,7 +186,7 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "8000 describes abundance arriving as an overwhelming flood, distinct from 800's steadier, already-active cycle. In a twin flame context this favors preparing for reunion itself, or a major sign, arriving with more intensity than a gradual reconnection would, contact, clarity, and emotion landing all at once rather than easing in gradually. In reunion, 8000 favors staying grounded and receiving that intensity fully rather than reacting from overwhelm. In separation, this number suggests the eventual shift, when it comes, may feel like more than you braced for, worth preparing to receive well rather than expecting a gentle, gradual reentry.",
     manifestation:
-      "8000 manifests by preparing to receive a large amount well rather than a gradual trickle — the practical move is setting one concrete plan today for handling an unusually large influx wisely, since this number's folklore treats readiness for volume, not just openness, as what makes the abundance land well.",
+      "If you're about to take in more than you're used to handling, 8000 wants a real plan in place before it lands, not merely an open, willing attitude. Landing well comes down less to your openness and more to whether you've actually set up somewhere for it to go.",
   },
   {
     number: "9000",

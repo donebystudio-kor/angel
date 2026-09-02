@@ -257,7 +257,7 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "What's said between the two of you carries weight, but in 0303's framing so does what isn't said: the pauses, the space between conversations, the quiet that follows a real exchange. In a twin flame context, 0303 describes communication as a recurring rhythm of expression and rest, where the silence isn't absence of connection but part of the same cycle. In reunion, this favors resisting the urge to fill every gap with reassurance-seeking, letting the quiet after a good exchange actually breathe. In separation, notice what the silence is telling you that words haven't yet said.",
     manifestation:
-      "0303 manifests by trusting creative rhythm rather than forcing continuous output — the practical move is capturing today's wave fully without anxiety about tomorrow's lull, since this number's folklore treats trust in recurrence, not constant production, as what actually sustains creativity long-term.",
+      "Unless tomorrow's lull is genuinely what's worrying you, 0303 doesn't need today's creative wave to prove it'll return — recurrence, not nonstop production, deserves the actual trust here.",
   },
   {
     number: "0404",

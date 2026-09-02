@@ -257,7 +257,7 @@ export const EN_BATCH6_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "432 counts down where 234 counts up, and the reversal changes the ask: instead of confirming steady forward growth, this number wants you to strip away complexity that's built up around the connection over time. In a twin flame context this favors dropping the accumulated checklist, every sign catalogued, every theory considered, every community rule applied, and returning to what actually matters underneath it. In reunion, 432 suggests decluttering your own overthinking before adding anything new to track. In separation, this number favors picking the one or two things that genuinely matter right now and letting the rest of the accumulated noise go.",
     manifestation:
-      "432 manifests through subtraction rather than addition — the practical move is removing everything unnecessary from around a goal before adding anything new to it, since this number's folklore treats simplicity itself as the thing that clears the way.",
+      "432 works by subtracting, not adding — clear away the unnecessary before adding anything new; simplicity itself clears the way.",
   },
   {
     number: "456",

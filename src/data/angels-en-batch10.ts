@@ -226,7 +226,7 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Building and trusting running in parallel is the specific texture of 2424 — not waiting before doing, or doing before trusting, but both at once. For twin flame connections, this number tends to appear during a separation phase where both the practical and the inner are actively needed: real foundation work on yourself while simultaneously trusting the connection's direction without visible evidence. What makes 2424 specifically encouraging is that both activities are the work — the groundwork you're laying and the patience you're practicing are both contributing to the same outcome. What foundation have you been actively building in yourself during this period?",
     manifestation:
-      "2424 manifests by combining trust with concrete action rather than choosing between them — the practical move is doing one small, practical task today on something you're also being asked to have faith in, since this number's folklore treats the pairing itself, not either alone, as what actually builds a durable result.",
+      "Between trusting something and actually acting on it, 2424 isn't interested in you picking one over the other. Do one small, practical task today on the specific thing you're also being asked to have faith in — not conviction by itself, and not action by itself, but both moving together. What that pairing produces is sturdier than either half managed alone: action without trust burns out fast, and trust without action just sits there, unused.",
   },
   {
     number: "2828",
@@ -370,7 +370,7 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "511 pairs change with intuition in a specific order: the disruption comes first, and it's that disruption itself, not a premonition beforehand, that sharpens perception afterward. In a twin flame context this favors trusting insight about the connection that's arrived only since something recently shifted in your life, rather than doubting it because it wasn't there before. In reunion, 511 suggests a recent change unrelated to them directly is what's actually clarifying your read on the connection right now, worth trusting. In separation, this number reframes a recent disruption as the catalyst for real clarity about the bond, not a distraction from it.",
     manifestation:
-      "511 manifests by using change-sharpened awareness rather than waiting for calm to think clearly — the practical move is trusting a specific insight that's become clearer since a recent disruption, since this number's folklore treats the disruption itself as the source of the clarity, not an obstacle to it.",
+      "Once a disruption catches up with you, 511 treats the clarity that follows as coming directly from that disruption — not from the calm you'd get once things settled back down. Trust the specific insight that's sharper now than it was before the disruption hit; that sharpness is the point, not an unfortunate side effect to wait out.",
   },
   {
     number: "611",
@@ -730,6 +730,6 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "4455 reframes twin flame separation not as a problem to solve but as a phase that runs its natural course. The long-held stability of being apart — individual routines, inner development, separate lives maintained — has served its full purpose. Now the number describes that stability naturally giving way to the next movement, not because anything failed, but because it's simply accomplished what it was here to do. For those in a long, settled separation, 4455 tends to appear as the energy starts shifting organically — not from forcing, but from the separation having genuinely completed its arc.",
     manifestation:
-      "4455 manifests by using existing stability as a launchpad for change rather than starting over — the practical move is identifying one part of a stable foundation worth carrying into the coming change, since this number's folklore treats continuity, not a clean break, as what makes the transition durable.",
+      "A foundation being solid already doesn't mean what comes after has to start from zero. 4455 points you toward one specific part of what's stable — a piece of routine, a habit, a relationship — and asks that you deliberately bring it forward into the change itself; nothing here requires leaving everything behind. Continuity makes a transition feel durable in a way starting fresh never quite manages, because durability comes from what survives the shift, not from how dramatically the old version got left behind.",
   },
 ];

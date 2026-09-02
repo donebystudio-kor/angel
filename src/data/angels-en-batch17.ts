@@ -190,7 +190,7 @@ export const EN_BATCH17_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "2552 names a particular kind of readiness — not stillness or simplicity, but equilibrium maintained while multiple things are actively changing at once. For twin flames, this matters because reunion doesn't tend to arrive when life is settled and clear; it tends to arrive while things are still in motion. The question 2552 is asking is whether you can hold your center while the ground shifts, whether you can remain available to the connection without needing the rest of your life to be resolved first. If you're actively managing change on several fronts and still feeling grounded, that's the readiness signal this number marks.",
     manifestation:
-      "2552 manifests through deliberate, active balancing rather than passive endurance — the practical move is naming the multiple things shifting at once today and consciously prioritizing between them, since this number's folklore treats that active equilibrium, not just shared endurance, as what actually holds the connection steady.",
+      "Several things are moving for you simultaneously — a work shift, a relationship adjustment, maybe a financial one too — and 2552 needs every piece in motion actually named today, not only the one that feels most urgent. Consciously choosing which piece gets attention first keeps things from tipping over — silent endurance doesn't.",
   },
   {
     number: "2662",
@@ -694,7 +694,7 @@ export const EN_BATCH17_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Depth of self-understanding — genuinely knowing your own patterns, needs, and blind spots in relationship — is the inner resource 8778 describes as actively securing emotional stability. For twin flames, this inner work has a specific yield: the more accurately you understand yourself in relation to this connection, the less reactive and anxious your engagement with it becomes. In separation, the goal isn't to understand the other person better — it's to understand your own role and patterns with much greater precision. What specific blind spot in your own relationship patterns have you come to understand more clearly during this period?",
     manifestation:
-      "8778 manifests by trusting existing understanding to secure current stability rather than chasing new insight — the practical move is recognizing one piece of already-developed depth today and letting it guarantee your stability, since this number's folklore treats that trust, not new realization, as what's actually needed right now.",
+      "8778 trusts an understanding that's already deep enough to let it hold current stability in place, without needing fresh confirmation to show up first. Something worked out slowly a while back, and now carried without much thought, is doing more load-bearing work here than it gets credit for. Recognizing that understanding today, specifically, and trusting it to hold — not hunting for a newer insight to feel secure — is the actual move: what's already established doesn't need to be re-earned through fresh discovery every time stability comes into question.",
   },
   {
     number: "8998",

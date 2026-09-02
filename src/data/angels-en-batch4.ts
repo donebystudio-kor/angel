@@ -293,7 +293,7 @@ export const EN_BATCH4_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "7 in a twin flame context points at the inner, spiritual dimension of the connection rather than its practical or emotional surface — it tends to appear when both people are doing real individual growth work, even without any contact between them. In reunion, plain 7 usually means the conversation that actually matters right now is not about logistics or feelings but about something the two of you genuinely believe or understand differently; that's the level where the connection is alive. In separation, 7 is one of the more comfortable numbers to see, because it confirms the growth work you're doing in yourself is the point right now — not engineering a faster return.",
     manifestation:
-      "7 confirms alignment in general rather than pointing at one specific goal the way 777 does — treat it as broad permission to trust your instincts generally this stretch, rather than a signal tied to a particular want.",
+      "Next to 777's sharp confirmation of one specific goal, 7 confirms something broader — general trust in your instincts this stretch, not a signal tied to one particular want.",
   },
   {
     number: "8",

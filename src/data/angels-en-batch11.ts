@@ -222,7 +222,7 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "5225 in a twin flame context describes an active change in the connection, a status shift, a new stage, that's made significantly easier by trust already established between you. In reunion, leaning on that existing trust rather than needing new proof tends to smooth the transition into whatever comes next. In separation, it suggests trusting the process of individual change you're each going through, rather than needing certainty about the outcome before feeling steady.",
     manifestation:
-      "5225 manifests by using existing trust as active support during change, not just a passive backdrop — the practical move is leaning on one trusted person or process today rather than navigating a transition entirely solo, since this number's folklore treats that leaning as what smooths the change.",
+      "When you've been navigating a change mostly by yourself, 5225 is naming the person or process you could actually lean on — not a backup plan, but active support carrying its own weight. Reach out to that one trusted source today; this isn't a transition meant to be handled solo.",
   },
   {
     number: "6116",
@@ -586,7 +586,7 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "5522 in a twin flame context describes significant change in the connection, a shift in stage or status, that's meant to be navigated with mutual support rather than either person handling it in isolation. In reunion, this favors actively communicating and supporting each other through whatever's changing, rather than assuming it'll resolve on its own. In separation, it's a reminder to build real support around your own individual change, friends, community, rather than carrying the growth work entirely alone.",
     manifestation:
-      "5522 manifests through supported change rather than solo effort — the practical move is reaching out to one specific person for real support with a change you're navigating, since this number's folklore treats that support as what actually eases the transition, not a sign of weakness in handling it.",
+      "5522 isn't the same quiet, practical support that 5225 points to — it's asking a sharper question. Is the person you'd normally turn to actually unavailable, or has asking quietly turned into an admission you'd rather not make?",
   },
   {
     number: "70",

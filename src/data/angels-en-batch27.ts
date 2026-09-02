@@ -363,7 +363,7 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "41 credits thought itself as constructive, not just reflective, which is a step earlier than a number like 141's emphasis on active will. In a twin flame context this favors noticing that how you're currently thinking about this connection, hopeful, resentful, patient, anxious, is actively laying the groundwork for what comes next, before any action even happens. In reunion, 41 favors directing your thinking deliberately toward the foundation you actually want. In separation, this number suggests your current mindset isn't neutral background noise, it's genuinely building something, worth choosing on purpose rather than letting it run unattended.",
     manifestation:
-      "41 manifests by deliberately directing thought as a construction tool — the practical move is choosing today, on purpose, what foundation your current thinking is building, since this number's folklore treats that deliberate direction as what shapes the resulting ground.",
+      "The direction your thinking takes today is doing construction work whether you notice it or not. Choose it on purpose — decide what foundation your current thoughts should be building, and let that be a deliberate choice, not something left to default.",
   },
   {
     number: "42",
