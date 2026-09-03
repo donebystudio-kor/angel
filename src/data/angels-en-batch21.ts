@@ -618,7 +618,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "118 favors scale: not a small, easy-to-miss opening but a genuinely wide one, worth engaging with directly rather than waiting for more confirmation first. In a twin flame context this suggests a fresh start opening real opportunity for the connection itself, not just your own life generally. In reunion, 118 favors actively stepping toward the opening, reaching out, saying yes to contact, rather than passively noticing it's there. In separation, this number suggests a genuinely fresh chapter is opening for you individually right now, significant enough to actively build on, not just quietly observe.",
     manifestation:
-      "118 manifests through active engagement rather than passive noticing — the practical move is taking one concrete step today toward an opening opportunity, since this number's folklore treats that active pursuit, not passive waiting, as what actually captures the abundance.",
+      "If you've mostly watched this abundance number arrive from the sidelines, that habit is worth breaking. Unlike 128, which is about beating one closing deadline, 118 isn't bound to a single window — it rewards visibly joining in: reach out, apply, show up in the room, whichever active form fits. Do that, and the abundance stops feeling announced from a distance and starts feeling joined-in.",
   },
   {
     number: "119",

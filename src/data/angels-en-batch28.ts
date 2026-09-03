@@ -404,7 +404,7 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "65 frames a home change as fertile ground itself, not an obstacle you're flourishing despite. In a twin flame context this favors noticing that a shift in your living situation or daily domestic rhythm might be exactly where real growth for the connection is happening, not a distraction from the real work. In reunion, 65 suggests trusting that whatever's changing at home right now is contributing to the connection's development, not competing with it. In separation, this number favors letting a current domestic change actually do its quiet work, rather than treating it as unrelated background noise to the connection.",
     manifestation:
-      "65 manifests by nurturing flourishing happening through domestic change — the practical move is actively tending one piece of growth today connected to a home-related change, since this number's folklore treats that nurturing as what helps it bloom fully.",
+      "The change already underway at home is the shift 65 is naming, not a project starting from scratch. Water whatever in it is actively growing — a routine, a room, a bond under one roof — instead of spreading focus across the whole shift. What's live there carries the rest along.",
   },
   {
     number: "67",
@@ -620,7 +620,7 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "6060 in a twin flame context anchors attention back to care as an active, living signal — specifically, self-care. The steady rhythm of taking care of yourself during separation, maintaining warmth, rest, and nourishment without waiting for the other person's presence, broadcasts something real about the state of the connection. This isn't metaphor; it's practical: the version of yourself cultivated through that care is what reunion, if it comes, actually meets. 6060 doesn't ask you to wait. It asks you to tend to what's yours to tend, at a sustainable pace, and trust that the care itself is doing meaningful work regardless of what's happening on the other side.",
     manifestation:
-      "6060 manifests by regularly engaging with an ongoing rhythm of care — the practical move is one small, consistent caring act today, since this number's folklore treats that regular engagement as what sustains the rhythm.",
+      "Whichever small caring act you keep doing on repeat, checking in, a routine gesture, is the entire mechanism behind 6060, not a rehearsal for something larger down the road. Keep doing that one small thing, and the rhythm holds steady precisely because none of it needed to scale.",
   },
   {
     number: "7070",

@@ -726,6 +726,6 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "8118 marks reunion as built from existing abundance — from what each person has already accumulated, developed, and brought: self-understanding, resilience, practical wisdom, inner resources. The reconnection doesn't start from nothing; it's made from the material each person genuinely brings to it. In reunion, 8118 is a reminder to recognize what you've developed during this separation as real, valuable input to what's being rebuilt together, not just obstacles survived to get here. Take stock of what you've actually gained — that's the substance the new chapter is standing on.",
     manifestation:
-      "8118 manifests by consciously starting from existing resources rather than from an assumed blank slate — the practical move is naming one specific resource you already have and using it deliberately in a new beginning today, since this number's folklore treats that existing foundation, not a fresh scarcity mindset, as what makes the start solid.",
+      "Underneath the sense of starting fresh with 8118 sits resources you already own, not the empty room a fresh start implies: contacts, skills, half-finished drafts, unused tools. A blank-slate approach treats all of that as baggage to clear away first; 8118 treats those same things as the ground it's built on. Pick one resource sitting unused and build the new beginning directly around it — a start assembled from what's in hand holds weight faster than one assembled from assumed scarcity.",
   },
 ];

@@ -413,7 +413,7 @@ export const EN_BATCH8_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "345 doesn't confirm a process the way 234 does, it builds toward one, creative or emotional groundwork gathering enough structure to become a launchpad for something bolder. Among twin flames this often looks like private clarity, about what you want to say, or do, or stop tolerating, taking on real shape rather than staying a vague feeling. Once contact exists, that gathered structure tends to become the actual leap: the message finally sent, the honest conversation finally had. Where contact hasn't resumed, the same momentum is still doing real work, building toward a version of yourself that can act clearly whenever the moment does arrive.",
     manifestation:
-      "345 manifests by building structure under a creative idea until it can support a real leap — the practical move is adding one concrete piece of structure to a creative idea today (a plan, a schedule, a first version) rather than waiting for more inspiration.",
+      "Missing from the creative idea you're sitting on isn't more inspiration — it's structure underneath the inspiration already there. 345 bets on scaffolding: a plan, a schedule, a rough first version, something load-bearing added today, not postponed for a better mood. If the idea still buckles after that's in place, was inspiration ever really the problem?",
   },
   {
     number: "543",

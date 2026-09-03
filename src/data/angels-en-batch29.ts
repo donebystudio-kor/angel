@@ -380,7 +380,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "3111 in a twin flame context often appears during separation phases when a creative or expressive experience — a song, a poem, a conversation that felt unexpectedly honest — has triggered a wave of awareness about the connection. The message isn't about them specifically; it's about what the separation is developing in your capacity to say what you actually mean. Separations in twin flame connections frequently serve the function of building the expressive range that an eventual reunion will need. 3111 is confirmation that the creative work you've been drawn to during this period isn't a distraction from the connection — it's directly related to it.",
     manifestation:
-      "3111 manifests by honoring the creative spark behind a surge of new energy — the practical move is naming today the specific creative act that ignited your current momentum, since this number's folklore treats that acknowledgment as what sustains the resulting wave.",
+      "The creative act that started this is already finished — done, said, made, posted. What matters now isn't identifying it, but what happens next with the charge it left behind. Point that same push toward a second opening this week: once it cracked open one new start, let it crack open a stalled habit or a delayed repair too. The first new beginning was a doorway, not the destination.",
   },
   {
     number: "4111",
@@ -648,7 +648,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "The completion that 9992 marks in a twin flame context is specific — the 2 at the close points at a partnership pattern rather than the connection overall. The thing completing isn't usually the relationship itself; it's a particular way of relating to each other that has run its full course. Allowing it to complete fully, without trying to revive the dynamic that's closing, is what 9992 is asking. In separation, this can feel like a final loosening of something that had been held tightly rather than a permanent ending. What particular way of relating to each other are you being asked to release right now?",
     manifestation:
-      "9992 manifests by trusting readiness to open toward connection after real closure — the practical move is taking one step today toward partnership from a place of genuine completion, since this number's folklore treats that trust as what makes the opening land well.",
+      "If the ending feels finished, not just quiet, 9992 points to what opens next, not what closed. Move toward whichever door appears first. Unlike 2111, which names who's behind an existing stretch, 9992 is about timing: move too soon and the new tie carries weight it shouldn't.",
   },
   {
     number: "9993",

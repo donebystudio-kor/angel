@@ -187,7 +187,7 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "789 is compact rather than gradual, good developments arriving close together instead of unfolding across a longer stretch, more a quick run than a slow climb. Twin flames sometimes notice this as several small positive things landing near each other, a clearer thought, an easier conversation, a lighter mood, without one dramatic event tying them together. When reconnection is part of that run, it's usually one piece among several rather than the whole story. When it isn't, the run is still worth tracking on its own terms, small good developments that don't need a reunion attached to them to count as real.",
     manifestation:
-      "789 manifests through quick, connected momentum rather than a single, larger request — the practical move is noticing and building on one small good development the moment it happens, since this number's folklore treats a fast follow-through as what extends the run rather than letting it pass unnoticed.",
+      "Right after a good stretch starts, the pull is to wait and save everything for one bigger ask later — 789 rewards the opposite instinct. The moment something small lands well, a quick reply, a door left open a crack, someone agreeing faster than expected, that window shuts fast if a day slips by while you're deciding whether it even counts. Move within hours — answer the reply, book the follow-up, mention the idea again before the good mood fades. Acting on the small thing right away, not saving it to combine with something bigger later, keeps a run of good outcomes extending — each quick follow-through becomes the small good thing the next one builds on, which is how the streak keeps growing.",
   },
   {
     number: "876",

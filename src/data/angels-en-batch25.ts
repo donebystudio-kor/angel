@@ -374,7 +374,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "733 assumes the clarity already exists and asks you to stop diluting it when you speak. Where a number like 533 is about timing opening the door to expression, 733 is about insight you've already privately reached, regarding what this connection is or isn't, deserving full, undiluted words. In reunion, 733 favors saying the specific true thing you've already worked out internally, rather than a softened version meant to manage their reaction. In separation, this number suggests naming plainly, even just to yourself, what you've actually come to understand about the bond, instead of continuing to hedge around it.",
     manifestation:
-      "733 manifests by expressing existing clarity fully rather than diluting it — the practical move is saying one thing today with full honesty that you've been hedging, since this number's folklore treats that full expression as what the moment actually calls for.",
+      "733 isn't about faster deciding — the words are already there. What's needed is not softening them on the way out: no hedging, no rounded edges for an exit. Say it at full strength, once, to the person it's for. Watered-down truth does less than the same truth said plain.",
   },
   {
     number: "744",

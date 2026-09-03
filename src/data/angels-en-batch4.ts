@@ -185,7 +185,7 @@ export const EN_BATCH4_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "4 in a twin flame context is essentially a stability check — it shows up when the foundation of the connection needs attention rather than the timing or the feelings. In reunion, plain 4 favors building something real and consistent between you — showing up reliably, following through on small things — over large romantic gestures that don't hold week to week. In separation, 4 is asking what you're actually building in your own life right now, independent of the connection; the stability you're laying down in yourself is what makes eventual reunion sustainable rather than a repeat of previous patterns.",
     manifestation:
-      "4 manifests through practical planning rather than either the compounding effort of 444 or the quiet reliability of 44 — the technique here is simply making an actual plan, on paper, before doing anything else.",
+      "Put the plan on paper first. 4 skips 44's patient repetition and 444's slow build for one page that turns a want into a move.",
   },
   {
     number: "5",

@@ -616,7 +616,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "322 pairs creative energy with doubled partnership-and-deliberation, describing overthinking itself, not the situation, as the actual obstacle. In a twin flame context this lands squarely on a familiar pattern: endlessly analyzing signs, timing, or what a text did or didn't mean, instead of taking one concrete step. In reunion, 322 favors interrupting that analysis loop with a single real action, reaching out, or consciously choosing not to, rather than continuing to weigh it from every angle. In separation, this number suggests the deliberation cycle itself, more than the actual distance, is what's currently draining energy, worth naming and interrupting deliberately.",
     manifestation:
-      "322 manifests by interrupting deliberation with decisive action — the practical move is taking one concrete step today on something you've been overthinking, since this number's folklore treats that interruption, not further analysis, as what actually unblocks the situation.",
+      "Pick whichever thing you've turned over in your head for days without landing anywhere, and do the smallest visible piece of it this afternoon — send the message, book the call, put a draft where someone else can see it. 322 doesn't reward another lap of thinking; it rewards whichever half-finished loop actually closes today, even a little, before you talk yourself into circling it once more.",
   },
   {
     number: "344",

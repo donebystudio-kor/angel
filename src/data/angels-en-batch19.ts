@@ -150,7 +150,7 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "3355 describes a clear sequence: honest expression first, and then, as a distinct following step, the change in the situation. In a twin flame context this applies to reunion specifically: reaching out, voicing something honestly, or making a move is what sets the next stage in motion, not timing or external circumstances independently. The change doesn't happen simultaneously with the expression; it follows, sometimes after a delay that can feel long. In separation, 3355 favors trusting that expressing something real will produce a result, even if not immediately. Notice what you've been waiting to say until circumstances feel more certain, and whether that waiting is serving the connection.",
     manifestation:
-      "3355 manifests by trusting a sequence rather than expecting simultaneous results — the practical move is speaking up honestly today and trusting the following change to unfold in its own time, since this number's folklore treats that patient sequence, not instant results, as how the process actually works.",
+      "Something you already said honestly, out loud, hasn't finished working yet — the change it triggered is moving through its own sequence, each step unlocking the next, not landing together. So why does it feel stalled, when the first reaction already arrived on schedule and the second is simply next, not simultaneous? Is the timeline broken, or is 3355 just running in its normal order?",
   },
   {
     number: "3366",

@@ -149,7 +149,7 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "3443 offers reassurance to the part of you that suspects lightness, ease, or joy in connection might signal superficiality — that real, deep bonds are supposed to feel harder or more labored. They're not. The structural energy in 3443 (4s holding 3s) is specific: it says that creativity, expressiveness, and genuine ease are real building materials, not indicators that something important is missing. For twin flames, this distinction matters when self-doubt presents as criticism of the connection's quality. If it feels natural and joyful between you, that's information, not evidence of shallowness. Real depth and genuine lightness coexist regularly.",
     manifestation:
-      "3443 manifests by recognizing joy as a real building material, not a side effect — the practical move is naming one thing built from genuine enjoyment and investing further in it today, since this number's folklore treats that joyful origin, not obligation, as what makes a foundation actually last.",
+      "Notice what you built purely because it was enjoyable, not because anything demanded it — the raw material 3443 cares about, not the byproduct. Its shape mirrors outward from center (44) to edges (3s): durability radiating from an enjoyable core, not bolted on after the fact. What grew from real enjoyment already has the sturdier root system, so the next effort belongs there, not in obligation.",
   },
   {
     number: "5335",
@@ -329,7 +329,7 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Separation in a twin flame connection can feel genuinely disorienting when it stretches long enough to loop back on itself — which is precisely what 0505 describes: change that swirls rather than moves in a straight line. Rather than reading that circularity as stagnation, this number points at the changes happening during the separation as purposeful, even when they're not visible yet from inside the swirl. In reunion, 0505 often appears when both people have quietly shifted through more than one cycle of growth, not one clean transformation. Identify one thing that's changed in you that you didn't fully notice until now.",
     manifestation:
-      "0505 manifests by grounding through disorientation rather than forcing clarity before it's ready — the practical move is one small stabilizing action today, a routine, a breath practice, rather than trying to intellectually resolve a swirl that hasn't settled yet.",
+      "0505 isn't 0555's clarity-through-naming — it's stability through one small grounding act, with calm arriving before the fog lifts, not after.",
   },
   {
     number: "2323",
@@ -587,7 +587,7 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "From zero, 0333 describes a pure creative beginning — no accumulated style, no prior expectations, no previous way of doing it to maintain. For twin flame connections, this tends to appear during a reset period when the creative or expressive approaches that worked in a previous phase have cleared, and what comes next hasn't formed yet. The invitation of 0333 is to begin something creative from that genuinely open state rather than waiting for inspiration to arrive fully formed. What would you create, express, or begin in this connection if you had absolutely no expectations about how it should look?",
     manifestation:
-      "0333 manifests by approaching an effort as a genuine beginner rather than carrying accumulated expectation — the practical move is starting one creative thing today without measuring it against past work, since this number's folklore treats that fresh origin point as what lets real creativity bloom unburdened.",
+      "If today's start gets measured against past work, 0333 loses its point — leave the comparison out entirely. Not regression, just a beginning judged by standards it never agreed to. Treat it as a first attempt, unless you want it competing with work it was never trying to join.",
   },
   {
     number: "0444",

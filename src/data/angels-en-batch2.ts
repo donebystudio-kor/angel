@@ -381,6 +381,6 @@ export const EN_BATCH2_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "1221 is one of the clearest twin flame mirror numbers in this niche: the core idea is that a twin flame connection reflects your own growth back at you almost exactly, so what's happening in the connection right now is a fairly direct readout of your own internal state. In reunion, 1221 usually means both people are seeing each other, and themselves, with unusual clarity, which is what actually enables the reunion to hold. In separation, 1221 is asking you to look at what the separation itself is reflecting about your own unresolved patterns — resolving what you see in the mirror is what actually ends the separation, not time alone.",
     manifestation:
-      "1221's manifestation mechanic is belief made visible — the practical technique tied to this number is holding a clear mental image of the outcome you want, since the folklore claim is that 1221 reflects a held belief back into reality with unusual fidelity, more so than a vaguely worded wish would.",
+      "The picture you're carrying right now — sharp and detailed, or just a loose 'it'll work out' feeling? 1221 mirrors back precisely what you hand it: blur returns blur, detail returns detail. So which one is it, actually?",
   },
 ];

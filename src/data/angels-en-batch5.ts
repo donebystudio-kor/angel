@@ -184,7 +184,7 @@ export const EN_BATCH5_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "2222 in a twin flame context specifically addresses invisible progress — a connection that seems stalled or entirely dormant is often developing quietly underneath, on both sides, rather than actually stuck. In reunion, 2222 tends to appear during the least eventful, most uncertain stretches, precisely because visible progress and actual progress aren't the same thing here. In separation, 2222 is reassurance that the individual growth happening on both sides, even without any contact or sign of it, is real and continuing — patience here is the work, not a placeholder for it.",
     manifestation:
-      "2222 manifests through invisible, ongoing effort rather than a visible milestone — the folklore specific to this number is that intentions held steadily without external proof of progress are still developing exactly on schedule, and the practical move is continuing the underlying habit, the savings, the practice, the quiet effort, rather than needing to see it work first.",
+      "Underneath a stretch that looks like nothing is happening, 2222 is doing the opposite of nothing. Unlike 444's visible compounding, where accumulation shows up in outputs you can point to, 2222 stacks invisible, patient progress — four 2s deep, proof lagging well behind the real movement. Keep the habit, the saved amount, the quiet practice going regardless of whether progress is visible yet: a repeated 2 is folklore's patience digit multiplied, not its productivity digit.",
   },
   {
     number: "3333",
@@ -328,7 +328,7 @@ export const EN_BATCH5_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "6666 in a twin flame context doesn't carry the negative connotations the number gets in other contexts — it's a care-and-values signal at full volume, pointing at a specific place where the dynamic has become significantly imbalanced over time. It tends to appear when one person's emotional, domestic, or practical output in the connection has far exceeded the other's for long enough that the gap has become structural rather than situational. In reunion, the honest work is naming that gap directly and agreeing on how it changes. In separation, 6666 often marks the moment when the person seeing it can finally articulate what the imbalance actually cost them — which is more useful than it sounds, because that clarity is what prevents the same dynamic from reassembling on reunion.",
     manifestation:
-      "6666 manifests through a full rebalancing across several areas rather than a single correction — the practical move is the four-area audit itself; addressing the lowest-scoring area first tends to unstick the others as a byproduct.",
+      "Four separate parts of your routine are quietly out of balance simultaneously — no single spot explains it, and fixing only one misses the bigger pattern. Score each of the four honestly, start with whichever scored lowest, and expect the others to ease somewhat once that lowest one moves. 6 is a balance digit tripled, so the sign this is working is steady improvement spread across all four areas, rather than one loud fix landing all at once.",
   },
   {
     number: "7777",

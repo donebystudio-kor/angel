@@ -260,7 +260,7 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Changing the method — specifically how you approach care within the connection, not how much effort you apply — is what 5665 points at. For someone in a twin flame dynamic who tends toward distance or withdrawal, this is often the actual issue: it's not effort that's needed, but a genuinely different approach. 5665 asks whether the current pattern of creating space is renewed by true necessity or repeated by default. What would it mean to try a different method rather than increasing the distance? What might a genuinely new approach to staying present in this connection look like?",
     manifestation:
-      "5665 manifests by trying a genuinely new method rather than more effort within an old one — the practical move is testing one different approach to a home routine today, since this number's folklore treats that methodological change, not increased effort, as what actually improves things.",
+      "If a home routine has been taking more effort lately without improving, that's 5665 flagging the method, not your effort. Swap it for a genuinely different approach this week — different order, different tool, different person — and retire the old way for now, not as a backup.",
   },
   {
     number: "5775",
