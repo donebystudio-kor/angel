@@ -48,7 +48,7 @@ const linkedFaq = angel.faq?.map((f: { q: string; a: string }) => ({
 // Own link-budget counter, separate from meaning/FAQ's, so these never
 // compete with or reduce linking on the sections every other page has.
 const deepDiveCounter = makeCounter(8);
-const deepDive = angel.structure
+const deepDive = (angel.structure || angel.distinction || angel.context || angel.misconception || angel.origin || angel.ambiguity)
   ? [
       ...(angel.structure    ? [{ id: "structure",     icon: "🧩", title: "How The Digits Break Down", linked: linkMeaning(angel.structure, angel.number, EN_VALID, BASE_URL, deepDiveCounter) }] : []),
       ...(angel.distinction  ? [{ id: "distinction",    icon: "🔍", title: "How It's Different",         linked: linkMeaning(angel.distinction, angel.number, EN_VALID, BASE_URL, deepDiveCounter) }] : []),
