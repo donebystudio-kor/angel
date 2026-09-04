@@ -50,7 +50,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     origin:
       "7 has some of the more solidly documented lineage among single digits, recognizable in biblical numerology (seven as a number tied to completion) and, separately, in general Western culture's association of 7 with luck, independent of any formal numerology system. The insight-and-intuition gloss used here draws on that older material, though the specific move of doubling 7 to mean a verified, repeated instinct rather than a single lucky one sits closer to modern angel-number convention than to either of those older sources.",
     ambiguity:
-      "Two readings of the doubled 7 are both defensible. One treats it as a single instinct being confirmed twice, the reading used throughout this entry. The other treats it as two separate intuitive hits landing on the same conclusion from different angles, independent confirmation arriving twice rather than one signal repeating. The number itself doesn't settle which, and the difference matters: one version says trust a feeling you've had all along, the other says unrelated instincts happen to agree.",
+      "Two readings of the doubled 7 are both defensible. One treats it as a single instinct being confirmed twice, the reading used throughout. The other treats it as two separate intuitive hits landing on the same conclusion from different angles, independent confirmation arriving twice rather than one signal repeating. The number itself doesn't settle which, and the difference matters: one version says trust a feeling you've had all along, the other says unrelated instincts happen to agree.",
   },
   {
     number: "588",

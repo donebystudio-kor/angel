@@ -318,7 +318,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     career: "A specific professional connection or conversation is specifically what's igniting an overwhelming wave of new personal energy right now.",
     money: "A specific financial conversation or partnership moment is specifically what's igniting an overwhelming wave of new personal motivation right now.",
     spiritual: "This favors recognizing a specific relational spark as the actual trigger for a surge of new-beginning energy, worth tracing back and honoring.",
-    action: "Trace today's surge of new energy back to the specific relational moment that sparked it, and honor that connection.",
+    action: "Name the person behind this stretch, not the moment that started it. If several connections are active right now, the question is who, not when or how, and that person deserves direct acknowledgment.",
     category: "repeat",
     faq: [
       {
@@ -355,7 +355,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     career: "A specific creative professional idea or act of expression is specifically what's igniting an overwhelming wave of new personal energy right now.",
     money: "A specific creative financial idea is specifically what's igniting an overwhelming wave of new personal motivation right now.",
     spiritual: "This favors recognizing a specific creative spark as the actual trigger for a surge of new-beginning energy, worth tracing back and honoring.",
-    action: "Trace today's surge of new energy back to the specific creative moment that sparked it, and honor that connection.",
+    action: "Don't trace this energy back to its source — point it forward instead. Use today's creative charge to crack open a second opening: a stalled habit, a delayed repair, anything else ready to move.",
     category: "repeat",
     faq: [
       {
@@ -549,7 +549,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     career: "A specific moment of real professional abundance is specifically what's igniting an overwhelming wave of new personal energy right now.",
     money: "A specific moment of real financial abundance is specifically what's igniting an overwhelming wave of new personal motivation right now.",
     spiritual: "This favors recognizing that abundance itself can be a genuine spark for new personal beginnings, not just a resource to hold onto quietly.",
-    action: "Trace today's surge of new energy back to a specific moment of abundance that sparked it, and honor that connection.",
+    action: "Skip the hunt for a single triggering event. Notice what's genuinely working right now, plainly, and let that be enough — no origin story required.",
     category: "repeat",
     faq: [
       {
