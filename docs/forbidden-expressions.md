@@ -41,6 +41,31 @@
 
 ---
 
+## 금지 목록 재발 방지 — 실측 기록
+
+배치 6에서 "this number's folklore treats X as"를 3건
+(369·8888·533) 재사용하는 위반이 발생했다.
+금지 목록 1번 항목이자 이 작업의 존재 이유인 골격 문구다.
+
+원인: 서술이 자연스러워서 무심코 사용.
+이는 원문 448개가 같은 골격으로 수렴한 것과 동일한 경로다.
+금지 목록이 존재해도 이 인력은 계속 작동한다.
+
+대응 절차 (필수):
+1. 각 묶음 초안 완성 직후, 다른 검사보다 먼저
+   A형 골격 5문구를 grep한다
+   - manifests by / manifests through
+   - the practical move is
+   - this number's folklore treats / folklore treats ... as
+   - since this number
+2. 위반 시 해당 항목만 즉시 재작성
+3. 최종 자가검증에서 한 번 더 확인
+
+이 절차를 자가검증 항목이 아니라 **작성 절차**에 둔다.
+검증에서 잡으면 이미 재작성 비용이 발생한 뒤다.
+
+---
+
 ## 2. 연결구 회피 목록 (배치당 1회 이하)
 
 완전 금지는 아니지만, 배치 규모가 커질수록(현재 100개) 반복 확률이 급증하므로
@@ -62,6 +87,14 @@
 배치5 실사용: rather than(6666) / right now(1221) / a single(118) / not just(9992) /
 instead of(65) / is what(1515) / is already(3111) / the same(733) / piece of(322) /
 out loud(3355) — 각 1회.
+
+### 신규 4개 (배치6 조사에서 발견, 누적 100개 기준)
+- the one (8) / not the (8) / the next (7) / as a (7)
+
+배치6 실사용: rather than(369) / right now(533) / a single(8888) / not just(24) /
+instead of(1111) / is what(0) / is already(1199) / more than(9999) / the actual(4422) /
+version of(0330) — 각 1회. 1차 초안에서 rather than 3회·right now 4회·is what 4회·
+more than 4회 등 다수 위반 발견 → 재작성으로 각 1회로 조정.
 
 ---
 

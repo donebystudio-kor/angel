@@ -515,7 +515,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "24 in a twin flame context favors trusting that a steady sense of presence and support genuinely remains close, even during a quiet or seemingly distant stretch of the connection. In reunion, this often means the connection's underlying support is real and present, even before visible signs of it show up externally. In separation, this number favors trusting that you're not navigating the distance entirely alone, whether that support comes from the connection itself, from other people, or from a broader sense of being accompanied.",
     manifestation:
-      "24 manifests by trusting and leaning on present support rather than assuming isolation — the practical move is noticing and actively leaning on one source of steady support today, since this number's folklore treats that trust as what the moment is confirming.",
+      "24 points to whichever steady person, resource, or arrangement is currently supporting you — not proof you're facing this alone. Actively lean into that support today — folklore counts that leaning as confirmation the support was real, not just trusting it's there without testing it.",
   },
   {
     number: "25",

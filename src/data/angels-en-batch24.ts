@@ -579,7 +579,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "533 opens a specific window for saying what's actually true about this connection, out loud, rather than continuing to filter it for safety. The doubled 3 amplifies expression past its usual volume, which is why this number tends to show up right before someone finally says the honest thing they've been sitting on. In reunion, 533 favors direct, unfiltered communication once contact resumes, rather than easing back into old careful habits. In separation, this number often points inward first: say the true thing to yourself about what this connection has actually meant, before there's anyone to say it to.",
     manifestation:
-      "533 manifests by expressing more freely right now than usual — the practical move is saying or creating something today with more openness than your recent habit, since this number's folklore treats this moment specifically as the right time for that expansion.",
+      "Right now, beyond what your recent habit has allowed, is when 533 wants more openness in what you say or make. Push past the usual restraint — the fuller version, the bigger version, today — since this exact window is treated as the right timing for that expansion, not an ongoing standing invitation.",
   },
   {
     number: "544",

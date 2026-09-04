@@ -328,7 +328,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "233 pairs partnership with doubled creative energy to describe releasing control as what actually lets a solution unfold, rather than continuing to manage every detail. In a twin flame context this favors loosening your grip on exactly how or when reunion happens, trusting the connection's own process rather than trying to engineer each step. In reunion, 233 suggests the specific shape reunion takes may look different than what you planned, and that's fine, the doubled creative energy here needs room you're not currently giving it. In separation, this number favors trusting the process itself over continuing to script every possible outcome in your head.",
     manifestation:
-      "233 manifests by releasing control rather than continuing to manage every detail — the practical move is consciously letting go of one specific point of control today within a relationship, since this number's folklore treats that release as what lets the creative solution actually unfold.",
+      "Pick the one point in a relationship you keep gripping — a decision, a detail, a plan you keep managing when you could just let it play out — and hand it over today. 233 rewards releasing, plainly, not however the outcome turns out afterward.",
   },
   {
     number: "244",

@@ -262,7 +262,7 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "4422 measures the twin flame connection not by intensity of feeling but by the accumulated weight of consistent behavior — messages returned without drama, commitments kept across distance, steady presence that doesn't spike and fade. In reunion, this is validation that the trust between you has a concrete, traceable cause: neither manufactured it from nothing. In separation, 4422 is a quiet directive: continue one reliable practice — journaling, keeping agreements with yourself, maintaining daily routines — because that consistency is the direct mechanism deepening the bond, regardless of whether physical contact has resumed.",
     manifestation:
-      "4422 manifests by continuing consistent, reliable behavior as the trust-deepening mechanism — the practical move is maintaining one specific consistent behavior today and recognizing its direct link to deepening trust, since this number's folklore treats that ongoing consistency, not separate trust-building gestures, as the actual cause.",
+      "Whichever reliable behavior you've kept up without making a big deal of it is doing more trust-building work than any grand gesture would. Repeat that exact behavior today, plainly, and notice the actual link: trust deepens because the behavior kept repeating, not because of some separate, one-time proof of commitment added afterward.",
   },
   {
     number: "4433",
@@ -622,7 +622,7 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Rhythm — the healthy alternation between genuine expression and genuine silence — is what 0330 describes as the pattern worth honoring in a twin flame connection. The doubled 3 (expression) sits in a palindrome framed by 0 (clearing) on both sides, suggesting expression and space need each other in sequence. Communication that fills every gap loses something; silence extending beyond its natural length loses something else. In separation, 0330 asks which part of the rhythm you're currently in: is silence restorative right now, or has it extended past its purpose? In reunion, it favors expressing what's ready rather than filling space indiscriminately. Which part of the rhythm — expression or its necessary pause — are you actually in right now?",
     manifestation:
-      "0330 manifests by trusting the full rhythm of expression and rest — the practical move is honoring whichever phase you're in today, expressing fully or resting fully, since this number's folklore treats that complete cycle, not constant output, as what sustains genuine creativity.",
+      "The phase you're genuinely in today — expressing, or resting — not a blended half-version of both, is the thing 0330 wants honored. Mid-output and forcing rest from guilt, or mid-rest and forcing output from anxiety? Either mismatch quietly costs you; honoring the real phase doesn't.",
   },
   {
     number: "0440",

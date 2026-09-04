@@ -41,7 +41,7 @@ export const EN_BATCH4_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "0 carries no fixed direction on its own, and in a twin flame context it works less as a message of its own and more as a mirror, amplifying whatever's already present in the connection, hope, doubt, or steadiness alike. In reunion, 0 tends to show up as a reminder not to over-define exactly how or when contact will happen, since the number favors staying open over forcing a specific outcome. In separation, 0 is one of the more reassuring markers here, suggesting the bond itself hasn't closed, only the visible activity around it has, and that underlying potential is still intact.",
     manifestation:
-      "0 is the amplifier of the whole set — it doesn't generate its own outcome, it multiplies whatever's already in motion around it, good or uncertain. The practical implication: if 0 keeps showing up, check what belief or intention is currently loudest for you, since that's specifically what's being amplified, more than a brand-new want arriving out of nowhere.",
+      "The loudest belief you already hold is what 0 turns up, never a new want. Whatever's running gets amplified, uncertainty included.",
   },
   {
     number: "1",
@@ -77,7 +77,7 @@ export const EN_BATCH4_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "1 is the plainest, steadiest version of new-beginning energy, and in a twin flame context it's less a specific signal about the connection and more a standing nudge to keep starting things in your own life independent of it. In reunion, plain 1 favors initiating small, low-stakes moments of contact or presence rather than waiting for one perfect opening. In separation, this number is a repeated reminder that your own individual momentum, not the connection's current status, is what 1 is actually tracking — keep starting things on your own timeline.",
     manifestation:
-      "1's manifestation angle is about consistently generating new intentions rather than amplifying one specific thought the way 111 does — the practice here is starting fresh regularly, a new intention each week, say, rather than holding one thought with total focus.",
+      "When 1 gets compared to 111's laser focus on one held thought, the comparison breaks down — 1 is about generating a new intention regularly, weekly say, not amplifying just one with total concentration: breadth, not intensity, is the model 1 actually runs on.",
   },
   {
     number: "2",

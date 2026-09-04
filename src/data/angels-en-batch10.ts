@@ -80,7 +80,7 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Recurring abundance following recurring new beginnings is the specific pattern of 1818, and in a twin flame context that recurrence is itself the message: readiness isn't a single event but a sustained pattern that keeps reinforcing itself. If you've been waiting for one clear sign, 1818 suggests the signs have been there in series — each new beginning producing something tangible — and that sustained pattern is what confirms the ground is ready. For reunion, this often appears when practical circumstances have stabilized enough to support what the connection needs next. What pattern of new-beginning-then-tangible-result have you noticed in your life recently?",
     manifestation:
-      "1818 manifests by trusting a repeating pattern rather than treating each new start as an isolated bet — the practical move is starting again, deliberately, on the strength of a previous success, since this number's folklore treats the repetition itself as reinforcing the pattern.",
+      "If a previous attempt worked, 1818 treats that as evidence for trying again, not a closed, one-off event. Start again deliberately, building on what worked — unless nothing from before applies, in which case the pattern isn't there yet.",
   },
   {
     number: "1919",
@@ -298,7 +298,7 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "1357 skips every even number on the way up, and that gap is the point: bold, self-directed leaps here, not a careful sequence of incremental steps. Applied to twin flames, this favors trusting your own decisive read on the connection over a slower approach borrowed wholesale from someone else's timeline or a generic staged framework. With contact open, one direct, plainly stated move tends to serve better right now than a string of cautious half-measures. Without it, the same principle applies inward: a bold, independently chosen way of using this stretch, not one copied from a standard template for what separation is supposed to look like.",
     manifestation:
-      "1357 manifests through bold, self-directed action rather than incremental steps — the practical move is taking one decisive leap today on something you've been approaching too gradually, since this number's folklore treats independent, active momentum as the actual mechanism, more than steady, gradual progress.",
+      "The plan you've approached in small, careful steps, testing the water, waiting for more certainty, deserves one decisive move today, not the next cautious step. Unlike 1234, which insists the stages happen in order, 1357 rewards skipping the queue: the leap matters more here than the runway built up to it. Later steps still matter — this just refuses to let them come first. Momentum built this way moves faster than a cautious approach would, which fits 1357's own sequence (1-3-5-7, skipping every other number) already modeling a leap over the steps between.",
   },
   {
     number: "411",
@@ -514,7 +514,7 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "3223 in a twin flame context describes the connection as a genuine co-creative partnership — building an actual shared vision together, not just an emotional bond. In reunion, this often shows up as a shared project or creative vision becoming a real, active part of the relationship, evidence the connection is more than just chemistry. In separation, it points toward developing your own creative voice, so that when reunion comes, there's a genuine creative partnership to build rather than one person's vision alone.",
     manifestation:
-      "3223 manifests through shared creative action rather than solo intention — the practical move is inviting a specific person into a creative vision you've been holding privately, since this number's folklore treats the shared act of creating, not individual manifestation, as the actual mechanism here.",
+      "A creative vision kept private so far, not shared yet, not opened to anyone, is exactly what 3223 wants opened up. Manifesting this alone in your own head misses the point — folklore frames the shared act of creating, not individual willpower, as the mechanism here. Who's the one person this actually needs to include before it can become real, and what's stopping you from asking them today?",
   },
   {
     number: "4004",

@@ -565,7 +565,7 @@ export const EN_BATCH9_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "369 works as an actual technique, not just a symbol, and applying it to a twin flame intention works best with concrete, present-tense wording, not vague hope. In a twin flame context this favors writing a specific, grounded intention about the connection, your own openness or readiness, not the outcome itself, and repeating it using the method's structure, three times morning, six midday, nine evening. In reunion, 369 suggests the discipline of repetition matters more than the number's disputed origin story. In separation, this number favors practicing the technique consistently on your own healing, since specificity and consistency, not the method's mystique, are what actually make it work.",
     manifestation:
-      "369's manifestation approach is uniquely specific among the numbers on this site: the 3-6-9 repetition structure described above (3 times morning, 6 times midday, 9 times evening) is the actual named technique associated with this number, distinct from the more general visualization or affirmation methods used elsewhere.",
+      "369 comes with a named technique rather than a general practice: write the intention three times in the morning, six times at midday, nine times in the evening, following the digit sequence itself. The reasoning behind the escalating count is that it reinforces the intention, beyond the words alone — three growing repetition points work differently than one repeated affirmation. Skipping a session isn't fatal, but flattening it to 'just repeat it a few times' drops the structure 369 is named for.",
   },
   {
     number: "2000",

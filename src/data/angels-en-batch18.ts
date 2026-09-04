@@ -368,7 +368,7 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "5995 in a twin flame context marks a significant chapter or dynamic within the connection that's already ending as part of a larger shift, calling for conscious release rather than holding on. In reunion, this often means an old, familiar pattern between you needs to be actively let go of for the reconnection to actually work differently this time. In separation, this number favors releasing an old expectation or timeline you've been holding onto, since resistance to what's already shifting tends to prolong the difficulty of the separation rather than ease it.",
     manifestation:
-      "5995 manifests through conscious, active release rather than resistance — the practical move is deliberately letting go of one thing that's already ending today, since this number's folklore treats that release, not continued holding on, as what actually eases the larger transition.",
+      "Notice the one thing already ending, regardless of anything you do — and release it deliberately, today — no more holding on from habit. 5995 rewards conscious release over resistance as what actually eases the bigger shift now in motion.",
   },
   {
     number: "0888",

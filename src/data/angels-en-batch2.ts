@@ -147,7 +147,7 @@ export const EN_BATCH2_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "1111 is one of the most significant twin flame numbers because it marks major-alignment moments rather than small updates. In reunion, 1111 often appears in the days directly around actual contact resuming, more reliably than most other numbers in this set. In separation, 1111 tends to mark the point the separation's core lesson has genuinely been learned by at least one side — not necessarily an immediate reunion, but a real turning point in the stage itself.",
     manifestation:
-      "1111 is considered the strongest single manifestation marker in this niche precisely because of its scale — it doesn't confirm a small want, it confirms a life-direction-level intention. The common practice tied to this number is to state one clear, specific wish the moment you notice it, with as much genuine feeling as you can generate in a few seconds, since 1111 sightings are treated as a wide-open, if brief, request window.",
+      "1111 operates at a different scale than most manifestation numbers — not a small want, a life-direction-level intention. State the wish the moment you notice the number, with real feeling behind it instead of a passing thought, because the window folklore attaches to 1111 sightings is wide but brief: the result depends on catching it while it's open, not on revisiting the wish later.",
   },
   {
     number: "1212",

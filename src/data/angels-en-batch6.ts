@@ -41,7 +41,7 @@ export const EN_BATCH6_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "8888 in a twin flame context shows up at financial or material turning points that are connected — usually indirectly — to the twin flame dynamic itself, even when the link isn't obvious. This might be a career threshold, a shift in living situation, or a point where resources between two people start being practically relevant. In separation, 8888 is often a signal that the external-world work you're doing right now is the twin flame work — not a distraction from it — and that building material stability in yourself is the version of the work this phase is asking for. In reunion, 8888 tends to appear when the practical question of how two lives actually merge — financially, logistically — becomes real and worth treating seriously rather than deferring.",
     manifestation:
-      "8888 manifests by widening the channels you're willing to receive through, rather than 888's single circulation loop — say yes to receiving from more than one source at once (a job and a side project and a gift, say) rather than expecting abundance to arrive through just one.",
+      "8888 widens the channels you're willing to receive through, where 888 runs a single circulation loop. Say yes to several sources landing at once — a job, a side project, an unexpected gift, together — not waiting for abundance through just one channel. 8888 treats every simultaneous channel as equally legitimate; narrowing focus to just one closes off the others without making that one arrive any faster.",
   },
   {
     number: "9999",
@@ -77,7 +77,7 @@ export const EN_BATCH6_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "9999 in a twin flame context marks the most complete kind of closure in this set — not just one separation stage ending, the way 999 often does, but the entire multi-stage arc between two people reaching genuine completion. If it appears in reunion, it suggests the connection has fully worked through its karmic material and can move forward without the old baggage. If it appears during separation, it's often a sign the whole separation era, not just a phase of it, is nearing its actual end.",
     manifestation:
-      "9999 manifests by releasing an entire narrative about yourself, not just one habit or task the way 999's runway-clearing does — the practical move is naming the whole old story (a career identity, a relationship role, a long-held self-image) and consciously setting it down before stepping into whatever comes next.",
+      "9999 operates at story scale, not task scale. Where 999 clears one loose thread, one unfinished habit, 9999 calls for naming and releasing an entire narrative about a former identity — a career role, a relationship role, a self-image already outgrown — and consciously setting the whole thing down before stepping into whatever replaces it. One number tidies a room; the other retires a chapter. Naming the story in plain words matters more than a vague 'moving on' — an unnamed one keeps shaping decisions long after it should've ended, while a named one can actually be closed.",
   },
   {
     number: "0000",
