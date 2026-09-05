@@ -313,29 +313,29 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Partnership Sparks A New You",
     summary: "A single partnership moment specifically igniting an overwhelming wave of new-beginning energy",
     meaning:
-      "2111 sandwiches a single 2 (partnership, connection) before triple 1 (self, new beginnings, amplified), describing a specific partnership moment, a conversation, a connection, a shared decision, as what's igniting an overwhelming wave of new-beginning energy in you. This favors recognizing the relational spark as the actual trigger, worth tracing back rather than treating the resulting surge as random.",
+      "The relationship currently behind a stretch of momentum, not the event that produced the feeling, is what 2111 actually asks about. A single 2 sits ahead of three 1s here, and the usual reading treats that lead-in digit as a spark. 2111 uses it differently: as an identifier. Whoever is currently doing the most relational work in your life is the answer this number wants, not whichever conversation happened to precede the feeling.",
     love: "Single: a specific connection or conversation is specifically what's igniting an overwhelming wave of new personal energy in you right now — trace it back and honor that spark. Couple: a specific moment within the relationship is specifically what's igniting an overwhelming wave of renewed personal energy for one or both of you.",
     career: "A specific professional connection or conversation is specifically what's igniting an overwhelming wave of new personal energy right now.",
     money: "A specific financial conversation or partnership moment is specifically what's igniting an overwhelming wave of new personal motivation right now.",
-    spiritual: "This favors recognizing a specific relational spark as the actual trigger for a surge of new-beginning energy, worth tracing back and honoring.",
+    spiritual: "This favors recognizing a specific relational connection as what this stretch of momentum is currently oriented around, worth naming directly rather than left as a vague feeling.",
     action: "Name the person behind this stretch, not the moment that started it. If several connections are active right now, the question is who, not when or how, and that person deserves direct acknowledgment.",
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 2111?",
-        a: "Usually because a specific partnership moment or connection is specifically what's igniting an overwhelming wave of new-beginning energy in you right now. Trace it back and honor the spark.",
+        q: "What if I don't know who this is about?",
+        a: "Look at who you've actually been thinking about, texting, or leaning on during this stretch — not which single moment set the feeling off. 2111 is asking for a person, and usually one candidate stands out once the event itself stops being the focus.",
       },
       {
-        q: "What's the difference between 2111 and 1112?",
-        a: "1112 describes an already-saturated self-focused period now opening toward partnership as the next stage. 2111 reverses the order: a specific partnership moment is the trigger, igniting the wave of new, self-focused energy, rather than self-focus coming first.",
+        q: "What actually separates 2111 from 1112?",
+        a: "1112 uses an identical pair of digits, just flipped — self-focus saturates across the number first, only opening toward partnership once that's run its course. 2111 skips the wait: a relationship is already active and driving things now.",
       },
       {
-        q: "Is 2111 a good number for someone who felt suddenly energized after a specific conversation or connection?",
-        a: "Yes, particularly as confirmation that the connection itself was the real trigger, worth tracing back and appreciating.",
+        q: "Can 2111 point to more than one relationship at once?",
+        a: "It can, but the number still asks for one candidate at a time — if several connections feel active, name whichever one is currently doing the most work in your life, then revisit the question again later if a different one starts to matter more.",
       },
       {
-        q: "Does 2111 mean I need that person to keep feeling this energy?",
-        a: "It confirms the connection was the trigger, more than suggesting ongoing dependence on that person — the resulting energy is now genuinely yours to carry forward.",
+        q: "Does this person need to know 2111 pointed to them?",
+        a: "No — naming them is for your own clarity about what's actually driving this stretch, not a cue to tell them anything. What you do with that clarity is separate from the naming itself.",
       },
     ],
     isPlaceholder: false,
@@ -350,29 +350,29 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Creativity Sparks A New You",
     summary: "A single creative moment specifically igniting an overwhelming wave of new-beginning energy",
     meaning:
-      "3111 sandwiches a single 3 (creativity, expression) before triple 1 (self, new beginnings, amplified), describing a specific creative moment, an idea, an act of expression, as what's igniting an overwhelming wave of new-beginning energy in you. This favors recognizing the creative spark as the actual trigger, worth honoring rather than treating the resulting surge as unrelated to it.",
+      "Which creative act caused this? That question is what 3111's structure invites — a single 3 running into three 1s reads, by default, as cause and effect. By the time this number actually shows up, though, whatever prompted it has typically run its course. What's still active is the residual push, and that push doesn't stay tied to its source — it can be aimed at whatever else is ready to move.",
     love: "Single: a specific creative act of self-expression is specifically what's igniting an overwhelming wave of new personal energy in your love life right now. Couple: a specific creative moment within the relationship is specifically what's igniting renewed personal energy for one or both of you.",
     career: "A specific creative professional idea or act of expression is specifically what's igniting an overwhelming wave of new personal energy right now.",
     money: "A specific creative financial idea is specifically what's igniting an overwhelming wave of new personal motivation right now.",
-    spiritual: "This favors recognizing a specific creative spark as the actual trigger for a surge of new-beginning energy, worth tracing back and honoring.",
+    spiritual: "This favors recognizing that a creative act's residual push is available to redirect, worth aiming forward rather than traced back to its origin.",
     action: "Don't trace this energy back to its source — point it forward instead. Use today's creative charge to crack open a second opening: a stalled habit, a delayed repair, anything else ready to move.",
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 3111?",
-        a: "Usually because a specific creative moment or act of expression is specifically what's igniting an overwhelming wave of new-beginning energy in you right now. Trace it back and honor the spark.",
+        q: "What if I can't remember which creative moment this was?",
+        a: "It doesn't need to be identified to still work — what's left over from it is usable regardless, so lean on the momentum available rather than searching backward for its source.",
       },
       {
-        q: "What's the difference between 3111 and 1113?",
-        a: "1113 describes an already-saturated self-focused period now overflowing into creativity as the next stage. 3111 reverses the order: a specific creative moment is the trigger, igniting the wave of new, self-focused energy.",
+        q: "Where does 3111 diverge from 1113?",
+        a: "Flip the order and you get 1113, where a self-focused stretch fills up first and eventually spills into creative expression. 3111 starts past that point — the creative act already happened, and it's the aftermath that's currently running.",
       },
       {
-        q: "Is 3111 a good number for someone who felt suddenly energized after making or creating something?",
-        a: "Yes, particularly as confirmation that the creative act itself was the real trigger.",
+        q: "Does the second opening have to be creative too?",
+        a: "No — the point is redirecting the same push, not repeating the same kind of act. An unrelated errand, a project you'd shelved, or something else entirely can all be where that push lands.",
       },
       {
-        q: "Does 3111 mean I need to keep creating constantly to sustain this energy?",
-        a: "It confirms the creative act was the trigger, more than requiring constant creation — the resulting energy is now yours to carry forward in whatever form fits.",
+        q: "What if nothing opens up after seeing 3111?",
+        a: "Then the push likely hasn't been pointed anywhere yet — it doesn't disappear on its own, but it also doesn't automatically find somewhere new without something actively aimed at it.",
       },
     ],
     isPlaceholder: false,
@@ -387,7 +387,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Stability Sparks A Fresh Start",
     summary: "A single moment of real stability specifically igniting an overwhelming wave of new-beginning energy",
     meaning:
-      "4111 sandwiches a single 4 (foundation, stability) before triple 1 (self, new beginnings, amplified), describing a specific moment of real stability, a settled decision, a solid arrangement, as what's igniting an overwhelming wave of new-beginning energy in you. This favors recognizing that stability itself, not just change, can be the spark for something genuinely new.",
+      "4111 keeps this family's trigger framing, but stability triggers differently than the digit that follows it usually implies. It doesn't ignite the way a sudden realization or windfall might; it gets noticed. A foundation that's been quietly holding things up, sometimes for a long time, is what the current surge is actually running on — and naming that existing structure, rather than hunting for a recent spark moment, is what 4111 is pointing toward.",
     love: "Single: a specific moment of real stability in your life is specifically what's igniting an overwhelming wave of new personal energy for your love life right now. Couple: a specific stable moment within the relationship is specifically what's igniting renewed personal energy for one or both of you.",
     career: "A specific moment of real professional stability is specifically what's igniting an overwhelming wave of new personal energy right now.",
     money: "A specific moment of real financial stability is specifically what's igniting an overwhelming wave of new personal motivation right now.",
@@ -396,20 +396,20 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 4111?",
-        a: "Usually because a specific moment of real stability is specifically what's igniting an overwhelming wave of new-beginning energy in you right now. Trace it back and honor the spark.",
+        q: "Why do I keep seeing 4111 during a calm, settled stretch?",
+        a: "Because the stability itself is the active ingredient here, not a disruption. A calm stretch is exactly when a long-standing foundation is easiest to notice, since nothing urgent is competing for attention.",
       },
       {
-        q: "What's the difference between 4111 and 1114?",
-        a: "1114 describes an already-saturated self-focused period now settling into structural foundation as the next stage. 4111 reverses the order: a specific stable moment is the trigger, igniting the wave of new, self-focused energy.",
+        q: "1114 and 4111 use the same two digits — what actually changes?",
+        a: "1114 arrives at foundation from the opposite side: a self-focused period fills up, then settles into something structural as it winds down. 4111 doesn't build up to a foundation — one is already there, quietly running things before the number even shows up.",
       },
       {
-        q: "Is 4111 a good number for someone who felt suddenly motivated after finally achieving some stability?",
-        a: "Yes, particularly as confirmation that the stability itself was the real trigger for the new energy.",
+        q: "Is 4111 telling me to make things even more stable?",
+        a: "Not necessarily — it's asking you to notice the stability that already exists, which is a different task than adding more of it. Recognizing a foundation and reinforcing one aren't the same move.",
       },
       {
-        q: "Does 4111 mean I need more stability to keep feeling this way?",
-        a: "It confirms the stability already achieved was the trigger, more than requiring continually increasing stability to sustain the energy.",
+        q: "Does 4111 stop applying once the stability itself changes?",
+        a: "The number is tied to noticing a foundation, so if that foundation genuinely shifts, what counts as stable shifts with it — but a foundation changing slowly isn't the same as it disappearing.",
       },
     ],
     isPlaceholder: false,
@@ -433,7 +433,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Change Sparks A New Beginning",
     summary: "A single moment of change specifically igniting an overwhelming wave of new-beginning energy",
     meaning:
-      "5111 sandwiches a single 5 (change, freedom) before triple 1 (self, new beginnings, amplified), describing a specific moment of change as what's igniting an overwhelming wave of new-beginning energy in you. This favors recognizing that particular shift as the real trigger, worth honoring rather than experiencing the resulting surge as separate from it.",
+      "5111 places change before three 1s, which reads as a simple sequence: change happens, then the surge follows. But 5's whole nature is motion already in progress, not a completed event handing off to what comes next. The more accurate picture may be that the change and the surge are running simultaneously — the shift hasn't necessarily wrapped up by the point this number shows up, and treating it as already-over can undersell how much is still actively moving.",
     love: "Single: a specific change in your circumstances is specifically what's igniting an overwhelming wave of new personal energy for your love life right now. Couple: a specific change within the relationship is specifically what's igniting renewed personal energy for one or both of you.",
     career: "A specific professional change is specifically what's igniting an overwhelming wave of new personal energy right now.",
     money: "A specific financial change is specifically what's igniting an overwhelming wave of new personal motivation right now.",
@@ -442,20 +442,20 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 5111?",
-        a: "Usually because a specific change is specifically what's igniting an overwhelming wave of new-beginning energy in you right now. Trace it back and honor the spark.",
+        q: "Does the change have to be finished before 5111 shows up?",
+        a: "Not necessarily — 5's speed suggests the opposite is common: the change and the momentum can be happening together, with neither one waiting for the other to complete first.",
       },
       {
-        q: "What's the difference between 5111 and 1115?",
-        a: "1115 describes an already-saturated self-focused period now opening into active change as the next stage. 5111 reverses the order: a specific change is the trigger, igniting the wave of new, self-focused energy.",
+        q: "How is 5111 different from its mirror, 1115?",
+        a: "1115's version puts self-focus first, only opening into active change once it's had time to saturate. 5111 doesn't share that patience — a change is already underway, moving alongside the momentum rather than causing it afterward.",
       },
       {
-        q: "Is 5111 a good number for someone who felt suddenly energized right after a big change?",
-        a: "Yes, particularly as confirmation that the change itself was the real trigger.",
+        q: "What if I can't tell whether the change is finished or still happening?",
+        a: "That uncertainty is closer to normal than a sign something's wrong — 5111 doesn't require a clean finish line for the change before the momentum counts.",
       },
       {
-        q: "Does 5111 mean I need more change to keep this energy going?",
-        a: "It confirms the change already experienced was the trigger, more than prescribing continual additional change to sustain the energy.",
+        q: "Is 5111 asking me to slow the change down?",
+        a: "No — it's naming the pace, not correcting it. The number confirms fast-moving change and fast-moving momentum can coexist, not that either one needs to be reined in.",
       },
     ],
     isPlaceholder: false,
@@ -470,7 +470,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Home Sparks A New Beginning",
     summary: "A single moment of home or family care specifically igniting an overwhelming wave of new-beginning energy",
     meaning:
-      "6111 sandwiches a single 6 (home, care) before triple 1 (self, new beginnings, amplified), describing a specific moment connected to home or family, an act of care given or received, as what's igniting an overwhelming wave of new-beginning energy in you. This favors recognizing that domestic and relational care can be the real spark for something new in your own life.",
+      "6111 pairs a single 6 (home, care) with three 1s, and most descriptions ask which caring moment set the surge running — as if care worked like a single event you could point to and close the book on. Care doesn't really function that way: it's renewed continually, not banked once and left alone. 6111 may be less about locating one moment and more about noticing that an ongoing pattern of care is what's currently active underneath the momentum.",
     love: "Single: a specific moment of care within your home or family life is specifically what's igniting an overwhelming wave of new personal energy for your love life right now. Couple: a specific caring moment within your shared home life is specifically what's igniting renewed personal energy for one or both of you.",
     career: "A specific home-related caring moment is specifically what's igniting an overwhelming wave of new personal energy in your career right now.",
     money: "A specific home-related financial moment is specifically what's igniting an overwhelming wave of new personal motivation right now.",
@@ -479,20 +479,20 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 6111?",
-        a: "Usually because a specific moment of care connected to home or family is specifically what's igniting an overwhelming wave of new-beginning energy in you right now.",
+        q: "Why does 6111 keep showing up over a long stretch instead of just once?",
+        a: "Because what it's pointing to isn't a single event — it's an ongoing pattern of care that keeps renewing itself, so the number keeps recurring for as long as that pattern stays active.",
       },
       {
-        q: "What's the difference between 6111 and 1116?",
-        a: "1116 describes an already-saturated self-focused period now extending outward into home and care as the next stage. 6111 reverses the order: a specific home-related moment is the trigger, igniting the wave of new, self-focused energy.",
+        q: "What's the real difference between 6111 and 1116?",
+        a: "1116 gets to care the long way: a stretch of pure self-focus runs its course first, then extends outward toward home and connection. 6111 never waits that long — care is already an active, ongoing pattern before any saturation would need to happen.",
       },
       {
-        q: "Is 6111 a good number for someone who felt energized after a meaningful moment with family?",
-        a: "Yes, particularly as confirmation that the home-related moment itself was the real trigger.",
+        q: "Does the care have to come from inside the home specifically?",
+        a: "No — the domestic framing is where this pattern is most visible, but the underlying pattern, attention renewed rather than given once, can show up in any close relationship.",
       },
       {
-        q: "Does 6111 mean I need constant family interaction to sustain this energy?",
-        a: "It confirms one specific moment was the trigger, more than requiring continuous family interaction to maintain the energy.",
+        q: "What if the caring moment I'd point to already ended?",
+        a: "Then it's worth checking whether the pattern itself is still active, separate from that one moment — 6111 is tracking the ongoing renewal, not preserving a single instance of it.",
       },
     ],
     isPlaceholder: false,
@@ -507,7 +507,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Insight Sparks A New Beginning",
     summary: "A single moment of real insight specifically igniting an overwhelming wave of new-beginning energy",
     meaning:
-      "7111 sandwiches a single 7 (insight, wisdom) before triple 1 (self, new beginnings, amplified), describing a specific moment of real insight or realization as what's igniting an overwhelming wave of new-beginning energy in you. This favors recognizing that particular understanding as the real trigger, worth honoring rather than treating the resulting surge as unrelated to it.",
+      "A single 7 (insight, wisdom) leads into 7111's tripled 1, but this one is framed as a question rather than a claim: is there actually a realization underneath this momentum, or has the momentum been running without one ever getting named? The number doesn't insist an insight exists — it asks whether you've checked.",
     love: "Single: a specific realization about love or yourself is specifically what's igniting an overwhelming wave of new personal energy right now. Couple: a specific shared realization is specifically what's igniting renewed personal energy for one or both of you.",
     career: "A specific professional realization is specifically what's igniting an overwhelming wave of new personal energy right now.",
     money: "A specific financial realization is specifically what's igniting an overwhelming wave of new personal motivation right now.",
@@ -516,20 +516,20 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 7111?",
-        a: "Usually because a specific realization or insight is specifically what's igniting an overwhelming wave of new-beginning energy in you right now.",
+        q: "How do I check whether I've found the right insight for 7111?",
+        a: "Ask whether you can state it in one plain sentence, not a general sense that things are going well. If it holds up as one clear claim, that's likely the insight the momentum is running on.",
       },
       {
-        q: "What's the difference between 7111 and 1117?",
-        a: "1117 describes an already-saturated self-focused period now deepening into insight as the next stage. 7111 reverses the order: a specific realization is the trigger, igniting the wave of new, self-focused energy.",
+        q: "1117 versus 7111 — which comes first, functionally?",
+        a: "1117 builds toward insight gradually, as a self-focused period deepens over time into real understanding. 7111 doesn't promise that arc completed anything — the insight may or may not actually be there underneath the current momentum.",
       },
       {
-        q: "Is 7111 a good number for someone who felt suddenly energized right after a major realization?",
-        a: "Yes, particularly as confirmation that the realization itself was the real trigger.",
+        q: "What if I genuinely can't name any realization at all?",
+        a: "Then the honest answer may be that there isn't one yet, or it hasn't surfaced clearly. 7111 treats that as a real possibility, not a failure to search hard enough.",
       },
       {
-        q: "Does 7111 mean I need to keep having big realizations to sustain this energy?",
-        a: "It confirms one specific realization was the trigger, more than requiring a continuous stream of new insights to maintain the momentum.",
+        q: "Does 7111 ever show up without any insight behind it?",
+        a: "It can — the number flags the momentum either way and leaves open whether a realization is actually underneath it or just assumed to be.",
       },
     ],
     isPlaceholder: false,
@@ -544,7 +544,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Abundance Sparks A Fresh Start",
     summary: "A single moment of real abundance specifically igniting an overwhelming wave of new-beginning energy",
     meaning:
-      "8111 sandwiches a single 8 (abundance) before triple 1 (self, new beginnings, amplified), describing a specific moment of real material abundance as what's igniting an overwhelming wave of new-beginning energy in you. This favors recognizing that abundance itself, security, a windfall, a resource gained, can be the spark for something genuinely new in your own life.",
+      "The usual assumption is that something identifiable set this off — one windfall, one conversation, one event worth pointing back to. 8111 doesn't require that assumption to hold, even though its digits (a single 8, three 1s) invite it. Part of it may have built up slowly, or arrived through several unconnected channels simultaneously — that counts just as fully here as abundance from one clear source, no backstory needed to make it count.",
     love: "Single: a specific moment of real abundance in your life is specifically what's igniting an overwhelming wave of new personal energy for your love life right now. Couple: a specific abundant moment for the relationship is specifically what's igniting renewed personal energy for one or both of you.",
     career: "A specific moment of real professional abundance is specifically what's igniting an overwhelming wave of new personal energy right now.",
     money: "A specific moment of real financial abundance is specifically what's igniting an overwhelming wave of new personal motivation right now.",
@@ -553,20 +553,20 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 8111?",
-        a: "Usually because a specific moment of real abundance is specifically what's igniting an overwhelming wave of new-beginning energy in you right now.",
+        q: "Do I need to figure out what caused this before 8111 makes sense?",
+        a: "No — that's the part 8111 explicitly doesn't require. Notice what's genuinely going well right now and let that stand on its own, no explanation required.",
       },
       {
-        q: "What's the difference between 8111 and 1118?",
-        a: "1118 describes an already-saturated self-focused period now specifically attracting abundance as the next stage. 8111 reverses the order: a specific abundant moment is the trigger, igniting the wave of new, self-focused energy.",
+        q: "How is 8111 not just 1118 backwards?",
+        a: "1118's version needs self-focus to saturate first before abundance gets pulled in as the payoff. 8111 skips both the wait and the requirement — abundance can simply be running in parallel, with no saturation point required.",
       },
       {
-        q: "Is 8111 a good number for someone who felt suddenly motivated after a financial win or windfall?",
-        a: "Yes, particularly as confirmation that the abundance itself was the real trigger.",
+        q: "What if the abundance came together too gradually to point to one moment?",
+        a: "That's a normal shape for it to take, not a sign you're missing something. Slow, many-sourced abundance is exactly the kind 8111 says doesn't need a single starting point.",
       },
       {
-        q: "Does 8111 mean I need continuous abundance to keep feeling this energy?",
-        a: "It confirms one specific moment of abundance was the trigger, more than requiring ongoing windfalls to sustain the resulting momentum.",
+        q: "Does 8111 still apply if nothing specific comes to mind?",
+        a: "Yes — needing nothing to come to mind is closer to the point than away from it. The number is confirming the current stretch, not asking you to produce an explanation for it.",
       },
     ],
     isPlaceholder: false,
@@ -581,7 +581,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "An Ending Sparks A New You",
     summary: "A single, completed ending specifically igniting an overwhelming wave of new-beginning energy",
     meaning:
-      "9111 sandwiches a single 9 (completion) before triple 1 (self, new beginnings, amplified), describing a specific, completed ending as what's igniting an overwhelming wave of new-beginning energy in you. This favors recognizing that particular closure as the real trigger for the surge you're feeling, worth honoring rather than experiencing it as unrelated.",
+      "9111 is the most literal member of this family: a single 9 first, three 1s following, closure before momentum, exactly the sequence the digits suggest. But the sequence only holds if the ending actually gets named — spoken or written, not just sensed. An unacknowledged closure can still be quietly running the momentum underneath it, without getting credit for doing so.",
     love: "Single: a specific ending in your love life is specifically what's igniting an overwhelming wave of new personal energy right now — trust that the closure and the surge are connected. Couple: a specific completed chapter within the relationship is specifically what's igniting renewed personal energy for one or both of you.",
     career: "A specific completed professional chapter is specifically what's igniting an overwhelming wave of new personal energy right now.",
     money: "A specific completed financial chapter is specifically what's igniting an overwhelming wave of new personal motivation right now.",
@@ -590,20 +590,20 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 9111?",
-        a: "Usually because a specific, completed ending is specifically what's igniting an overwhelming wave of new-beginning energy in you right now.",
+        q: "What counts as actually 'naming' an ending for 9111?",
+        a: "Saying or writing the specific thing that ended, out loud or on paper, rather than only sensing that some chapter closed. A vague feeling of completion doesn't do the same work as stating what, exactly, is now finished.",
       },
       {
-        q: "What's the difference between 9111 and 1119?",
-        a: "1119 describes an already-saturated self-focused period now approaching its own natural conclusion. 9111 reverses the order: a specific completed ending is the trigger, igniting the wave of new, self-focused energy that follows it.",
+        q: "What sets 9111 apart from 1119?",
+        a: "1119 approaches an ending gradually, as self-focus accumulates across the number and edges toward its own natural close. 9111 needs that close to have already happened — a finished, named chapter, not one still being approached.",
       },
       {
-        q: "Is 9111 a good number for someone who felt suddenly energized right after a significant ending?",
-        a: "Yes, particularly as confirmation that the ending itself was the real trigger for the new energy now surging.",
+        q: "Does it matter if the ending wasn't fully my choice?",
+        a: "No — an imposed ending closes just as completely as a chosen one. What 9111 asks for is acknowledgment that it's actually over, not credit for having decided it.",
       },
       {
-        q: "Does 9111 mean I need another ending to keep feeling this way?",
-        a: "It confirms one specific ending was the trigger, more than suggesting you need repeated endings to sustain the resulting momentum.",
+        q: "What if I already know the ending but haven't said it out loud?",
+        a: "Then the naming step is still unfinished. Knowing privately and stating it, even briefly, aren't the same action here — the momentum responds to the second one.",
       },
     ],
     isPlaceholder: false,
