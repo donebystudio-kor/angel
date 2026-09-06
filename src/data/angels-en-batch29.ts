@@ -17,7 +17,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Self-Focus Opens To Others",
     summary: "An intense period of self-focus now genuinely ready to open toward partnership and connection",
     meaning:
-      "1112 holds three 1 (self, new beginnings, saturated) alongside one 2 (partnership, balance), describing an intense period of self-focus that's now genuinely ready to open toward partnership and connection. This favors trusting that the inward work you've been doing has reached a natural point of readiness to include someone else, rather than needing to extend the self-focused phase indefinitely.",
+      "1112 keeps this pair's order intact — self-focus runs its course first, and partnership genuinely doesn't open until that stretch has settled. What's worth redefining is who does the opening. This isn't a search you have to go run yourself: once the self-focused clarity has actually taken hold, it tends to show up in how you carry yourself and what you notice, and more often than not, partnership finds its way toward you more than you have to chase it down.",
     love: "Single: the intense self-focused work you've been doing is genuinely ready to open toward a real connection now — trust that readiness rather than continuing to delay. Couple: an intense period of individual focus is genuinely ready to open back toward more shared connection in the relationship now.",
     career: "An intense period of individual, self-directed work is genuinely ready to open toward more collaborative partnership now.",
     money: "An intense period of individually managing your finances is genuinely ready to open toward a more collaborative financial approach now.",
@@ -26,20 +26,20 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 1112?",
-        a: "Usually because an intense period of self-focus you've been in is genuinely ready to open toward partnership and connection now. Trust that readiness rather than continuing to delay.",
+        q: "Does 1112 mean I should start actively looking for a relationship now?",
+        a: "Not exactly — that framing assumes the work is a search. Once self-focused clarity has settled, availability tends to show up unprompted, in small visible ways, well before any deliberate search would need to begin. Looking is allowed, but that isn't the mechanism 1112 is describing.",
       },
       {
-        q: "What's the difference between 1112 and 2111?",
-        a: "2111 sandwiches a single 2 before triple 1, describing a partnership moment triggering an overwhelming wave of new-beginning, self-focused energy. 1112 reverses the order: the self-focus comes first and is already saturated, now opening toward partnership as the next stage, rather than partnership sparking the self-focus.",
+        q: "How does 1112 relate to 2111?",
+        a: "2111 is about a relationship that's currently underway and shaping the momentum, and the number wants you to name who that is. 1112 sits earlier: the self-focused period still has to run its course first, and only once it genuinely has does the opening happen — the difference this page adds is just that once it does, the opening tends to arrive unprompted, without needing to be chased.",
       },
       {
-        q: "Is 1112 a good number for someone who's been focused on themselves and is ready to date again?",
-        a: "Yes, particularly as confirmation that the self-focused period has reached genuine readiness to open toward connection.",
+        q: "What if I've already been actively dating throughout my self-focused period?",
+        a: "That's fine — 1112 isn't a rule about behavior, just a description of how the opening tends to show up once readiness has actually settled. Dating alongside ongoing self-focus doesn't cancel the number's relevance.",
       },
       {
-        q: "Does 1112 mean I need to stop focusing on myself entirely?",
-        a: "It favors opening toward partnership as a next stage, more than abandoning self-focus altogether — the inward work can continue alongside new connection.",
+        q: "Does 1112 mean my self-focused period is now over?",
+        a: "Yes, in the sense that the stretch needs to have genuinely run its course for the kind of opening 1112 describes to apply — that sequencing doesn't get skipped. What changes here is only what happens next: the opening itself usually doesn't require you to go looking for it.",
       },
     ],
     isPlaceholder: false,
@@ -54,7 +54,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Self-Focus Becomes Creative",
     summary: "An intense period of self-focus now overflowing into genuine creative expression",
     meaning:
-      "1113 stacks triple 1 (self, new beginnings, saturated) with a single 3 (creativity, expression), describing an intense period of self-focus that's now overflowing into genuine creative expression. This favors trusting that the inward work has produced real creative material, worth channeling outward now rather than keeping it entirely internal.",
+      "1113 usually gets described as an overflow moment: self-focus filling up until it spills into something creative, as if the inward work then empties out into the expression. A more accurate picture might have both running at once: the creative act doesn't drain the self-focused material away, it becomes another place that material keeps living. Expression here isn't a release valve for something that would otherwise sit unused; it's a second container for that same ongoing work.",
     love: "Single: the self-focused understanding you've gained is overflowing into a genuinely creative way of expressing yourself in dating now. Couple: individual self-focus you've each done is overflowing into genuinely creative expression within the relationship now.",
     career: "Individual, self-focused professional development is overflowing into genuinely creative work now, worth channeling outward.",
     money: "Self-focused financial understanding is overflowing into a genuinely creative approach to money now.",
@@ -63,20 +63,20 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 1113?",
-        a: "Usually because an intense period of self-focus has produced real creative material that's now ready to overflow outward. Channel it into expression rather than keeping it entirely internal.",
+        q: "Does making something creative now mean the self-focused period is finishing up?",
+        a: "Not necessarily on a fixed schedule. The reflection and the creative output can run in parallel for a while — start when the material feels ready to take shape, keep both going as long as they both feel active, without either one needing to close out for the other to begin.",
       },
       {
-        q: "What's the difference between 1113 and 3111?",
-        a: "3111 sandwiches a single 3 before triple 1, describing creativity sparking an overwhelming wave of new, self-focused energy. 1113 reverses the order: self-focus comes first and has become saturated, now overflowing into creativity as the next stage.",
+        q: "How does 1113 relate to 3111?",
+        a: "3111 treats one particular creative act as already finished, with the resulting charge available to redirect toward something else entirely. 1113 describes something closer to a running total: the inward material and its creative expression aren't separate events on a timeline, they're one ongoing process viewed through two different outputs at once.",
       },
       {
-        q: "Is 1113 a good number for someone journaling or reflecting who's ready to make something from it?",
-        a: "Yes, particularly as confirmation that the reflective work has produced real creative material, worth expressing now.",
+        q: "What if I make something and the self-focused feeling doesn't go away afterward?",
+        a: "That's expected under this reading, not a sign anything went wrong. The creative act isn't meant to use up the inward material — more will likely still be there afterward, available for the next thing you make.",
       },
       {
-        q: "Does 1113 mean I have to share my creative work publicly?",
-        a: "It favors expressing the creative overflow in whatever form fits, more than requiring public sharing specifically.",
+        q: "Is constant creative output required to honor 1113?",
+        a: "No — the point isn't constant output, it's that creating and continuing to reflect aren't in competition. Making something occasionally, whenever material is ready, fits the number just as well as creating more often.",
       },
     ],
     isPlaceholder: false,
@@ -91,7 +91,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Self-Focus Builds Real Ground",
     summary: "An intense period of self-focus now settling into genuine, solid personal foundation",
     meaning:
-      "1114 builds on three 1 (self, new beginnings, saturated), touched by one 4 (foundation, structure), describing an intense period of self-focus that's now settling into genuine, solid personal foundation, distinct from the self-focus remaining purely reflective or unstructured. This favors trusting that the inward work is now translating into something concrete and stable in your life.",
+      "1114 keeps its side of the sequence straight: the self-focused stretch fills up before anything structural begins settling into place, not the other way around. What's easy to undersell is the pace of that settling. It isn't a click into place the moment self-focus tapers off; the structural side usually needs its own separate stretch to actually solidify, often slower than the self-focused period that came before it.",
     love: "Single: the self-focused work you've done is now settling into genuine personal foundation, worth trusting as you consider building something with someone else. Couple: individual self-focus each of you has done is now settling into a more stable foundation within the relationship.",
     career: "Individual, self-focused professional development is now settling into genuine, stable foundation in your career.",
     money: "Self-focused financial understanding is now settling into a genuinely stable personal financial foundation.",
@@ -100,20 +100,20 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 1114?",
-        a: "Usually because an intense period of self-focus is now settling into genuine, solid personal foundation. Trust that the inward work has become something concrete and stable.",
+        q: "How long does the settling into structure usually take after the self-focused stretch tapers off?",
+        a: "There's no fixed length, but it's rarely instant. Expect a separate stretch, sometimes comparable to the self-focused period itself, where routines solidify and decisions stick gradually, not snapping into place all at once.",
       },
       {
-        q: "What's the difference between 1114 and 4111?",
-        a: "4111 sandwiches a single 4 before triple 1, describing foundation or stability sparking an overwhelming wave of new, self-focused energy. 1114 reverses the order: self-focus comes first and is now settling into structural foundation as the next stage.",
+        q: "Does 1114 contradict 4111?",
+        a: "Not on the order — both agree self-focus comes first here, structure after. What differs is pace, and only on 1114's side. 4111 describes a foundation that had already settled into place well beforehand, with nothing left to build. 1114's foundation is still actively forming even after self-focus tapers off, slower and less settled than 4111's already-solid one.",
       },
       {
-        q: "Is 1114 a good number for someone whose self-work is finally translating into real stability?",
-        a: "Yes, particularly as confirmation that the inward work has become genuinely structural, not just reflective.",
+        q: "If the sense of ground under me still feels shaky, does that mean 1114 isn't working yet?",
+        a: "No — if things still feel like they're firming up week to week, the settling is simply still in progress, and that's the expected shape here. If instead nothing has shifted at all since self-focus wound down, that's the case worth questioning.",
       },
       {
-        q: "Does 1114 mean my self-focused phase is now over?",
-        a: "It marks a transition into structural stability, more than declaring self-focus finished — the inward work can continue alongside the new solidity.",
+        q: "Does 1114 mean I should expect stability to show up quickly once self-focus tapers off?",
+        a: "No — expecting a fast arrival tends to read as disappointing rather than accurate. The settling described here typically takes its own real stretch of time; continuing to actively build during that stretch is still the active move, not something that happens automatically overnight.",
       },
     ],
     isPlaceholder: false,
@@ -128,7 +128,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Self-Focus Opens To Change",
     summary: "An intense period of self-focus now genuinely ready to open into real, active change",
     meaning:
-      "1115 runs triple 1 (self, new beginnings, saturated) beside one 5 (change, freedom), describing an intense period of self-focus that's now genuinely ready to open into real, active change, rather than remaining purely internal and reflective. This favors trusting that the inward work has reached a point where outward action and change are the natural next step.",
+      "1115 is usually described as self-focus reaching full clarity, a fullness that then opens into change. That's one accurate shape it can take. It can also arrive the other way: not as things becoming clear, but as the self-focused approach running out of runway — restlessness building past what more reflection can settle. Both routes land in the place this page already describes: readiness for real, outward change, whether that readiness feels like arrival or like reaching a limit.",
     love: "Single: the self-focused clarity you've gained is genuinely ready to open into real change in your dating life now — trust that readiness for action. Couple: individual self-focus is genuinely ready to open into real change within the relationship now.",
     career: "Individual, self-focused professional clarity is genuinely ready to open into real change in your career now.",
     money: "Self-focused financial clarity is genuinely ready to open into real change in your approach to money now.",
@@ -137,20 +137,20 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 1115?",
-        a: "Usually because an intense period of self-focus is genuinely ready to open into real, active change now. Trust that readiness for action rather than staying purely reflective.",
+        q: "What if my readiness for change doesn't feel like clarity, more like frustration or restlessness?",
+        a: "That still counts. Restlessness building past what more reflection can resolve is a different route to the readiness this number describes — the outward change it's pointing to doesn't require the fullness to have felt calm or resolved on the way there.",
       },
       {
-        q: "What's the difference between 1115 and 5111?",
-        a: "5111 sandwiches a single 5 before triple 1, describing change sparking an overwhelming wave of new, self-focused energy. 1115 reverses the order: self-focus comes first and is now opening into active change as the next stage.",
+        q: "Does 1115 overlap with 5111?",
+        a: "No — 5111 questions whether change has to finish happening before new-beginning momentum can start, arguing they can run concurrently. 1115 is about what precedes the readiness for change in the first place, not about the change's own timing once it's underway. They sit at different points in overlapping territory.",
       },
       {
-        q: "Is 1115 a good number for someone who's done a lot of inner work and is finally ready to act on it?",
-        a: "Yes, particularly as confirmation that the readiness for real, outward change is genuine.",
+        q: "Was my self-focused period actually a bad experience, then?",
+        a: "Not at all — restlessness doesn't mean the period failed. It can be a completely ordinary way for sustained reflection to reach its natural limit, just as valid an ending point as calm clarity.",
       },
       {
-        q: "Does 1115 mean I need to change everything at once?",
-        a: "It favors trusting readiness for real change generally, more than demanding total, immediate transformation all at once.",
+        q: "Is full clarity required before acting on 1115?",
+        a: "No — if what you have is more like reached-your-limit restlessness than settled clarity, that's sufficient readiness too. Waiting for a steadier form of that signal isn't required.",
       },
     ],
     isPlaceholder: false,
@@ -165,7 +165,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Self-Focus Extends To Home",
     summary: "An intense period of self-focus now genuinely ready to extend outward into home and family life",
     meaning:
-      "1116 grounds three 1 (self, new beginnings, saturated) in one 6 (home, care), describing an intense period of self-focus that's now genuinely ready to extend outward into home and family life, rather than remaining entirely inward. This favors trusting that the self-understanding you've gained is ready to inform how you show up for people close to you.",
+      "1116 keeps the sequence in place — a period of purely self-focused time has to finish before care for home and the people close to you opens up. What's less settled is how far that extension holds. Because it opened more recently than the pattern 6111 describes, it comes with more give: receding back toward self-focus later isn't a failure of the opening, just the natural elasticity of something that hasn't been running as long.",
     love: "Single: the self-focused understanding you've gained is genuinely ready to extend into how you care for close friends and family now. Couple: individual self-focus each of you has done is genuinely ready to extend into renewed care for your shared home life now.",
     career: "If your work touches home life, individual self-focus is genuinely ready to extend into that caregiving domain now.",
     money: "Self-focused financial understanding is genuinely ready to extend into how you manage household finances now.",
@@ -174,20 +174,20 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 1116?",
-        a: "Usually because an intense period of self-focus is genuinely ready to extend outward into home and family life now. Trust that readiness to care for others from a place of self-understanding.",
+        q: "Does it mean something went wrong if I extend toward caring for others and then pull back inward again later?",
+        a: "No — that's the expected shape here, not a warning sign. 1116's opening toward care is younger than the pattern 6111 describes, and younger openings have more give; receding for a stretch and extending outward again later is a normal rhythm.",
       },
       {
-        q: "What's the difference between 1116 and 6111?",
-        a: "6111 sandwiches a single 6 before triple 1, describing home or care sparking an overwhelming wave of new, self-focused energy. 1116 reverses the order: self-focus comes first and is now extending outward into home and care as the next stage.",
+        q: "Isn't 1116 just restating 6111?",
+        a: "Not quite, and the difference is a matter of degree. 6111 describes care as a steady, continually-renewing pattern with no give in it — always active, never banked. 1116 doesn't dispute the order for its own half of the comparison: the self-focused stretch really does have to finish first. The real gap is elasticity — 1116's extension, being newer, can stretch back toward self-focus and forward again, where 6111's pattern holds firm throughout.",
       },
       {
-        q: "Is 1116 a good number for someone who's done individual healing work and feels ready to reconnect with family?",
-        a: "Yes, particularly as confirmation that the self-work is genuinely ready to extend into that caregiving domain.",
+        q: "How long does the extension toward care usually last once it opens?",
+        a: "There's no fixed length — some people stay extended outward for a long stretch, others cycle back toward self-focus sooner. Both are consistent with 1116; what matters is that the opening happened, not how long it holds before any recession.",
       },
       {
-        q: "Does 1116 mean I should stop focusing on myself once I extend outward?",
-        a: "No — it favors extending outward as a next stage alongside continued self-understanding, not replacing it entirely.",
+        q: "If I pull back toward self-focus again, does that cancel whatever caring I did during the extended period?",
+        a: "No — nothing about the extension gets erased by receding. What was given during that stretch stands as it is; pulling back afterward is about your rhythm right now, not a retroactive undoing of the period that already happened.",
       },
     ],
     isPlaceholder: false,
@@ -202,7 +202,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Self-Focus Deepens To Insight",
     summary: "An intense period of self-focus now deepening into genuine, significant insight",
     meaning:
-      "1117 holds three 1 (self, new beginnings, saturated) alongside one 7 (insight, wisdom), describing an intense period of self-focus that's now deepening into genuine, significant insight, rather than staying at a surface level of self-reflection. This favors trusting that the depth of understanding you're reaching right now is real and substantial.",
+      "1117 usually describes self-focused reflection already deepening into real insight, and for a lot of people seeing this number, that's exactly what's happening — trust it. It's also true that reflection can be genuinely active and valuable before it resolves into anything nameable yet: still gathering, not yet crystallized. That earlier stage isn't a stalled form of that process; it's a legitimate place to be in it, and there's no requirement to rush from gathering into naming just because the number showed up.",
     love: "Single: your self-focused reflection on love is deepening into genuine, significant insight right now — trust the depth of what you're understanding. Couple: individual self-focus is deepening into genuine, shared insight about the relationship right now.",
     career: "Individual, self-focused reflection on your career is deepening into genuine, significant insight right now.",
     money: "Self-focused reflection on money is deepening into genuine, significant insight right now.",
@@ -211,20 +211,20 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 1117?",
-        a: "Usually because an intense period of self-focus is deepening into genuine, significant insight right now. Trust the depth of what you're understanding rather than dismissing it as surface-level.",
+        q: "Is it a problem if I can't name any specific insight yet?",
+        a: "No. If the reflection is still active but hasn't resolved into something you could state as one clear sentence, that's a normal part of the process this number is naming, not evidence you're behind.",
       },
       {
-        q: "What's the difference between 1117 and 7111?",
-        a: "7111 sandwiches a single 7 before triple 1, describing insight sparking an overwhelming wave of new, self-focused energy. 1117 reverses the order: self-focus comes first and is now deepening into genuine insight as the next stage.",
+        q: "How does 1117 relate to 7111?",
+        a: "If the momentum you're riding already has a clear realization underneath it, 7111 is asking you to actually name that insight instead of riding the momentum unexamined. If nothing has crystallized yet, 1117 applies instead: still-forming reflection that hasn't reached naming, and doesn't need to yet.",
       },
       {
-        q: "Is 1117 a good number for someone in a period of intense self-reflection who's reaching real clarity?",
-        a: "Yes, particularly as confirmation that the depth reached is genuine, not just surface-level rumination.",
+        q: "How do I know when reflection has actually deepened into insight versus still just being in my head?",
+        a: "Try stating it as one plain sentence. If a clear claim comes out, the deepening described here has likely already happened. If nothing coherent comes out yet, you're probably still in the earlier, equally legitimate stage.",
       },
       {
-        q: "Does 1117 mean my self-reflection is now complete?",
-        a: "It marks a moment of significant depth, more than declaring the reflective process finished — further insight can still continue to develop.",
+        q: "Does 1117 mean I should force myself to reach a conclusion today?",
+        a: "No — forcing a premature conclusion isn't what this number is asking for. Whether the insight has crystallized or is still forming, the number applies either way without a deadline attached.",
       },
     ],
     isPlaceholder: false,
@@ -239,7 +239,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Self-Focus Attracts Abundance",
     summary: "An intense period of self-focus specifically now attracting real material abundance",
     meaning:
-      "1118 stacks triple 1 (self, new beginnings, saturated) with a single 8 (abundance), describing an intense period of self-focus as what's specifically now attracting real material abundance, distinct from abundance requiring you to prioritize others or external validation first. This favors trusting that the inward work itself is the source of what's arriving.",
+      "1118 keeps the requirement in place — self-focus does need to reach its own saturation point first, and abundance genuinely follows on the far side of that. What tends to get overlooked is the shape that reward takes. It doesn't reliably arrive as the kind of abundance you were picturing while waiting, a raise, a windfall, something obviously financial; it's just as likely to surface as an opportunity, an offer, or a resource that doesn't announce itself as wealth at first glance.",
     love: "Single: the self-focused work you've done is specifically now attracting real abundance into your love life, more security, more ease — trust that the inward work is the source. Couple: individual self-focus each of you has done is specifically now attracting real, shared abundance into the relationship.",
     career: "Individual, self-focused professional development is specifically now attracting real material abundance in your career.",
     money: "Self-focused financial understanding is specifically now attracting real abundance — trust that the inward work is the source.",
@@ -248,20 +248,20 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 1118?",
-        a: "Usually because an intense period of self-focus is specifically what's attracting real material abundance right now. Trust that the inward work itself is the actual source.",
+        q: "So is 1118 saying self-focus doesn't actually cause abundance?",
+        a: "No — the causal link holds here; the saturation genuinely produces the payoff. What throws people off is expecting the payoff to look a specific way. If nothing obviously financial has shown up, check instead for something that arrived wearing a different shape, an opportunity or a resource, not necessarily a check in the mail.",
       },
       {
-        q: "What's the difference between 1118 and 8111?",
-        a: "8111 sandwiches a single 8 before triple 1, describing abundance sparking an overwhelming wave of new, self-focused energy. 1118 reverses the order: self-focus comes first and is now specifically attracting abundance as the next stage.",
+        q: "How does 1118 compare to 8111?",
+        a: "The more useful question isn't whether either number requires saturation, it's what happens once the reward lands. 8111 removes the requirement entirely: abundance can move alongside self-focus with nothing required to finish first. 1118 keeps that requirement intact for itself, saturation really does need to happen first, but adds that the reward, once it lands, doesn't have to match whatever form you were picturing while you waited.",
       },
       {
-        q: "Is 1118 a good number for someone who's invested in themselves and is starting to see material results?",
-        a: "Yes, particularly as validation that the self-investment is directly connected to the abundance now arriving.",
+        q: "What if something abundant showed up but it doesn't feel like a reward for the self-focused work?",
+        a: "That mismatch in feeling doesn't rule it out. The payoff described here isn't required to feel like a reward at the moment it lands; an opportunity or a resource can be the actual payoff even if it registers as something ordinary, not a windfall.",
       },
       {
-        q: "Does 1118 mean I should stop caring about others to focus only on myself?",
-        a: "No — it confirms self-focused work is currently attracting abundance, more than prescribing permanent self-exclusivity going forward.",
+        q: "What if no material abundance has shown up yet?",
+        a: "Then check form before checking timing. Something abundant may already be present in a shape that doesn't read as material, an offer, a connection, an opening, before anything recognizably financial follows from it.",
       },
     ],
     isPlaceholder: false,
@@ -276,7 +276,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     titleHook: "Self-Focus Nears Completion",
     summary: "An intense period of self-focus specifically approaching a genuine, natural conclusion",
     meaning:
-      "1119 builds on three 1 (self, new beginnings, saturated), touched by one 9 (completion), describing an intense period of self-focus as specifically approaching a genuine, natural conclusion, worth recognizing rather than assuming it must continue indefinitely. This favors preparing to transition out of this phase, having done the work it was meant for.",
+      "1119 usually describes a self-focused period approaching its own natural conclusion, as though the ending announces itself once the work is done. Worth noticing: calling a stretch of reflection finished is partly a judgment someone makes, not purely a fact the process reveals by itself — two people doing similar inward work might reasonably call it done at different points. That doesn't make the conclusion less real when you land on it; it just means the timing is a call you're making, not only a threshold you're crossing.",
     love: "Single: your intense self-focused period is specifically approaching a natural conclusion, worth recognizing as you consider opening back up in your love life. Couple: an intense period of individual self-focus is specifically approaching a natural conclusion within the relationship.",
     career: "An intense period of individual, self-focused professional development is specifically approaching a natural conclusion.",
     money: "An intense period of self-focused financial work is specifically approaching a natural conclusion.",
@@ -285,20 +285,20 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 1119?",
-        a: "Usually because an intense period of self-focus is specifically approaching a genuine, natural conclusion, worth recognizing rather than extending indefinitely out of habit.",
+        q: "Is 1119 saying the ending isn't real?",
+        a: "No — the ending is real once you call it. The point is closer to comparing two valid stances: treating completion as something the process announces unprompted, versus treating it as your call to make once the work has done enough. 1119 leans toward the second without denying the first.",
       },
       {
-        q: "What's the difference between 1119 and 9111?",
-        a: "9111 sandwiches a single 9 before triple 1, describing an ending sparking an overwhelming wave of new, self-focused energy. 1119 reverses the order: the self-focused period comes first and is now approaching its own natural conclusion.",
+        q: "How does 1119 differ from 9111?",
+        a: "9111 isn't concerned with whether an ending was fully your choice — it treats naming a closed chapter as what keeps momentum moving, regardless of how the ending arrived. 1119 doesn't reject that; it adds a layer underneath it, asking whether calling this particular stretch finished is itself a decision worth noticing you're making, and not simply a fact that arrives unbidden.",
       },
       {
-        q: "Is 1119 a good number for someone who's been focused on themselves for a while and senses it's wrapping up?",
-        a: "Yes, particularly as confirmation that the sense of natural conclusion is accurate.",
+        q: "What if I'm not sure whether this self-focused period is actually done?",
+        a: "That uncertainty is consistent with this reading — since the ending is partly a call and only partly a pure fact, some genuine ambiguity about timing is normal, not proof you're misreading the number.",
       },
       {
-        q: "Does 1119 mean I have to stop all self-care once this phase ends?",
-        a: "No — it marks the conclusion of an intense phase specifically, more than ending self-care altogether.",
+        q: "Must I feel completely certain before treating this phase as over?",
+        a: "No — certainty isn't the bar. Deciding it's finished enough to move forward is allowed even without total confidence that not one more insight could still surface.",
       },
     ],
     isPlaceholder: false,
