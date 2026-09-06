@@ -293,7 +293,7 @@ export const EN_BATCH3_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "321 carries over its identity from elsewhere on this site: not a fresh start, but the last stretch of something already in motion. Twin flames who see it are usually close to a resolution point rather than starting something new, though what resolves isn't specified by the number itself. If contact has already resumed, 321 points to final adjustments rather than a fresh chapter, the practical, almost mundane work of finishing something already underway. Absent contact, it can just as easily mark the last stretch of a personal process, closing out an old question about the connection rather than promising the connection itself is about to close the distance.",
     manifestation:
-      "321's manifestation mechanic is completion-focused rather than initiation-focused — unlike 123's clarity-through-simplicity, 321 rewards finishing the last visible steps of an intention already in motion, since the folklore treats this number as confirmation you're in the final stretch, not the early stages, of something you've already set in motion.",
+      "321 rewards finishing, not starting — the opposite emphasis from 123's clean, simple clarity at the beginning of something. Whatever's already in motion, the last visible steps are what deserve attention now, not a fresh burst of initiating energy. This is confirmation you're in the final stretch, not back at the early stages.",
   },
   {
     number: "911",

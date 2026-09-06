@@ -410,7 +410,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "744 credits real learning, not just time passing, for lasting stability, and in a twin flame context that learning is usually about the dynamic itself: your own patterns, your triggers, what actually repeats. In reunion, 744 suggests the specific work of understanding why past attempts didn't hold is what makes this one different, not just wanting it more. In separation, this number favors treating the stretch of study you're in, reading, reflecting, actually naming your own role, as the real foundation being built, even though it doesn't look like progress toward contact.",
     manifestation:
-      "744 manifests by crediting genuine study for real solidity — the practical move is continuing one area of learning today, recognizing its direct link to your current stability, since this number's folklore treats that connection as what sustains continued growth.",
+      "The ground currently under you has actual studying behind it, not luck or time passing alone — 744 wants that link named. Continue the area of learning already underway today, since recognizing the connection between the study and what it built keeps the growth going, not the studying alone without acknowledgment.",
   },
   {
     number: "755",
@@ -626,7 +626,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "833 tracks a conversion already underway, not a hoped-for one: creative or expressive effort turning into something with real, practical value. In a twin flame context this favors trusting that time spent on your own creative work isn't separate from readiness for this connection, it's actively building resources and capability you'll actually use. In reunion, 833 suggests a creative project or skill you've developed is becoming part of what you bring to a shared future, not just a personal accomplishment. In separation, this number confirms that continuing that creative conversion now is building real capability, not marking time until contact resumes.",
     manifestation:
-      "833 manifests by continuing to invest in an already-converting creative source — the practical move is dedicating time today to the specific creative work that's producing real financial return, since this number's folklore treats that continued investment as what sustains the conversion.",
+      "Keep putting time into whichever creative work is already converting into real money, not toward newer ideas that haven't proven anything yet. 833 rewards continued investment in what's producing results, not novelty for the sake of it — the conversion holds up because the source keeps getting fed, not from one lucky break.",
   },
   {
     number: "844",

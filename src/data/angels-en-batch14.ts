@@ -366,7 +366,7 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Partnership and expression trading off in 2323 create a twin flame dynamic that tends to be genuinely alive in its best phase and stuck in its frustrated phase — and which one you're experiencing tells you a lot about where the connection is right now. When 2323 appears in a separation, the invitation is usually to keep the creative, expressive side of you active regardless of the connection's status, because what's most generative in you right now is what the reunion will most need. This isn't about reaching out — it's about not letting the creative back-and-forth go unexpressed inside yourself. What have you been making or thinking that you'd want to share?",
     manifestation:
-      "2323 manifests by engaging actively in creative exchange rather than working solo — the practical move is one piece of playful back-and-forth with another person today, since this number's folklore treats that shared rhythm, not individual output, as what it's actually pointing toward.",
+      "Is the current creative output coming from you alone, or from an actual back-and-forth with somebody? 2323 favors the exchange — one round of playful trade today, not another solo session — because shared rhythm, not any single person's individual output, actually gets tracked here. Working solo isn't wrong exactly, but it quietly shifts what's being tracked, and that response thins out the longer it goes unnoticed. Which one has it been lately?",
   },
   {
     number: "2525",

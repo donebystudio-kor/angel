@@ -44,7 +44,7 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "6226 in a twin flame context favors direct, honest conversation over assumed understanding, even in, especially in, a connection that already feels deeply close. In reunion, this often means the closeness itself has created a false sense that things don't need to be said out loud — this number favors saying them anyway. In separation, it favors being honest with yourself about what you actually feel and need, rather than assuming the connection's depth makes explicit reflection unnecessary.",
     manifestation:
-      "6226 manifests through direct conversation rather than assumed closeness — the practical move is having one honest talk today with someone you're already close to, since this number's folklore treats that active communication, not comfort alone, as what actually sustains the bond.",
+      "If closeness with someone has started running on assumption more than actual conversation, 6226 is naming that gap. Have the honest talk today — don't keep coasting on how close you already are — comfort by itself won't sustain a bond the way active, direct communication does.",
   },
   {
     number: "6336",

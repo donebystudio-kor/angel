@@ -656,7 +656,7 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "7070 describes twin flame inner work as a rhythm rather than a project with a finish line — specifically, the cycle of gaining insight, sitting with it, and then gaining sharper insight as the previous understanding settles. In separation, this is the actual work: not a single revelation that resolves everything, but a sustained, unhurried cycle of deepening clarity. Each pass produces a clearer read on the connection, on personal patterns, on what actually happened. The insight doesn't accumulate in a straight line — it spirals, each loop slightly more accurate than the last. 7070 confirms that rhythm is active, productive, and worth continuing without forcing conclusions.",
     manifestation:
-      "7070 manifests by regularly refreshing insight rather than relying on a single past realization — the practical move is checking in today with your current understanding of a specific question, since this number's folklore treats that regular renewal as what keeps the wisdom genuinely current.",
+      "7070 asks for a check-in today, not a memory retrieval — pull up your current understanding of the question at hand, without replaying an old realization as if it still automatically applies. Insight has a shelf life here: what felt true last month can quietly go stale without any single moment marking the expiration. If it hasn't been refreshed recently, consider it provisional until it has been: stale wisdom is the real target of this warning, not wisdom itself.",
   },
   {
     number: "8080",

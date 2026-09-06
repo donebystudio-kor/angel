@@ -115,7 +115,7 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "232 favors letting creative exchange — shared humor, ideas built back and forth, making something together — set the natural pace of the connection rather than forcing progress through deliberate communication strategies. In reunion, allow the creative chemistry to reestablish before pushing for heavier conversations; the lighter, more playful exchange is often what genuinely grounds what comes after. In separation, notice how much of what you miss is specifically that creative back-and-forth — it's an accurate signal of the bond's real quality, not just nostalgia for company. That specificity is worth paying attention to.",
     manifestation:
-      "232 manifests by actively engaging in shared creative expression rather than assuming connection happens passively — the practical move is creating something together with someone today, since this number's folklore treats that shared creative act as what actually builds the bond.",
+      "Make something together with another person today — the connection doesn't deepen automatically just from time spent side by side. 232 treats the shared creative act itself, not passive togetherness, as what truly drives the bond. A shared project, a song written together — what matters is that both people added something that didn't exist before you sat down to make it.",
   },
   {
     number: "242",

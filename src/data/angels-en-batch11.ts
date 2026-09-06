@@ -42,7 +42,7 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "3113 points at a specific pressure point in the runner-chaser dynamic: the runner often has a genuine intuitive sense about the connection — something they actually feel or recognize — that hasn't been given any outward form. The dynamic tends not to shift until that impulse is expressed: a message, an honest acknowledgment, something that carries the weight of what's actually there. The chaser doesn't need to force anything in the meantime — what's needed is the impulse being honored on the other end, because the unexpressed knowing is what keeps the dynamic from moving.",
     manifestation:
-      "3113 manifests by giving an intuitive impulse creative shape immediately — the practical move is expressing the specific instinct today, in words, art, or a plan, since this number's folklore treats the act of shaping as what completes the manifestation, more than the raw insight alone.",
+      "3113 rewards giving an instinct shape right away — words, a sketch, a rough plan, whatever's fastest — and the result tends to be that the instinct actually finishes forming only after it's expressed, not before. Left unshaped, it stays a feeling, not something usable.",
   },
   {
     number: "4114",

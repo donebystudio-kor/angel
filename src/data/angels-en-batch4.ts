@@ -113,7 +113,7 @@ export const EN_BATCH4_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "2 is one of the earliest twin flame markers — it tends to appear well before 22, 222, or 1212 do, often right at the point a connection first starts to feel meaningfully different from an ordinary one, in both people at once. In reunion, seeing plain 2 repeatedly is often the very first numerological nudge, well before the bigger, more specific numbers show up. In separation, 2 is a reminder that the connection itself remains balanced and real even without any visible progress yet — it's an early reassurance number, not a timing one.",
     manifestation:
-      "2's manifestation mechanic works through a second party from the very start — unlike 1's solo-initiative energy, 2 responds to intentions that already involve someone else's cooperation, even in embryonic form, more than to a fully solo want.",
+      "A second party is built into 2 from the start — 1 runs on solo initiative, 2 only responds once someone else's cooperation has already entered the picture.",
   },
   {
     number: "3",

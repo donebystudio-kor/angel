@@ -227,7 +227,7 @@ export const EN_BATCH1_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "666 in a twin flame context usually flags an imbalance in the dynamic itself, most often one person carrying more of the emotional or practical weight than the other. It appears especially often during separation, because distance tends to make that imbalance easier to see clearly than closeness does. If you're in separation, use the space to get honest about which side you were over-functioning on. If you're heading toward reunion, address the imbalance directly first rather than assuming it resolves itself once contact resumes.",
     manifestation:
-      "666's manifestation angle is a values check rather than a new intention: look at where your energy has actually been going lately, not what you'd say you value, since that reveals what's currently being reinforced. Realigning the target before manifesting harder in the same direction is the actual fix 666 is pointing at.",
+      "Behind a stretch of manifestation effort that keeps missing is usually a target problem, not an effort problem — 666 checks where your energy has actually been going, not what you'd claim to value if asked directly. The mismatch between claimed values and actual attention gets reinforced daily, regardless of stated intention. Fix the target before pushing harder toward that point: more energy aimed at a misaligned spot just produces more of that same misalignment, faster. A written values list isn't evidence here — only where the hours actually went this week is.",
   },
   {
     number: "777",

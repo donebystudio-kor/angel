@@ -485,7 +485,7 @@ export const EN_BATCH8_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "567 moves further inward than a number like 456's practical landing, external change here maturing first into real peace, and that peace opening into deeper understanding. Twin flames tend to notice this as the upheaval of distance actually settling into something calmer, not just a more workable arrangement with the discomfort. Should reunion follow, the peace reached along the way is usually what makes the reconnection feel steady rather than urgent. If it doesn't, the arc from turbulence to peace to insight is still real and worth counting, a separate outcome from reunion, not a consolation prize standing in for it.",
     manifestation:
-      "567 manifests through recognizing peace as a milestone in its own right — the practical move is naming one specific area where change has actually brought genuine peace, since this number's folklore treats that recognition as opening the door to deeper insight, more than seeking new answers would.",
+      "Underneath a change that's now settled is a kind of peace easy to walk past without registering it as an actual achievement, not just an absence of conflict. Name the area where this has genuinely happened today. Saying it aloud opens a deeper layer of insight more directly than searching for new answers would.",
   },
   {
     number: "765",

@@ -111,7 +111,7 @@ export const EN_BATCH2_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "33 in a twin flame context carries more weight than plain 3 and tends to appear when the connection itself is functioning as a teaching dynamic — where both people are genuinely growing through encountering each other's perspectives and edges, not just enjoying each other. In reunion, 33 favors conversations that cover real ground — what you each believe, how you each make meaning — over comfort-seeking ones; the creative and philosophical exchange between you is what's alive at this frequency. In separation, 33 often signals that the person seeing it is currently the one being asked to do more conscious growth work than the other, and that that's not unfair — it's part of what 33 is tracking.",
     manifestation:
-      "33 manifests through generosity rather than direct request — the specific technique tied to this number is giving something away (time, knowledge, comfort) as the move that opens space for what you want, rather than asking for it outright.",
+      "Give something away today — time, knowledge, comfort — instead of asking directly. 33 runs on generosity as the opener; giving creates the room asking would close off.",
   },
   {
     number: "1111",

@@ -78,7 +78,7 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "2266 describes a core partnership's stability producing harmony outward — which means disruptions to that harmony can often be traced back to something specific within the core dynamic. In a twin flame context, this number favors identifying which patterns or expectations are creating dissonance in the connection and releasing those, rather than releasing the connection itself. In separation, letting go of a specific way of relating — not the relationship — tends to be what restores the wider sense of harmony. In reunion, the core stability is what's worth preserving, even as particular forms it once took are released. What are you still holding that disrupts rather than supports what's real between you?",
     manifestation:
-      "2266 manifests by investing in a core partnership as the source of broader harmony — the practical move is deliberately nurturing one central relationship today, since this number's folklore treats that investment, not managing every downstream detail separately, as what produces the wider ease.",
+      "Whichever relationship currently functions as your central hub, the relationship that makes everything else easier to manage when it's steady, is where 2266 wants attention, not spread evenly across every bond needing upkeep. The reasoning is leverage: fixing the hub eases what depends on it.",
   },
   {
     number: "3322",
@@ -406,7 +406,7 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "5533 points directly at a common stall in the runner-chaser dynamic: the internal shift has happened — the runner's perspective on the connection has genuinely changed — but the transition stays incomplete because that shift hasn't been put into words. The chaser keeps responding to the last spoken signal, not the current internal reality, because the current reality hasn't been communicated. 5533 is a prompt specifically to the one holding the unspoken change: the internal work is done, but this transition doesn't complete until it's voiced. One honest statement is what moves the dynamic from stuck to genuinely next.",
     manifestation:
-      "5533 manifests through the deliberate second step of voicing a change — the practical move is putting a quietly-experienced shift into words today, since this number's folklore treats that spoken or written completion, not just the internal change, as what actually finishes the transition.",
+      "A change felt privately but never actually said or written down is what 5533 wants voiced today. Putting it into words is treated here as the second, necessary step, not an optional flourish layered onto the internal change — the transition doesn't fully finish until it's been spoken or written, which is the result this number tracks.",
   },
   {
     number: "5544",
@@ -694,7 +694,7 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Once a change cycle has genuinely run its full course, the quiet that follows isn't emptiness to fill — it's the natural aftermath of completion. 0550 marks this specifically: the doubled change of 55 has done what it came to do, and the 0 on both sides confirms the afterward as complete rather than suspended. For twin flames, this is a releasing signal — holding onto what preceded the change keeps both people in a configuration that's already finished. In separation, the question is whether a change that already completed has been genuinely released or is still being processed as ongoing. What change in this connection has actually finished, but hasn't been fully let go?",
     manifestation:
-      "0550 manifests by trusting a completed change cycle rather than continuing to brace for more — the practical move is allowing genuine rest today in an area where change has clearly settled, since this number's folklore treats that trust in completion as what the moment actually calls for.",
+      "If a shift has genuinely finished settling, bracing for another wave is the wrong response — 0550 is asking for real rest instead, not vigilance held over from when the change was still active. Unless something concrete suggests otherwise, consider it complete and allow the guard down today.",
   },
   {
     number: "155",

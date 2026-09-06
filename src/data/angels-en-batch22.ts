@@ -401,7 +401,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "133 marks a personal, self-initiated peak in expressive power, distinct from 333's framing of guidance being generally available if you ask. In a twin flame context this favors trusting your own voice about the connection right now, rather than waiting for a sign or outside confirmation before saying what's true. In reunion, 133 suggests this is an unusually good window to actually say the real thing, not a moment to keep processing internally. In separation, this number favors using this intense capacity for honest expression, journaling, writing, speaking it aloud to yourself, while it's active, since it won't necessarily stay this available.",
     manifestation:
-      "133 manifests by fully using an intense period of personal expressive capacity — the practical move is saying or creating one bold thing today while this capacity is active, since this number's folklore treats that active use, not restraint, as what makes the most of the peak.",
+      "Do the bold thing today while this expressive capacity is actually running high — 133 rewards using the peak, not postponing it or holding back from nerves. A capacity like this doesn't stay at full intensity indefinitely, so restraint here just means missing the window.",
   },
   {
     number: "134",

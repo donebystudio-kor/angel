@@ -366,7 +366,7 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "19 marks a bigger, more dramatic conclusion than plain 91's straightforward ending-into-beginning sequence, emphasizing the scale and satisfaction of the ending itself. In a twin flame context this favors treating a closing chapter, often the hardest stretch of separation, as genuinely significant enough to deserve real acknowledgment, not a quiet, awkward fade. In reunion, 19 suggests the phase that's ending deserves to be named and honored before moving into whatever's next, rather than rushed past. In separation, this number favors marking a real ending, an old identity, an old way of coping, with something ceremonial, since 19 points at conclusions substantial enough to warrant that.",
     manifestation:
-      "19 manifests by giving a significant ending real ceremony rather than letting it fade quietly — the practical move is marking the conclusion deliberately today, a conversation, a written reflection, a small ritual, since this number's folklore treats that acknowledgment as what makes room for the next chapter to begin cleanly.",
+      "Mark the ending deliberately today — a conversation, a written note, some small ritual — rather than letting it fade out unnoticed. 19 treats that acknowledgment as the thing that makes space to begin again cleanly, not simply time going by.",
   },
   {
     number: "20",

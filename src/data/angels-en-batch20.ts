@@ -258,7 +258,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "76 describes a deep, inner sense of belonging warming right now, distinct from anything happening with your literal living situation. In a twin flame context this favors recognizing that this warmth is happening inside you, your own relationship with yourself, not something dependent on reunion actually occurring yet. In reunion, 76 suggests the sense of home you're building together is developing on a spiritual level that outpaces any practical logistics. In separation, this number is a direct reassurance that a genuine feeling of belonging is available to you right now, on its own terms, not conditional on contact resuming.",
     manifestation:
-      "76 manifests by consciously honoring inner belonging as its own real development — the practical move is noticing and appreciating one way your sense of inner home has warmed recently, since this number's folklore treats that inward recognition, not external change, as what it's actually pointing toward.",
+      "76 points to a quiet warming in how at-home you feel in yourself, not an external shift. Notice and name one way that inner sense of belonging has grown recently — the recognition itself, not a matching outward change, counts as genuine progress here.",
   },
   {
     number: "79",
