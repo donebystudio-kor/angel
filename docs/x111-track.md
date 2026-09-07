@@ -354,6 +354,101 @@ X999는 999X의 Q2와, 999X는 X999의 Q2와 대조해야 한다.
 
 ---
 
+## X111·111X 16개 필드 정합성 정리 (완료)
+
+배포된 페이지를 읽고 발견: 트랙1·2에서 meaning + FAQ만 재작성한 결과,
+새 meaning이 titleHook/summary/spiritual/action과 어긋나는 경우가 다수
+있었다. 아래는 그 정리 작업의 기록.
+
+### 범위
+titleHook / summary / spiritual / action 네 필드를 각 페이지의 새
+meaning에 맞췄다. **새로 쓴 게 아니라 맞춘 것** — meaning이 세운 축을
+나머지 필드가 지지하게 하는 것이 목적. love/money/career/manifestation은
+범위 밖으로 유지(아래 "manifestation 충돌" 참조).
+
+### 발견된 문제 요약
+- X111 8개 titleHook("[X] Sparks A New You/Fresh Start")과 summary("A
+  single [X] specifically igniting an overwhelming wave of
+  new-beginning energy")가 8/8 동일 골격이었다.
+- 111X 8개도 마찬가지로 titleHook("Self-Focus [동사] [전치사] [대상]")과
+  summary("An intense period of self-focus now [동사]ing into/toward
+  [대상]")가 8/8 동일 골격이었다 — 트랙2 진행 시엔 확인하지 않았던 부분.
+- 4111·5111·6111·7111의 action이 전부 "Trace today's surge of new
+  energy back to the specific [X] that sparked it, and honor that
+  connection" 골격을 공유했고, 각 meaning이 개별적으로 부정한 "단일 촉발
+  순간" 프레임을 그대로 반복하고 있었다.
+- **금지 문구 잔존**: "worth tracing back and honoring"이 5111·7111의
+  spiritual에도 남아있었다. 트랙1 종료 시엔 9111만 남은 줄 알았다 —
+  **트랙1의 grep이 불완전했다**(9111만 대상으로 확인하고 5111·7111은
+  재확인하지 않음). 이번에 16개 전 필드 재grep으로 발견.
+- specific/specifically: X111 8개 전부, 111X의 1118·1119가 love/career/
+  money(범위 밖)만으로 이미 4~8회. titleHook/summary/spiritual/action을
+  전부 0으로 만들어도 페이지당 3회 상한 불가능 — 아래 "미해결" 참조.
+- FAQ 부자연스러운 질문: 1114 "Does 1114 contradict 4111?"과 1115 "Does
+  1115 overlap with 5111?"이 사이트 내부 정합성 문제를 독자 질문으로
+  위장한 형태였다. 실제 독자가 물을 법한 "둘 중 어느 쪽이 내 상황인가"
+  형태로 재작성.
+
+### 처리 결과
+16개 × (titleHook/summary/spiritual/action) 중 정합으로 판정된 항목은
+그대로 두고, 충돌·불일치로 판정된 항목만 수정했다. titleHook 16개와
+summary 16개는 골격 자체가 문제였으므로 정합 여부와 무관하게 전부
+개별적으로 재작성해 8/8 동일 골격을 해체했다. 최종 결과:
+- titleHook 16개, summary 16개: 전면 재작성(골격 해체)
+- spiritual 10개 재작성(4111·5111·6111·7111·9111·1114·1115·1117·1118·1119),
+  나머지 6개(2111·3111·8111·1112·1113·1116)는 정합으로 판정해 유지
+- action 12개 재작성(4111·5111·6111·7111·9111·1112·1114·1115·1116·1117·1118·1119),
+  나머지 4개(2111·3111·8111·1113)는 정합으로 판정해 유지
+- FAQ Q2 2개 재작성(1114, 1115)
+- A형 골격 grep, 금지 문구 grep(전 필드, 이번 목록 전체), 16개 상호
+  3-gram 교차(titleHook/summary/spiritual/action 각각), 기존 코퍼스
+  (배치1~7 140개, X111트랙1 코퍼스) 3-gram 교차, 신규 작성분 specific
+  카운트(페이지당 1회 이하 달성), 연결구 사용(전부 1회 이하) 전부
+  확인 완료. 빌드 통과(1610페이지).
+
+### manifestation 정면충돌 (범위 밖 — 보고만, 정규 배치가 참조)
+manifestation은 이번 범위 밖이라 수정하지 않았다. 아래 8건은 새 meaning과
+정면충돌하므로 **정규 배치가 해당 번호를 다룰 때 이번 meaning의 축에
+맞춰 새로 써야 한다** — 기존 manifestation 문구를 그대로 옮기지 말 것.
+
+| 번호 | manifestation의 문제 문구 | meaning과의 충돌 |
+|---|---|---|
+| 4111 | "naming today the specific stable moment that **ignited** your current momentum" | meaning: "그 순간을 사냥하지 마라(rather than hunting for a recent spark moment)" — 정반대 지시 |
+| 5111 | "naming today the specific change that **ignited** your current momentum" | meaning: "change와 momentum은 동시 진행, 순차 인과 아님" |
+| 6111 | "naming today the specific caring moment that **ignited** your current momentum" | meaning: "돌봄은 단일 사건이 아니라 지속 갱신" |
+| 7111 | "There's usually **one specific realization**... a single insight that actually started it" | meaning: "질문형 — 통찰이 있는지 자문할 뿐 단언 안 함" |
+| 1113 | "since this number's folklore treats that outward channel as what **completes the overflow**" | meaning: "창작이 자기집중 자원을 고갈시키지 않는다(안 마름)" — "completes"가 소모/종결 암시 |
+| 1114 | "makes recent inward growth tangible and lasting... **completes the phase**" 오늘 한 걸음으로 즉시 완성 암시 | meaning: "정착은 별도의 느린 시간이 필요, 즉석에서 안 됨" |
+| 1117 | "naming... one significant realization today, since ... that acknowledgment **solidifies the depth reached**" | meaning: "아직 결정화 안 된 단계(머무름)도 똑같이 정당" — "이미 도달"을 전제 |
+| 1119 | "recognizing and preparing for a **natural** conclusion" | meaning: "'자연스러움'은 판단이지 단언 가능한 사실이 아니다" |
+
+### specific 상한 — 미해결, 별도 작업 필요
+X111 8개 전부와 111X의 1118·1119는 love/career/money(범위 밖 필드)에만
+이미 4~8회의 specific/specifically가 몰려 있어, 이번 작업(신규 작성분
+페이지당 1회 이하)을 지켜도 페이지 전체 기준 3회 상한은 달성 불가능하다.
+site-wide 레거시 이슈(520개 중 138개 페이지가 5회 이상)와 근본 원인이
+같으므로 별도 작업으로 넘긴다. **미해결 — 별도 작업 필요.**
+
+### grep 절차 교훈
+트랙1 종료 시 9111 spiritual에 금지 문구가 남은 것은 알았지만, 같은
+문구가 5111·7111에도 있다는 건 확인하지 않았다 — 하나 발견하면 그
+문구가 다른 페이지에도 있는지 전 필드·전 페이지로 다시 grep해야
+한다는 게 이번 교훈이다. **문구 하나가 발견되면 "그 트랙이 다룬 모든
+페이지 × 모든 필드"를 대상으로 재grep하는 것을 표준 절차로 삼는다.**
+
+---
+
+## 트랙 3·4 범위 변경 (중요)
+
+트랙1·2는 meaning + FAQ만 재작성했고, 그 결과 titleHook/summary/
+spiritual/action과의 불일치가 배포 후에야 발견되어 별도의 정리 작업이
+필요했다(위 섹션 전체). **트랙 3·4(X999/999X)는 처음부터 meaning +
+FAQ뿐 아니라 titleHook/summary/spiritual/action을 한 번에 함께
+다룬다.** 사후 정리 비용이 사전 통합보다 크다는 게 이번에 확인된
+경험적 근거다.
+
+---
+
 ## 남은 계열
 - X999 8개 (1999~8999) — 트랙 3
 - 999X 7개 (9992~9998) — 트랙 4
@@ -363,3 +458,5 @@ X999/999X는 X111/111X와 동일한 두 골격(sandwiches~igniting / 자기집�
 트랙의 관계 축 표를 재사용하지 말고 완결(9)의 속성에 맞는 새 축을
 설계해야 한다. 축 설계 후에는 반드시 대응하는 X999/999X 짝의 기존 Q2
 원문과 항목별로 대조해 순서 역전 여부를 확인할 것(위 "관찰" 참조).
+범위는 위 "트랙 3·4 범위 변경"에 따라 titleHook/summary/spiritual/
+action을 포함한다.

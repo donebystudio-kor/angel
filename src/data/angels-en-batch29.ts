@@ -14,15 +14,15 @@ import type { EnAngelNumber } from "./angels.en";
 export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
   {
     number: "1112",
-    titleHook: "Self-Focus Opens To Others",
-    summary: "An intense period of self-focus now genuinely ready to open toward partnership and connection",
+    titleHook: "Partnership Finds Its Own Way In",
+    summary: "Partnership arriving once self-focus has settled, more often found than searched for",
     meaning:
       "1112 keeps this pair's order intact — self-focus runs its course first, and partnership genuinely doesn't open until that stretch has settled. What's worth redefining is who does the opening. This isn't a search you have to go run yourself: once the self-focused clarity has actually taken hold, it tends to show up in how you carry yourself and what you notice, and more often than not, partnership finds its way toward you more than you have to chase it down.",
     love: "Single: the intense self-focused work you've been doing is genuinely ready to open toward a real connection now — trust that readiness rather than continuing to delay. Couple: an intense period of individual focus is genuinely ready to open back toward more shared connection in the relationship now.",
     career: "An intense period of individual, self-directed work is genuinely ready to open toward more collaborative partnership now.",
     money: "An intense period of individually managing your finances is genuinely ready to open toward a more collaborative financial approach now.",
     spiritual: "This favors recognizing when inward-focused work has reached genuine readiness to open outward toward connection, rather than treating self-focus as a permanent state.",
-    action: "Take one step today to open a self-focused effort toward partnership or connection, trusting that the readiness is genuine.",
+    action: "Let your availability show today rather than going out to search for it — trust that it's already doing its own quiet work.",
     category: "repeat",
     faq: [
       {
@@ -51,8 +51,8 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
   },
   {
     number: "1113",
-    titleHook: "Self-Focus Becomes Creative",
-    summary: "An intense period of self-focus now overflowing into genuine creative expression",
+    titleHook: "Two Outputs, One Ongoing Process",
+    summary: "Creative expression running alongside self-focus, not draining it",
     meaning:
       "1113 usually gets described as an overflow moment: self-focus filling up until it spills into something creative, as if the inward work then empties out into the expression. A more accurate picture might have both running at once: the creative act doesn't drain the self-focused material away, it becomes another place that material keeps living. Expression here isn't a release valve for something that would otherwise sit unused; it's a second container for that same ongoing work.",
     love: "Single: the self-focused understanding you've gained is overflowing into a genuinely creative way of expressing yourself in dating now. Couple: individual self-focus you've each done is overflowing into genuinely creative expression within the relationship now.",
@@ -88,15 +88,15 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
   },
   {
     number: "1114",
-    titleHook: "Self-Focus Builds Real Ground",
-    summary: "An intense period of self-focus now settling into genuine, solid personal foundation",
+    titleHook: "Ground That Takes Its Time",
+    summary: "A structural foundation still taking its own separate time to solidify",
     meaning:
       "1114 keeps its side of the sequence straight: the self-focused stretch fills up before anything structural begins settling into place, not the other way around. What's easy to undersell is the pace of that settling. It isn't a click into place the moment self-focus tapers off; the structural side usually needs its own separate stretch to actually solidify, often slower than the self-focused period that came before it.",
     love: "Single: the self-focused work you've done is now settling into genuine personal foundation, worth trusting as you consider building something with someone else. Couple: individual self-focus each of you has done is now settling into a more stable foundation within the relationship.",
     career: "Individual, self-focused professional development is now settling into genuine, stable foundation in your career.",
     money: "Self-focused financial understanding is now settling into a genuinely stable personal financial foundation.",
-    spiritual: "This favors recognizing when inward growth has translated into real, structural stability, worth trusting as solid rather than still purely internal.",
-    action: "Take one concrete step today that translates recent self-focused growth into a stable, structural change.",
+    spiritual: "Structural stability takes its own separate stretch to form here, gradually, not arriving solid the moment self-focus tapers off.",
+    action: "Keep building today, knowing the structural side won't click into place overnight — the follow-through matters more than a single visible result.",
     category: "repeat",
     faq: [
       {
@@ -104,8 +104,8 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
         a: "There's no fixed length, but it's rarely instant. Expect a separate stretch, sometimes comparable to the self-focused period itself, where routines solidify and decisions stick gradually, not snapping into place all at once.",
       },
       {
-        q: "Does 1114 contradict 4111?",
-        a: "Not on the order — both agree self-focus comes first here, structure after. What differs is pace, and only on 1114's side. 4111 describes a foundation that had already settled into place well beforehand, with nothing left to build. 1114's foundation is still actively forming even after self-focus tapers off, slower and less settled than 4111's already-solid one.",
+        q: "1114 and 4111 both involve stability and self-focus — how do I know which one is happening to me?",
+        a: "Check whether the ground under you already felt solid before this stretch even started, or whether it's still forming now. If it was already solid beforehand, that's 4111 — a foundation that's been quietly holding things up long before now. If it's still settling, slower and less solid, taking its own time even after self-focus tapers off, that's 1114.",
       },
       {
         q: "If the sense of ground under me still feels shaky, does that mean 1114 isn't working yet?",
@@ -125,15 +125,15 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
   },
   {
     number: "1115",
-    titleHook: "Self-Focus Opens To Change",
-    summary: "An intense period of self-focus now genuinely ready to open into real, active change",
+    titleHook: "Ready, Whether Clear Or Worn Down",
+    summary: "Readiness for change, whether it arrives as clarity or as running out of patience",
     meaning:
       "1115 is usually described as self-focus reaching full clarity, a fullness that then opens into change. That's one accurate shape it can take. It can also arrive the other way: not as things becoming clear, but as the self-focused approach running out of runway — restlessness building past what more reflection can settle. Both routes land in the place this page already describes: readiness for real, outward change, whether that readiness feels like arrival or like reaching a limit.",
     love: "Single: the self-focused clarity you've gained is genuinely ready to open into real change in your dating life now — trust that readiness for action. Couple: individual self-focus is genuinely ready to open into real change within the relationship now.",
     career: "Individual, self-focused professional clarity is genuinely ready to open into real change in your career now.",
     money: "Self-focused financial clarity is genuinely ready to open into real change in your approach to money now.",
-    spiritual: "This favors recognizing when inward clarity has reached readiness for outward action and change, rather than staying purely reflective.",
-    action: "Take one concrete action today that turns recent self-focused clarity into real change.",
+    spiritual: "Readiness for change can arrive however it comes here, whether as settled clarity or as reflection simply running out of runway.",
+    action: "Take one concrete action today toward real change, whether what's pushing you there feels like clarity or like simply reaching your limit.",
     category: "repeat",
     faq: [
       {
@@ -141,8 +141,8 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
         a: "That still counts. Restlessness building past what more reflection can resolve is a different route to the readiness this number describes — the outward change it's pointing to doesn't require the fullness to have felt calm or resolved on the way there.",
       },
       {
-        q: "Does 1115 overlap with 5111?",
-        a: "No — 5111 questions whether change has to finish happening before new-beginning momentum can start, arguing they can run concurrently. 1115 is about what precedes the readiness for change in the first place, not about the change's own timing once it's underway. They sit at different points in overlapping territory.",
+        q: "1115 and 5111 both pair self-focus with change — how do I tell which one applies to me?",
+        a: "Check whether the change itself is still actively happening or whether the question is what led up to it. If the change is already in motion, running alongside your momentum without waiting to finish, that's 5111. If it's about what came before the readiness to change at all, whether that was clarity settling in or reflection reaching its limit, that's 1115.",
       },
       {
         q: "Was my self-focused period actually a bad experience, then?",
@@ -162,15 +162,15 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
   },
   {
     number: "1116",
-    titleHook: "Self-Focus Extends To Home",
-    summary: "An intense period of self-focus now genuinely ready to extend outward into home and family life",
+    titleHook: "Care With Room To Recede",
+    summary: "Care for home extending outward, with room to recede and reopen later",
     meaning:
       "1116 keeps the sequence in place — a period of purely self-focused time has to finish before care for home and the people close to you opens up. What's less settled is how far that extension holds. Because it opened more recently than the pattern 6111 describes, it comes with more give: receding back toward self-focus later isn't a failure of the opening, just the natural elasticity of something that hasn't been running as long.",
     love: "Single: the self-focused understanding you've gained is genuinely ready to extend into how you care for close friends and family now. Couple: individual self-focus each of you has done is genuinely ready to extend into renewed care for your shared home life now.",
     career: "If your work touches home life, individual self-focus is genuinely ready to extend into that caregiving domain now.",
     money: "Self-focused financial understanding is genuinely ready to extend into how you manage household finances now.",
     spiritual: "This favors recognizing when inward growth has reached readiness to extend outward into care for others, rather than remaining entirely self-directed.",
-    action: "Extend one piece of recent self-understanding into a caring action for someone close to you today.",
+    action: "Extend one piece of recent self-understanding into a caring action for someone close to you today — and if you find yourself needing to step back again later, that's fine too.",
     category: "repeat",
     faq: [
       {
@@ -199,15 +199,15 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
   },
   {
     number: "1117",
-    titleHook: "Self-Focus Deepens To Insight",
-    summary: "An intense period of self-focus now deepening into genuine, significant insight",
+    titleHook: "Insight, Or Still Gathering",
+    summary: "Insight deepening for some, still gathering for others — both legitimate",
     meaning:
       "1117 usually describes self-focused reflection already deepening into real insight, and for a lot of people seeing this number, that's exactly what's happening — trust it. It's also true that reflection can be genuinely active and valuable before it resolves into anything nameable yet: still gathering, not yet crystallized. That earlier stage isn't a stalled form of that process; it's a legitimate place to be in it, and there's no requirement to rush from gathering into naming just because the number showed up.",
     love: "Single: your self-focused reflection on love is deepening into genuine, significant insight right now — trust the depth of what you're understanding. Couple: individual self-focus is deepening into genuine, shared insight about the relationship right now.",
     career: "Individual, self-focused reflection on your career is deepening into genuine, significant insight right now.",
     money: "Self-focused reflection on money is deepening into genuine, significant insight right now.",
-    spiritual: "This favors trusting that self-focused reflection has reached genuine depth, worth honoring as real insight rather than surface-level self-analysis.",
-    action: "Write down or name today one piece of genuinely deep insight your self-focused reflection has produced.",
+    spiritual: "This favors trusting real depth where it's already been reached, while treating reflection that's still gathering, not yet named, as equally legitimate.",
+    action: "If a clear insight has already surfaced, name it today. If nothing's crystallized yet, staying with the reflection a while longer is just as much the move.",
     category: "repeat",
     faq: [
       {
@@ -236,15 +236,15 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
   },
   {
     number: "1118",
-    titleHook: "Self-Focus Attracts Abundance",
-    summary: "An intense period of self-focus specifically now attracting real material abundance",
+    titleHook: "A Reward In A Different Shape",
+    summary: "A reward that follows real self-focused work, though rarely in the shape expected",
     meaning:
       "1118 keeps the requirement in place — self-focus does need to reach its own saturation point first, and abundance genuinely follows on the far side of that. What tends to get overlooked is the shape that reward takes. It doesn't reliably arrive as the kind of abundance you were picturing while waiting, a raise, a windfall, something obviously financial; it's just as likely to surface as an opportunity, an offer, or a resource that doesn't announce itself as wealth at first glance.",
     love: "Single: the self-focused work you've done is specifically now attracting real abundance into your love life, more security, more ease — trust that the inward work is the source. Couple: individual self-focus each of you has done is specifically now attracting real, shared abundance into the relationship.",
     career: "Individual, self-focused professional development is specifically now attracting real material abundance in your career.",
     money: "Self-focused financial understanding is specifically now attracting real abundance — trust that the inward work is the source.",
-    spiritual: "This favors recognizing self-focused inner work as a legitimate, direct source of material abundance, not a self-indulgent detour from it.",
-    action: "Trust today that continuing your self-focused work is specifically what's attracting real abundance, and continue it deliberately.",
+    spiritual: "Self-focused inner work counts here as a legitimate source of reward, even when what arrives doesn't look like money.",
+    action: "Trust today that continuing your self-focused work genuinely drives real reward, and continue it deliberately, whatever form it ends up taking.",
     category: "repeat",
     faq: [
       {
@@ -273,15 +273,15 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
   },
   {
     number: "1119",
-    titleHook: "Self-Focus Nears Completion",
-    summary: "An intense period of self-focus specifically approaching a genuine, natural conclusion",
+    titleHook: "Naming The End Is A Choice",
+    summary: "A self-focused stretch nearing its end, though calling it finished is partly your call",
     meaning:
       "1119 usually describes a self-focused period approaching its own natural conclusion, as though the ending announces itself once the work is done. Worth noticing: calling a stretch of reflection finished is partly a judgment someone makes, not purely a fact the process reveals by itself — two people doing similar inward work might reasonably call it done at different points. That doesn't make the conclusion less real when you land on it; it just means the timing is a call you're making, not only a threshold you're crossing.",
     love: "Single: your intense self-focused period is specifically approaching a natural conclusion, worth recognizing as you consider opening back up in your love life. Couple: an intense period of individual self-focus is specifically approaching a natural conclusion within the relationship.",
     career: "An intense period of individual, self-focused professional development is specifically approaching a natural conclusion.",
     money: "An intense period of self-focused financial work is specifically approaching a natural conclusion.",
-    spiritual: "This favors recognizing when a self-focused phase has genuinely done its work and is naturally concluding, rather than extending it out of habit.",
-    action: "Acknowledge today that a self-focused period is approaching its natural conclusion, and prepare for what comes next.",
+    spiritual: "Calling a self-focused phase finished is a judgment worth making deliberately here, not simply a fact that announces itself.",
+    action: "Decide today whether this self-focused stretch is finished for you, and prepare for what comes next — that call is yours to make.",
     category: "repeat",
     faq: [
       {
@@ -310,8 +310,8 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
   },
   {
     number: "2111",
-    titleHook: "Partnership Sparks A New You",
-    summary: "A single partnership moment specifically igniting an overwhelming wave of new-beginning energy",
+    titleHook: "The Relationship, Not The Moment",
+    summary: "A relationship already shaping your momentum, worth naming by person, not by moment",
     meaning:
       "The relationship currently behind a stretch of momentum, not the event that produced the feeling, is what 2111 actually asks about. A single 2 sits ahead of three 1s here, and the usual reading treats that lead-in digit as a spark. 2111 uses it differently: as an identifier. Whoever is currently doing the most relational work in your life is the answer this number wants, not whichever conversation happened to precede the feeling.",
     love: "Single: a specific connection or conversation is specifically what's igniting an overwhelming wave of new personal energy in you right now — trace it back and honor that spark. Couple: a specific moment within the relationship is specifically what's igniting an overwhelming wave of renewed personal energy for one or both of you.",
@@ -347,8 +347,8 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
   },
   {
     number: "3111",
-    titleHook: "Creativity Sparks A New You",
-    summary: "A single creative moment specifically igniting an overwhelming wave of new-beginning energy",
+    titleHook: "The Push Outlives Its Source",
+    summary: "A creative spark that's already spent, its leftover push ready to aim at something new",
     meaning:
       "Which creative act caused this? That question is what 3111's structure invites — a single 3 running into three 1s reads, by default, as cause and effect. By the time this number actually shows up, though, whatever prompted it has typically run its course. What's still active is the residual push, and that push doesn't stay tied to its source — it can be aimed at whatever else is ready to move.",
     love: "Single: a specific creative act of self-expression is specifically what's igniting an overwhelming wave of new personal energy in your love life right now. Couple: a specific creative moment within the relationship is specifically what's igniting renewed personal energy for one or both of you.",
@@ -384,15 +384,15 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
   },
   {
     number: "4111",
-    titleHook: "Stability Sparks A Fresh Start",
-    summary: "A single moment of real stability specifically igniting an overwhelming wave of new-beginning energy",
+    titleHook: "Stability Was There All Along",
+    summary: "A long-standing foundation, finally getting noticed instead of freshly triggered",
     meaning:
       "4111 keeps this family's trigger framing, but stability triggers differently than the digit that follows it usually implies. It doesn't ignite the way a sudden realization or windfall might; it gets noticed. A foundation that's been quietly holding things up, sometimes for a long time, is what the current surge is actually running on — and naming that existing structure, rather than hunting for a recent spark moment, is what 4111 is pointing toward.",
     love: "Single: a specific moment of real stability in your life is specifically what's igniting an overwhelming wave of new personal energy for your love life right now. Couple: a specific stable moment within the relationship is specifically what's igniting renewed personal energy for one or both of you.",
     career: "A specific moment of real professional stability is specifically what's igniting an overwhelming wave of new personal energy right now.",
     money: "A specific moment of real financial stability is specifically what's igniting an overwhelming wave of new personal motivation right now.",
-    spiritual: "This favors recognizing that stability itself can be a genuine spark for new beginnings, not only disruption or change.",
-    action: "Trace today's surge of new energy back to a specific moment of stability that sparked it, and honor that connection.",
+    spiritual: "This favors recognizing a stability that's already been quietly holding things up as the real source here, not a spark that just went off.",
+    action: "Name a stability that's already been quietly holding things up — not a recent event, something you've simply stopped noticing.",
     category: "repeat",
     faq: [
       {
@@ -430,15 +430,15 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
   },
   {
     number: "5111",
-    titleHook: "Change Sparks A New Beginning",
-    summary: "A single moment of change specifically igniting an overwhelming wave of new-beginning energy",
+    titleHook: "Change And Momentum, Together",
+    summary: "A change still actively underway, running alongside fresh momentum, not finishing ahead of it",
     meaning:
       "5111 places change before three 1s, which reads as a simple sequence: change happens, then the surge follows. But 5's whole nature is motion already in progress, not a completed event handing off to what comes next. The more accurate picture may be that the change and the surge are running simultaneously — the shift hasn't necessarily wrapped up by the point this number shows up, and treating it as already-over can undersell how much is still actively moving.",
     love: "Single: a specific change in your circumstances is specifically what's igniting an overwhelming wave of new personal energy for your love life right now. Couple: a specific change within the relationship is specifically what's igniting renewed personal energy for one or both of you.",
     career: "A specific professional change is specifically what's igniting an overwhelming wave of new personal energy right now.",
     money: "A specific financial change is specifically what's igniting an overwhelming wave of new personal motivation right now.",
-    spiritual: "This favors recognizing a specific change as the actual trigger for a surge of new-beginning energy, worth tracing back and honoring.",
-    action: "Trace today's surge of new energy back to the specific change that sparked it, and honor that connection.",
+    spiritual: "The change and the momentum can be actively unfolding together here, neither one waiting on the other to finish first.",
+    action: "Keep moving on today's momentum without waiting for the change driving it to finish first — both can stay in motion at once.",
     category: "repeat",
     faq: [
       {
@@ -467,15 +467,15 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
   },
   {
     number: "6111",
-    titleHook: "Home Sparks A New Beginning",
-    summary: "A single moment of home or family care specifically igniting an overwhelming wave of new-beginning energy",
+    titleHook: "Care That Keeps Renewing",
+    summary: "An ongoing pattern of care, renewed continually, never pinned to one closed-off moment",
     meaning:
       "6111 pairs a single 6 (home, care) with three 1s, and most descriptions ask which caring moment set the surge running — as if care worked like a single event you could point to and close the book on. Care doesn't really function that way: it's renewed continually, not banked once and left alone. 6111 may be less about locating one moment and more about noticing that an ongoing pattern of care is what's currently active underneath the momentum.",
     love: "Single: a specific moment of care within your home or family life is specifically what's igniting an overwhelming wave of new personal energy for your love life right now. Couple: a specific caring moment within your shared home life is specifically what's igniting renewed personal energy for one or both of you.",
     career: "A specific home-related caring moment is specifically what's igniting an overwhelming wave of new personal energy in your career right now.",
     money: "A specific home-related financial moment is specifically what's igniting an overwhelming wave of new personal motivation right now.",
-    spiritual: "This favors recognizing that care given or received within home life can be a genuine spark for new personal beginnings.",
-    action: "Trace today's surge of new energy back to a specific caring moment at home that sparked it, and honor that connection.",
+    spiritual: "Care functions here as something that keeps renewing, not something that happened once and can be filed away.",
+    action: "Renew one act of care today, not a one-time gesture but part of a pattern you keep coming back to.",
     category: "repeat",
     faq: [
       {
@@ -504,15 +504,15 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
   },
   {
     number: "7111",
-    titleHook: "Insight Sparks A New Beginning",
-    summary: "A single moment of real insight specifically igniting an overwhelming wave of new-beginning energy",
+    titleHook: "Check For The Insight First",
+    summary: "Momentum worth checking for a real insight underneath it, not assuming one automatically",
     meaning:
       "A single 7 (insight, wisdom) leads into 7111's tripled 1, but this one is framed as a question rather than a claim: is there actually a realization underneath this momentum, or has the momentum been running without one ever getting named? The number doesn't insist an insight exists — it asks whether you've checked.",
     love: "Single: a specific realization about love or yourself is specifically what's igniting an overwhelming wave of new personal energy right now. Couple: a specific shared realization is specifically what's igniting renewed personal energy for one or both of you.",
     career: "A specific professional realization is specifically what's igniting an overwhelming wave of new personal energy right now.",
     money: "A specific financial realization is specifically what's igniting an overwhelming wave of new personal motivation right now.",
-    spiritual: "This favors recognizing a specific realization as the actual trigger for a surge of new-beginning energy, worth tracing back and honoring.",
-    action: "Trace today's surge of new energy back to the specific realization that sparked it, and honor that connection.",
+    spiritual: "Worth checking whether a real realization genuinely sits underneath this momentum, not simply assuming one automatically does.",
+    action: "Try stating the insight behind today's push as one plain sentence — if nothing clear comes out, that's useful information too.",
     category: "repeat",
     faq: [
       {
@@ -541,8 +541,8 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
   },
   {
     number: "8111",
-    titleHook: "Abundance Sparks A Fresh Start",
-    summary: "A single moment of real abundance specifically igniting an overwhelming wave of new-beginning energy",
+    titleHook: "Abundance Needs No Origin Story",
+    summary: "Real abundance that doesn't need one identifiable source to count",
     meaning:
       "The usual assumption is that something identifiable set this off — one windfall, one conversation, one event worth pointing back to. 8111 doesn't require that assumption to hold, even though its digits (a single 8, three 1s) invite it. Part of it may have built up slowly, or arrived through several unconnected channels simultaneously — that counts just as fully here as abundance from one clear source, no backstory needed to make it count.",
     love: "Single: a specific moment of real abundance in your life is specifically what's igniting an overwhelming wave of new personal energy for your love life right now. Couple: a specific abundant moment for the relationship is specifically what's igniting renewed personal energy for one or both of you.",
@@ -578,15 +578,15 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
   },
   {
     number: "9111",
-    titleHook: "An Ending Sparks A New You",
-    summary: "A single, completed ending specifically igniting an overwhelming wave of new-beginning energy",
+    titleHook: "An Ending Only Counts If Named",
+    summary: "A completed chapter whose momentum depends on actually naming it",
     meaning:
       "9111 is the most literal member of this family: a single 9 first, three 1s following, closure before momentum, exactly the sequence the digits suggest. But the sequence only holds if the ending actually gets named — spoken or written, not just sensed. An unacknowledged closure can still be quietly running the momentum underneath it, without getting credit for doing so.",
     love: "Single: a specific ending in your love life is specifically what's igniting an overwhelming wave of new personal energy right now — trust that the closure and the surge are connected. Couple: a specific completed chapter within the relationship is specifically what's igniting renewed personal energy for one or both of you.",
     career: "A specific completed professional chapter is specifically what's igniting an overwhelming wave of new personal energy right now.",
     money: "A specific completed financial chapter is specifically what's igniting an overwhelming wave of new personal motivation right now.",
-    spiritual: "This favors recognizing a specific completed ending as the actual trigger for a surge of new-beginning energy, worth tracing back and honoring.",
-    action: "Trace today's surge of new energy back to the specific ending that sparked it, and honor that connection.",
+    spiritual: "This favors actually naming what ended, out loud or in writing, since an unnamed ending can't get credit for the momentum it's producing.",
+    action: "Say or write down, specifically, what just ended — an unspoken ending won't carry the same weight forward.",
     category: "repeat",
     faq: [
       {
