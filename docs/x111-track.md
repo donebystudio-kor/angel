@@ -449,14 +449,229 @@ FAQ뿐 아니라 titleHook/summary/spiritual/action을 한 번에 함께
 
 ---
 
+## 트랙 3 — X999 계열 8개 meaning + FAQ + titleHook + summary + spiritual + action 재작성 (완료)
+
+### 대상 확정
+
+1999~8999 8개. **0999는 제외**(다른 계열) — 조사 결과 0999는 X999와
+무관한 "leading-zero repeat family"(category: `time`) 소속으로,
+0888·10000·999 등과 비교하는 완전히 다른 구조("0의 완전한 클리어링 +
+999의 증폭")를 쓰고 있었다. meaning/FAQ/manifestation 전부 이미
+독자적으로 잘 쓰여 있어(예: "the completion of completions") X999
+골격과 애초에 무관했다. 9992(999X 소속)는 manifestation만 별도 정규
+배치에서 손댔을 뿐 meaning/FAQ는 여전히 원본 A형 — X999 8개 전부도
+착수 전 시점엔 6필드 전부 원본 A형이었다.
+
+### 1단계 조사 결과
+
+- **골격 8/8 확인**: meaning("[N] sandwiches a single [d]... before
+  triple 9... igniting an overwhelming wave of completion"), titleHook
+  ("[X] Sparks A/A Big Closing"), summary("A single [X] specifically
+  igniting an overwhelming wave of completion"), spiritual("This favors
+  recognizing that [X] can be the very thing that triggers a much larger
+  wave of necessary endings"), action("Notice today how a recent [X] is
+  triggering the closure of several older things, and let that process
+  continue") — **전부 8/8 동일 골격**. X111 트랙1보다 범위가 넓다(그때는
+  meaning+FAQ만 문제였음).
+- FAQ 4문항도 8/8 동일 골격: Q1("Why do I keep seeing [N]?"), Q2("What's
+  the difference between [N] and 999[d]?" — 999X를 "already-saturated
+  completion phase now [동사]ing into [attr] as the next stage"로 확정
+  서술), Q3("Is [N] a good number for someone who...?"), Q4("Does [N]
+  mean I need continuous/more [X] to sustain closure?").
+- twinflame은 8개 전부 이미 서로 다른 내용(재회 타이밍/외부요인/케어
+  패턴 등) — **범위에 포함하지 않음**(원래도 정상).
+
+### 2단계 축 설계 — 8개
+
+X111 축(제약재정의/관점전환/지속정적/순서문제제기/상충/검증/무관가능성/
+지속능동)·111X 축(주체/공존/속도/가역성/머무름/형태/자의성/고갈)·영어
+심화 15개 축과 겹치지 않게 설계. 완결(999)이 111의 정반대 소재라는 점을
+살려 "완결이 정말 완결인가/촉발과 드러냄의 차이/끝의 개수/마무리와
+포기/남는 것/선언의 권한/규모의 불일치" 방향에서 뽑았다.
+
+| 숫자 | 속성 | 축 | 요지 |
+|---|---|---|---|
+| 1999 | 새 시작 | 드러냄 vs 촉발 | 시작이 완결을 만든 게 아니라 이미 진행 중인 완결을 보이게 했을 뿐 |
+| 2999 | 파트너십 | 복수의 종결 | 한 순간이 하나가 아니라 여러 개의 분리된 종결을 동시에 건드림 |
+| 3999 | 창의성 | 마무리 vs 포기 | 창작을 멈춘 것이 포기인지 완성인지는 "이미 할 말을 다 했는가"로 갈림 |
+| 4999 | 안정 | 완결의 정착 지연 | 완결처럼 보여도 기반은 계속 조용히 자리잡는 중일 수 있음 |
+| 5999 | 변화 | 인식의 시차 | 변화는 즉시 분명해도, 정확히 무엇이 끝났는지는 나중에야 드러남 |
+| 6999 | 돌봄 | 잔여물 | 끝난 뒤 남는 것(관계 자체)이 그 돌봄 방식이 끝난 사실보다 중요 |
+| 7999 | 통찰 | 선언의 권한 | 완결은 본인이 그렇게 알아차려야만 성립, 남이 대신 선언 못함 |
+| 8999 | 풍요 | 규모의 불일치 | 작은 촉발점이 훨씬 크고 느린 파장을 냄 — 크기가 안 맞는 게 정상 |
+
+숫자 속성과 안 맞는 억지 배정은 없음 — 8개 모두 기존에 확립된 digit
+attribute(1=new beginnings, 2=partnership, 3=creativity, 4=stability,
+5=change, 6=home/care, 7=insight, 8=abundance)와 자연스럽게 맞물렸다.
+
+### 3단계 — FAQ Q2의 999X 서술 8건 (트랙 4 대비, 원문 그대로 기록)
+
+**1999는 999X 짝이 없다**(999X는 9992~9998, "9991" 없음). 원본도 1999의
+Q2는 999X가 아니라 9111(X111 트랙1, 이미 완료)과 비교했다 — 이번에도
+같은 대상으로 비교했고, 9111의 현재 실제 내용("an ending only counts if
+named")과 정합성 확인 후 작성했다.
+
+나머지 7개(2999~8999)는 999X와 비교하며, **의도적으로 느슨하게** —
+"already-saturated"·"as the next stage" 같은 특정 메커니즘을 단언하는
+표현을 전부 빼고, 순서(완결이 먼저, 속성이 그다음)라는 구조적 사실만
+언급했다. 트랙 4가 이 서술과 충돌하지 않으면서 자유롭게 축을 설계할 수
+있게 여지를 남긴 것이 핵심이다.
+
+| X999 | Q2가 999X를 서술한 방식(원문) |
+|---|---|
+| 1999 | (999X 아님, 9111과 비교) "9111 needs a specific ending to already be named before it credits the momentum that follows." |
+| 2999 | "9992 treats the completion as already having done its work and ready to open outward" |
+| 3999 | "9993 — a completion phase overflowing into creativity as its next stage" (조건절 안에 느슨하게 배치) |
+| 4999 | "9994 has completion arrive first and settle into foundation after" |
+| 5999 | "9995 pairs completion with change in the reverse order, completion first" |
+| 6999 | "9996 simply reverses the order, completion before home and care" |
+| 7999 | "9997 does run the same two ingredients in reverse, completion first" |
+| 8999 | "9998 puts completion first and abundance after, without saying anything about size" |
+
+**공통 패턴**: 순서(완결→속성)만 확정하고, "왜/어떻게"는 전부 트랙 4의
+설계 몫으로 남겼다. "saturated"라는 단어는 8건 전부에서 제거했다.
+
+### 트랙 4가 쓸 수 있는 축 방향 제안
+
+999X(9992~9998)는 "완결이 먼저, 그 다음 [속성]으로 열림"이라는 순서를
+그대로 유지하되, 아래처럼 X999 트랙과 다른 층위를 건드리는 걸 권장한다
+(순서 자체를 뒤집는 축은 111X 트랙에서 이미 금지 처리한 전례와 동일하게
+피할 것):
+
+- **9992(파트너십)**: X999의 "복수의 종결"과 대칭적으로, "완결 이후 열리는
+  파트너십이 하나의 관계인지 여러 형태의 연결인지"를 다루면 2999와 짝을
+  이룸.
+- **9993(창의성)**: X999의 "마무리 vs 포기"와 대칭적으로, "완결이 창의성으로
+  넘칠 때, 그 창의성이 이전 것의 연장인지 완전히 새 것인지"를 다루면 좋음.
+- **9994(안정)**: X999의 "정착 지연"과 대칭적으로, "완결 뒤에 세워지는 기반이
+  얼마나 빨리 시험대에 오르는가"를 다루면 4999와 짝을 이룸.
+- **9995(변화)**: X999의 "인식 시차"와 대칭적으로, "완결이 먼저 분명한데
+  변화의 방향은 나중에야 잡히는가"를 다루면 좋음.
+- **9996(돌봄)**: X999의 "잔여물"과 대칭적으로, "완결 이후 돌봄이 확장될 때
+  그 확장이 의무인지 선택인지"를 다루면 좋음.
+- **9997(통찰)**: X999의 "선언의 권한"과 대칭적으로, "완결이 통찰을 깊게 할
+  때, 그 통찰을 나눠야 완성되는가 혼자 간직해도 되는가"를 다루면 좋음.
+- **9998(풍요)**: X999의 "규모 불일치"와 대칭적으로, "완결의 규모와 그로
+  끌려오는 풍요의 규모가 맞아야 하는가"를 다루면 8999와 짝을 이룸.
+
+**주의(트랙 2에서 실제 발생한 함정)**: 축 설계 직후, 작성 전에 위 8건의
+X999 Q2 원문과 항목별로 대조해 "순서를 뒤집는" 축이 아닌지 반드시
+확인할 것. X999 쪽 서술이 느슨하다고 해서 아무 방향이나 안전한 건
+아니다 — 완결이 먼저 온다는 사실 자체는 8건 모두 확정돼 있다.
+
+### 재작성 경위 — 초안에서 걸린 위반 (2묶음 × 2~3라운드)
+
+1묶음(1999~4999), 2묶음(5999~8999)으로 나눠 작성. 두 묶음 모두 최소
+2라운드 재작성이 필요했다.
+
+- **"triple 9" 금지 문구 4/4 위반**(1묶음 1차 초안) — "999"로 교체.
+- **"999 (completion, amplified)" 오프닝 절이 4개 항목에 동일하게
+  반복** — 규칙 E. 각기 다른 문장 구조("puts...ahead of"/"pairs...with"/
+  "lets...lead into"/"has...come first, with...following")로 재작성하고
+  999의 괄호 설명도 항목마다 다른 표현으로 교체.
+- **spiritual 필드 오프너 "Worth sitting with:"가 4/4 동일** — mixed
+  ABAB에서 겪은 것과 같은 패턴(규칙 E, 스스로 3번째 재발 확인). 개별
+  문장으로 재작성.
+- **Q2가 999X를 "has a saturated completion...as its next stage"라는
+  동일 문형으로 서술 (2묶음 4/4)** — 규칙 E + 3단계 지시(느슨하게 서술)
+  위반 동시 발생. 8개 전부(1묶음 포함) 서로 다른 문장 구조로 재작성.
+- FAQ 순서 오류: 2999·3999의 Q2(999X 비교 문항)가 실제로는 배열의
+  3번째 자리에 있었다(원본 순서를 그대로 베끼다 발생) — Q2 자리로 재배치.
+- 그 외 "on its own"/"It does, and it's"/"mean I should"/"What does it"
+  등 FAQ 답변 오프너가 항목 간 우연히 겹친 경우 다수(6~7건) — 각각
+  발견 즉시 개별 재작성.
+- 최종 8개 통합 검사: A형 골격 0건, 이번 트랙 금지 문구 0건, titleHook/
+  summary/spiritual/action 필드별 상호 3-gram 각각 0건, FAQ 32문항
+  전부 고유, Q2 답변 8개 상호 3-gram 사실상 0건(2건 잔존, 둘 다
+  "wave of closure"/"run the same" 같은 일반 기능어), specific 계열
+  페이지당 3회 이하 달성.
+
+### 자가검증 — X111/111X·기존 코퍼스 교차
+
+X111/111X 16개(meaning) 교차 4쌍, 전부 2-gram 이하(잔존 일반어 수준,
+트랙1·2와 동일 기준으로 판단해 제거 대상 아님). 잔존 8개 내부 교차
+11쌍도 전부 "wave of closure"/"for a while"/"in my life" 같은 일반
+기능어이며, 골격 반복(이 트랙의 핵심 문제)과는 성격이 다르다고 판단해
+제거하지 않음 — 트랙1·2와 동일 판단 기준.
+
+### manifestation 정면충돌 (범위 밖 — 보고만, 정규 배치가 참조)
+
+8개 전부 manifestation이 아직 원본 A형("[N] manifests by trusting [X]
+as the trigger for necessary closures — the practical move is letting
+one old [obligation/pattern] conclude today...")이며, love/career/
+money도 8개 전부 "[X] is specifically what's igniting an overwhelming
+wave of closure" 원본 그대로다(범위 밖, 미수정).
+
+| 번호 | 충돌 강도 | 문제 |
+|---|---|---|
+| 1999 | **정면충돌** | manifestation·love/career/money 전부 "beginning이 트리거"를 명시. meaning은 정반대("beginning은 트리거가 아니라 이미 진행 중인 완결을 보이게 하는 렌즈")를 주장 |
+| 4999 | 경미 | manifestation·love/career/money가 "conclude today"(오늘 마무리)를 전제. meaning은 "완결처럼 보여도 계속 정착 중"이라 즉시 마무리를 부정하는 쪽에 가까움 |
+| 5999 | 중간 | manifestation·love/career/money가 "letting one old pattern conclude today"(오늘 무엇이 끝나는지 알고 있다고 전제). meaning은 "무엇이 끝났는지는 나중에야 안다"고 주장 |
+| 8999 | 경미 | manifestation이 "conclude today"(즉시)를 전제. meaning은 "파장이 몇 주에 걸쳐 느리게 퍼진다"고 주장 |
+| 2999·3999·6999·7999 | 없음 | 트리거 자체를 부정하지 않는 축이라 기존 문구와 양립 가능 |
+
+**정규 배치가 이 8개의 manifestation을 다룰 때, 위 4건(특히 1999)은
+기존 A형 문구를 그대로 재사용하지 말고 이번 meaning의 축에 맞춰
+새로 쓸 것.**
+
+### 장래 manifestation 논지 (정규 배치에서 그대로 사용)
+
+**1999 (드러냄 vs 촉발)**: "1999는 여전히 트리거 골격의 형태를 취할 수
+있지만, 방향을 바꿔야 한다 — 오늘 시작한 무언가를 원인으로 내세우지
+말고, 최근 시작한 무언가가 이미 진행 중이던 어떤 마무리를 보이게
+해줬는지 찾아라." 근거형 권장. spark/ignite 어휘 금지(공통 규칙).
+
+**2999 (복수의 종결)**: "한 파트너십 순간이 마무리시키는 게 하나가
+아니라는 걸 인정하고, 오늘 그중 두 개 이상을 구체적으로 짚어보라." 행동형 권장.
+
+**3999 (마무리 vs 포기)**: "멈춘 창작물 하나를 오늘 다시 보고, 그것이
+할 말을 다 했는지 스스로 판정하라 — 판정 자체가 완결을 완성시킨다." 근거형 권장.
+
+**4999 (정착 지연)**: "오늘 완전히 안정됐다고 선언하지 말고, 그 안정이
+아직 자리잡고 있는 부분이 어디인지 하나 짚어보라." 조건형 권장.
+
+**5999 (인식 시차)**: "오늘은 변화가 일어났다는 사실만 확인하고, 정확히
+무엇이 끝났는지는 아직 몰라도 된다고 스스로에게 허락하라." 조건형 권장.
+
+**6999 (잔여물)**: "오래된 돌봄 습관 하나를 오늘 내려놓고, 그 자리에
+실제로 무엇이 남아있는지 지켜보라." 행동형 권장.
+
+**7999 (선언의 권한)**: "남이 아니라 본인이 알아차린 것 하나를 오늘
+소리 내어 말하거나 적어라 — 그 행위가 완결을 성립시킨다." 행동형 권장.
+
+**8999 (규모 불일치)**: "작은 풍요 하나를 오늘 원인으로 짚되, 그로 인한
+파장은 오늘 안에 끝나지 않을 수 있다는 걸 받아들이라." 근거형 권장.
+
+### 예상 못 한 발견
+
+- **트랙 1·2보다 범위가 훨씬 넓었다** — titleHook·summary·spiritual·
+  action까지 8/8 동일 골격이었던 건 이번이 처음 확인된 규모(트랙1·2는
+  meaning+FAQ만 원래 범위였고, 나머지 필드의 골격은 나중에 별도
+  "X111·111X 16개 필드 정합성 정리"에서야 발견됐다). 트랙 3·4부터
+  처음부터 6필드를 함께 다루기로 한 결정(이 문서 "트랙 3·4 범위 변경")이
+  실제로 유효했다 — 사후 정리가 전혀 필요 없었다.
+- **규칙 E가 spiritual 오프너에서 세 번째로 재발했다**(mirror 트랙2,
+  mixed ABAB, 이번 X999) — 언어(한국어/영어)나 소재(숫자 골격/완결
+  골격)가 달라도 "필드 하나를 4개 이상 항목에 몰아서 쓰면 공통 오프너가
+  생긴다"는 패턴은 동일하게 반복된다는 걸 재확인.
+- **FAQ 순서 실수**: 2999·3999에서 999X 비교 문항(Q2)이 원본의 실제
+  위치(3번째)를 그대로 베껴 배열 순서가 어긋났다. "Q2"라는 이름이
+  고정된 자리를 뜻하는 게 아니라 "999X와 비교하는 문항"이라는 기능을
+  뜻한다는 걸 명확히 해야 함 — 향후 트랙에서도 원본의 배열 순서를
+  그대로 베끼지 말고 기능(999X 비교인지 여부)으로 재배치할 것.
+- **1999는 999X 짝이 없다**는 구조적 사실을 조사 단계에서 처음 확인했다
+  — 999X가 9992~9998(9991 없음)인 이유는 X999/999X가 "digit+999"·
+  "999+digit"의 대응쌍인데 digit=1인 999X 쪽은 애초에 존재하지 않기
+  때문. 1999의 Q2는 원본부터 9111(X111)과 비교해왔고 이번에도 같은
+  대상을 썼다 — 트랙 4도 999X 8번째 항목("9991")을 찾으려 하지 말 것.
+
 ## 남은 계열
-- X999 8개 (1999~8999) — 트랙 3
 - 999X 7개 (9992~9998) — 트랙 4
 
-X999/999X는 X111/111X와 동일한 두 골격(sandwiches~igniting / 자기집중
-포화후전환)을 완결(9) 소재로 반복한 것이라 트랙 3~4 진행 시 X111·111X
-트랙의 관계 축 표를 재사용하지 말고 완결(9)의 속성에 맞는 새 축을
-설계해야 한다. 축 설계 후에는 반드시 대응하는 X999/999X 짝의 기존 Q2
-원문과 항목별로 대조해 순서 역전 여부를 확인할 것(위 "관찰" 참조).
-범위는 위 "트랙 3·4 범위 변경"에 따라 titleHook/summary/spiritual/
-action을 포함한다.
+999X는 X111/111X와 동일한 두 골격을 완결(9) 소재로 반복한 것이라 트랙4
+진행 시 X111·111X·X999 트랙의 관계 축을 재사용하지 말고 완결(9)의
+속성에 맞는 새 축을 설계해야 한다. 위 "트랙 4가 쓸 수 있는 축 방향
+제안"과 "Q2의 999X 서술 8건"을 먼저 참조할 것. 축 설계 후에는 반드시
+X999 쪽 Q2 원문과 항목별로 대조해 순서 역전 여부를 확인할 것. 범위는
+"트랙 3·4 범위 변경"에 따라 titleHook/summary/spiritual/action을
+포함한다.
