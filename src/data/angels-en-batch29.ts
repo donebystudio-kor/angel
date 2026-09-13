@@ -615,34 +615,35 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
   },
   {
     number: "9992",
-    titleHook: "Completion Opens To A Bond",
-    summary: "An intense period of completion now genuinely ready to open toward partnership and connection",
+    titleHook: "Readiness Still Needs A Gap",
+    summary: "A completed cycle genuinely ready to open toward partnership, if you judge the gap before it correctly.",
     meaning:
-      "9992 runs triple 9 (completion, saturated) beside one 2 (partnership, balance), describing an intense period of completion and closure that's now genuinely ready to open toward partnership and connection. This favors trusting that the closure work you've done has reached a natural point of readiness to welcome someone else in.",
+      "9992 lets a completed cycle settle before a single 2 (partnership, balance) arrives, and what sits between the two isn't nothing — it's a gap whose length is yours to judge. Being done doesn't hand you a precise date for when to open toward someone new; it only confirms that opening is now possible. Reading that gap as zero, and stepping toward connection immediately, is a different choice than reading it as real and letting it run its course.",
     love: "Single: the intense closure work you've done is genuinely ready to open toward a real new connection now — trust that readiness rather than continuing to delay. Couple: an intense period of completing an old chapter is genuinely ready to open back toward more connection in the relationship now.",
     career: "An intense period of closing out professional chapters is genuinely ready to open toward new collaborative partnership now.",
     money: "An intense period of closing out financial chapters is genuinely ready to open toward a new collaborative financial approach now.",
-    spiritual: "This favors recognizing when completion work has reached genuine readiness to open outward toward connection, rather than treating closure as a permanent state.",
-    action: "Take one step today to open a completed chapter toward new partnership or connection, trusting that the readiness is genuine.",
+    spiritual: "Genuine completion makes new connection possible without dictating exactly when to step toward it — that judgment about the gap stays yours.",
+    action: "Name one relationship or collaboration you're ready to open toward, then give it one more day before acting, just to test whether the gap needs to be longer than it feels.",
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 9992?",
-        a: "Usually because an intense period of completion and closure you've been in is genuinely ready to open toward partnership and connection now.",
+        q: "Why does 9992 keep showing up for me?",
+        a: "A chapter you've closed has made you genuinely ready for partnership or connection, though exactly when to step toward it is still something you're meant to judge, not rush.",
       },
       {
-        q: "What's the difference between 9992 and 2111?",
-        a: "2111 sandwiches a single 2 before triple 1, describing a partnership moment triggering an overwhelming wave of new-beginning energy. 9992 is different: it's about a saturated completion phase now opening toward partnership as the next stage, rather than partnership sparking new-beginning energy.",
+        q: "What's the difference between 9992 and 2999?",
+        a: "2999 is the mirror image order-wise, and it makes a point about plurality — one partnership moment closing several separate things at once. 9992 keeps completion first and partnership after, and its real question sits in the gap between them: how much space to leave before stepping toward connection, not how many things get closed.",
       },
       {
-        q: "Is 9992 a good number for someone who's finished processing an ending and is ready to connect again?",
-        a: "Yes, particularly as confirmation that the closure work has reached genuine readiness to open toward connection.",
+        q: "I just finished processing a breakup and I'm already drawn to someone new. Is that what 9992 means?",
+        a: "It can be, but 9992 is also asking whether that draw is arriving at the right distance from the ending — worth checking rather than assuming the timing is automatically right.",
       },
       {
         q: "Does 9992 mean the old chapter is now completely irrelevant?",
-        a: "It marks genuine readiness to open forward, more than erasing the value or lessons of the completed chapter.",
+        a: "No. It marks readiness to open forward, not a requirement to erase or discount what the completed chapter meant.",
       },
     ],
+    
     isPlaceholder: false,
 
     twinflame:
@@ -652,34 +653,35 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
   },
   {
     number: "9993",
-    titleHook: "Completion Becomes Creative",
-    summary: "An intense period of completion now overflowing into genuine creative expression",
+    titleHook: "Overflow Isn't Automatically A Prize",
+    summary: "A creative overflow following completion that could be either a reward or simply the next thing on the list.",
     meaning:
-      "9993 grounds three 9 (completion, saturated) in one 3 (creativity, expression), describing an intense period of completion and closure that's now overflowing into genuine creative expression. This favors trusting that the closure work has produced real creative material, worth channeling outward now.",
+      "9993 has a single 3 (creativity, expression) show up once a cycle has fully closed, and what arrives isn't automatically a gift for having finished. Material surfacing after a closed chapter can be received as something to enjoy, or it can quietly turn into one more thing demanding output — the two look almost identical from the outside and pull in different directions. Notice which one you're actually holding before spending energy on it.",
     love: "Single: the closure work you've done around past relationships is overflowing into a genuinely creative way of expressing yourself in dating now. Couple: completing an old chapter together is overflowing into genuinely creative expression within the relationship now.",
     career: "Closing out a professional chapter is overflowing into genuinely creative work now, worth channeling outward.",
     money: "Closing out a financial chapter is overflowing into a genuinely creative approach to money now.",
-    spiritual: "This favors recognizing when completion work has produced real creative material, worth expressing rather than only processing internally.",
-    action: "Channel one piece of insight from a recently completed chapter into a creative expression today.",
+    spiritual: "Material surfacing right after an ending is worth a closer look before deciding what to do with it — being free to enjoy it and feeling obligated by it aren't the same experience, even when they resemble each other at first.",
+    action: "Take the creative impulse that showed up once things wrapped up, and decide today whether you're treating it as something to enjoy or a task you now feel you owe someone.",
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 9993?",
-        a: "Usually because an intense period of completion has produced real creative material that's now ready to overflow outward.",
+        q: "What does it usually mean when 9993 shows up?",
+        a: "Creative material has surfaced after a chapter closed, and it's worth checking whether you're enjoying it freely or quietly turning it into a new obligation.",
       },
       {
-        q: "What's the difference between 9993 and 3111?",
-        a: "3111 sandwiches a single 3 before triple 1, describing creativity sparking a wave of new, self-focused energy. 9993 is different: it's about a saturated completion phase overflowing into creativity as the next stage, rather than creativity being the initial trigger.",
+        q: "How does 9993 relate to 3999?",
+        a: "3999 sits on the other side of this pairing and asks whether a creative act that triggered closures was finished or abandoned. 9993 doesn't touch that question — completion already led here — and instead asks what kind of thing the resulting creativity actually is: earned reward or unlabeled task.",
       },
       {
-        q: "Is 9993 a good number for someone processing an ending through creative writing or art?",
-        a: "Yes, particularly as confirmation that the completed chapter has produced real creative material worth expressing.",
+        q: "I finished something difficult and now I'm bursting with ideas. Does 9993 explain that?",
+        a: "Yes, and it's worth pausing on whether those ideas arrive as a gift you get to enjoy or a pile of new work you feel obligated to finish.",
       },
       {
-        q: "Does 9993 mean I have to publicly share what I create from this?",
-        a: "It favors expressing the creative overflow in whatever form fits, more than requiring public sharing specifically.",
+        q: "Does 9993 mean I have to act on every idea this overflow produces?",
+        a: "No. Treating the overflow as a reward means you get to choose what to use, not an instruction to convert all of it into output.",
       },
     ],
+    
     isPlaceholder: false,
 
     twinflame:
@@ -689,34 +691,35 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
   },
   {
     number: "9994",
-    titleHook: "Completion Builds Real Ground",
-    summary: "An intense period of completion now settling into genuine, solid personal foundation",
+    titleHook: "New Ground, Not The Old Ground Repaired",
+    summary: "A foundation settling in after completion that may be an entirely new structure, not a continuation of the one that ended.",
     meaning:
-      "9994 holds three 9 (completion, saturated) alongside one 4 (foundation, structure), describing an intense period of completion and closure that's now settling into genuine, solid personal foundation. This favors trusting that the closure work is translating into something concrete and stable in your life, not staying purely in the realm of processing.",
+      "9994 brings a single 4 (foundation, structure) in once everything else has wrapped up, and the foundation that shows up doesn't have to be a repaired version of whatever just ended. It's tempting to assume continuity — that this new stability is simply the old structure patched back together — when it might actually be built from different material entirely, owing nothing to what came before. Check what you're actually standing on before trusting it the same way you trusted the old one.",
     love: "Single: the closure work you've done is now settling into genuine personal foundation, worth trusting as you consider what comes next. Couple: completing an old chapter together is now settling into a more stable foundation within the relationship.",
     career: "Closing out a professional chapter is now settling into genuine, stable foundation in your career.",
     money: "Closing out a financial chapter is now settling into a genuinely stable personal financial foundation.",
-    spiritual: "This favors recognizing when completion work has translated into real, structural stability, worth trusting as solid rather than still purely emotional processing.",
-    action: "Take one concrete step today that translates a recently completed chapter into a stable, structural change.",
+    spiritual: "A foundation arriving once things have wrapped up deserves examination on its own terms, since it may not be a repaired continuation of what ended but something genuinely new.",
+    action: "Look at one piece of stability you've gained since a recent ending, and ask honestly whether it's a repaired version of the old structure or something built from scratch.",
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 9994?",
-        a: "Usually because an intense period of completion is now settling into genuine, solid personal foundation.",
+        q: "What's going on when 9994 keeps showing up?",
+        a: "A new foundation is settling in after a completed chapter, and it may be worth treating as genuinely new rather than assuming it's just the old structure patched back together.",
       },
       {
-        q: "What's the difference between 9994 and 4111?",
-        a: "4111 sandwiches a single 4 before triple 1, describing foundation sparking a wave of new, self-focused energy. 9994 is different: it's about a saturated completion phase settling into structural foundation as the next stage, rather than foundation being the initial trigger.",
+        q: "What sets 9994 apart from 4999?",
+        a: "Keep two things separate there too, but from the other side: 4999 questions whether its stability has finished settling. 9994 takes the settling as done, and raises a different question — whether what settled is a repair of the old foundation or something built new, which the reverse pairing has no reason to ask.",
       },
       {
-        q: "Is 9994 a good number for someone whose processing of an ending is finally translating into real stability?",
-        a: "Yes, particularly as confirmation that the completion work has become genuinely structural.",
+        q: "I feel stable again after a hard ending, but it doesn't feel like my old life at all. Is that normal for 9994?",
+        a: "Very much so — 9994 is specifically pointing at foundations that feel unfamiliar precisely because they aren't repairs of what came before.",
       },
       {
-        q: "Does 9994 mean the completed chapter is now fully behind me?",
-        a: "It marks a transition into structural stability, more than declaring all processing finished — some reflection can still continue alongside the new solidity.",
+        q: "Does 9994 mean I should try to rebuild things exactly as they were?",
+        a: "No. If anything, it favors letting the new foundation be its own structure rather than forcing it to match the old one.",
       },
     ],
+    
     isPlaceholder: false,
 
     twinflame:
@@ -726,34 +729,35 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
   },
   {
     number: "9995",
-    titleHook: "Completion Opens To Change",
-    summary: "An intense period of completion now genuinely ready to open into real, active change",
+    titleHook: "More Than One Change Is Available",
+    summary: "A completion opening onto several possible directions of change, not one predetermined path.",
     meaning:
-      "9995 stacks triple 9 (completion, saturated) with a single 5 (change, freedom), describing an intense period of completion and closure that's now genuinely ready to open into real, active change, rather than remaining purely in the realm of closure and reflection. This favors trusting that the completion has reached a point where outward change is the natural next step.",
+      "9995 lets a single 5 (change, freedom) enter once a cycle has run its course, and what follows isn't one change waiting to be discovered — usually it's several, with a choice attached. Treating the first option that appears as the only one available skips the actual work this number points at: picking a direction is something you do, not something you find already decided for you.",
     love: "Single: the closure you've reached is genuinely ready to open into real change in your dating life now — trust that readiness for action. Couple: completing an old chapter is genuinely ready to open into real change within the relationship now.",
     career: "Closing out a professional chapter is genuinely ready to open into real change in your career now.",
     money: "Closing out a financial chapter is genuinely ready to open into real change in your approach to money now.",
-    spiritual: "This favors recognizing when completion has reached readiness for outward action and change, rather than staying purely in reflection.",
-    action: "Take one concrete action today that turns a recently completed chapter's clarity into real change.",
+    spiritual: "More than one direction of change tends to be available once a chapter closes, and choosing among them is real agency rather than uncovering a single correct answer.",
+    action: "List two or three different changes you could make now that a chapter has closed, and pick one deliberately instead of defaulting to the first idea that came to mind.",
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 9995?",
-        a: "Usually because an intense period of completion is genuinely ready to open into real, active change now. Trust that readiness for action rather than staying purely reflective.",
+        q: "Why does 9995 keep coming up for me?",
+        a: "A completed chapter has opened up more than one possible direction of change, and picking among them is the actual task, not just waiting to see which one shows up.",
       },
       {
-        q: "What's the difference between 9995 and 5111?",
-        a: "5111 sandwiches a single 5 before triple 1, describing change sparking a wave of new, self-focused energy. 9995 is different: it's about a saturated completion phase opening into active change as the next stage, rather than change being the initial trigger.",
+        q: "What's the contrast between 9995 and 5999?",
+        a: "5999 puts change first, ahead of an ending that doesn't get named right away. 9995 flips both which side leads and where the uncertainty sits: completion is already settled here, and what's still unclear is which of several available directions to actually take.",
       },
       {
-        q: "Is 9995 a good number for someone who's processed an ending and is finally ready to act on what they learned?",
-        a: "Yes, particularly as confirmation that the readiness for real, outward change is genuine.",
+        q: "I know something needs to change since this ended, but I have several options and can't tell which one is right. Does 9995 apply?",
+        a: "Yes — 9995 tends to show up exactly there, confirming that having several real options is normal rather than a sign you're missing the obvious one.",
       },
       {
         q: "Does 9995 mean I need to change everything at once?",
-        a: "It favors trusting readiness for real change generally, more than demanding total, immediate transformation all at once.",
+        a: "No. Picking one direction deliberately matters more here than attempting every available option simultaneously.",
       },
     ],
+    
     isPlaceholder: false,
 
     twinflame:

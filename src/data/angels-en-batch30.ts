@@ -314,34 +314,35 @@ export const EN_BATCH30_NUMBERS: EnAngelNumber[] = [
   },
   {
     number: "9996",
-    titleHook: "Completion Extends To Care",
-    summary: "An intense period of completion now genuinely ready to extend outward into home and family life",
+    titleHook: "Caring More Doesn't Prove It Ended Well",
+    summary: "A closed chapter extending into care for others, though that extension isn't proof the closure itself was genuine.",
     meaning:
-      "9996 builds on three 9 (completion, saturated), touched by one 6 (home, care), describing an intense period of completion and closure that's now genuinely ready to extend outward into home and family life. This favors trusting that the closure work you've done is ready to inform how you show up for people close to you.",
+      "Home and care (6) tend to widen out once a chapter has genuinely closed, but the widening isn't a certificate confirming the closure was real. You can extend into caring for people close to you whether or not the underlying ending was actually finished — the two run on separate tracks. Judge the completion on its own evidence, not by how generously you're currently showing up for others.",
     love: "Single: the closure work you've done is genuinely ready to extend into how you care for close friends and family now. Couple: completing an old chapter together is genuinely ready to extend into renewed care for your shared home life now.",
     career: "If your work touches home life, closing out a professional chapter is genuinely ready to extend into that caregiving domain now.",
     money: "Closing out a financial chapter is genuinely ready to extend into how you manage household finances now.",
-    spiritual: "This favors recognizing when completion work has reached readiness to extend outward into care for others, rather than remaining entirely internal.",
-    action: "Extend one piece of recent closure into a caring action for someone close to you today.",
+    spiritual: "Showing up more fully for the people close to you doesn't, by itself, confirm that an ending underneath it was genuinely complete — the two deserve separate attention.",
+    action: "Pick one caring gesture you've made recently, and separately ask whether the ending behind it actually feels finished, without letting the gesture answer for it.",
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 9996?",
-        a: "Usually because an intense period of completion is genuinely ready to extend outward into home and family life now. Trust that readiness to care for others from a place of genuine closure.",
+        q: "I keep noticing 9996 everywhere lately — what does it mean?",
+        a: "Usually that your capacity to care for people close to you is widening after a closed chapter, though that widening isn't itself proof the chapter is genuinely finished.",
       },
       {
-        q: "What's the difference between 9996 and 6111?",
-        a: "6111 sandwiches a single 6 before triple 1, describing home or care sparking an overwhelming wave of new, self-focused energy. 9996 is different: it's about a saturated completion phase now extending outward into home and care as the next stage, rather than home being the initial trigger.",
+        q: "How is 9996 different from 6999?",
+        a: "6999 comes at the same material backward, caring about what's left of a relationship once an old caretaking habit fades. 9996 assumes the ending's already happened, then draws a boundary that version doesn't need: caring more for others afterward doesn't verify the ending was real, even when the two happen together.",
       },
       {
-        q: "Is 9996 a good number for someone who's finished processing an ending and feels ready to reconnect with family?",
-        a: "Yes, particularly as confirmation that the closure work is genuinely ready to extend into that caregiving domain.",
+        q: "I've been more available for my family since a hard chapter ended. Does 9996 fit that?",
+        a: "It can, though 9996 would add: check the ending on its own terms too, rather than treating your renewed availability as confirmation it's truly behind you.",
       },
       {
-        q: "Does 9996 mean I should stop reflecting once I extend outward?",
-        a: "No — it favors extending outward as a next stage alongside continued reflection, not replacing it entirely.",
+        q: "Does 9996 mean I should pull back from caring for others until I'm sure the chapter is closed?",
+        a: "No. It's separating two things you can keep doing at once, not asking you to withhold one until the other is certain.",
       },
     ],
+    
     isPlaceholder: false,
 
     twinflame:
@@ -351,34 +352,35 @@ export const EN_BATCH30_NUMBERS: EnAngelNumber[] = [
   },
   {
     number: "9997",
-    titleHook: "Completion Deepens To Wisdom",
-    summary: "An intense period of completion now deepening into genuine, significant insight",
+    titleHook: "Insight Needs Two Snapshots",
+    summary: "A depth of understanding visible only when comparing who you were before the ending to who you are now.",
     meaning:
-      "9997 runs triple 9 (completion, saturated) beside one 7 (insight, wisdom), describing an intense period of completion and closure that's now deepening into genuine, significant insight, rather than staying at a surface level of processing. This favors trusting that the depth of understanding you're reaching about a finished chapter is real and substantial.",
+      "Insight (7) tends to deepen once a chapter is genuinely behind you, but that depth is hard to see from inside a single moment — it shows up in the distance between two versions of yourself. Looking only at how you feel right now can undersell what's changed; the more accurate measure compares who handled things before the ending to who's handling them now.",
     love: "Single: your reflection on a completed chapter of your love life is deepening into genuine, significant insight right now — trust the depth of what you're understanding. Couple: reflection on a completed chapter within the relationship is deepening into genuine, shared insight right now.",
     career: "Reflection on a completed professional chapter is deepening into genuine, significant insight right now.",
     money: "Reflection on a completed financial chapter is deepening into genuine, significant insight right now.",
-    spiritual: "This favors trusting that reflection on a closed chapter has reached genuine depth, worth honoring as real insight rather than surface-level processing.",
-    action: "Write down or name today one piece of genuinely deep insight your reflection on a completed chapter has produced.",
+    spiritual: "Real depth of understanding tends to show up as distance between two points in time — a before and an after — rather than as something a single moment can reveal by itself.",
+    action: "Write one sentence describing how you would have handled today's version of a situation before the chapter ended, next to one sentence describing how you actually handled it now.",
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 9997?",
-        a: "Usually because reflection on a completed chapter is deepening into genuine, significant insight right now. Trust the depth of what you're understanding.",
+        q: "9997 shows up a lot for me these days — what's the reason?",
+        a: "Likely that real depth of understanding has developed since a chapter ended, though it may be easier to see by comparing yourself now to yourself before than by checking how you feel in this exact moment.",
       },
       {
-        q: "What's the difference between 9997 and 7111?",
-        a: "7111 sandwiches a single 7 before triple 1, describing insight sparking an overwhelming wave of new, self-focused energy. 9997 is different: it's about a saturated completion phase now deepening into genuine insight as the next stage, rather than insight being the initial trigger.",
+        q: "What separates 9997 from 7999?",
+        a: "With the ingredients flipped, 7999 insists a realization only counts once you personally recognize it, not when someone else spots it for you. 9997 has the ending settled already and points somewhere else entirely: the insight is there, but you'll only see its size by measuring the distance between an earlier version of yourself and the current one.",
       },
       {
-        q: "Is 9997 a good number for someone reaching real clarity about a chapter that's already closed?",
-        a: "Yes, particularly as confirmation that the depth reached is genuine, not just surface-level rumination.",
+        q: "I don't feel dramatically different since this ended, but people say I've changed. Does 9997 apply?",
+        a: "It might — 9997 favors trusting a measured comparison over a moment-to-moment feeling, so an outside read can sometimes catch what a same-day check misses.",
       },
       {
-        q: "Does 9997 mean my reflection on this chapter is now complete?",
-        a: "It marks a moment of significant depth, more than declaring the reflective process entirely finished — further insight can still continue to develop.",
+        q: "Does 9997 mean my growth isn't real until I can prove it with a comparison?",
+        a: "No. The growth is real either way; the comparison is just a clearer way to see its size, not a requirement for it to count.",
       },
     ],
+    
     isPlaceholder: false,
 
     twinflame:
@@ -388,34 +390,35 @@ export const EN_BATCH30_NUMBERS: EnAngelNumber[] = [
   },
   {
     number: "9998",
-    titleHook: "Completion Attracts Abundance",
-    summary: "An intense period of completion specifically now attracting real material abundance",
+    titleHook: "Was That The Point Or A Side Effect",
+    summary: "Abundance following a finished chapter that may have been the actual goal of the work, or simply came along for free.",
     meaning:
-      "9998 grounds three 9 (completion, saturated) in one 8 (abundance), describing an intense period of completion and closure as what's specifically now attracting real material abundance. This favors trusting that the closure work itself is the source of what's arriving, rather than assuming abundance requires an unrelated new beginning first.",
+      "Abundance (8) often shows up once a demanding chapter is behind you, and it's worth asking which relationship that abundance actually has to the work — whether the closure was aimed at producing it, or whether it just happened to arrive alongside effort spent on something else entirely. Assuming it was always the goal can distort how you plan the next chapter; assuming it's incidental can make you undervalue what you actually built.",
     love: "Single: the closure work you've done is specifically now attracting real abundance into your love life, more security, more ease — trust that the completed work is the source. Couple: completing an old chapter together is specifically now attracting real, shared abundance into the relationship.",
     career: "Closing out a professional chapter is specifically now attracting real material abundance in your career.",
     money: "Closing out a financial chapter is specifically now attracting real abundance — trust that the completed work is the source.",
-    spiritual: "This favors recognizing completed, closed work as a legitimate, direct source of material abundance, not something separate from it.",
-    action: "Trust today that a recently completed chapter is specifically what's attracting real abundance, and continue building on that closure deliberately.",
+    spiritual: "Material gain following real effort is worth examining honestly for what it actually was — an aim you were pursuing, or a welcome side effect of pursuing something else.",
+    action: "Think back to what you were actually trying to accomplish during a recently finished chapter, and check whether the abundance now arriving matches that original aim or arrived alongside it unplanned.",
     category: "repeat",
     faq: [
       {
-        q: "Why do I keep seeing 9998?",
-        a: "Usually because an intense period of completion is specifically what's attracting real material abundance right now. Trust that the closure itself is the actual source.",
+        q: "There's a reason 9998 keeps appearing for me, right?",
+        a: "Usually that abundance is arriving after a finished chapter, worth examining for whether it was actually the goal of that effort or simply came along with it.",
       },
       {
-        q: "What's the difference between 9998 and 8111?",
-        a: "8111 sandwiches a single 8 before triple 1, describing abundance sparking an overwhelming wave of new, self-focused energy. 9998 is different: it's about a saturated completion phase now specifically attracting abundance as the next stage, rather than abundance being the initial trigger.",
+        q: "How does 9998 compare to 8999?",
+        a: "8999 approaches the same two pieces from the other direction, concerned with mismatched scale between a small cause and a much larger result. 9998 doesn't touch size at all — completion has already settled here, and the open question is about intent, not proportion: was the abundance ever the actual target of the work, or did it just come along for the ride.",
       },
       {
-        q: "Is 9998 a good number for someone who closed out a chapter and is starting to see material results?",
-        a: "Yes, particularly as validation that the completed work is directly connected to the abundance now arriving.",
+        q: "I finished a hard project and money followed. Does 9998 mean I was working toward that the whole time?",
+        a: "Not necessarily. 9998 leaves that open — the money can be the byproduct of effort aimed elsewhere just as easily as it can be the goal you were quietly working toward.",
       },
       {
-        q: "Does 9998 mean I need a new beginning to keep the abundance flowing?",
-        a: "No — it confirms the completion itself is currently attracting abundance, more than requiring a separate new start first.",
+        q: "Does 9998 mean I need to chase more of the same kind of ending to keep the abundance coming?",
+        a: "No. Whether it was the goal or a byproduct, repeating the exact same ending isn't the requirement — understanding which one it was is the more useful takeaway.",
       },
     ],
+    
     isPlaceholder: false,
 
     twinflame:
