@@ -690,7 +690,7 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "6006 marks the quiet completion of an old home or family pattern — the kind that has been operating in the background, shaping the expectations each person brings to close relationships, often without either person recognizing its influence. For twin flames, this kind of pattern completing is significant: it changes what reunion would actually involve, because one or both people are no longer carrying the same implicit template into connection. 6006 doesn't ask you to force this release — it signals that the process is already underway. Your part is recognizing when a familiar pull toward an old dynamic is beginning to lose its grip.",
     manifestation:
-      "6006 manifests by consciously closing an outdated home or family arrangement rather than maintaining it out of habit — the practical move is naming the specific chapter that's finished today and taking one step toward the different one ready to open, since this number's folklore treats that deliberate closing as what actually clears space.",
+      "Close the household or family chapter that's outdated on purpose — don't let it keep running just because it's familiar. Name the arrangement that's actually finished today, then move toward the different one ready to open in its place.",
   },
   {
     number: "8118",

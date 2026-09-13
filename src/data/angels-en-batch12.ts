@@ -78,7 +78,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "200 combines the partnership frequency of 2 with the amplified openness of 00, and in a twin flame context it tends to appear when the connection is at a crossroads that requires genuine patience from both sides rather than one person pushing things forward. The 2 energy says the partnership dimension is real; the 00 says the form it's going to take is still genuinely open. In separation, 200 is a sign that whatever the next chapter of the connection looks like, it will require both people's readiness to actually begin — unilateral effort won't create what this number is pointing at. In reunion, 200 often surfaces at moments of real uncertainty about how the relationship is going to be structured going forward, and sitting with that uncertainty productively matters more than resolving it prematurely.",
     manifestation:
-      "200 manifests by noticing and reinforcing a specific instance of ease rather than general optimism — the practical move is naming the one relationship or situation that's unusually harmonious right now and actively investing in it, since this number's folklore treats that specificity as what sustains the amplification.",
+      "200 isn't general optimism about life going well — it's one relationship or situation, right now, carrying an unusual amount of ease. Name that one thing specifically and put attention into it; a vague good mood doesn't sustain what a named advantage does.",
   },
   {
     number: "300",

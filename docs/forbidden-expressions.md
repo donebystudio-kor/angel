@@ -132,6 +132,23 @@ the same(55555) / wants that(744) / the one(8558) / not the(744) — 각 1회.
 각 1회로 조정. 특히 "is what"은 미묘한 문형이라 무의식적으로 반복하기
 쉬움을 재확인 — 초안 완성 직후 grep 대상에 추가 고려.
 
+새 항목 발견 없음(배치8 조사, 누적 140개 기준 재스캔) — 34개 목록으로
+유지. **배치7·배치8 연속 신규 0 — 목록 포화 확정.** 2-gram 4회 이상
+후보를 전부 검토했으나 "of it"/"is the"/"in the" 류의 일반 기능어
+조합뿐이었다. 이후 배치는 매번 재스캔하지 않고 10배치 단위로 완화
+가능.
+
+배치8 실사용: as a(24, 누적) / the one(13, 누적) / rather than(5111) /
+a single(4004) / is what(80) / is already(70) / more than(5005) /
+one specific(1133) / the same(1115) / instead of(5111) / doesn't
+need(5111) / the specific(6111) / what's already(1118) / to hold
+(1116) / that's been(4111) — 배치8 내 각 1회. **20개 전체 통합 검사
+단계에서 "a single"·"is what"·"the same"·"piece of"·"the one"·
+"as a"·"rather than" 7개가 2~3회로 초과 발견** — 개별 묶음(4+4+5+5,
+자세한 배치는 manifestation-rewrite.md 배치8 참조) 검사에서는 안 잡히고
+전체 통합에서만 드러남(규칙 J의 실제 재현). 전부 재작성으로 각 1회 이하
+조정.
+
 ---
 
 ## 3. 비유·관용구 금지 (심화 3차, 각 페이지 1회 전용 — 타 페이지 재사용 금지)

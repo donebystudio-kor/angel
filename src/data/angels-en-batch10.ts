@@ -262,7 +262,7 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "2828 in a twin flame context describes abundance and prosperity as things you build together with the connection, not just emotional closeness on its own. In reunion, this often means the relationship is entering a phase where practical, shared efforts, a home, a project, a joint plan, become part of what makes the connection real and lasting. In separation, it points toward building your own resources and capability, so that when reunion comes, there's a genuine foundation for building abundance together rather than starting from nothing.",
     manifestation:
-      "2828 manifests through combined effort rather than solo intention — the practical move is identifying a specific collaborator and pursuing a shared goal with them, since this number's folklore treats paired effort as generating more abundance here than the same goal pursued alone.",
+      "2828 works through paired effort, not solo intention. Identify an actual collaborator and pursue a shared goal with them — the abundance that follows tends to run larger than chasing that goal solo ever would.",
   },
   {
     number: "1357",
@@ -550,7 +550,7 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Beneath the foundation you're consciously building, 4004 points at a layer of essentially unlimited potential — what becomes possible when the groundwork is genuinely solid. For twin flames, the interior dimension of this is significant: the kind of inner grounding that doesn't depend on external circumstances removes a specific kind of anxiety from the connection. When your own base is that deep, the connection doesn't have to carry the weight of making you feel stable. In separation, 4004 suggests that the inner work worth focusing on is the kind that reaches deeper than ordinary stability — not just managing what's already there, but uncovering what's actually possible beneath it. How deep does your current inner foundation actually go?",
     manifestation:
-      "4004 manifests by using expansive safety to explore rather than to merely feel secure — the practical move is taking one exploratory step you've avoided out of caution, since this number's folklore treats the width of the safety margin, not just its existence, as the invitation.",
+      "4004's safety isn't sized to cover one particular fear — it's wide enough to make room for open-ended exploration, which changes what the safety is actually for. Reading it as reassurance for a single worry undersells the margin available. Pick something you've avoided purely out of caution, and test whether the room to try it was there the whole time. The margin was built for scale, not for one narrow threat, so testing it against something bigger than your usual caution tends to reveal more of what it can actually hold.",
   },
   {
     number: "5005",
@@ -586,7 +586,7 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "5005 carries a specific kind of reassurance in twin flame separation: the range of what's actually possible between you is wider than what either of you could see from before the separation began. The separation isn't eliminating options — it's expanding the field of what can happen next, beyond the script that existed before. In separation, 5005 is a gentle encouragement to hold the outcome loosely: the next chapter may look genuinely different from what you originally pictured, and that difference is likely an improvement, not a loss. Keep the possibilities open.",
     manifestation:
-      "5005 manifests by holding multiple possibilities open rather than narrowing early — the practical move is listing more than one direction a current change could take before committing, since this number's folklore treats premature narrowing, not indecision, as the actual risk here.",
+      "5005 keeps more than one direction genuinely open rather than narrowing to one path early. List two or three ways the current change could go before committing to any of them — the risk here isn't hesitation, it's closing off a route too soon, before it's clear which one actually fits.",
   },
   {
     number: "1133",
@@ -622,7 +622,7 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "1133 pairs intuitive new-beginning energy with expressive, teaching energy — which in a twin flame reunion context suggests that timing isn't simply waiting but actively vocal: saying something specific is part of what signals readiness to the other person, consciously or not. This isn't about a dramatic declaration so much as finally voicing a realization you've had about yourself or the connection that you've been sitting on. In separation, that voiced insight is often what shifts the energy in a way that sustained silence doesn't. Consider what you've realized about this connection that you haven't actually said out loud to anyone yet.",
     manifestation:
-      "1133 manifests through spoken or shared realization rather than private understanding — the practical move is voicing a specific insight to a specific person today, since this number's folklore treats the act of expression as what completes the manifestation, not the insight alone.",
+      "1133 isn't about trusting an intuitive realization privately — it's about voicing it to someone else. Share the insight with one specific person today; keeping it to yourself, however confident you feel about it, doesn't accomplish what actually speaking it does.",
   },
   {
     number: "2211",

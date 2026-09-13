@@ -47,7 +47,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "1112 appears when an extended period of internal work has reached a natural edge — the place where keeping it private stops serving you and speaking it does. In a twin flame connection, this isn't a sign to have the big relationship conversation immediately, but an invitation to find one honest thing to express that you've been holding back. For separation periods, the specific thing to try is writing out what you'd want to say rather than sending it, because the clarity of having said it — even privately — often matters more than whether it's received right now. Notice what you've been editing out of your words toward them.",
     manifestation:
-      "1112 manifests by trusting readiness to open outward — the practical move is taking one step today toward connection from a place of genuine self-work, since this number's folklore treats that trust as what makes the opening land well.",
+      "1112 doesn't ask you to search for a partner once your own focus has settled — the settling is precisely what makes you findable. Someone tends to step toward the room that opened; you don't have to walk out and find them first.",
   },
   {
     number: "1113",
@@ -84,7 +84,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "The triple 1 in 1113 signals a period of concentrated inner work, and the 3 at the close says that work needs to move through a creative channel rather than staying in your head. For twin flame connections specifically, this tends to appear during stretches where journaling, art, music, or any expressive practice does more genuine inner work than analysis of the connection does. Healing and growth move through making something, not by thinking harder about the situation. Whether or not the other person ever sees it, the act of genuine creative expression during this period is the real inner work. What have you been meaning to create or write that keeps getting postponed?",
     manifestation:
-      "1113 manifests by channeling self-focused insight into creative expression — the practical move is making or writing something today from recent inward work, since this number's folklore treats that outward channel as what completes the overflow.",
+      "1113 still has the overflow moving from self-focus into something creative, but that outward move doesn't drain the resource it came from. Spend it freely — more keeps refilling behind it, not a fixed amount running low.",
   },
   {
     number: "1114",
@@ -121,7 +121,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "The 4 trailing three saturated 1s in 1114 is a grounding signal — not a slowdown, but a message that the inner awakening you've been going through needs a stable base before it translates into anything external with your twin flame. Seeing this during a separation doesn't mean the timeline is extending; it means internal groundwork completed now will make the next phase of the connection considerably more stable. During an active reconnection, 1114 asks whether you're building on what's genuinely solid in yourself or moving forward before the parts that still feel uncertain are actually ready. What specifically feels unfinished in your own foundation right now?",
     manifestation:
-      "1114 manifests by translating self-work into structural stability — the practical move is taking one concrete step today that makes recent inward growth tangible and lasting, since this number's folklore treats that structural translation as what completes the phase.",
+      "1114's settling into structure isn't instant just because the self-focused period that fed it is over. Take one concrete step today, but expect the stability itself to keep forming for a while afterward — a foundation catching up once the reflective work has wrapped tends to take its own separate stretch of time.",
   },
   {
     number: "1115",
@@ -158,7 +158,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "1115 tends to appear when a long internal cycle is ending and a period of actual outer movement is beginning. For twin flame connections, the distinction matters: the inner work phase doesn't gradually convert into outward action — 1115 marks a sharper transition between the two, and it's usually closer to an external shift than people expect when they first notice it. In reunion, this often appears in the weeks immediately before contact changes. In separation, it marks the moment where the weight of the internal work begins to visibly translate outward. Real-world changes — circumstantial, logistical, or relational — tend to open around the same period as this sighting.",
     manifestation:
-      "1115 manifests by turning self-focused clarity into real action — the practical move is taking one concrete step today that translates recent inward clarity into outward change, since this number's folklore treats that action as what completes the readiness.",
+      "1115 still opens into real change once self-focus has run its course, but the trigger for that opening doesn't have to be clarity arriving. Running out of ways to keep circling the same question works just as well — both paths land you at an equal readiness, so don't wait for the version that feels resolved before acting on the one that just feels done.",
   },
   {
     number: "1116",
@@ -195,7 +195,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Where 111 is a general awakening signal, 1116 specifically turns that awakening energy toward the care dimension of the connection. The pattern it tends to flag in twin flame dynamics is an imbalance in how care is being offered or received — usually one person carrying the emotional labor of the connection alone, or holding open a space that isn't being met. The invitation of 1116 isn't to stop caring, but to notice what you've been doing out of habit versus genuine, renewed choice. What would you do differently if you weren't trying to hold the connection together by yourself?",
     manifestation:
-      "1116 manifests by extending self-understanding into care for others — the practical move is one caring action today rooted in recent self-work, since this number's folklore treats that extension outward as what completes the inward growth.",
+      "1116 still has today's understanding reaching outward into caring for the people around you, but that reach isn't required to hold steady in one direction. Slipping back into self-focus again tomorrow is the normal give in this kind of stretch, not a sign the reach outward failed.",
   },
   {
     number: "1117",
@@ -232,7 +232,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Insight is the direction 1117 points — the triple 1's intense self-focus period has been gathering something real, and the 7 signals it's ready to crystallize into actual understanding rather than staying as surface clarity. For twin flame connections, that tends to mean understanding that doesn't need the other person to confirm it: something about what the connection has developed in you, what you've learned in the gap. This isn't analysis — it's the quieter recognition that arrives after analysis has run its course. What understanding have you been circling that you haven't fully landed yet?",
     manifestation:
-      "1117 manifests by honoring genuinely deep self-insight — the practical move is naming and writing down one significant realization today, since this number's folklore treats that acknowledgment as what solidifies the depth reached.",
+      "If what you're understanding about yourself hasn't fully crystallized yet, staying right where you are is just as valid as pushing further into it. 1117 doesn't require the reflection to resolve into something nameable to be real — sitting with the unclear part today is enough.",
   },
   {
     number: "1118",
@@ -269,7 +269,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Material abundance arriving alongside 1118's triple awakening usually signals readiness rather than reward on its own. For twin flame connections, this appears when something external — a job shift, financial stability, a move — coincides with a wave of new-beginning clarity, and the combination signals that circumstances are now actually supporting what the inner work has been preparing for. Whether that's reunion, a deeper phase of the connection, or simply a more stable separation period, 1118 says the ground is genuinely more solid than it was. What changed in your external circumstances in the past weeks?",
     manifestation:
-      "1118 manifests by continuing self-focused work as the source of abundance — the practical move is investing further in your own growth today, trusting that connection, since this number's folklore treats that continued self-investment as what sustains the attraction.",
+      "1118 still treats a full stretch of self-focused work as what opens the door to abundance, but check the shape of what shows up before assuming the timing is off. If what arrives doesn't look like money, the payoff may already be here in a form you didn't expect — recognition, an opening, a skill finally usable — worth confirming before deciding nothing's landed. Whether the reward showed up at all, and whether it takes the shape you pictured, are two separate questions — settle the first before the second talks you out of what's already here.",
   },
   {
     number: "1119",
@@ -306,7 +306,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Completion arriving at the tail end of triple awakening energy gives 1119 a specific quality — the intensive self-focus period is winding down not because it failed but because it's done what it came to do. For twin flames in a separation, this is one of the cleaner signals that the distance has served its actual function: the awakening was the separation's purpose, and you've reached the other side of it. The practical question isn't how much longer — it's what the awakening specifically produced, since that's what the next phase of the connection will be working with. What has the period of self-focus most clearly shown you?",
     manifestation:
-      "1119 manifests by recognizing and preparing for a natural conclusion — the practical move is acknowledging today that a self-focused phase is wrapping up, and taking one step to prepare for what's next, since this number's folklore treats that recognition as what completes the phase well.",
+      "1119 approaches something like a natural stopping point, but the sense that it's 'natural' is partly a call you're making, not a fact arriving on its own. Naming today what feels finished is itself the act that closes it — the ending doesn't announce itself independently of you deciding to call it one.",
   },
   {
     number: "2111",
@@ -416,7 +416,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "4111 pairs a single foundation digit with tripled awakening energy, describing a twin flame phase where a burst of 111-style awakening is specifically being asked to land on solid ground rather than stay purely energetic. In reunion, 4111 tends to appear once both people are ready to build something structural together — a shared plan, an actual conversation about the future — rather than just feeling the pull again. In separation, this number favors using the current surge of clarity to build a stable inner foundation first, since 4111's message is that lasting reunion needs the 4 underneath the 1s, not awakening energy alone.",
     manifestation:
-      "4111 manifests by honoring stability as a genuine spark for new energy — the practical move is naming today the specific stable moment that ignited your current momentum, since this number's folklore treats that acknowledgment as what sustains the resulting wave.",
+      "4111 still points at something stable as the reason behind the drive you're feeling now — but not because it just switched on. Name a stretch of stability that's been standing for some time, not something that showed up today; the structure had been carrying that weight long before you noticed it was doing that.",
     structure:
       "4111 most naturally reads as 4 + 111 — one foundation digit ahead of an intact triple 1 — which is how the existing meaning already treats it. Two other splits are possible: 41 + 11 groups it as two doubled-feeling pairs, which would read more like paired confirmations than a single trigger-and-response; and 411 + 1 isolates the final 1 as an afterthought, which undersells how central the tripled 1 actually is. The 4+111 split holds up best because the triple only functions as a unit — break it anywhere and the amplification that defines this number disappears.",
     distinction:
@@ -463,7 +463,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "5111 pairs the fastest-moving single digit in this set (5) with triple awakening energy, and the practical message is about rate rather than direction. For twin flames, this tends to appear when something has shifted in the connection faster than either person was prepared for — contact resuming before you felt ready, or a separation that happened before anything was resolved. Rather than matching the speed of what's changing, 5111 is asking for a brief, deliberate pause: what do you actually want from this connection, separate from the momentum that's currently carrying things forward? Speed is neither good nor bad here — direction is what matters.",
     manifestation:
-      "5111 manifests by honoring change as the spark for new energy — the practical move is naming today the specific change that ignited your current momentum, since this number's folklore treats that acknowledgment as what sustains the resulting wave.",
+      "If change and the drive behind a fresh chapter feel like they're both still running at once, that doesn't mean either one is stalling. 5111 doesn't need the change to finish first — use the drive while the change is still unresolved, instead of holding off for a clean ending before you act on it.",
   },
   {
     number: "6111",
@@ -500,7 +500,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Seeing 6111 in a twin flame context often coincides with something in the care dimension of the connection triggering a strong wave of new awareness — witnessing them offer care to someone else, receiving an unexpected act of care from them, or noticing a care gap. The doubt that typically accompanies 6111 sightings isn't a reliable signal about the connection's direction; it's more often a signal about how dependent your sense of certainty has become on visible acts of care from them. What would feel true about this connection if you were no longer waiting for their care to arrive in a particular form?",
     manifestation:
-      "6111 manifests by honoring a home-rooted spark for new energy — the practical move is naming today the specific caring moment that ignited your current momentum, since this number's folklore treats that acknowledgment as what sustains the resulting wave.",
+      "6111 isn't concerned with locating the specific moment that supposedly triggered your caregiving — that question doesn't fit what's actually happening here. Renewing the caring gesture again today, just as you did yesterday and will again tomorrow, matters more directly than isolating a cause would — the repetition carries the effect, not one originating moment to locate. Check whether today's renewal happened at all, separate from whatever explanation you could offer for why it did.",
   },
   {
     number: "7111",
