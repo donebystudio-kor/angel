@@ -24,14 +24,14 @@ const canonicalUrl = canonical || new URL(Astro.url.pathname, site).href;
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script is:inline>
-      // Full-page (non-transition) navigations should always start at the
-      // top, not wherever the browser's bfcache/scroll-restoration last
-      // left off (e.g. after clicking a footer link). Anchor navigations
-      // (#twin-flame etc.) are left untouched — they keep native jump
-      // behavior since we only reset when there's no hash.
-      if ("scrollRestoration" in history) {
-        history.scrollRestoration = "manual";
-      }
+      // Fresh full-page navigations (e.g. clicking a footer link) already
+      // start at scroll 0 natively — no View Transitions/ClientRouter is in
+      // use anywhere in this project, so there's no SPA-style scroll to
+      // reset. This only guards the same-tab case explicitly. Do NOT set
+      // history.scrollRestoration = "manual" here — that disables the
+      // browser's native restore of scroll position on back/forward
+      // navigation, which must keep working (verified: setting it broke
+      // back-button scroll restoration on all three locales in testing).
       if (!location.hash) {
         window.scrollTo(0, 0);
       }
