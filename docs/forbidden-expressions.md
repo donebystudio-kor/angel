@@ -149,6 +149,18 @@ need(5111) / the specific(6111) / what's already(1118) / to hold
 전체 통합에서만 드러남(규칙 J의 실제 재현). 전부 재작성으로 각 1회 이하
 조정.
 
+새 항목 발견 없음(배치9 조사, 누적 160개 기준 재스캔 — 배치7·8과 동일
+결론). **배치7·8·9 3배치 연속 신규 0 — 목록 포화 재확정.**
+
+배치9 실사용: rather than(3003) / right now(300) / a single(2999) /
+is what(9993) / the actual(9998) / the same(9993) / piece of(2999) /
+that actually(7999) / the specific(5999) / back to(9994) / the one
+(700) / not the(9998) / the next(5999) — 배치9 내 각 1회. "as a"는
+2회로 검출됐으나 그중 1회는 "opped act was **as a**lready" 류 단어경계
+오탐(실제로는 "actually"의 부분 문자열)이라 실사용은 1회(5999의
+"as a package deal")로 판단 — 배치8에서 확인된 것과 동일한 종류의
+측정 오탐이며, 이번에도 문맥 확인 후 오탐으로 제외.
+
 ---
 
 ## 3. 비유·관용구 금지 (심화 3차, 각 페이지 1회 전용 — 타 페이지 재사용 금지)

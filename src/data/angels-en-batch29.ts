@@ -687,7 +687,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "9993 points at the expressive overflow that tends to happen right at the end of a significant cycle — the moment when what's been building during the completion stage needs a form. For twin flames, this often appears around the question of whether to say something before a chapter definitively closes. The expression 9993 favors isn't a last-attempt communication but a genuine naming of what was real: what the connection meant, what you learned, what you're carrying forward. Whether that expression reaches the other person or stays private, the act of genuinely articulating it is what allows the next phase to begin with clarity.",
     manifestation:
-      "9993 manifests by channeling completion into creative expression — the practical move is making or writing something today from a recently closed chapter, since this number's folklore treats that outward channel as what completes the overflow.",
+      "Whichever this turns out to be — enjoyment or obligation — is worth naming honestly before wanting more of it. If what surfaced after finishing already feels like a debt, asking for more of the same creative overflow won't fix that; separating what's freely enjoyable from what secretly feels owed, then aiming the want only at the first, is what genuinely helps.",
   },
   {
     number: "9994",
@@ -725,7 +725,7 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "9994 is asking whether what's being built during this ending is stable enough to carry what comes next. In twin flame contexts, a triple-9 completion stage naturally creates the urge to move quickly into whatever follows, and the 4 at the close of 9994 is a deliberate check on that impulse — not to delay, but to inventory. What do you actually have now, in yourself, that you didn't have before this cycle? That inventory matters more than timing. A reunion or new phase built on a genuinely solid base handles what comes with considerably more ease than one started before the completion work has fully finished.",
     manifestation:
-      "9994 manifests by translating completion into structural stability — the practical move is taking one concrete step today that makes a recently closed chapter's lessons tangible and lasting, since this number's folklore treats that structural translation as what completes the phase.",
+      "Want the new stability without assuming it has to connect back to anything that existed before — wanting a repair and wanting a genuinely different foundation are two separate requests, and this number is specifically granting the second one. 4999 questions timing, whether the settling has finished; 9994 questions origin, what actually formed. Want it for what it is, or measuring it against what used to be there will quietly undercut it. Even the impulse to look for familiar fingerprints on something new tends to shrink the new thing down to a smaller size than it actually is.",
   },
   {
     number: "9995",
@@ -763,6 +763,6 @@ export const EN_BATCH29_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "The momentum of a 999 completion stage meeting the change energy of 5 in 9995 creates a specific kind of turbulence — both are transition energies, and when they compound, the pace of change can feel either too fast or artificially stalled, depending on where you are. For twin flame connections, 9995 tends to appear at the transition point between one chapter completely ending and another beginning. The practical question it raises is whether you're matching the speed of the transition or fighting it. Neither rushing the completion nor dragging it out serves the connection. What pace would feel right if you trusted the closing to complete on its own timeline?",
     manifestation:
-      "9995 manifests by turning completion's clarity into real action — the practical move is taking one concrete step today that translates a recently closed chapter's insight into outward change, since this number's folklore treats that action as what completes the readiness.",
+      "Wanting every direction a fresh chapter opens up, all at once, quietly stalls things — pick one on purpose instead. Want one path specifically, and let the other doors close for now.",
   },
 ];

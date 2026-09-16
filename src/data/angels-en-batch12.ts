@@ -114,7 +114,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "300 amplifies creative expression into a sudden, immediate burst rather than gradual growth, and in a twin flame context that translates into an unplanned, urgent impulse to express something true about the connection right now — a message you didn't rehearse, a piece of art, a journal entry that surprises you. In reunion, 300 favors acting on that impulse the moment it hits rather than polishing it first, since the number describes the spark as time-limited. In separation, this number suggests a sudden creative or expressive release, not a message to them, is what's actually needed right now, a way of processing the connection that doesn't require contact to be valid.",
     manifestation:
-      "300 manifests by catching a sudden spark immediately rather than letting it develop first — the practical move is capturing whatever hits you right now in rough form, since this number's folklore treats immediate capture, not careful development, as what preserves the burst.",
+      "Capture what hits you right now, in whatever rough shape it arrives — 333 rewards patient, ongoing development, but 300 asks the opposite: grab the immediate spark before it has time to develop into something more polished, since the polished version isn't what's actually being manifested here.",
   },
   {
     number: "400",
@@ -194,7 +194,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "500 describes one large, sudden wave of change rather than several smaller shifts unfolding gradually, and in a twin flame context it points at a single, significant event, not a slow drift, moving through the connection right now. In reunion, 500 favors meeting whatever's shifting directly and quickly rather than trying to soften or slow it down, since the number describes this as one big wave, not a gentle transition. In separation, this number suggests one specific, sizable change — a move, a decision, a realization — is what's actually driving the current shift, more than a gradual accumulation of smaller things.",
     manifestation:
-      "500 manifests by meeting one large change at its real scale rather than downsizing it mentally — the practical move is planning for the change as the significant wave it actually is, since this number's folklore treats accurate scale, not minimization, as what makes the wave manageable.",
+      "Plan for the change at the scale it's actually arriving in, not a softened copy of it — 5555 spreads change across several fronts at once, while 500 concentrates it into one large event hitting one area. Sizing the plan to match reality holds up far better over time.",
   },
   {
     number: "600",
@@ -266,7 +266,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "700 marks a specific, time-bound window of unusually deep understanding rather than an ongoing state, and in a twin flame context that urgency matters: whatever clarity about the connection you're feeling right now may not stay this sharp indefinitely, worth using actively rather than assuming it'll return later in the same form. In reunion, 700 favors making a real decision or having an important conversation during this window rather than waiting for a calmer moment. In separation, this number suggests naming what's suddenly clear about the connection right now, since that clarity is valuable specifically because it's temporary, not because it's permanent.",
     manifestation:
-      "700 manifests by acting within a time-bound window rather than waiting indefinitely — the practical move is making one decision today while the clarity is active, since this number's folklore treats the window as temporary, not something to bank for later.",
+      "While the window of unusual clarity is open, want the one decision it genuinely fits. 700's clarity doesn't bank — spend it inside its own window.",
   },
   {
     number: "800",

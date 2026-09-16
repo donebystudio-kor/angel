@@ -550,7 +550,7 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "3311 is the expression-unlocks-new-beginning number, and in a twin flame context that unlocking is often internal before it's external. The inner work this number points at isn't abstract preparation — it's a specific act: writing down what you've been carrying about this connection, saying it aloud to a trusted person, creating something with it. That concrete expression is often what shifts the energy more reliably than waiting, because it changes what you're carrying. In reunion, 3311 sometimes appears just before a real breakthrough, in the period when someone has finally said the thing they'd been holding. What have you been carrying about this connection that you haven't expressed, even privately?",
     manifestation:
-      "3311 manifests through expression as the unlocking mechanism — the practical move is saying the specific thing you've been withholding today, since this number's folklore treats that act of speaking, not the new beginning itself, as the actual key.",
+      "What's being withheld is, in this case, the literal mechanism — not incidental to wanting more afterward but the very thing that unlocks it. 1133 treats sharing an insight as valuable simply because it's true; 3311 treats that same act as instrumental instead. Want the door open badly enough to speak the withheld sentence today, since nothing moves until that happens.",
   },
   {
     number: "5522",
