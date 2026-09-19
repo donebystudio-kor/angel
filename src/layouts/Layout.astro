@@ -157,8 +157,12 @@ const canonicalUrl = canonical || new URL(Astro.url.pathname, site).href;
           <a href="/ja/" class="hover:text-angel-primary transition-colors">🇯🇵 日本語</a>
         </div>
         <div class="border-t border-angel-border pt-6 text-center text-sm text-angel-muted">
-          <p class="mb-1">© 2026 엔젤던. 숫자가 전하는 우주의 메시지.</p>
-          <a href="/privacy" class="hover:text-angel-primary transition-colors">개인정보처리방침</a>
+          <nav class="flex items-center justify-center gap-4 flex-wrap mb-3">
+            <a href="/about" class="hover:text-angel-primary transition-colors">사이트 소개</a>
+            <a href="/contact" class="hover:text-angel-primary transition-colors">문의하기</a>
+            <a href="/privacy" class="hover:text-angel-primary transition-colors">개인정보처리방침</a>
+          </nav>
+          <p>© 2026 엔젤던. 숫자가 전하는 우주의 메시지.</p>
         </div>
       </div>
     </footer>
