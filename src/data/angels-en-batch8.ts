@@ -591,7 +591,7 @@ export const EN_BATCH8_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     manifestation:
-      "2345 manifests by trusting a larger-scale process across its full sequence — the practical move is zooming out to confirm the current stage still fits a bigger plan, rather than judging progress by a single stage in isolation.",
+      "The extra step 2345 adds onto 234's shorter run isn't decorative — it's room. A four-step sequence can absorb one stretch that goes sideways without the whole arc being wrong, in a way a tighter three-step version can't always afford. If a recent setback has you doubting the entire plan, check whether you're judging a long sequence by the standard of a short one: 234 wasn't built with that much slack. One difficult stage inside a longer sequence is evidence of length, not failure. The order still matters, but a longer sequence can take a hit partway through and keep its shape.",
   },
   {
     number: "5678",

@@ -403,7 +403,7 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Acceptance and change alternating in 2525 describe a twin flame dynamic where the pace of movement in the connection is genuinely outside your control — and the number is specifically about making peace with that rather than trying to manage the speed. 2525 tends to appear when internal acceptance is the only move that actually works, because external attempts to affect the timing have been producing friction. What it favors is accepting the current pace as appropriate rather than as a problem to solve. The question it raises: if you stopped trying to influence the timing, what would feel genuinely okay about where things currently are?",
     manifestation:
-      "2525 manifests through acceptance rather than resistance or active voicing — the practical move is naming one change you've been fighting and consciously accepting it today, since this number's folklore treats that surrender, not further resistance or explanation, as what actually clears the path.",
+      "If the instinct is to explain the change to whoever's nearby before making peace with it, skip that step for now — 2525 doesn't lean on an audience the way 5335's spoken-out version does. Sit with the acceptance privately first; whether anyone hears about it later stops mattering much.",
   },
   {
     number: "2626",
@@ -514,7 +514,7 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Zero preceding 111 in 0111 places the awakening signal at the very earliest stage of emergence — before it's formed enough to feel certain, before it's loud enough to dismiss the doubt. For twin flame connections, this is a specific state: the faint, early awareness that something is real before you have enough evidence to trust it fully. 0111 tends to appear when the recognition is genuine but not yet stable — which means the uncertainty you're feeling about the connection isn't a verdict on its reality but a feature of being at the very beginning of understanding something. What do you feel with enough certainty not to ignore, but not enough certainty to fully claim?",
     manifestation:
-      "0111 manifests by capturing early inspiration before it's fully formed — the practical move is writing down a rough, unfinished idea today rather than waiting for it to become fully clear first, since this number's folklore treats early capture as what preserves the spark until it's ready to develop.",
+      "What showed up today, too small to mention? Write it down anyway — 0111 rewards the knock itself, not 111's louder, fully-arrived version.",
   },
   {
     number: "0222",

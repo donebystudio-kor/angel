@@ -39,7 +39,7 @@ export const EN_BATCH1_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "000 in a twin flame context is a softer version of 0000's reset energy — less total, but still pointing at a genuine clearing in the connection rather than just a pause in activity. It tends to appear during stretches of unusual quiet, where neither person is pushing anything and the dynamic seems suspended. In separation, 000 is less urgent than the bigger reset numbers; it's asking you to let the quiet be quiet rather than filling it with analysis, hope-management, or forced action. In reunion, 000 signals a phase of openness rather than momentum — a period where the connection isn't building toward anything specific yet, and both people being present without an agenda is more valuable than having a plan.",
     manifestation:
-      "0 is the amplifier digit in numerology — it doesn't create energy, it multiplies whatever's already there. That's why 000 is the number most tied to a clean-slate style of manifestation: your intentions right now are landing with close to zero resistance, which means hopeful and anxious thoughts get amplified equally. The practical move is to set one specific, written intention within 24 hours of seeing 000, while the slate is genuinely blank, rather than defaulting to whatever worry happens to fill the silence first.",
+      "0 carries no charge of its own — it just multiplies what's already sitting in the room, hope and dread alike, at close to equal strength. That's the mechanism behind 000: not a lucky stretch for positive thinking, just an unusually open one. Put one wish into words before today ends, while the space is still genuinely blank. A considered wish gets amplified here, and an idle worry gets amplified just as fast if it happens to be the loudest thing around.",
   },
   {
     number: "222",
@@ -119,7 +119,7 @@ export const EN_BATCH1_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "333 tends to show up in twin flame contexts during periods when the connection is clearly spiritually active but not necessarily moving toward reunion in any visible way — it's the number that bridges inner experience and outer reality without resolving the gap cleanly. Seeing it repeatedly during separation usually means the creative or expressive work you're engaged in right now is the most active form of the connection, and that following that thread matters more than tracking the other person's timeline. In reunion, 333 often marks a phase where the relationship is genuinely generative — where conversations or shared experiences produce something that neither person could have reached alone — and staying in that generative frequency is what the number is reinforcing.",
     manifestation:
-      "333 manifests through expression rather than silent intention, which is the opposite mechanic from 111. Saying a goal out loud to one specific person, or writing it somewhere public, is the actual lever here — the folklore reasoning is that 3 governs communication, so holding a 333-era intention silently tends to stall it rather than protect it.",
+      "Speak the words to a real person today, not to a notebook or a note-to-self — 333 seems to respond to a message landing somewhere outside your own head. A goal written down stays private no matter how often you reread it; a goal spoken to someone else has already started moving. The listener isn't there to solve anything. They're only there to hear it.",
   },
   {
     number: "444",
@@ -155,7 +155,7 @@ export const EN_BATCH1_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "444 in a twin flame context is a protection-and-foundation signal rather than a timing one. During separation specifically, 444 isn't a bad sign — it means the connection's foundation is intact even though contact isn't happening, and the more useful move is to build stability in yourself during the gap rather than read the number as urgency to reach out. In reunion, 444 tends to show up as reassurance that whatever hard conversation or rebuilding you're doing together is on solid ground.",
     manifestation:
-      "444's manifestation mechanic is compounding effort rather than a single leap — small, consistent actions over weeks build toward the goal, which makes it the boring-middle manifestation number. The practical version: pick one small daily action tied to the goal and do it for at least three weeks before judging whether it's working, since 444 rewards the accumulation, not any single day's effort.",
+      "One decisive day isn't what this number rewards, and looking for one is why 444 can feel like it's not working when it actually is. Each ordinary session adds to a total that stays invisible until it isn't — closer to compound interest than a breakthrough moment. That's the real difference from 1111, which turns on one clearly stated intention: 444 has no equivalent instant to catch.",
   },
   {
     number: "555",
@@ -191,7 +191,7 @@ export const EN_BATCH1_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "555 often shows up right as a twin flame connection's status is actively changing rather than during a stable stretch — reunion happening faster than either person expected, or the specific moment separation begins. If you're seeing it around a separation, treat it as marking the moment the shift is active, not a verdict on the outcome; reunions that start with 555 tend to move quickly once they start, so the practical advice is to be ready rather than to force the timing.",
     manifestation:
-      "555's manifestation mechanic is release rather than steady building — the current form of something has to loosen before a new one can take shape, which is the opposite approach from 444's incremental grind. The practical technique: write down what you're willing to let go of right alongside what you want, since 555 responds more to release than to holding tightly to how things currently are.",
+      "555 doesn't wait for the dust to settle before it's willing to work with you, which runs against the urge to postpone any intention until things feel calmer. Write down one thing you're ready to release alongside one thing you actually want, and let both sit there while everything keeps moving. The release and the want don't need calm conditions to be real.",
   },
   {
     number: "666",
@@ -263,7 +263,7 @@ export const EN_BATCH1_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "777 in a twin flame context usually marks spiritual alignment rather than physical timing, and it can appear well before any actual contact — functioning more as internal confirmation that the connection is real than as a countdown to reunion. In reunion, it typically means the spiritual and energetic alignment is already in place and physical reunion is catching up. In separation, 777 is one of the more encouraging numbers to see: it means the individual growth work is genuinely working, even without contact to confirm it.",
     manifestation:
-      "777 confirms an alignment already in progress rather than starting a new one. The manifestation move here isn't adding a new intention, it's noticing which existing one is already working and reinforcing it, specifically through naming gratitude for the small wins already showing up, rather than diluting focus by starting something else.",
+      "Under an already-decent run of results, 777 isn't handing you a new goal — it's confirming a plan already in motion. If a call you made a while back has quietly started paying off in small, easy-to-miss ways, name that payoff on paper before your attention drifts elsewhere. Naming it tells your attention where to keep pointing: toward the plan already producing results, not a fresh idea competing for that energy. If nothing currently feels like it's working, this probably isn't about you yet — hold off starting anything new until there's a result worth confirming. The confirmation only means something once a real result sits underneath it.",
   },
   {
     number: "888",

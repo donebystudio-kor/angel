@@ -189,7 +189,7 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Every stage in a twin flame connection has a natural completion point, and 0909's repeated ending-into-beginning suggests the current one is arriving. Letting go here doesn't mean releasing the connection itself — it means releasing the current form it's taken: the version of this relationship as it's been, the expectation about how it was supposed to unfold. In separation, that kind of letting go often shifts something internally that external waiting never could. In reunion, 0909 marks the moment one chapter closes cleanly and a genuinely new one begins. What form of this connection are you still trying to preserve exactly as it was?",
     manifestation:
-      "0909 manifests by treating an ending and a beginning as one connected moment — the practical move is starting the new intention right as the old one closes, since this number's folklore treats the short gap as an invitation to move promptly, not a reason to wait.",
+      "A closing ceremony isn't required here — the ending and the beginning sit close enough together that inserting a deliberate pause between them mostly just delays the second half. Start the next chapter before the old one has even fully closed, even if that feels too fast. This number's gap runs close to zero, not a respectful interval you're supposed to observe out of habit.",
   },
   {
     number: "2424",
@@ -658,7 +658,7 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Where most twin flame energy feels urgent — a pull toward contact, a heightened emotional state — 2211 describes readiness through calm rather than intensity. The stable foundation is already in place, and the absence of anxiety isn't a sign of disconnection; it's the actual green light. In a twin flame context, this often appears when someone has done enough inner work that reunion doesn't feel like a desperate need anymore, which is often precisely when it becomes genuinely possible. In separation, the settled feeling 2211 describes is worth trusting as progress, not as losing interest. Ask yourself whether the calm you're feeling about this person is detachment or readiness.",
     manifestation:
-      "2211 manifests through calm, prepared launches rather than urgent leaps — the practical move is trusting a steady, unhurried feeling about a new beginning as genuine readiness, since this number's folklore treats calm confidence, not adrenaline, as the actual green light here.",
+      "Notice if the new thing arriving feels almost too quiet to be a real beginning — that quiet is the signal, not a warning sign to second-guess. Adrenaline isn't required for this to be genuine. A calm start on already-solid ground tends to hold up better than a rushed one.",
   },
   {
     number: "3344",

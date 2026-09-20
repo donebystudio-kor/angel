@@ -114,7 +114,7 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "4224 in a twin flame context describes the connection's balance as something deliberately built and structurally sound, not just emotionally felt. In reunion, this often means creating actual agreements or routines that structurally support the relationship's balance, rather than assuming it will hold on feeling alone. In separation, it points toward building your own structural stability, so the balance the connection needs has a real foundation to stand on once reunion comes.",
     manifestation:
-      "4224 manifests through deliberate design rather than hope — the practical move is actually structuring one specific agreement or routine that supports balance, since this number's folklore treats built structure, not good intentions, as what makes balance durable.",
+      "Whatever balance already exists informally between two people, or two parts of your own life, needs to move into an actual agreement, said or written plainly — 4224 doesn't rely on a good feeling left unstructured. An unspoken arrangement tends to erode the first time it's inconvenient.",
   },
   {
     number: "4334",
@@ -150,7 +150,7 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "4334 marks the stage of twin flame inner work where enough of the heavy processing has genuinely been completed that real lightness and joy can return — not as distraction from the work but as a direct product of it. In separation, this shows up as a gradually warming relationship with your own daily life and spiritual practice; if humor and play are returning naturally, 4334 suggests that's an accurate indicator of genuine progress in the inner work, not a sign of avoidance. The lightness itself is the evidence that something real has shifted.",
     manifestation:
-      "4334 manifests by using existing stability as permission for joy rather than treating them as opposites — the practical move is doing one playful, creative thing today specifically because the foundation can hold it, since this number's folklore treats safety as the enabler of joy, not its obstacle.",
+      "Inside a stable enough foundation, joy doesn't have to be earned first through more effort — that's the trap 4334 is pointing away from. The instinct to keep being careful a while longer, just in case the stability is more fragile than it looks, is exactly the caution this number says isn't necessary anymore. 4334 isn't asking for that kind of caution at all.",
   },
   {
     number: "5115",
@@ -186,7 +186,7 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Freedom — the deep desire to be fully and authentically yourself, without the weight of obligation or expectation — is at the center of what 5115 describes. For someone who has felt the pull to create distance from a twin flame connection, this number is specific: the freedom being sought is genuinely real, and the pull toward it isn't confusion or avoidance. It's a soul-level need that deserves to be taken seriously, not managed. The practical question 5115 raises is whether the freedom you're reaching for requires the distance you've put between you, or whether it might actually be accessible in a different form. What would genuine freedom feel like within this connection rather than away from it?",
     manifestation:
-      "5115 manifests by honoring a deep want for freedom rather than dismissing it as impractical — the practical move is naming the specific independence you're craving and taking one real step toward it, since this number's folklore treats that depth of want as trustworthy, not excessive.",
+      "When the want driving this feels bigger than anything you'd normally admit to, that size is information worth keeping, not a reason to shrink it into something more reasonable-sounding. Write the real version down before editing it smaller and safer. The oversized want is usually the accurate read.",
   },
   {
     number: "5225",
@@ -258,7 +258,7 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Leading — taking a clear, self-directed step rather than waiting — is the specific reunion timing signal 6116 marks. When both people in a twin flame connection are internally aligned and one takes a direct, unambiguous step, the timing often responds to that initiative rather than to continued waiting. In reunion, this tends to look like a concrete act: initiating contact with genuine intention, not testing the waters obliquely. In separation, the readiness for reunion often shows up first as an inner shift — a quiet certainty that you're prepared to lead, not just to respond. Is what you're currently waiting for actually a sign from the outside, or is there already an inner readiness to take a direct step?",
     manifestation:
-      "6116 manifests through active leadership rather than passive absorption — the practical move is actually stepping up to organize or decide something at home today, since this number's folklore treats taking the lead, not further reflection, as what's actually needed.",
+      "Inside the double 6, the responsibility is being asked for twice, not once for emphasis — this isn't the softer, learn-from-it framing that one 6 around a situation usually carries. Somebody needs to step forward and decide, not simply notice a lesson and carry it quietly the way 611 asks.",
   },
   {
     number: "7007",
@@ -294,7 +294,7 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "7007 describes a particular kind of readiness that shows up before reunion becomes possible — the kind that comes from a completed inner reset rather than from accumulated patience. The mirror structure here carries that clearly: what's been reflected inward through wisdom and deep reflection now begins to translate outward, and the timing of reunion tends to follow that translation rather than precede it. If this number appears while you're in a period of solitude or deep reflection, treat that as signal, not delay. The reset you're completing is the actual preparation, not something happening in between the real work.",
     manifestation:
-      "7007 manifests by trusting wisdom to guide a full reset rather than forcing a quick new direction — the practical move is spending real reflective time before adopting a new belief, since this number's folklore treats that patience as what makes the reset durable.",
+      "7007 clears more ground than the smaller resets nearby, and a bigger clearing takes longer to refill — expecting a new direction at the pace of a lighter reset misreads the scale of what just opened up. The two 7s bracketing it keep the process honest while it takes as long as it takes.",
   },
   {
     number: "8008",
@@ -402,7 +402,7 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "An existing communication dynamic between two people rarely evolves on its own — it needs a deliberate fresh angle to shift. 1166 describes that shift specifically: an intuitively-guided update to how you've been engaging rather than a restart from scratch. In a twin flame context, this often means noticing that a familiar way of expressing yourself to or about this person has gotten stale, and that the connection would respond better to a genuinely new tone or approach. In reunion, 1166 can mark a productive shift in how you're actually talking with each other. Reflect on whether the way you're currently communicating this connection to yourself matches who you are now.",
     manifestation:
-      "1166 manifests through a fresh approach to something familiar rather than starting over — the practical move is trying one new, intuitively-guided way of engaging with an existing home relationship today, since this number's folklore treats updating, not replacing, as the actual mechanism.",
+      "Any new approach you're about to bring into a relationship you already have at home, keep it smaller than it wants to be — 1166 works through gentle updating, and a full overhaul dropped onto a relationship that mostly already works tends to unsettle it, not repair it. One small, intuitively-chosen adjustment beats a dramatic reset most of the time.",
   },
   {
     number: "1177",
@@ -480,7 +480,7 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Active, real conversation reveals the pace of a twin flame connection better than any external timeline does. 2233's combination of collaborative stability and expressive energy suggests the speed of genuine dialogue, when it's happening, is the right speed: not the speed you wish it were moving, and not the speed you fear it's slowing to. In reunion, this often appears when the conversations themselves are the connection deepening, and there's no need to accelerate past them toward some further milestone. In separation, 2233 nudges toward finding real, honest dialogue — even with yourself about this connection. What has actually talking about this changed for you lately?",
     manifestation:
-      "2233 manifests through spoken exchange rather than solo intention-setting — the practical move is talking an idea through out loud with someone else today, since this number's folklore treats the dialogue itself, not private reflection, as what generates the breakthrough.",
+      "If the idea already sounds complete in your head, it's ready sooner than that feeling suggests — bringing it half-formed into a conversation tends to work better than polishing it alone. That's the reasoning worth trusting with 2233: a rough version, tested aloud with someone else, changes shape into something sturdier than solo revision manages. Compare that to 3223 next door, which isn't about testing an idea — it's about letting one particular person into a vision kept fully private.",
   },
   {
     number: "2244",

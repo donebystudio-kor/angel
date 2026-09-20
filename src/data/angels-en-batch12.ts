@@ -626,7 +626,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "A strong intuitive sense that something new is beginning with your twin flame sometimes triggers a counter-reaction: that's probably wishful thinking. 1188's pairing of new-beginning intuition with abundance suggests the opposite — that an unusually solid gut signal deserves to be taken seriously, not qualified away. In reunion, 1188 often appears in the days around a real shift in how the connection feels, when doubt is the mind's lag behind what the sensing part already registered. In separation, a felt sense of forward movement here is more likely accurate than hopeful projection. Track when your strongest sense of this connection coincides with actual external confirmation.",
     manifestation:
-      "1188 manifests by trusting an intuitive sense of new beginning as a complete signal, material implications included — the practical move is acting on that full feeling rather than separating the emotional sense from its practical outcome, since this number's folklore treats them as directly linked.",
+      "The good feeling and the material payoff aren't two separate things to verify one after another here — treat the excitement itself as already half the evidence, and move on the idea before outside proof arrives. 1818 rewards repeating a formula that already worked once, built from prior experience; 1188 isn't built on a track record like that, and doesn't need one. A first-time hunch, acted on promptly, counts just as much as a tenth one would.",
   },
   {
     number: "1199",
@@ -698,7 +698,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "0011 pairs a cleared, open field (00) with the heightened intuition and new-beginning energy of 11, and the sequence matters: the clearing comes first. In a twin flame context, this tends to appear when a genuine fresh start in the connection is arriving precisely because something prior has been released — the 11 energy couldn't be available before the 00 clearing happened. In separation, seeing 0011 is often a sign that whatever you've been letting go of — a fixed idea about how reunion should look, a particular expectation, a version of the story — has cleared enough for something actually new to begin forming. In reunion, 0011 marks a phase where the connection is entering territory that wasn't available before, because both people have genuinely shed something that previously constrained it.",
     manifestation:
-      "0011 manifests by capturing an intuitive hint before it's fully formed rather than waiting for clarity — the practical move is writing down a vague hunch exactly as unclear as it feels today, since this number's folklore treats early capture, not full understanding, as what preserves the insight.",
+      "Jot the faint hunch down before it fades — 0011 rewards catching it, not identifying what it means. Understanding can come later, or not at all.",
   },
   {
     number: "0022",
@@ -734,6 +734,6 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "0022 pairs the complete clearing of 00 with the master-builder, long-term-vision energy of 22, and in a twin flame context that combination tends to appear when the next phase of the connection will require real, patient construction rather than a rapid return to familiar closeness. In separation, 0022 is asking for a quality of trust that goes beyond ordinary patience — not faith that reunion will happen soon, but faith that what's being cleared and built simultaneously is worth the pace it's moving at. In reunion, 0022 often marks the beginning of a phase where both people are quietly, consistently building something structural in the relationship — the kind of thing that doesn't feel dramatic while it's happening but turns out to have been the most important work.",
     manifestation:
-      "0022 manifests by building structure from genuine blank space rather than adjusting an old one — the practical move is setting one new guideline for an area with no existing structure, since this number's folklore treats fresh construction, not adaptation, as the actual task here.",
+      "Skip reaching into an old relationship or routine for a rule that worked there — this space has no precedent to borrow from. Write one new guideline today built for this exact gap, even a rough one. A rule made for the situation in front of you tends to outlast one imported from somewhere else.",
   },
 ];
