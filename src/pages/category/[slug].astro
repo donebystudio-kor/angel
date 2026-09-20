@@ -2,6 +2,7 @@
 import Layout from "../../layouts/Layout.astro";
 import SearchBar from "../../components/SearchBar.astro";
 import { TOPICS, getTopicNumbers } from "../../data/topics";
+import { SITE_URL } from "../../site";
 
 export function getStaticPaths() {
   return TOPICS.map((t) => ({
@@ -14,9 +15,22 @@ const { topic } = Astro.props;
 const numbers = getTopicNumbers(topic.slug);
 const title = `${topic.emoji} ${topic.name} 엔젤넘버 모음 - 천사의 메시지`;
 const description = topic.description;
+
+const site = SITE_URL;
+const breadcrumbJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    { "@type": "ListItem", position: 1, name: "홈", item: site },
+    { "@type": "ListItem", position: 2, name: topic.name, item: `${site}/category/${topic.slug}` },
+  ],
+};
 ---
 
 <Layout title={title} description={description}>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
+  </Fragment>
   <section class="max-w-4xl mx-auto px-4 py-12">
     <div class="text-center mb-10">
       <div class="text-4xl mb-3">{topic.emoji}</div>

@@ -3,6 +3,7 @@ import Layout from "../../../layouts/Layout.astro";
 import SearchBar from "../../../components/SearchBar.astro";
 import { ANGEL_NUMBERS, CATEGORY_LABELS, getMixedSubcategory } from "../../../data/angels";
 import type { Category } from "../../../data/angels";
+import { SITE_URL } from "../../../site";
 
 const DERIVED: Category[] = ["two_digit", "three_digit", "round"];
 
@@ -23,9 +24,22 @@ const title = `${label} 엔젤넘버 모음 - 전체 목록`;
 const description = `${label} 유형의 엔젤넘버를 모두 확인하세요. ${numbers.length}개의 숫자 의미와 메시지를 알아봅니다.`;
 
 const allCategories2: Category[] = ["single", "repeat", "mirror", "sequence", "time", "double", "two_digit", "three_digit", "round"];
+
+const site = SITE_URL;
+const breadcrumbJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    { "@type": "ListItem", position: 1, name: "홈", item: site },
+    { "@type": "ListItem", position: 2, name: label, item: `${site}/category/type/${category}` },
+  ],
+};
 ---
 
 <Layout title={title} description={description}>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
+  </Fragment>
   <section class="max-w-4xl mx-auto px-4 py-12">
     <h1 class="text-3xl font-bold text-angel-text mb-3 text-center">{label}</h1>
     <p class="text-angel-muted text-center mb-8">{numbers.length}개의 엔젤넘버</p>

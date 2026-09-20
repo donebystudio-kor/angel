@@ -2,7 +2,7 @@
 import Layout from "../../layouts/Layout.astro";
 import SearchBar from "../../components/SearchBar.astro";
 import ShareButtons from "../../components/ShareButtons.astro";
-import { ANGEL_NUMBERS, CATEGORY_LABELS } from "../../data/angels";
+import { ANGEL_NUMBERS, CATEGORY_LABELS, getMixedSubcategory } from "../../data/angels";
 import { TOPICS } from "../../data/topics";
 import type { Category } from "../../data/angels";
 import { hasEnAngelNumber } from "../../data/angels.en";
@@ -23,7 +23,15 @@ const title = `엔젤넘버 ${angel.number} 의미 - ${angel.summary}`;
 const description = `엔젤넘버 ${angel.number}의 의미: ${angel.summary}. 사랑, 재물, 직업, 영적 메시지를 확인하세요.`;
 const site = SITE_URL;
 const url = `${site}/number/${angel.number}`;
-const categoryLabel = CATEGORY_LABELS[angel.category as Category];
+// "mixed" numbers that don't fall into a derived sub-category (two_digit/
+// three_digit/round) have no real /category/type/mixed page — getStaticPaths
+// in category/type/[type].astro never builds one. Linking there 404s; this
+// affects 264 of 521 KO pages. Fall back to no category link/breadcrumb
+// level for those rather than pointing at a page that doesn't exist.
+const categorySlug = angel.category === "mixed" ? getMixedSubcategory(angel.number) : angel.category;
+const hasCategoryPage = categorySlug !== "mixed";
+const categoryLabel = CATEGORY_LABELS[categorySlug as Category];
+const categoryHref = `/category/type/${categorySlug}`;
 
 const digits = [...new Set(angel.number.split(""))];
 const composingNumbers = ANGEL_NUMBERS.filter(
@@ -67,9 +75,20 @@ const jsonLd = {
   headline: title,
   description,
   url,
+  author: { "@type": "Organization", name: "엔젤던" },
   publisher: { "@type": "Organization", name: "엔젤던" },
   mainEntityOfPage: { "@type": "WebPage", "@id": url },
   ...(angel.faq && angel.faq.length > 0 ? {} : {}),
+};
+
+const breadcrumbJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    { "@type": "ListItem", position: 1, name: "홈", item: site },
+    ...(hasCategoryPage ? [{ "@type": "ListItem", position: 2, name: categoryLabel, item: `${site}${categoryHref}` }] : []),
+    { "@type": "ListItem", position: hasCategoryPage ? 3 : 2, name: angel.number, item: url },
+  ],
 };
 
 const faqJsonLd = angel.faq && angel.faq.length > 0 ? {
@@ -87,6 +106,7 @@ const faqJsonLd = angel.faq && angel.faq.length > 0 ? {
   <Fragment slot="head">
     <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
     {faqJsonLd && <script type="application/ld+json" set:html={JSON.stringify(faqJsonLd)} />}
+    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
   </Fragment>
 
   <article class="max-w-3xl mx-auto px-4 py-12">
@@ -94,8 +114,12 @@ const faqJsonLd = angel.faq && angel.faq.length > 0 ? {
     <nav class="text-sm text-angel-muted mb-6 flex items-center gap-2 flex-wrap">
       <a href="/" class="hover:text-angel-primary transition-colors">홈</a>
       <span>›</span>
-      <a href={`/category/type/${angel.category}`} class="hover:text-angel-primary transition-colors">{categoryLabel}</a>
-      <span>›</span>
+      {hasCategoryPage && (
+        <>
+          <a href={categoryHref} class="hover:text-angel-primary transition-colors">{categoryLabel}</a>
+          <span>›</span>
+        </>
+      )}
       <span class="text-angel-text">{angel.number}</span>
     </nav>
 
@@ -108,9 +132,15 @@ const faqJsonLd = angel.faq && angel.faq.length > 0 ? {
 
     <!-- 헤더 -->
     <div class="text-center mb-10">
-      <a href={`/category/type/${angel.category}`} class="inline-block px-3 py-1 bg-angel-border/30 rounded-full text-xs text-angel-primary font-medium mb-3 hover:bg-angel-primary hover:text-white transition-colors">
-        {categoryLabel}
-      </a>
+      {hasCategoryPage ? (
+        <a href={categoryHref} class="inline-block px-3 py-1 bg-angel-border/30 rounded-full text-xs text-angel-primary font-medium mb-3 hover:bg-angel-primary hover:text-white transition-colors">
+          {categoryLabel}
+        </a>
+      ) : (
+        <span class="inline-block px-3 py-1 bg-angel-border/30 rounded-full text-xs text-angel-primary font-medium mb-3">
+          {categoryLabel}
+        </span>
+      )}
       <h1 class="text-3xl md:text-4xl font-bold text-angel-text mb-3">
         👼 엔젤넘버 {angel.number}
       </h1>
