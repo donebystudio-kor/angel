@@ -258,7 +258,7 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "16 describes a new beginning growing directly out of something that fell apart, not one that happens despite the collapse. In a twin flame context this favors naming the direct link between a painful breakdown, an old dynamic, a hard ending, and whatever real growth followed it, rather than treating them as separate events. In reunion, 16 suggests the capacity that makes reunion sustainable came specifically from what broke down earlier, worth honoring rather than glossing over. In separation, this number reframes the collapse itself as the origin point of real growth, not just something painful to move past.",
     manifestation:
-      "16 manifests by consciously connecting a past collapse to present growth rather than treating them as separate — the practical move is naming that link out loud today, since this number's folklore treats that acknowledged connection as what lets the growth take root fully.",
+      "Not a mere change but a genuine collapse — that's what 16's growth actually roots in, and full understanding of why it happened isn't required before growth starts. Growth here can run ahead of understanding; searching for the explanation first often just delays noticing growth already underway in the wreckage. The two don't have to arrive in order, cause fully understood before result appears — they can show up tangled together, growth and explanation both still incomplete.",
   },
   {
     number: "17",
@@ -294,7 +294,7 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "17 is traditionally read as a wish-fulfillment number, and specifically for one quiet hope, not a vague general wish. In a twin flame context this favors naming the exact thing you've been quietly hoping for regarding the connection — a specific message, a particular kind of conversation — rather than a general \"I hope it works out.\" In reunion, 17 suggests that specific, unspoken hope is genuinely closer than you've let yourself believe, worth naming clearly rather than downplaying. In separation, this number favors writing down the one precise thing you're actually hoping for, since specificity, not vague optimism, is what this number responds to.",
     manifestation:
-      "17 manifests by naming a quiet wish specifically rather than leaving it vague — the practical move is writing the wish down in concrete terms today, since this number's folklore treats that specificity, not the strength of the hope alone, as what lets it actually arrive.",
+      "A wish doesn't need to sound reasonable here — 17 grades precision, not size. Let the actual version stand, not the smaller one that feels safer.",
   },
   {
     number: "18",
@@ -330,7 +330,7 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "18 offers a plain, gentle notice, not a dramatic sign, that a door tied to practical benefit is opening alongside something new in the connection. In a twin flame context this favors noticing quiet, undramatic evidence — an easier logistical situation, a small material shift — rather than waiting for an obvious, unmistakable sign. In reunion, 18 suggests the opening happening right now is real even though it's modest, worth walking through without needing it to feel bigger first. In separation, this number favors trusting small, quiet improvements in your circumstances as genuine progress toward reunion, not dismissing them for being unspectacular.",
     manifestation:
-      "18 manifests by noticing a gentle opening and walking through it rather than waiting for a bigger sign — the practical move is taking one concrete step through a door that's already opening today, since this number's folklore treats plain follow-through, not more waiting, as what completes the message.",
+      "18 skips the intuitive confirmation 1188 leans on — what's here is plainer, no second confirmation required. Treat what's opening as ordinary, not a moment you're supposed to remember later; 18 works precisely because it isn't meant to feel monumental.",
   },
   {
     number: "19",

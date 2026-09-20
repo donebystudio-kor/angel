@@ -482,7 +482,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "7117 pairs insight with new beginnings in a specific order — 7 (inner knowing) on both ends, with two 1s (fresh start, individual momentum) at the center — and in a twin flame context it tends to appear when a genuine inner shift is about to change the external situation of the connection rather than the other way around. In separation, 7117 signals that something you've understood, or are about to understand, about yourself or the dynamic is what's going to move things — not a gesture, not a message, not a change in the other person. In reunion, 7117 marks a phase where both people's individual clarity about themselves is what's making a genuine new beginning possible, as opposed to external circumstances conspiring to push them together.",
     manifestation:
-      "7117 manifests by trusting an entire new direction rather than a single decision — the practical move is naming the whole path your wisdom keeps confirming and committing to it broadly, since this number's folklore treats that scale of trust as what actually opens the new path.",
+      "If the wisdom behind this has been circling the same conclusion for a while now, that repetition is the confirmation, not a reason to keep double-checking it. 7117 has already given you enough of that kind of proof — trust the general shape of where this is pointing, not just the most recent detail that happened to convince you again.",
   },
   {
     number: "7227",
@@ -518,7 +518,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "7227 in a twin flame context favors patient, careful observation of the connection's current dynamic over a quick read or an anxious countdown. In reunion, taking time to genuinely understand what's shifted, rather than reacting to the first sign of change, tends to reveal the more accurate picture. In separation, this number suggests watching your own patterns and the connection's rhythm closely, since real understanding here comes from sustained attention, not a fast conclusion.",
     manifestation:
-      "7227 manifests through patient observation rather than quick intuitive action — the practical move is watching a specific situation closely before deciding what it means, since this number's folklore treats sustained attention as what actually produces the accurate answer.",
+      "Under longer observation than feels comfortable, 7227's answer tends to show up — not from a flash of intuition, but from staying with a situation past the point where you'd normally decide you already understand it. That's a different kind of patience than 2727's: 2727 is about holding on through the hardest final stretch of something already committed to, while 7227 is about withholding judgment on something not yet committed to, staying with it past the point where most people would already call it decided. Both share the temptation to call it early — recommit too soon in one case, conclude too soon in the other — but only 7227 wants you to keep watching, not to act.",
   },
   {
     number: "9119",
@@ -554,7 +554,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "9119 describes the specific gift that completing a chapter brings to what follows: not just space, but genuine wisdom that becomes the actual material of the next stage. What you've understood through this separation — about your own patterns, about what the connection has asked you to look at, about who you've had to become — is direct input to the quality of what comes next. In reunion, 9119 is a reminder to actively bring that wisdom forward rather than treating the separation as something to move past. What you learned through it is precisely what makes the next chapter genuinely different.",
     manifestation:
-      "9119 manifests by explicitly carrying learned wisdom into a new intention — the practical move is naming one specific lesson from a completed chapter and building it directly into a current goal, since this number's folklore treats that carried wisdom as the actual fuel, not a fresh, unconnected start.",
+      "Run the new decision through the lesson its last ending actually taught, treating it as a working filter, not a memory kept only for gratitude. Would the old version of you have made this same call, or does what's now understood change it? If it doesn't change any actual decision, it's still just a memory, however meaningful.",
   },
   {
     number: "9229",

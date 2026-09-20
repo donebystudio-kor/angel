@@ -221,7 +221,7 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Doubt tends to surface specifically during quiet, waiting stretches in a twin flame connection, and 0202 is one of the numbers most often associated with that kind of still, holding period. Rather than resolving the uncertainty by pushing for contact or clarity, 0202 names the quiet trust itself as the appropriate response right now: not forced certainty, but a calm, repeated holding of faith in the connection's reality without requiring proof. In reunion, this is less about celebrating and more about continuing to trust what's present. Ask yourself which doubt feels proportionate to the current evidence, and which doesn't.",
     manifestation:
-      "0202 manifests by honoring a felt sense of trust rather than demanding proof first — the practical move is letting one quiet wave of trust guide a small decision today, since this number's folklore treats that felt trust, not additional evidence, as sufficient here.",
+      "If this doesn't come with a tidy explanation, that's fine — 0202 doesn't ask you to justify it before it counts. Where 0022 is about building a rule from nothing, 0202 is quieter: a rippling trust that skips the architecture entirely and just asks for room to be felt.",
   },
   {
     number: "0303",
@@ -293,7 +293,7 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Foundation cleared and re-laid in repeating cycles is 0404's specific structure, and in a twin flame context that raises a practical question: is the ground genuinely ready, or does it still need another round of resetting before reunion is well-supported? This is less about whether the connection is real and more about whether the conditions — internal and external — are currently stable enough to hold what reunion would require. In separation, the repeated '04' suggests the reset is still happening, which isn't a failure: it's the actual preparation. Consider what one more cycle of clearing would look like for you specifically.",
     manifestation:
-      "0404 manifests by receiving outside support well rather than insisting on self-sufficiency — the practical move is accepting one piece of help today instead of declining it out of habit, since this number's folklore treats gracious receiving, not solo construction, as what completes this particular foundation.",
+      "Somebody or something else did real work to get you here — that's worth actually admitting instead of quietly crediting only your own doing. The pull to minimize outside help, to insist the outcome would've arrived on its own, deserves setting down for a moment. 0404 isn't testing self-sufficiency; it's testing whether a gift can stay a gift, fully, without turning into a debt you owe or a fluke you discount. Name the help plainly to someone other than the one who gave it — that act of naming, not quiet absorption, is what completes the receiving.",
   },
   {
     number: "0505",
@@ -550,7 +550,7 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "0222 in a twin flame context specifically favors approaching the connection from genuine, unguarded openness, rather than caution built up from past relationships. In reunion, this often means the version of you that's ready for reconnection is the one willing to set down old defensiveness, not the one still protecting against old hurt. In separation, this number favors practicing that same openness inwardly, toward yourself, since a heart still guarded against its own healing has a harder time recognizing when real openness with another person is safe again.",
     manifestation:
-      "0222 manifests by practicing deliberate openness rather than habitual guardedness — the practical move is approaching one relationship today with more openness than your usual caution, since this number's folklore treats that unguarded starting condition, not more self-protection, as what allows something real to form.",
+      "If staying half-guarded feels safer, 0222 is asking you to set that down, not indulge it a little less than usual. This isn't about being cautiously more open — it's full exposure, not a partial rendition of it. A relationship that starts from genuine unguardedness works differently than one that starts hedged and slowly opens later; 0222 is the first kind.",
   },
   {
     number: "0333",
@@ -696,7 +696,7 @@ export const EN_BATCH14_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Old patterns of carrying responsibility in a twin flame connection — the accumulated habits of what you do for whom, and how — are what 0666 opens from a genuinely fresh position. The 666 here gets the full-clearing treatment of 0, which means the question isn't how to rebalance the existing pattern but whether to release it entirely and find a natural level. For someone creating distance partly to escape what the connection feels responsible for, 0666 offers a reframe: releasing the old responsibility pattern might be what makes closeness feel possible again. What specific responsibility around this connection, if let go entirely, would change how available you feel?",
     manifestation:
-      "0666 manifests through a deliberate release-and-recalibrate process rather than either over-carrying or abandoning a duty — the practical move is naming one responsibility held unsustainably and consciously re-taking it on differently today, since this number's folklore treats that recalibration as the actual fix, not less responsibility overall.",
+      "Whatever responsibility has been sitting wrong for some time now, tell the people it affects that the method is changing, not merely the mood around it — carrying it exactly as before while only saying something new misses the point. The recalibration only counts as complete once someone besides you can see the difference. A private adjustment slides back toward the old shape within a week; a visible one doesn't get that chance.",
   },
   {
     number: "0777",

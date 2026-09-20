@@ -440,7 +440,7 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Total completion — an ending thorough enough to leave nothing unresolved — is what 0999 asks for before genuine certainty about a twin flame connection becomes available. The full clearing of 0 precedes the most amplified completion in this number family, creating a sequence where nothing is left hanging. For twin flames, doubt tends to persist wherever a chapter wasn't fully closed. In separation, 0999 asks whether the current chapter is receiving the full weight its ending deserves, rather than being declared finished prematurely. The certainty you're looking for tends to arrive on the other side of a genuinely complete ending. What part of this chapter needs to be more thoroughly finished before you'll actually feel clear?",
     manifestation:
-      "0999 manifests by treating a major ending as genuinely complete rather than partial — the practical move is fully acknowledging the scale of one concluding chapter today, since this number's folklore treats that complete acknowledgment as what makes room for an equally complete new beginning.",
+      "This ending's scale is the whole point, not a detail to move past quickly on the way to what's next. If you're already sketching the coming chapter while the current one hasn't finished closing, slow down — 0999 isn't rewarding speed here, it's rewarding letting an ending be as total as it actually is before anything new gets named.",
   },
   {
     number: "0033",
@@ -476,7 +476,7 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Amplified creative energy — the doubled expressiveness of 0033 — means that what you're willing to say about this twin flame connection has more reach right now than usual. The 0 here is working as an amplifier, making whatever expression you allow louder and clearer, which also means continued silence has proportionally more cost. In separation, this isn't about saying the perfect thing to the other person; it's about being willing to articulate, even privately, what the connection actually means to you. The expression itself, amplified by 0, tends to clarify what was previously only felt. What are you not yet saying about this connection that actually deserves to be said at full volume?",
     manifestation:
-      "0033 manifests by trusting an emptied space rather than rushing to fill it — the practical move is sitting with one genuinely open, empty stretch today without forcing a plan into it, since this number's folklore treats that patient trust as what allows real creative renewal to arrive.",
+      "Let what's arriving be proportionate to what just emptied out — 0033 works at a bigger register than 0303's steady pulse of return. This isn't a wave that comes and goes; it's one larger fill answering one larger clearing.",
   },
   {
     number: "0044",

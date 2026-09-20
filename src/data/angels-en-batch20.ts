@@ -42,7 +42,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "60 in a twin flame context favors noticing love and care already present around you, at home, in family, in close friendship, rather than assuming the twin flame connection is the only source of real love in your life. In reunion, this often means the security you already have at home is what makes space for the connection to develop healthily, rather than needing the connection to provide all your sense of love. In separation, this number favors leaning into the love already present in your home life as genuine support, rather than experiencing the separation as a total absence of love.",
     manifestation:
-      "60 manifests by consciously noticing and appreciating love already present — the practical move is naming one specific form of care already in your home life today and actively appreciating it, since this number's folklore treats that recognition, not searching for something new, as what it's actually pointing toward.",
+      "On an ordinary evening, not a special occasion built around it, name specifically what you noticed today about the warmth that's quietly there at home. Saving the acknowledgment for a bigger moment just delays something already true and needs no occasion to justify saying it.",
   },
   {
     number: "71",
@@ -78,7 +78,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "71 favors starting from understanding you've already gained, rather than continuing to analyze before acting. In a twin flame context this suggests you already know enough about the connection and yourself to take a genuinely new step, more insight isn't the missing ingredient anymore. In reunion, 71 favors trusting that the understanding behind you is sufficient grounds to move forward now, not proof you need to keep gathering. In separation, this number suggests continuing to over-research or over-analyze the connection has passed its usefulness, and what you already understand is enough to act from.",
     manifestation:
-      "71 manifests by trusting existing insight as sufficient grounds to begin — the practical move is starting one new thing today based on understanding you've already reached, since this number's folklore treats that trust, not further reflection, as what the moment calls for.",
+      "If more research would only confirm what you believe, skip it — 71 treats extra analysis as avoidance dressed as diligence. What's missing?",
   },
   {
     number: "72",

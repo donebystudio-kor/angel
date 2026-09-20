@@ -330,7 +330,7 @@ export const EN_BATCH11_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Stalled cycles — in abundance, in opportunity, in the quality of a connection — restart through active re-engagement rather than passive waiting. 8008 marks a specific moment: not a new cycle beginning from scratch, but a previously real cycle that had slowed down now finding fresh momentum. For twin flames, this is a timing signal specific to reconnection: the energy of the connection is restarting, not at the same level it paused at, but genuinely fresh. In separation, the restart isn't about going back to what existed before — it's about recognizing that the original quality of the connection is re-activating. What deliberate re-engagement with this connection would signal that you're meeting the restart rather than waiting for it?",
     manifestation:
-      "8008 manifests by actively restarting a stalled cycle rather than waiting for it to resume — the practical move is taking one deliberate action today in an area of abundance that's gone quiet, since this number's folklore treats the restart as needing a genuine fresh action, not passive continuation.",
+      "Whatever restarted this cycle the first time was probably smaller than it feels like it has to be now. 8's shape has no natural stopping point, so the comeback doesn't have to outscale the stall — matching the modest push that got it moving originally is enough.",
   },
   {
     number: "9009",

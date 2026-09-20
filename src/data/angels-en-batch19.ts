@@ -42,7 +42,7 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Separation reframes most naturally when looked at through 2255's lens: not as a breakdown of what was built, but as the stable foundation of the connection giving each person the ground to go through significant individual shifts. The relationship isn't fraying; it's functioning as a support structure for transformation that both people will eventually reflect back. In reunion, 2255 is quietly optimistic — what you built together is still working, even when you're apart. In separation, look at which personal changes you couldn't have navigated without the grounding this connection gave you.",
     manifestation:
-      "2255 manifests by consciously leaning on existing stability to face change — the practical move is drawing on one stable relationship today specifically to help navigate a current shift, since this number's folklore treats that established partnership, not facing change alone, as what makes the transition manageable.",
+      "Let the relationship see you wobble, not only the composed version you bring once you've steadied yourself alone. 2255 works through visible leaning, not quiet self-management followed by a report after the fact. The support only counts if it happens in the open, mid-wobble.",
   },
   {
     number: "2266",
@@ -114,7 +114,7 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "3322 frames honest communication as what builds toward stability — and in a twin flame context, that often happens through third parties before it happens directly. Conversations with trusted friends, perspectives from mutual circles, the way people who know both of you are processing the dynamic: all of this can be working toward a more stable situation even when no direct contact is occurring. In reunion, the social groundwork laid through third-party conversations often quietly paves the way. In separation, external perspectives can genuinely reshape how you understand the connection. What are the people closest to you actually saying about this, and are you fully hearing them?",
     manifestation:
-      "3322 manifests by trusting exploratory, creative conversation as genuinely constructive — the practical move is having one honest, open conversation today rather than waiting for more certainty first, since this number's folklore treats that communication as what's actively building the resulting stability.",
+      "An agenda-free conversation does more here than one aimed at a decision — 3322 isn't measuring whether the talk resolved anything, just whether it happened honestly. Two people thinking aloud together, without either one steering toward a conclusion, are already doing the stabilizing work, whether or not anything gets decided by the end.",
   },
   {
     number: "3355",

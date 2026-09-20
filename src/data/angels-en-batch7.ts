@@ -120,7 +120,7 @@ export const EN_BATCH7_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "33333 marks an unusually high point of creative resonance in a twin flame connection, and it tends to appear when both people's individual creative lives are more entangled than either realizes. The link isn't always obvious — it can be two people in entirely different creative fields who are nonetheless working through the same underlying themes at the same time without any coordination. In separation, 33333 is a signal to follow creative output aggressively right now, not as a distraction from the connection but as its most active expression. In reunion, this number marks a phase where making something together — anything, even a long conversation that produces real insight — operates at a different register than usual.",
     manifestation:
-      "33333 manifests through fully mobilized, shared expression — the practical move is putting your message or work in front of the widest audience you reasonably can right now, since this number's folklore treats reach, not just sincerity, as part of what completes the manifestation at this scale.",
+      "The widest possible audience for what you're sharing is where 33333 wants this to land, not a curated or careful subset of it. If part of you is quietly deciding who's allowed to receive this before you've even put it out, that instinct is worth setting aside here. Let it reach people you didn't originally have in mind — a stranger, an unlikely audience, someone outside your usual circle — because at this scale, the message isn't really yours to gatekeep anymore.",
   },
   {
     number: "44444",
