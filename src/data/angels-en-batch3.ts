@@ -41,7 +41,7 @@ export const EN_BATCH3_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "12 leads with a needed behavioral shift before the balance-and-partnership energy of the 2 can actually land, and in a twin flame context that order matters: not a new feeling to have, but one specific habit — over-explaining, chasing reassurance, checking for signs constantly — that's due for an update. In reunion, 12 favors identifying that one pattern and doing it differently once, on purpose, rather than waiting to feel like a different person overall. In separation, this number points at a specific relational habit carried over from before the separation that's ready to be consciously interrupted, since the connection's own balance is described as waiting on that particular update.",
     manifestation:
-      "12's manifestation angle is about updating the method, not the goal. If a manifestation practice — a specific affirmation, a vision board, a journaling habit — has gone stale, 12 is asking you to refresh the method itself rather than assume the goal was wrong.",
+      "12 isn't 21's version of this — trade the process, not the ambition behind it. A tool that's gone flat doesn't mean the plan was wrong; check whether you're leaning on a fixed method out of habit rather than because it still works, then try a different one this week without touching what you're actually aiming for.",
   },
   {
     number: "21",

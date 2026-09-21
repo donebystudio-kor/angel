@@ -41,7 +41,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "122 in a twin flame context favors actively nurturing a connection that's moving from initial spark into genuine, visible flourishing. In reunion, this often marks the stage right after reconnection where deliberate care and attention, not just the excitement of the initial spark, is what sustains the growing bond. In separation, this number favors nurturing your own inner growth as it blossoms, trusting that this active tending, more than passive waiting, is what prepares the ground for whatever comes next.",
     manifestation:
-      "122 manifests through active nurturing of visible growth — the practical move is one deliberate act of care today toward a blossoming partnership, since this number's folklore treats that continued attention, not passive assumption, as what sustains the flourishing.",
+      "Check whether both people in this are actually noticing the same growth, not just you — 122 tends to falter less from lack of care and more from one side quietly assuming the other already sees what's blossoming. Say what you're seeing today instead of assuming it's obvious.",
   },
   {
     number: "124",

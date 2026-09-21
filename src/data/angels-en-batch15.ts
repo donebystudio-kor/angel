@@ -43,7 +43,7 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "The changes happening in your own life right now — shifts in how you see yourself, how you move through the world, who you're becoming — are the actual preparation for what's next in this connection. This isn't a metaphor; the change is functional. In separation, 151 suggests the personal transformation underway is building something specific in you that makes a future chapter genuinely possible. In reunion, the unusual confidence you're bringing to the connection right now is traceable directly to what's been changing. Trust that source rather than attributing the clarity to luck.",
     manifestation:
-      "151 manifests by consciously linking confidence to its actual source — the practical move is naming the specific change behind today's self-assurance, since this number's folklore treats that acknowledged connection as what deepens the confidence further.",
+      "You don't need to fully explain why the change is producing this lift for 151 to work — naming the source, even loosely, does most of the job.",
   },
   {
     number: "161",
@@ -79,7 +79,7 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Confidence that you're feeling right now has a specific, traceable source: the stability of your home life is actively producing it. For twin flames, this is a useful reframe when doubt surfaces, because doubt tends to assume the connection itself is the thing that needs to be certain. 161 points elsewhere — toward the quality of the ground you're standing on. When your home base is stable, your read on the connection tends to be more accurate and less reactive. In separation, check whether current doubt is about the connection or about an unsettled home foundation. Are you trusting the connection, or just waiting for your home base to feel steady?",
     manifestation:
-      "161 manifests by drawing confidence consciously from home stability — the practical move is naming that grounded source before making today's decision, since this number's folklore treats that acknowledgment as what makes the confidence sustainable.",
+      "151's confidence comes from a change already in motion; 161's comes from something that never moves at all — exactly the reason it's easy to overlook. Nobody credits the unremarkable, steady presence of home for a decision that felt purely personal. Name that ordinary source directly today, and say specifically what about the household is actually holding this up.",
   },
   {
     number: "232",
@@ -151,7 +151,7 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "242 grounds certainty in what is already traceable rather than in predictions about what hasn't happened yet. For twin flames sitting with recurring doubt — wondering whether the connection is real, whether the timing is right, whether their own read is accurate — this number points toward a specific inventory: what has actually occurred between you, what felt true, what you've witnessed in yourself since this connection began. That concrete record, not your best-case hope or your worst-case fear, is the reliable base. Doubt tends to lose traction when it meets an accurate accounting of what's already real.",
     manifestation:
-      "242 manifests by consciously trusting an existing foundation rather than second-guessing calm — the practical move is naming the specific foundation beneath a stable bond today and appreciating it directly, since this number's folklore treats that recognition as what reinforces the stability further.",
+      "Where 2442 mirrors both people's steadiness, 242 skips that — stress-testing what feels solid does more damage than the calm ever risked.",
   },
   {
     number: "252",

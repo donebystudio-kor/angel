@@ -338,7 +338,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "900 is a direct summons to actively finish something meaningful, not a passive chapter winding down on its own, and in a twin flame context it usually points at a specific piece of unfinished business within the connection — an old resentment, an unspoken truth, a pattern — that needs deliberate closing rather than fading quietly. In reunion, 900 favors actually naming and resolving that unfinished piece before or as contact resumes, rather than letting it carry forward unaddressed. In separation, this number favors treating one specific, active task, writing an unsent letter, an honest internal conversation, as the real work of this stretch.",
     manifestation:
-      "900 manifests through active completion rather than passive conclusion — the practical move is taking the deliberate step that actually finishes something meaningful today, since this number's folklore treats that active closure as what answers the calling, not simply letting time pass.",
+      "900 doesn't wind down quietly the way 90 does — it doesn't require you to feel especially moved before finishing counts either; closing the loop mechanically, without ceremony or a burst of motivation first, still satisfies what's actually being asked. Waiting for the right mood to attempt it usually just adds another excuse to a pile that's already long enough.",
   },
   {
     number: "3000",

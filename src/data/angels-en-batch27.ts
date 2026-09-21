@@ -147,7 +147,7 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "35 locates real blooming inside the unsettled period itself, not despite it, and not tied specifically to home life the way a number like 65 is. In a twin flame context this favors noticing genuine growth in how you're expressing or understanding yourself happening precisely within this uncertain stretch, not waiting for calm to resume first. In reunion, 35 suggests the changes reshaping the connection are fertile ground, not just disruption to survive. In separation, this number favors trusting that real flourishing is possible now, inside the mess of not knowing, rather than treating this period as empty time before real growth can resume.",
     manifestation:
-      "35 manifests by nurturing creative growth happening within change — the practical move is actively tending one piece of creative flourishing today, even amid ongoing change, since this number's folklore treats that active nurturing, not waiting for stability, as what helps it bloom.",
+      "Most instincts say finish settling first, then make things — 35 runs the opposite direction: the unsettled conditions are exactly what's feeding this particular round of output, not what's interrupting it. Keep working through the instability — don't wait for it to quiet down first, since stillness isn't a prerequisite here and might even work against the output. The two aren't actually in competition the way they feel like they are; treating the change as something to endure until it passes, when it's actually the material itself, is what usually stalls the work.",
   },
   {
     number: "36",
@@ -543,7 +543,7 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "47 traces real clarity back to ongoing, disciplined effort, not to insight arriving on its own. In a twin flame context this favors recognizing that the steady work you've kept doing, journaling, reflecting, actually sitting with hard questions, is the direct cause of whatever understanding you're reaching now, not a coincidence running alongside it. In reunion, 47 suggests the clarity guiding you now exists because you kept practicing, not because it simply showed up. In separation, this number favors continuing that diligent practice, trusting it as the actual mechanism producing light, rather than waiting passively for insight to arrive unprompted.",
     manifestation:
-      "47 manifests by trusting diligent practice as the source of clarity — the practical move is continuing one disciplined effort today, since this number's folklore treats that steady diligence, not passive waiting, as what actually brings the light.",
+      "Looking for proof the insight has landed yet misreads how 47 actually works — the clarity here is a byproduct of the repetition, not a separate thing to watch for alongside it. Keep the practice going without pausing to check whether it's producing results; that checking itself tends to interrupt exactly the accumulation that produces the result.",
   },
   {
     number: "48",

@@ -226,7 +226,7 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "For twin flames approaching reunion, 4411 carries a specific signal: the inner work already completed — the therapy, the boundary-setting, the honest self-examination — is the actual foundation making this reunion a genuine new beginning rather than a repeat cycle. Don't underestimate what's already been built. In separation, this number confirms the groundwork is sufficient for the next chapter to begin; the internal voice saying you're not ready yet is running behind the reality. The new beginning doesn't wait ahead of the foundation — it emerges directly from it. And that foundation is already there.",
     manifestation:
-      "4411 manifests by trusting existing foundation as sufficient for a confident new start — the practical move is taking one step today toward a new beginning without further delay, since this number's folklore treats that trust, not additional preparation, as what the moment calls for.",
+      "A solid foundation that just sits there isn't what 4411 is describing — it's one that's actively being drawn on to launch something new today. The foundation only does its job once you actually step off from it; admiring how sturdy it is without moving is a way of not using it at all.",
   },
   {
     number: "4422",
@@ -334,7 +334,7 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "In twin flame readings, 4466 speaks directly to the persistent undercurrent of doubt — the whisper asking whether what you feel is real, inflated, or projected. This number's answer is specific: the foundation already built, through self-awareness, through genuine healing, through discernment developed over time, is actively protecting the connection from your own worst-case narratives. You don't need to keep testing it. In separation, 4466 is reassurance that existing clarity is doing real protective work; you don't need to manufacture additional certainty. What's already solid is sufficient to hold your understanding of this connection steady.",
     manifestation:
-      "4466 manifests by trusting existing stability as active protection — the practical move is consciously relying on one already-built foundation today rather than adding unnecessary extra safeguards, since this number's folklore treats that trust, not continued vigilance, as what the moment calls for.",
+      "Extra precautions layered onto something already secure don't add safety for 4466 — they mostly just add noise, making it harder to tell what's actually protecting you from what's just anxious extra motion. Subtracting the unnecessary safeguard today accomplishes what adding one more never would. Before adding one more layer of caution today, ask whether the discomfort is actually about the structure — or just about sitting still with something that already works.",
   },
   {
     number: "5511",

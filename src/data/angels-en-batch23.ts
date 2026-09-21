@@ -292,7 +292,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "211 in a twin flame context favors taking active initiative within the connection, rather than both people waiting for the other to move first. In reunion, this often means one person needs to be the one who reaches out or names what's needed, rather than the timing resolving itself passively. In separation, this number favors taking the lead on your own healing and growth, rather than waiting for the connection's status to resolve before taking action on your own life.",
     manifestation:
-      "211 manifests by taking active initiative rather than waiting passively — the practical move is leading on one specific stalled situation within a relationship today, since this number's folklore treats that active leadership as what actually moves things forward.",
+      "The stalled thing in this relationship isn't neutral while it waits — every extra day of nobody leading it quietly resets what feels normal. 211 isn't asking who's more deserving of leading; it's flagging that the cost of further delay is higher than it looks from inside the waiting. The longer the stall runs, the more it starts to look like a mutual decision, not what it actually is — an unclaimed task quietly settling into the new normal by default.",
   },
   {
     number: "233",

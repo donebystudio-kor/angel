@@ -42,7 +42,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "100 marks a whole, complete fresh start at a real, personal scale, not a minor tweak to an old approach, and in a twin flame context that completeness applies specifically to how you relate to the connection itself. In reunion, 100 favors approaching contact with a genuinely reset way of showing up, not the same patterns carried forward with small adjustments. In separation, this number suggests the shift you've gone through is a real clean slate, not a partial one, worth taking seriously as complete rather than continuing to treat your old approach as still mostly intact.",
     manifestation:
-      "100 manifests by fully committing to a fresh start rather than testing it half-heartedly — the practical move is treating one current new beginning as genuinely complete today, since this number's folklore treats that full commitment, not tentative testing, as what makes the clean slate real.",
+      "100 doesn't have to resemble 10000 to count — the completeness here is measured against your own prior chapter, not someone else's more dramatic reset. Significant compared to what, exactly?",
   },
   {
     number: "101",
@@ -150,7 +150,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "103 arrives after you've already begun, not before, support specifically meeting an effort already underway rather than backing you from the very start. In a twin flame context this favors accepting help, an insight, a resource, another person's perspective, that shows up once you're already actively working on understanding or building this connection, rather than assuming you have to figure it out entirely alone. In reunion, 103 suggests welcoming this outside support as part of what's making the effort land, not a sign you needed it because you were failing. In separation, this number favors accepting real help with your own inner work now, rather than insisting on total self-sufficiency.",
     manifestation:
-      "103 manifests by accepting available support rather than insisting on total self-sufficiency — the practical move is accepting one piece of help today with a creative effort already in motion, since this number's folklore treats that openness to support as what actually strengthens the creative process.",
+      "Unlike 3003's total independence from any template, 103 isn't about proving you can do this single-handedly — it's about accepting help once it's already right there, not chasing it down first. Something offered gets waved off more easily than something requested, and this is specifically about the offered kind: notice what's already being extended before assuming asking first is required.",
   },
   {
     number: "104",
@@ -186,7 +186,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "104 builds its case on small, repeated effort, not one dramatic gesture, producing a result significant enough to feel miraculous. In a twin flame context this favors trusting that the unglamorous, daily work you've been doing on yourself is genuinely capable of producing real shift, more than waiting for one big moment would. In reunion, 104 suggests what's arriving now is the cumulative result of consistency, not luck. In separation, this number favors honoring small, steady effort as legitimate progress, worth continuing exactly because it compounds, even when no single day of it looks remarkable.",
     manifestation:
-      "104 manifests by trusting cumulative, consistent effort — the practical move is continuing one small habit today without waiting for a single dramatic breakthrough, since this number's folklore treats that steady accumulation as what actually produces remarkable results.",
+      "104 doesn't promise the accumulation will be visible along the way — most of it isn't, until it suddenly is. Checking daily to see whether the small effort is working misreads how this particular kind of result actually builds; the absence of a visible marker isn't evidence it's failing.",
   },
   {
     number: "105",
@@ -222,7 +222,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "105 puts you at an actual door, not just anticipating a shift like a number such as 188, but facing one already knocking, waiting on your response. In a twin flame context this favors actually answering, a message, an opening, a change in how you're approaching things, rather than noticing it and continuing to wait. In reunion, 105 suggests the change currently at the door deserves a direct answer now, not further delay disguised as caution. In separation, this number favors engaging honestly with what's already arrived, rather than pretending not to have noticed it yet.",
     manifestation:
-      "105 manifests by directly engaging with an arriving change rather than avoiding it — the practical move is naming and addressing one change that's currently knocking today, since this number's folklore treats that direct engagement, not avoidance, as what actually serves you.",
+      "Acting like the knock hasn't happened doesn't actually pause anything for 105 — the change keeps moving whether or not you've acknowledged it yet, so the delay only costs you input into how it unfolds, not time itself. Answering it late still counts as answering, but answering blind, after the shape has already set, costs more than answering now would. The knock doesn't get quieter the longer it's ignored, either — it just starts arriving through other channels, less directly, and usually less conveniently than the original version would have.",
   },
   {
     number: "106",
@@ -438,7 +438,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "113 marks the specific moment an idea stops being abstract and actually lands, worth acting on immediately rather than continuing to just appreciate it. In a twin flame context this favors noticing when a flash of clarity about the connection, what to say, when to reach out, has moved from a passing thought into something real enough to act on. In reunion, 113 suggests this is exactly that moment, worth trusting rather than talking yourself back into hesitation. In separation, this number favors recognizing when an inspired understanding has become concrete enough to write down or act on, not just admire.",
     manifestation:
-      "113 manifests by acting concretely on landing inspiration rather than letting it stay abstract — the practical move is taking one tangible step today on an idea that's actually manifesting, since this number's folklore treats that concrete action as what completes the manifestation.",
+      "What's landing right now for 113 won't stay landed indefinitely if it's only observed and not built on — there's a specific window here, not an open-ended one. Notice the gap between admiring the idea and actually moving it, since admiring it can feel like real progress without being any at all.",
   },
   {
     number: "114",
@@ -726,6 +726,6 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "121 in a twin flame context favors consistently held, genuine positive expectation about the connection's future as an active, shaping force, more than a single hopeful moment. In reunion, this often means the steady, quiet belief that reconnection is possible, held over time rather than in occasional bursts, is what's contributing to it actually unfolding. In separation, this number favors maintaining that same steady, genuine positive expectation about your own path and the connection's eventual resolution, rather than swinging between hope and despair.",
     manifestation:
-      "121 manifests by holding positive expectation consistently rather than intermittently — the practical move is maintaining one genuinely positive outlook steadily today, not just in a passing hopeful moment, since this number's folklore treats that consistency as what actually shapes the outcome.",
+      "121 rewards frequency over intensity — ten small moments of genuine expectation outweigh one dramatic surge of hope that fades by evening. The mechanism runs on repetition, not peak intensity.",
   },
 ];

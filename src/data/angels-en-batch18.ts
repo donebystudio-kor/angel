@@ -584,7 +584,7 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Clearing home and caregiving patterns entirely — not identifying what's wrong with them, but emptying the space they've occupied — is what 0066 points at. For twin flames, the care patterns developed across a connection often become load-bearing habits: things you do because you've always done them, not because they still serve. The doubled 6 gets the full-clearing treatment of 0, which means the question isn't how to fix the pattern but whether to release it entirely and start from what's actually needed now. In separation, this often means releasing the version of care you've been extending toward someone who isn't available to receive it. What caregiving pattern toward this connection are you ready to release rather than repair?",
     manifestation:
-      "0066 manifests through a complete review rather than a minor adjustment — the practical move is questioning one long-held assumption about home life from scratch today, since this number's folklore treats that fundamental reassessment, not small tweaks, as what's actually needed.",
+      "The pattern 0066 wants reexamined has been running on autopilot for so long it stopped registering as deliberate at all — it simply passes for the default now. Naming it as something chosen, not inherited, is the actual first move, before any decision about whether to keep it.",
   },
   {
     number: "0077",
@@ -620,7 +620,7 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Emptying the mind to receive a significantly deeper realization — not just another layer of understanding, but a qualitatively different clarity — is what 0077 makes available. The doubled intuition of 77 gets amplified by the complete clearing of 0: when you genuinely quiet the noise around this twin flame connection, what arrives tends to be more trustworthy than anything reached through active analysis. In separation, this kind of inner work differs from ordinary processing: it requires genuine stillness, not effortful thinking about the connection. The realization that comes from that place tends to be the one that actually moves something. What insight about this connection becomes available when you stop actively thinking about it?",
     manifestation:
-      "0077 manifests through an unusually thorough clearing practice — the practical move is extending your quiet reflection time today beyond its usual length, since this number's folklore treats that deeper emptying, not a quick pause, as what makes room for the more significant insight available.",
+      "What arrives here scales with how much gets cleared out first, not with how long you sit still — a longer sit that stays cluttered with half-formed thoughts won't out-produce a shorter one that actually empties. Prioritize actually quieting the noise over simply logging more minutes in the chair. Two people can sit for an identical stretch and come away with entirely different results — so was today's stretch actually clearing anything, or just running the clock?",
   },
   {
     number: "0088",

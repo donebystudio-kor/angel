@@ -479,7 +479,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "23 names a season, not a permanent state, a specific, fertile window for talent worth actively using now rather than letting it pass unengaged. In a twin flame context this favors recognizing that your capacity for genuine connection, insight, or creative expression around this bond is unusually active right now. In reunion, 23 favors putting that flourishing to use directly, saying the honest thing, creating something meaningful, rather than assuming the window stays open indefinitely. In separation, this number favors actively using this fertile stretch for your own growth, since seasons like this one don't last forever unengaged.",
     manifestation:
-      "23 manifests by actively using talent during its fertile season — the practical move is engaging your talent in one concrete way today, since this number's folklore treats that active use, not passive waiting, as what makes the most of this flourishing window.",
+      "23 isn't waiting on permission or outside proof before this counts — the season is already open, and treating it as provisional until someone else notices is the surest way to let it pass half-used. Put the skill to work today on something real, not a warm-up exercise, since a warm-up wastes exactly the window that's currently open.",
   },
   {
     number: "24",
