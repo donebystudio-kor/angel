@@ -512,7 +512,7 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Rebuilding from a genuinely cleared foundation — not patching what was already there, but starting from actual emptiness — is what 0044 marks as real preparation for a twin flame connection. The doubled 4 gets amplified by the complete clearing of 0: you're not reinforcing an old structure, you're constructing from the ground up. In twin flame timing, this kind of preparation carries more weight than simple maintenance precisely because it's thorough. In separation, if you're genuinely rebuilding rather than just repairing, that's not delay — it's a sign that the foundation being built will actually hold. What in your current foundation are you rebuilding from scratch rather than simply maintaining?",
     manifestation:
-      "0044 manifests through a complete rebuild rather than another patch — the practical move is taking one concrete step today toward fully rebuilding a shaky foundation from scratch, since this number's folklore treats that full restart, not continued repair, as what actually holds long-term.",
+      "A sturdier patch isn't what 0044 is suggesting when a structural problem keeps resurfacing at one persistent weak spot — it's suggesting the whole thing gets cleared down to nothing and rebuilt from there, not patched again. Clearing costs more upfront than one more repair does, but repair on something this compromised has already proven where its limit is, and pretending otherwise just delays an identical conversation to a worse moment.",
   },
   {
     number: "0055",
@@ -548,7 +548,7 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Before a significant shift arrives, there's a specific quality of quiet that 0055 marks: not stagnation, but the stillness of something already in motion that hasn't broken the surface yet. For twin flames, this is a timing signal rather than a waiting period — the calm itself is the indicator that something is about to change status. The 0 holds that potential suspended; the doubled 5 is the shift it's about to release. In reunion, the moment the quiet breaks tends to move faster than expected. In separation, this number favors trusting the quiet rather than forcing movement into it prematurely. What in the current stillness feels like it's holding something ready to move?",
     manifestation:
-      "0055 manifests through productive use of quiet time rather than passive assumption of continued calm — the practical move is taking one preparatory step today, since this number's folklore treats that readiness, not complacency, as what makes the coming change easier to meet.",
+      "Through timing, not through a small grounded action the way 0505 gets there, 0055 arrives at calm instead — a genuinely quiet stretch that exists to be used ahead of a real change, not a permanent state to relax into. Treat the quiet like a runway, not a destination, and something concrete is ready before it's actually needed. The stretch doesn't announce how long it lasts, so using it well now beats stalling for a clearer signal about when it ends — a runway works fine without its exact length known in advance.",
   },
   {
     number: "0066",

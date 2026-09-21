@@ -76,7 +76,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "145 describes a process, not a single pivot like a number such as 45, an actual transition unfolding over time, made viable specifically because it's starting from solid ground. In a twin flame context this favors trusting that the shift currently unfolding in the connection, or in your own relationship to it, is safe precisely because your own foundation is already steady enough to hold it. In reunion, 145 suggests this transition doesn't threaten what's stable, it's built on it. In separation, this number favors recognizing that ongoing change and your own groundedness aren't in conflict here, the stability is what's making this stretch survivable.",
     manifestation:
-      "145 manifests by trusting existing stability as the enabler of a real transition — the practical move is taking one step into a change today, trusting the solid ground beneath it, since this number's folklore treats that trust as what makes the transition genuinely viable.",
+      "The caution reflex that assumes every change needs bracing for doesn't apply here the way it might elsewhere, since this transition is actually built on solid ground already. 5544 is about a calm that's already been earned and simply needs trusting as-is; 145, though, works differently — the ground was solid before the change even started, so the stability isn't reassurance arriving after the fact, it's the foundation the change was launched from.",
   },
   {
     number: "146",

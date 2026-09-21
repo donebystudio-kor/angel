@@ -230,7 +230,7 @@ export const EN_BATCH12_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "600 describes a big, immediate outpouring of caring energy available to give right now, and in a twin flame context this favors directing an unusually large amount of that energy toward yourself specifically, not just toward others, since self-compassion is described in this niche as what the connection actually needs from you most. In reunion, 600 favors extending genuine warmth to the connection without needing anything back immediately, trusting the outpouring itself as meaningful. In separation, this number is a direct nudge to draw on this caring capacity for your own healing right now, rather than saving all of it for a reunion that hasn't happened yet.",
     manifestation:
-      "600 manifests by actively directing available caring energy rather than letting it sit passively — the practical move is choosing one specific person to direct real care toward today, since this number's folklore treats active direction, not just the feeling of care, as what completes the manifestation.",
+      "600 is pointing at a present surplus, not a ceiling problem the way 0606 is — there's nothing here to unblock, just an abundance that's already available and waiting on a direction today. It doesn't bank itself for later the way saved effort usually does; left untouched, this particular surplus just quietly fades instead of sitting in reserve — today is the only day this specific batch of it is on offer.",
   },
   {
     number: "700",

@@ -442,7 +442,7 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Spiritual insight and heightened intuition combine in 711 to frame whatever's opening right now as significant on a soul level rather than simply convenient, which in a twin flame context lines up closely with how the connection itself is usually described in this niche — recognized through inner knowing rather than logic. In reunion, 711 tends to mark a door opening because your own spiritual awareness has sharpened, not because external circumstances lined up, and favors trusting that inner pull even without a practical explanation yet. In separation, this number favors deepening whatever spiritual practice has developed during the separation, since that inner growth is described as what's actually opening the door.",
     manifestation:
-      "711 manifests by following spiritually significant pulls rather than purely practical logic — the practical move is acting on an intuitive draw toward something meaningful today, since this number's folklore treats spiritual alignment, not material calculation, as what's opening the door.",
+      "Before any practical reasoning catches up, a pull like this is already asking to be followed — for 711, that reasoning often never fully arrives, and delaying past that point usually means the window has already shut before deliberation finishes.",
   },
   {
     number: "811",
@@ -478,7 +478,7 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "811 pairs abundance and spiritual growth as arriving together, at once, rather than one following the other the way 818's bracketing structure implies. In a twin flame context that simultaneity is the actual message: practical readiness for reunion and inner spiritual readiness aren't on separate timelines here, they're developing as one combined process. In reunion, 811 favors noticing that your circumstances and your inner state are maturing at the same pace, not waiting for one to catch up to the other. In separation, this number reassures that outer-life stability and inner growth don't have to be sequenced, working on both at once is exactly what this stretch is for.",
     manifestation:
-      "811 manifests by holding material and spiritual goals together rather than sequencing them — the practical move is naming one material want and one growth want in the same breath, since this number's folklore treats their combined pursuit, not either alone, as what's actually unfolding.",
+      "The material side and the growth side here aren't on two separate schedules — 811 treats them as one delivery, not two separate gifts.",
   },
   {
     number: "3223",

@@ -437,7 +437,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "134 narrows the frame from a number like 114's broader vision-into-reality message down to one specific creative idea, not a general sense of the future, ready for actual construction now. In a twin flame context this favors recognizing a specific expressive idea you've had about this connection, a way to say something, a project, a gesture, as ready to build, not refine further in your head. In reunion, 134 favors acting on that specific creative idea directly. In separation, this number favors treating one particular idea you've been holding as construction-ready now, rather than continuing to polish it privately without ever making it real.",
     manifestation:
-      "134 manifests by building a specific creative idea into real form — the practical move is taking one concrete construction step today on an idea that's already fully formed, since this number's folklore treats that active building, not further conceptual refinement, as what's actually needed.",
+      "If this has already taken clear shape for you, it doesn't need another pass of refinement before it counts as ready — 134 cares less about polishing what's already obvious and more about whether you've actually begun. Put the smallest real fragment of it into a form someone else could see or touch before today ends.",
   },
   {
     number: "135",

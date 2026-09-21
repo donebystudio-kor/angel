@@ -227,7 +227,7 @@ export const EN_BATCH2_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "717 is one of the numbers most specifically tied to twin flame recognition and timing in this niche. In reunion, 717 tends to appear when your intuition about them has been more accurate than any outside advice you've received, and it's usually read as confirmation to trust that inner read about timing rather than force contact. In separation, 717 marks a point where your own inner wisdom, not theirs and not a mutual friend's take, is the most reliable guide available — the number is asking you to trust your own read on where things stand rather than seek outside confirmation.",
     manifestation:
-      "717's manifestation approach runs through trusting instinct over analysis — the specific practice tied to this number is asking a direct yes-or-no question internally and going with the first, calmest answer, rather than the version you arrive at after extended deliberation.",
+      "717 has a narrow job, not a broad one — confirming one specific choice, not blessing your overall read on a person or situation. Treat the two 7s as bookends around that decision only; stretching their confirmation across the whole relationship asks more of the signal than it's offering.",
   },
   {
     number: "1010",

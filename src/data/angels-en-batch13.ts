@@ -78,7 +78,7 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "5000 marks transformation at the most total scale in this family, your whole life direction shifting, not one wave moving through the way 500 describes. In a twin flame context this lines up with a common idea in the space: that this connection's real function is reorienting your entire life, not just producing a relationship outcome. In reunion, 5000 favors judging the connection's impact by how much it's reshaped your whole direction, not by a single interaction. In separation, this number reassures that the depth of change you're going through is proportional to something significant, not an overreaction to one relationship.",
     manifestation:
-      "5000 manifests by aligning decisions with a new overall direction rather than patching the old one — the practical move is making one choice today that reflects where you're actually headed now, since this number's folklore treats total redirection, not incremental adjustment, as the real shift here.",
+      "5000 doesn't land as one identifiable event — it shows up as dozens of ordinary choices leaning toward one new direction, none dramatic alone. The redirection won't announce itself with a moment big enough to notice; expecting that is the wrong test for a shift at this scale.",
   },
   {
     number: "6000",
@@ -150,7 +150,7 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "7000 marks a permanent shift in understanding, distinct from 700's window that eventually closes. In a twin flame context this favors recognizing that what you've learned about love and connection through this experience isn't a passing insight, it's a fundamental change in how you see both that won't revert once the immediate clarity fades. In reunion, 7000 suggests you're not returning to your old framework for relationships, and shouldn't try to fit the connection back into it. In separation, this number reassures that the perspective shift you've undergone is lasting, not something you'll lose once the hard part of separation ends.",
     manifestation:
-      "7000 manifests by rebuilding goals from a new understanding rather than forcing old goals into it — the practical move is naming one shifted belief and adjusting a single concrete plan to match it today, since this number's folklore treats that realignment, not more reflection, as the actual next step.",
+      "Where 700 hands you a window that eventually closes, 7000 changes the lens permanently — there's no clock running down here, no clarity that fades if you don't use it in time. That permanence is worth trusting even when the shift feels too large to have fully landed yet; a paradigm doesn't finish installing itself in one sitting. Give it longer than feels comfortable before judging whether the shift has actually taken hold, since the old lens doesn't fully release its grip the moment a new one arrives — the two overlap for a while, and that overlap isn't evidence the shift failed.",
   },
   {
     number: "8000",
@@ -438,7 +438,7 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "212 in a twin flame context points at a new beginning emerging from within a connection that already exists, rather than a fresh twin flame connection starting from nothing. In reunion, this often marks a genuinely new, healthier phase opening inside a bond that had gone quiet or stalled, a renewal rather than a restart from scratch. In separation, this number favors looking at what's already meaningfully connected, even at a distance, and trusting that the next real beginning will come from deepening that existing bond, not from replacing it.",
     manifestation:
-      "212 manifests by nurturing renewal within an existing bond rather than searching outward for something new — the practical move is investing deliberately in one established relationship today, since this number's folklore treats that inward renewal, not outward searching, as where the real new beginning is actually found.",
+      "Nobody outside this relationship gets to notice it's renewing first — that recognition has to happen from inside, between the two people already there, or it won't happen at all. Looking for an external sign that something's shifting misses where 212 actually locates the evidence: inside the bond itself, not around it.",
   },
   {
     number: "171",
@@ -474,7 +474,7 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "171 addresses a specific kind of doubt that arises in twin flame connections — the question of whether what you feel is real, accurate, or just a story you're telling yourself. This number's answer is tied to your current self-belief: when confidence in yourself is solid, your read on the connection is reliable, because the two aren't actually separate. In separation, notice whether doubt about the connection spikes precisely when your self-trust dips — that pattern is usually more about you than about them. In reunion, the clarity you're feeling right now is genuinely trustworthy.",
     manifestation:
-      "171 manifests by trusting self-belief as the source of clear instinct — the practical move is acting on one gut read today without first seeking outside confirmation, since this number's folklore treats that self-trust, not external validation, as what makes the instinct reliable.",
+      "Run the same gut read through two different starting points: confidence first, then the read; or outside reassurance first, then the read. 171 says only the first order produces something reliable — the read itself doesn't change, but its trustworthiness does, depending entirely on where the confidence came from.",
   },
   {
     number: "181",
@@ -510,7 +510,7 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "181 puts the pace of reconnection directly in your hands — not through waiting or watching for their move, but through the quality and consistency of the actions you take on your own behalf right now. The mirror structure here reflects the same principle back: what you do on one side of the connection registers on the other, even without visible confirmation. If contact has been quiet, 181 isn't asking you to reach out — it's asking whether your daily actions match the pace you want this connection to develop at. That alignment, chosen and practiced, is what shifts timing.",
     manifestation:
-      "181 manifests through direct, self-initiated action rather than passive waiting — the practical move is taking one concrete step today that you initiate yourself, since this number's folklore treats personal agency, not sensed timing, as the actual mechanism here.",
+      "Ahead of any felt confirmation that abundance is on its way, 181 asks you to move anyway — where 1188 waits for the sensing first, 181 treats the sensing as optional and the initiating action as the actual mechanism. You're not merely noticing a door opening; you're the one making it open.",
   },
   {
     number: "191",
@@ -582,7 +582,7 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "When both people in a twin flame connection are separately grounded, the quality of communication between them changes noticeably — less reactive, more honest, more willing to say the actual thing. 343 points at that mutual calm as a meaningful indicator, not just a pleasant circumstance. In separation, check whether your expression around this connection is becoming calmer and more honest over time — that calming is a genuine readout of how the inner work is going, not just a sign of giving up or moving on. The clarity in expression is the evidence.",
     manifestation:
-      "343 manifests by consciously crediting an existing foundation for current creative ease — the practical move is naming one piece of stability that's enabling a specific expression today and building on it deliberately, since this number's folklore treats that acknowledged link as what sustains the flourishing.",
+      "Crediting this to a lucky streak of inspiration misses what's actually going on — underneath it is a foundation steady enough that it stopped needing double-checking a while ago, and that steadiness is doing the real work underneath. Name that foundation specifically, don't just praise the spark sitting above it, or the picture stays incomplete.",
   },
   {
     number: "1441",
@@ -654,7 +654,7 @@ export const EN_BATCH13_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "2442 in a twin flame context points at a connection where both people's inner stability genuinely mirror and reinforce each other, rather than one person carrying the emotional foundation alone. In reunion, this often shows up as both people having done real inner work independently, so the reunited connection rests on mutual groundedness instead of one-sided need. In separation, this number favors checking whether your own stability is genuinely solid on its own terms, since a mirrored bond can only reflect back what each person actually brings to it.",
     manifestation:
-      "2442 manifests by actively acknowledging mutual stability rather than assuming it or taking it for granted — the practical move is naming, out loud, one way a specific relationship reflects groundedness back and forth today, since this number's folklore treats that acknowledgment as what deepens the mirrored bond further.",
+      "Check which direction the steadiness in this bond has actually been flowing before assuming it's only ever moved one way. The doubled 4 sitting at 2442's center isn't decorative — it marks the groundedness as a two-way current between both people, not one person's export to the other.",
   },
   {
     number: "6006",

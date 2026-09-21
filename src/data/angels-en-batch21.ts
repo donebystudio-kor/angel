@@ -78,7 +78,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "101 marks a narrow, specific window rather than 111's broader amplification, and in a twin flame context that precision usually points at one exact moment — a message, a thought, a name crossing your mind — worth noticing right as it happens rather than after the fact. In reunion, 101 often appears in the days right before contact actually resumes, more as a heads-up to stay alert than a guarantee. In separation, this number favors catching the specific moment your own thinking about them shifts from longing to clarity, since that narrow shift, not a bigger realization later, is what 101 is actually marking.",
     manifestation:
-      "101 manifests by catching a thought right as it crystallizes — the practical move is acting immediately on one idea that feels like it's actively becoming real today, since this number's folklore treats that narrow-window timing, not later reflection, as what matters most here.",
+      "101 isn't a feeling that lingers — it's a specific window, closing fast, where something you're mulling over tips into something you could act on. Catch it while that tipping point is still open; there's no partial credit for noticing after it's already closed.",
   },
   {
     number: "102",
@@ -114,7 +114,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "102 calls for movement despite incomplete information, not waiting for certainty that may never fully arrive. In a twin flame context this favors taking one actual step, reaching out, being honest about where you stand, without needing guaranteed proof of how it lands first. In reunion, 102 suggests the step itself, taken on faith, is what the moment is actually asking for, not more waiting for a clearer sign. In separation, this number favors trusting that faith and reasonable caution can coexist, so a genuine step forward doesn't require abandoning judgment.",
     manifestation:
-      "102 manifests by acting on genuine faith rather than waiting for full certainty — the practical move is taking one concrete step today on a decision you've delayed, since this number's folklore treats that trust-based movement, not more waiting, as what the moment calls for.",
+      "Move on the choice that's been sitting there — 102's certainty doesn't arrive on a schedule you can wait out. Delay doesn't buy anything here.",
   },
   {
     number: "103",
@@ -366,7 +366,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "110 favors intuitive confidence specifically as what's needed to move forward from a genuinely open, undetermined starting point, rather than waiting for the situation to resolve on its own. In a twin flame context this applies directly to an undefined stretch, before reunion, mid-separation, unclear signals, where the honest answer is that nothing is decided yet. In reunion, 110 favors trusting your gut to choose a direction even without full clarity, rather than waiting for certainty that may not arrive first. In separation, this number suggests the openness itself isn't a problem to wait out, it's asking for your intuition to actively navigate it now.",
     manifestation:
-      "110 manifests by trusting intuition to actively choose from open possibility — the practical move is making one gut-guided choice today rather than continuing to wait for clarity to arrive on its own, since this number's folklore treats that trust as what actually moves things forward.",
+      "An open field left alone doesn't stay open for long — it narrows toward whatever option asks the least of you, unless you interrupt that drift first with an actual choice. Move on instinct today; the missing facts aren't going to arrive before a decision is needed anyway.",
   },
   {
     number: "112",
@@ -402,7 +402,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "112 treats genuine positivity as an active force, not a pleasant mood disconnected from outcomes. In a twin flame context this favors trusting that real, grounded hope, not forced cheerfulness or denial, has a practical effect on what actually becomes possible for the connection. In reunion, 112 suggests the outlook you've been holding is part of what's opening this door, worth continuing rather than second-guessing as naive. In separation, this number favors maintaining honest, grounded positivity as a legitimate stance, distinct from both despair and forced optimism, since it genuinely shapes what stays open.",
     manifestation:
-      "112 manifests by maintaining genuine, grounded positivity rather than forced cheerfulness — the practical move is holding a real positive outlook today about one specific situation, since this number's folklore treats that authentic positivity, not performance, as what actually opens doors.",
+      "112 treats a real upbeat mood as active infrastructure, not decoration layered on top of what's actually happening underneath it. People and openings respond differently to the genuine version than to a performed one that looks identical from the outside — which is exactly why faking it here produces something different, not a repeat.",
   },
   {
     number: "113",
@@ -690,7 +690,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "120 in a twin flame context favors trusting faith as what illuminates the connection's path forward, even when the specific timeline or shape of reunion remains genuinely uncertain. In reunion, this often means the felt sense of trust in the connection matters more right now than having every practical detail resolved. In separation, this number favors letting faith in your own path light the way forward, even without certainty about the connection's ultimate outcome, rather than needing full clarity before finding peace.",
     manifestation:
-      "120 manifests by trusting faith as sufficient light for an uncertain path — the practical move is taking one step forward today guided by genuine trust rather than waiting for full certainty, since this number's folklore treats that faith-guided movement as what actually illuminates the way.",
+      "The light 120 offers was never going to cover the whole route at once — a few lit steps ahead is the maximum resolution this kind of trust comes in, not a limitation to fix by waiting for a wider beam. Keep moving inside that shorter range, not holding out for a fuller version of faith that shows you the ending too.",
   },
   {
     number: "121",
