@@ -187,7 +187,7 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Change navigated alongside someone doesn't only deepen an external bond — it reveals something about your own interior. What you reach for when things shift, how you handle uncertainty in the presence of another person, what you're willing to be honest about under pressure: these show up when change is shared. For twin flames, 252 points at individual inner work as inseparable from the shared experience, not something to do privately before connection is possible. In separation, the changes each person is navigating individually are part of what's preparing the connection for whatever comes next. What is the current change specifically showing you about yourself?",
     manifestation:
-      "252 manifests by leaning into shared change rather than resisting it as a threat to closeness — the practical move is navigating one current change together deliberately today, since this number's folklore treats that shared navigation, not shared stability, as what's actually deepening the bond.",
+      "There's no pace this is supposed to match — some connections move through change together quickly, others slowly, and 252 isn't measuring speed. What it's tracking is whether you're actually going through it together, not each handling it solo and comparing notes afterward.",
   },
   {
     number: "262",
@@ -223,7 +223,7 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Partnership centered on small, practical acts of care — checking in, showing up, remembering what matters — generates a specific kind of relational safety for twin flames that more dramatic gestures don't. 262 points at this: what you do quietly and consistently builds the ground that real honesty requires. In a twin flame connection, communication that actually moves things forward tends to rest on a foundation of small, sustained care, not declarations. In reunion, the texture of daily attention is what tells each person whether the closeness is real. What small act of care today would most accurately express what you haven't yet said about this connection?",
     manifestation:
-      "262 manifests through small, consistent acts of care rather than occasional grand gestures — the practical move is one specific caring act today, since this number's folklore treats that consistency, not scale, as what actually deepens the bond.",
+      "No single act here needs to be memorable for 262 to work — it's the accumulation of unremarkable ones that builds the bond, not any one gesture big enough to point to later. 2662 is about splitting responsibility evenly; 262 doesn't track the split at all, only whether the caring keeps happening.",
   },
   {
     number: "272",
@@ -259,7 +259,7 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "272 in a twin flame context points at intuitive certainty as the real confirmation of the bond, more than external circumstances or timing. In reunion, this often shows up as a clear, settled knowing that the connection is right, even before anything concrete has changed on the outside. In separation, this number favors trusting that same intuitive sense about your own path forward, rather than needing external proof of where things stand before feeling settled.",
     manifestation:
-      "272 manifests by trusting felt intuitive certainty as sufficient evidence — the practical move is acting today on one gut sense about a relationship without waiting for external proof, since this number's folklore treats that intuitive confirmation, not accumulated evidence, as what the connection is actually built on.",
+      "The certainty 272 is naming doesn't get more real by successfully explaining it to someone else. If a friend wants the logical case for why this connection feels right and it doesn't fully hold together once spoken — is that actually a flaw in the certainty, or just a limit of what language happens to carry?",
   },
   {
     number: "282",
@@ -295,7 +295,7 @@ export const EN_BATCH15_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Material ease — when shared stability takes some financial and logistical pressure off — has a direct effect on how a connection moves. When that external pressure is lower, the pace of the relationship naturally has more room to breathe without urgency. For twin flames, 282 is a pacer: it asks whether the acceleration you might be feeling is from genuine readiness or from external pressure, because those two feel different once you distinguish them. In reunion, ease allows both people to arrive without urgency distorting timing. In separation, reducing material pressure on yourself first may matter more than you're currently giving it credit. What would change if the external pressure on this connection were lower?",
     manifestation:
-      "282 manifests by consciously recognizing material ease as a relational asset — the practical move is naming one way shared security is easing a specific relationship today and appreciating it directly, since this number's folklore treats that acknowledgment as what sustains the ease further.",
+      "Wherever this ease is actually coming from, 282 insists it has a material root, not a mysterious one — worth tracing directly to whatever specific security is underneath it, not just crediting the relationship's emotional maturity alone. Both things can be true, but the material piece is doing the load-bearing work here. Say so plainly today to the person sharing that security with you, rather than quietly filing the gratitude away unspoken.",
   },
   {
     number: "292",

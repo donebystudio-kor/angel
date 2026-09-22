@@ -258,7 +258,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "106 makes emptying the actual mechanism, not a loss to mourn: clearing old grievances or expectations is specifically what makes room for something real to fill the space. In a twin flame context this favors releasing a specific old resentment or a rigid picture of how reunion has to look, not because the connection doesn't matter, but because the old version is what's blocking room for the real one. In reunion, 106 suggests what's arriving now needed that clearing to have somewhere to land. In separation, this number favors trusting that emptying a specific expectation is generative here, not something you're losing.",
     manifestation:
-      "106 manifests by treating emotional release as generative — the practical move is consciously letting go of one piece of old emotional clutter today, since this number's folklore treats that clearing, not holding on, as what makes room for genuine care to fill in.",
+      "Where 0077 is about proportional clearing, 106 stays relational: care doesn't fill a space still half-occupied by unresolved resentment. Releasing that resentment comes first — planning its replacement while still holding it defeats the clearing before it's finished.",
   },
   {
     number: "107",
@@ -294,7 +294,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "107 asks you to simply accept the reassurance, not search it for hidden doubt, a plainer confirmation than a number like 147's understanding-backed version or 67's calm-emotion-rooted one. In a twin flame context this favors taking a straightforward sign that you're doing this right at face value, rather than immediately looking for the catch in it. In reunion, 107 suggests the confirmation arriving now doesn't need to be second-guessed before you trust it. In separation, this number favors accepting simple reassurance about your current path as genuine, worth resting in rather than habitually hunting for a hidden problem it might be hiding.",
     manifestation:
-      "107 manifests by accepting confirmation at face value rather than continuing to search for doubt — the practical move is trusting your current direction today without further second-guessing, since this number's folklore treats that acceptance as what the reassurance is actually for.",
+      "What 107 offers isn't a reason along with the confirmation — it doesn't owe you one either way. Accepting that the direction is right doesn't require first understanding exactly why. Demanding the explanation before accepting the reassurance turns a simple confirmation into an interrogation it was never meant to survive.",
   },
   {
     number: "109",
@@ -474,7 +474,7 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "114 treats construction as the actual next step, not further refinement of the vision itself. Where a number like 141 emphasizes will as the shaping force, 114 is more concrete: stop polishing the mental picture of this connection's future and start building one real piece of it. In reunion, 114 favors taking one tangible action toward the future you've been imagining, rather than continuing to only picture it. In separation, this number favors treating your own growth as something to actually construct piece by piece now, not a vision to keep refining in your head.",
     manifestation:
-      "114 manifests by shifting from vision to construction — the practical move is taking one concrete building step today on an idea you've been holding, since this number's folklore treats that active construction, not further refinement, as what the moment calls for.",
+      "114 doesn't require the vision to be fully resolved before construction starts — building around the parts still fuzzy usually clarifies them faster than more time spent refining an idea that's still only imagined. Pick whichever piece has enough clarity to build today, and start there, leaving the fuzzy parts for later.",
   },
   {
     number: "115",

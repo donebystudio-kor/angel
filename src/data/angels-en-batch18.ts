@@ -656,7 +656,7 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Resetting the entire system — not adjusting what was already in place, but building genuinely new channels for how abundance flows — is the work 0088 assigns to a period of twin flame separation. The doubled 8 here doesn't carry 88's harvest energy; the 0 clears what came before it entirely, making room for construction that starts from scratch. In separation, this means the work of the period isn't about drawing on what was built before the connection; it's about establishing fundamentally new frameworks for material and emotional abundance. What came before may have reached its natural limit. What new structure for abundance are you actually building during this time?",
     manifestation:
-      "0088 manifests by building a genuinely new channel rather than optimizing the existing one further — the practical move is taking one concrete step today toward a new income stream or system, since this number's folklore treats that new infrastructure, not further refinement, as what's actually needed.",
+      "The line between optimizing an old channel and building something that owes nothing to it gets blurry exactly when you want it to — calling a tweak a fresh start doesn't make it one. Build something today that shares no plumbing with what's already there. The real test: would it keep running if the existing channel got shut off tomorrow? If it still depends on that older wiring underneath, it isn't separate yet, no matter what it's currently called.",
   },
   {
     number: "0099",
@@ -692,7 +692,7 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "0099 in a twin flame context marks the genuine, liminal threshold between one stage of the connection and the next, neither fully closed nor fully open yet. In reunion, this often describes the pause between an old dynamic ending and a new one not yet fully forming, a real and legitimate in-between stage rather than a problem to rush past. In separation, this number favors honoring the uncertainty of not yet knowing what comes next, rather than forcing a premature resolution — the threshold itself is part of the process, not a gap to escape as quickly as possible.",
     manifestation:
-      "0099 manifests by honoring a genuine threshold rather than rushing to resolve it — the practical move is deliberately resting in an in-between stage today rather than forcing the next chapter to begin prematurely, since this number's folklore treats that patience with the threshold as what lets the next beginning form properly.",
+      "There's no way to schedule when this particular in-between ends, and treating it like a task with a deadline just adds pressure that has nowhere useful to go. This isn't patience treated like a virtue exercise — it's simply how long thresholds actually run, no shorter no matter how closely the clock gets watched. Most discomfort here comes from mistaking the threshold for a problem that needs solving, not a state that needs sitting in — so which is this actually, and is the response matching that, or fighting it?",
   },
   {
     number: "0110",

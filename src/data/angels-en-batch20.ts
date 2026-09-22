@@ -114,7 +114,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "72 in a twin flame context favors quiet, settled certainty as the real source of stability in the connection, more than dramatic declarations or constant reassurance-seeking. In reunion, this often means the calm, quiet knowing that the connection is right carries more weight than needing loud confirmation from external circumstances. In separation, this number favors trusting a quiet inner certainty about your own path, rather than needing dramatic proof one way or another before feeling settled.",
     manifestation:
-      "72 manifests by trusting quiet certainty as genuinely powerful — the practical move is acting from a calm, settled confidence today without needing to loudly prove or assert it, since this number's folklore treats that quiet trust as sufficient in itself.",
+      "What 72 is naming can look like hesitation to people expecting something louder — that misreading isn't a cue to perform certainty more visibly, it's just a byproduct worth being unbothered by. What matters is that the certainty is genuinely present, not that everyone correctly clocks it as such.",
   },
   {
     number: "73",
@@ -150,7 +150,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "73 marks an active period where inspiration is pouring in faster than usual, worth capturing rather than assuming it'll keep arriving at this rate. In a twin flame context this favors writing down whatever insights, dreams, or sudden understanding about the connection surface right now, since this kind of clarity often comes in bursts rather than a steady stream. In reunion, 73 suggests ideas about how to actually show up, what to say, what to build together, are flowing unusually freely, worth acting on while they're active. In separation, this number favors journaling whatever intuitive downloads arrive during this stretch, since they may not stay this accessible once the intensity passes.",
     manifestation:
-      "73 manifests by actively capturing inspiration rather than passively appreciating it — the practical move is writing down or recording one inspired idea today while it's flowing, since this number's folklore treats that active capture, not trust in memory, as what preserves the insight.",
+      "73 isn't asking for a polished draft — grab the idea raw, in whatever rough shape it's arriving, since inspiration moving this fast doesn't wait around for the right words to show up first. 733 is about saying the exact thing you mean out loud; 73 comes earlier than that, just getting the raw material down before the window closes.",
   },
   {
     number: "74",
@@ -186,7 +186,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "74 credits steady, consistent effort, not luck or circumstance, as the actual cause of a result now taking shape. In a twin flame context this favors recognizing your own sustained inner work, not fate or the universe's timing alone, as what's shaping how the connection is currently unfolding. In reunion, 74 suggests the groundwork you've deliberately kept showing up for is the real reason things are moving, worth owning rather than crediting to coincidence. In separation, this number favors noticing that consistent, unglamorous effort, not a single breakthrough, is what's actually building toward whatever comes next.",
     manifestation:
-      "74 manifests by crediting steady effort as the real cause of results — the practical move is naming one outcome today and tracing it back to the consistent work behind it, since this number's folklore treats that acknowledgment as what reinforces continued persistence.",
+      "744 is about what ongoing preparation is currently building toward; 74 is about an outcome that's already landed. Say to yourself plainly, in so many words, that persistence — not chance — made this happen, even if the moment passes with nobody else noticing. Point directly at the stretch of work behind today's outcome instead of letting the story default to good fortune.",
   },
   {
     number: "75",
@@ -222,7 +222,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "75 confirms that a change already in motion is unfolding exactly where your gut had already sensed it would, the opposite emphasis of 15's active, ongoing guidance. In a twin flame context this favors looking back at what you predicted about the connection weeks or months ago and noticing it's actually playing out that way. In reunion, 75 suggests your earlier read on timing or outcome is being validated in real time, worth trusting more going forward, not less. In separation, this number favors treating an accurate past prediction as evidence your intuition about this connection specifically is reliable, even when the situation felt uncertain at the time.",
     manifestation:
-      "75 manifests by building trust in intuition through its demonstrated accuracy — the practical move is noticing one currently-unfolding change your gut had already predicted, and using that confirmed trust for a decision today, since this number's folklore treats proven accuracy as what makes intuition worth relying on further.",
+      "The prediction isn't required to have landed completely for 75's evidence to count — even a rough, partial directional match between what your gut called and what's now unfolding is real data, not something to dismiss for being imprecise. Perfect accuracy was never the bar being tested here.",
   },
   {
     number: "76",

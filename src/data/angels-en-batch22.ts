@@ -329,7 +329,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "131 credits steady confidence itself, not the perfect approach or timing, as the actual mechanism at work here. In a twin flame context this favors recognizing that your own consistent self-assurance, more than any specific tactic, is what's actually opening room for honest expression here. In reunion, 131 suggests holding your confidence steady is what makes a bolder, more direct kind of contact possible. In separation, this number favors building that steady self-belief now as the real groundwork, since it's confidence itself, not a perfect strategy, that eventually opens the path.",
     manifestation:
-      "131 manifests by trusting steady self-confidence as the path-opener — the practical move is taking one creative or expressive risk today, trusting your own confidence as sufficient, since this number's folklore treats that self-trust as what actually unlocks the opportunity.",
+      "171 is about which order confidence and instinct arrive in; 131 doesn't track sequence at all — it's asking whether the confidence is steady enough, held consistently, to make the risk worth taking. Take the creative risk today specifically because the confidence has held for a while now, not because today happens to feel like a good day.",
   },
   {
     number: "132",
