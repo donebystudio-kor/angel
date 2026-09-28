@@ -42,7 +42,7 @@ love/money/career/summary/titleHook/twinflame은 범위 밖.
 | 2111 | 사람을 지목(조건형) | 전부 "사람" 축으로 일치. spiritual 수정(충돌 해소) |
 | 3111 | 추적 대신 전환(행동형) | 전부 "전환" 축으로 일치. spiritual 수정(충돌 해소) |
 | 8111 | 단일 사건 불요(근거형) | meaning/action/FAQ 일치. spiritual은 **미수정**(약한 긴장뿐, 전면 모순 아님 — 사용자 지시대로 충돌 아닌 건 안 건드림) |
-| 9111 | 명명이 지속시킴(결과형) | meaning/FAQ 신규 작성분은 일치. spiritual은 **미수정** — "worth tracing back and honoring" 등 이번 골격 문구가 잔존하나, manifestation과 논리적으로 모순은 아니라 판단(범위 밖 유지). **잔존 골격 문구는 향후 별도 정리 필요** |
+| 9111 | 명명이 지속시킴(결과형) | meaning/FAQ 신규 작성분은 일치. spiritual은 트랙1에서 **미수정** — "worth tracing back and honoring" 등 골격 문구가 잔존했다. → 이후 "16개 필드 정합성 정리"(`4f103ad`)에서 재작성해 **해소** |
 | 4111 | 아직 A형(원본) | 새 meaning이 "트리거이되 방식이 다름"으로 A형과 호환. spiritual/action은 미수정(A형 그대로, 큰 긴장 없음) |
 | 5111 | 아직 A형 | 새 meaning(순서 문제제기)이 A형과 직접 모순은 아님(A형도 방식만 다르게 서술) |
 | 6111 | 아직 A형 | 새 meaning(지속적 돌봄)이 A형과 직접 모순은 아님 |
@@ -115,10 +115,9 @@ saturates first, then X as the next stage")으로 나왔다.
 4. 초안 직후 답변 골격 grep
 
 ### 잔여 항목
-- 9111 spiritual: "worth tracing back and honoring"이 남아 있다.
-  이번 트랙에서 금지한 골격 문구다.
-  manifestation과 논리적 모순은 아니라 범위 밖으로 뒀다.
-  트랙 4 완료 후 일괄 정리한다.
+- ~~9111 spiritual: "worth tracing back and honoring"이 남아 있다.~~
+  → **해소.** 아래 "X111·111X 16개 필드 정합성 정리"에서 재작성했다(커밋
+  `4f103ad`, 5111·7111 포함). 현재 EN 데이터 grep 결과 0건.
 - 8111 spiritual: manifestation과 약한 긴장 상태. 의도적 유지.
 
 ### 범위 밖으로 남은 필드

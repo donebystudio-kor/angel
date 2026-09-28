@@ -172,7 +172,7 @@ that actually(7999) / the specific(5999) / back to(9994) / the one
 
 | 표현 | 원출처(페이지·필드) | 재사용 여부 |
 |---|---|---|
-| load-bearing | 0101 structure | ⚠️ **위반 — 8778 twinflame(배치4), 345 manifestation(배치5)에서 재사용됨. 수정 대상** |
+| load-bearing | 0101 structure | 8778 twinflame(배치4)·345 manifestation(배치5) 재사용은 **수정 완료**(커밋 `7d5a280`, 0101 원출처 문장도 이때 함께 재작성돼 표현이 사라짐). ⚠️ **신규 위반 1건 미해결 — 282 manifestation(배치14, `06c96b9`)** "the material piece is doing the load-bearing work here". 참고: 0066 twinflame에도 1건 있으나 2026-08-16(`42a5c39`) 작성분이다. 0101 심화 필드(09-03)보다 먼저 쓰인 것이라 재사용 위반은 아니고 기존 잔존분이다(2026-09 grep 기준) |
 | front-loads | 404 distinction | 위반 없음 (원출처 1건만) |
 | one digit-swap away | 400 distinction | 위반 없음 |
 | extra length invites a lazy reading | 4567 misconception | 위반 없음 |

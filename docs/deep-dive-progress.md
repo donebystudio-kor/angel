@@ -47,8 +47,10 @@ ambiguity 6개 필드를 신규로 채우는 작업.
 
 ### 남은 관련 작업
 - 심화 15개 측정: 배포 후 3~4주 시점에 검색 순위 변화 확인
-- 9111 spiritual에 남은 골격 문구 정리 (`x111-track.md` 참조 — X111
-  트랙 4 완료 후 일괄 정리 예정)
+- ~~9111 spiritual에 남은 골격 문구 정리~~ — **완료.** `x111-track.md`의
+  "X111·111X 16개 필드 정합성 정리"에서 spiritual을 재작성했다(커밋
+  `4f103ad`). 같은 문구가 남아 있던 5111·7111도 함께 정리됐다. EN 데이터
+  전체를 grep해도 "worth tracing back"은 0건이다(2026-09 확인).
 
 ## 진행 규칙
 심화 보강(5개)과 manifestation 재작성(20개)을 번갈아 진행한다.
@@ -108,7 +110,9 @@ ambiguity 6개 필드를 신규로 채우는 작업.
 404(structure), 577(ambiguity). 상세 원인·수정 규칙은
 `forbidden-expressions.md` 규칙 B 참조.
 
-### load-bearing 재사용 위반
+### load-bearing 재사용 위반 (수정 완료, 신규 1건 미해결)
 0101 structure에서 만든 시그니처 표현이 배치4(8778 twinflame)·
-배치5(345 manifestation, 작성자 본인 실수)에서 재사용됨. 상세는
+배치5(345 manifestation, 작성자 본인 실수)에서 재사용됨. 커밋
+`7d5a280`에서 0101 원출처를 포함한 3건을 모두 제거했다. 다만 이후 배치14에서
+282 manifestation이 이 표현을 다시 썼다. 현재 상태는
 `forbidden-expressions.md` 3번 항목 참조.
