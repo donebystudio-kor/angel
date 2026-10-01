@@ -517,9 +517,9 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     summary: "A direct, general call to trust your own inner wisdom specifically around a creative choice",
     meaning:
       "137 threads 1 (new beginnings, self) into 3 (creativity, expression) and 7 (insight, wisdom), offering a direct call to trust your own inner wisdom specifically around a creative choice you're facing, rather than continuing to seek outside validation for something you already sense is right. This favors recognizing your own creative instincts as a legitimate, trustworthy source of guidance.",
-    love: "Single: trust your own inner wisdom about a creative or expressive choice in how you're approaching dating, rather than seeking outside opinions on something you already sense is right. Couple: trust your own inner wisdom about a creative choice for the relationship, a shared project, a way of expressing affection, rather than seeking outside validation.",
-    career: "Trust your own inner wisdom about a creative professional choice, rather than continuing to seek external validation for something you already sense is right.",
-    money: "Trust your own inner wisdom about a creative financial approach, rather than continuing to second-guess it based on outside opinions.",
+    love: "Single: write the dating profile, message, or first-date plan in your own voice, even if friends would phrase it differently, because that voice draws the right person. Couple: the way you two celebrate, decorate, or show affection can follow your shared instincts, and those choices rarely improve by polling family for approval.",
+    career: "Submit the design, draft, or proposal the way your instinct shaped it, and keep feedback rounds for the details, leaving the core idea alone.",
+    money: "If you have an unconventional idea for earning or spending, like turning a hobby into a small shop, test it on your own judgment before asking anyone to sign off.",
     spiritual: "This favors trusting your own creative instincts as a legitimate, reliable source of guidance, worth honoring rather than deferring automatically to outside authority.",
     action: "Trust your own inner wisdom today about a specific creative choice, without seeking further outside validation for it.",
     category: "mixed",
@@ -543,9 +543,9 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "137 narrows the question to something creative, distinct from a number like 127's partnership focus: trust your own instinct about how to express something, not whether a decision is settled. In a twin flame context this favors trusting your gut about a specific creative choice connected to this connection, how to say something, what to make, how to show up, rather than seeking outside opinions on something you already sense is right. In reunion, 137 favors acting on that creative instinct directly. In separation, this number favors honoring your own creative read on this time as legitimate guidance, worth trusting rather than deferring to outside authority.",
+      "When an expressive decision touches your twin flame connection — what to write to them, how to mark an anniversary, whether to share a song — 137 sides with your own read. Asking friends or forums to approve an idea your gut has already endorsed usually dilutes it. If contact is open, express the idea in the form it first arrived; that original shape tends to carry more of you. Feedback can still help with polish, but the core gesture should stay recognizably yours. Journaling, art, or music can guide your understanding of these months as well, since your creative instincts know the terrain.",
     manifestation:
-      "137 manifests by trusting inner creative wisdom over external validation — the practical move is making one creative decision today based on your own already-settled sense of it, since this number's folklore treats that self-trust as what the moment actually calls for.",
+      "Whatever creative decision you already feel settled about doesn't need a committee. 127 turns this kind of self-trust toward a partnership question; 137 points it at how you make or express something, and the want lands cleaner coming from your own taste, not the latest outside opinion.",
   },
   {
     number: "138",
@@ -625,9 +625,9 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     summary: "A real challenge worth taking on right now specifically because solid ground already exists beneath it",
     meaning:
       "140 weaves 1 (new beginnings) through 4 (foundation, stability) and 0 (open potential), describing a real challenge that's worth taking on right now specifically because a solid foundation already exists underneath it, distinct from 40's more general framing of unshakeable foundation on its own. This favors recognizing that the existing ground is specifically what makes this particular challenge viable now, worth trusting rather than waiting for even more preparation.",
-    love: "Single: take on a real challenge in your love life, a bold conversation, a new kind of vulnerability, trusting that your existing emotional foundation is solid enough to support it. Couple: take on a real challenge for the relationship together, trusting that your existing foundation is solid enough to support it.",
-    career: "Take on a real professional challenge right now, trusting that your existing foundation is solid enough to support it, rather than waiting for even more preparation.",
-    money: "Take on a real financial challenge right now, trusting that your existing foundation is solid enough to support it.",
+    love: "Single: the steadier life you've built — stable work, good friends, healthier habits — makes this a sound time to risk asking someone out or admitting interest first. Couple: raise the difficult topic you've postponed, such as finances or family plans, while the relationship is on firm footing and can absorb the conversation.",
+    career: "Once your role feels secure, volunteer for the stretch assignment or apply for the senior position, since a firm base is the best place to attempt something hard.",
+    money: "An emergency fund and stable income turn a once-risky financial move, like a retraining course or a modest investment, into a reasonable challenge.",
     spiritual: "This favors trusting existing foundation as sufficient support for a real challenge, rather than assuming more groundwork is needed before taking it on.",
     action: "Take on one real challenge today, trusting that your existing foundation is genuinely solid enough to support it.",
     category: "mixed",
@@ -651,9 +651,9 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "140 goes a step further than a number like 40's general foundational trust: it names an actual challenge worth taking on, specifically because solid ground already exists to support it. In a twin flame context this favors recognizing that a hard conversation, a vulnerable admission, reaching out first, is viable now, not because the outcome is guaranteed, but because you're steady enough to handle it either way. In reunion, 140 suggests this is the moment the existing groundwork was actually for. In separation, this number favors trusting your current stability as sufficient to take on one real, specific risk, rather than waiting for even more preparation first.",
+      "Use the steadiness you've built during this twin flame stretch to attempt the hard thing you keep avoiding: an honest message, an apology, a boundary stated clearly. 140 doesn't promise the outcome; it says you're grounded enough to handle either answer. Steadiness doesn't remove the nerves; it keeps them from knocking you over. In reunion, this is often the moment the earlier inner work was preparing you for. During separation, one real risk taken from a stable place usually teaches what further preparation can't, and shows how much ground you've gained.",
     manifestation:
-      "140 manifests by trusting existing foundation as sufficient support for a real challenge — the practical move is taking on one challenge today rather than waiting for more preparation, since this number's folklore treats that trust in existing ground as what makes the challenge viable now.",
+      "If the ground under you is already solid, 140 goes past the reassurance 40 offers: choose the challenge that ground was quietly built for. Name it, set a start date within the week, and begin before another round of preparation creeps in. Resting on something real, not nerve alone, the stretch that follows tends to hold.",
   },
   {
     number: "141",

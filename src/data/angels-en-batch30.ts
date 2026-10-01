@@ -43,7 +43,7 @@ export const EN_BATCH30_NUMBERS: EnAngelNumber[] = [
     isPlaceholder: false,
 
     twinflame:
-      "As a twin flame timing signal, 1999 is unusually specific — a single new-beginning energy meeting a triple completion wave often means something visible has just started in the physical world (a new chapter in either person's life, a change of circumstances) and that new start is what's bringing the previous cycle to its close. Reunion sightings of 1999 often precede contact by a relatively short window, because the new chapter beginning is completing the separation stage as a function of starting. The marker worth watching: what has genuinely opened or started in your life in the past few weeks?",
+      "In a twin flame story, 1999 often surfaces when something new has started — a new city, a job, a fresh routine on either side — and old patterns between the two of you start to read as finished. The newer chapter didn't end them; it gave you enough distance to see that the old cycle had been running down for some time. Reunion and release both read differently once the new chapter stops getting blamed for the closure. Ask which parts of the separation stage were complete before anything new began, then use that answer to guide your next move toward or away from this person, whatever the start itself seems to suggest.",
     manifestation:
       "Without crediting the new beginning as the cause of what's closing around it, the more useful move for getting what you actually want is reading backward: find the cluster of endings first, then let the new start explain itself as confirmation, not origin. Wanting something to open goes more smoothly once your own fresh start stops being asked to do all the work alone.",
   },

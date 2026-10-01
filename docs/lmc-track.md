@@ -54,7 +54,7 @@ EN 521개의 love / money / career 세 필드를 다루는 트랙이다. 이 세
 | 단계 | 대상 | 규모 | 상태 |
 |---|---|---|---|
 | 1 | 논리 충돌 15페이지(정면 10 + 중간 5) + 7111 manifestation | 1배치 | **완료 (2026-10-01)** |
-| 2 | 정규 manifestation 배치(잔여 213)에 LMC 통합 — 페이지당 manifestation + LMC 4칸 | 배치당 10페이지 권장, 약 21배치 | 배치15부터 |
+| 2 | 정규 manifestation 배치(잔여 213)에 LMC + twinflame 통합 — 페이지당 6칸 | 배치당 10페이지, 약 21배치 | **진행 중 — 배치15 완료, 잔여 203** |
 | 3 | 이미 재작성한 템플릿 페이지 약 146개 LMC 보충 | 약 15배치 | 보류 — 2단계 실측 후 판단 |
 
 손대지 않는 것:
@@ -292,3 +292,211 @@ just that single piece")이었다. manifestation은 범위 밖이라 그대로 �
   LMC와 이미 같은 문장을 공유하는 경우가 많다(진단: LMC~meaning 3-gram
   3개 이상 공유 213페이지). X111 페이지보다 규칙 K 위반률이 높을 수 있다.
   첫 2배치의 실측으로 10페이지가 맞는지 다시 판단한다.
+- **2026-10-02 갱신**: 2단계 범위에 twinflame을 처음부터 넣어 페이지당
+  6칸 = 10페이지 60칸으로 시작했다. 배치15 실측과 재판단은 아래
+  "2단계 — 배치 15" 참조.
+
+---
+
+## twinflame 정면충돌 즉시 수정 (2026-10-02, 2단계 착수와 같은 커밋)
+
+1단계에서 meaning·manifestation·love·money·career·spiritual·action·FAQ를
+맞춘 뒤, twinflame만 옛 논지로 남아 있던 4건을 고쳤다. 다른 필드는 손대지
+않았다.
+
+| 번호 | 충돌 | 수정 전 (문제 문구) | 수정 후 (요지) |
+|---|---|---|---|
+| 7111 | 정면 | "a single moment of genuine insight setting off a wave of internal reckoning" — 통찰을 단언, 단일 순간, wave | "7111 asks a question in twin flame terms before it offers any answer: has something about this connection been understood, or has the pull simply kept going on its own?" — 있을 수도 없을 수도 있다. 확인 전에 단언하지 말라 |
+| 8111 | 정면 | "When a single abundance moment fires the full 111 awakening sequence" — 단일 사건이 원인 | "8111 doesn't hand the twin flame connection one turning point to credit." — 몇 달에 걸쳐 스민 물질적 여유, 기원 설명을 요구하지 말라 |
+| 1999 | 정면 | "that new start is what's bringing the previous cycle to its close" — 시작이 원인 | "The newer chapter didn't end them; it gave you enough distance to see that the old cycle had been running down for some time." — 드러냄 |
+| 6111 | 중간 → 수정 | 첫 문장 "something in the care dimension of the connection triggering a strong wave of new awareness" — 돌봄을 단일 사건·wave로 봄 | "less around one caring gesture and more around the steady flow of attention" — 계속 갱신되는 흐름 |
+
+**6111 판단**: 뒷부분(확신이 눈에 보이는 돌봄의 특정 형태에 의존한다)은
+meaning과 양립했다. 하지만 도입 문장이 meaning이 정면으로 부정하는 "한 번의
+돌봄 사건이 촉발" 프레임이었고, 금지 어휘 wave·triggering도 들어 있었다.
+도입부만 고치면 문체가 섞이므로 전체를 다시 쓰고, 뒷부분의 통찰("one
+familiar shape"에 기대는 의심)은 살렸다.
+
+**경미 3건(2111·3111·9998 twinflame의 "wave" 프레임)**은 이번에 손대지
+않았다. 3단계 대상이다.
+
+검증: 4개 모두 규칙 K(전 필드, 1단계에서 바꾼 LMC 포함) 0건, 금지 표현
+0건. 2단계 60칸과 합친 통합 검사에서 페이지 간 3-gram 6건이 나와 고쳤다.
+길이 561~615자(사이트 중앙값 643).
+
+---
+
+## 2단계 — 배치 15 (첫 통합 배치, 2026-10-02 완료)
+
+### 범위
+페이지당 6칸: manifestation, love 싱글, love 커플, money, career,
+**twinflame**. 10페이지 = 60칸. meaning / spiritual / action / FAQ /
+summary / titleHook는 기준으로만 쓰고 바꾸지 않았다.
+
+### 대상 선정
+- 잔여 213 → 사전 필터 적용 후 168
+  - 필터: 완료본과 2개 이상 비교 관계인 후보 45개 제외. 이번부터 기준을
+    "FAQ 안 숫자 언급"으로 넓혀 양방향으로 셌다.
+- 그중 템플릿기 파일(en-batch16~30) 158개에서 골랐다.
+- mixed 7: AB 84·25·63 / ABB 299·588 / ABC 137·140 (AB·ABB ≤3, 나머지 ≤2)
+- 그 외 3: mirror 9669·7447 / double 4040
+- 10개 모두 4칸 복제 페이지이고, 완료본과 비교 관계 0개 또는 1개
+  (588↔188, 137↔127, 140↔40, 9669↔6996은 각 1개)
+- 규칙 G: 숫자 4를 공유하는 4개(84·140·7447·4040)는 묶어서 따로 어휘
+  검사를 했다. 겹침 0건.
+
+| 번호 | 파일 | meaning 축 |
+|---|---|---|
+| 84 | en-batch20 | 꾸준히 쌓은 노력이 지금 물질적 보상으로 연결된다 — 운이 아니라 그 연결을 인정 |
+| 25 | en-batch26 | 다가오는 변화에 정보가 아니라 믿음으로 뛰어든다 |
+| 63 | en-batch28 | 집안의 작고 평범한 순간이 진짜 의미를 가진다 |
+| 299 | en-batch23 | 관계 안에서 끝과 시작이 동시에, 함께 일어난다 — 누가 이끄는 게 아니다 |
+| 588 | en-batch25 | 188보다 큰 규모의 재정 변화가 다가온다 — 규모에 맞는 준비 |
+| 137 | en-batch22 | 창작 선택에서 외부 승인보다 자기 내면의 판단을 믿는다 (127은 관계 질문) |
+| 140 | en-batch22 | 단단한 기반이 이미 있어서 지금 도전할 만하다 (40은 일반적 확인) |
+| 9669 | en-batch16 | 돌봄의 한 시기가 자연스럽게 완결되어 새 역할의 자리가 생긴다 (6996은 짐 하나 내려놓기) |
+| 7447 | en-batch16 | 직관이 이미 찾은 답을 구체적 행동으로 짓는다 |
+| 4040 | en-batch28 | 안정은 고정된 상태가 아니라 계속 갱신되는 맥박이다 |
+
+### 6칸 배정표 (핵심 동사 · 서법)
+
+서법은 페이지마다 명령 2 / 조건·시간 2 / 평서 2로 정확히 나눴다.
+
+| 번호 | manifestation | 싱글 | 커플 | money | career | twinflame |
+|---|---|---|---|---|---|---|
+| 84 | get filed / write down — 평서(명사구) | look at / let count — 명령 | if… connect — 조건 | is the visible end — 평서 | put… next to — 명령 | when… points at — 조건 |
+| 25 | quit researching / step into — 명령 | if you keep rehearsing… say — 조건 | asks for faith — 평서 | make the switch — 명령 | when… treat the fatigue — 조건 | carries more weight — 평서 |
+| 63 | meets… at a scale — 평서(전치사구) | notice — 명령 | when… pause — 조건 | track — 명령 | can say more — 평서 | if you're waiting… redirects — 조건 |
+| 299 | if… want jointly — 조건 | can be changing — 평서 | name together — 명령 | when… arrange — 조건 | makes for — 평서 | picture — 명령 |
+| 588 | sizes the shift — 평서(숫자) | if… factor in — 조건 | sit down together — 명령 | rewards a review — 평서 | when… renegotiate — 조건 | prepare — 명령 |
+| 137 | doesn't need a committee — 평서(관계절) | write — 명령 | can follow — 평서 | if… test — 조건 | submit — 명령 | when… sides with — 조건 |
+| 140 | if… choose — 조건 | makes this a sound time — 평서 | raise — 명령 | turn into — 평서 | once… volunteer — 조건 | use — 명령 |
+| 9669 | mark the end — 명령 | has come to a close — 평서 | if… acknowledge — 조건 | redirect — 명령 | leaves space — 평서 | if… marks as complete — 조건 |
+| 7447 | doesn't get truer / turn — 평서(관계절) | if… adjust — 조건 | turn into — 명령 | when… set up — 조건 | have produced — 평서 | stop re-examining — 명령 |
+| 4040 | behaves like a heartbeat — 평서(명사구) | notice — 명령 | when… recognize — 조건 | works like a rhythm — 평서 | count — 명령 | when… suggests — 조건 |
+
+전체 서법 분포(60칸): 명령 20 / 조건·시간 20 / 평서 20 (각 33%).
+1단계에서 같은 서법 3칸 페이지가 6개였는데, 이번에는 0개다.
+
+### 작성·검증 경위
+
+**묶음별 1차 검사**
+
+| 묶음 | 재작성 칸 | 원인 |
+|---|---|---|
+| 1부 (twinflame 4) | 1 | 규칙 K (1999 ~ 1단계 love "suddenly look finished") |
+| 묶음1 (84·25·63·299·588) | 8 | 규칙 K 2, 연결구 "you've been"·"as a" 각 2회, 페이지 안 1 (588 career ~ twinflame "about to alter"), 페이지 간 5 |
+| 묶음2 (137·140·9669·7447·4040) | 10 | 규칙 K 7칸 (그중 9669가 5칸 — meaning·spiritual·action·FAQ가 "season / new person / room for a" 어휘를 반복), 연결구 "doesn't need"·"you've been" 각 2회, 페이지 안 1 (9669 manifestation ~ twinflame), 페이지 간 1 |
+
+**묶음 직후 결말 확인**: 사전 배정에서 벗어난 것이 2건이었고 즉시 고쳤다.
+- 63: 근거 배정 → "so wanting goes better…"로 결과형이 됨
+- 140: 결과 배정 → "because… not on nerve alone"으로 근거·대비형이 됨
+
+최종 결말 분포는 배정과 같다: 결과 2 / 근거 2 / 행동 2 / 질문 2 / 대비 1 /
+조건 1. 수정한 칸이 새 겹침을 만든 회귀가 2건 있었다(25 커플 "a relocation
+a", 9669 manifestation ~ twinflame "looking after someone").
+
+**통합 검사에서만 잡힌 것**
+1. **묶음 경계를 넘는 페이지 간 3-gram 7건**: 25↔140 "a career switch",
+   63↔4040 "is the point", 84↔4040 "the relationship feels", 84↔7447
+   "or an investment", 84↔137 "of this period", 299↔7447 "set up the",
+   588↔7447 "to match that"
+2. **1부(twinflame 4)와 2부(60칸)를 합쳐야만 보인 겹침 6건 + 연결구
+   "not the" 2회**: 1999↔84 "and let that", 1999↔588 "a move a"·"N tends
+   to", 1999↔7447 "for a while", 8111↔63 "waiting for a", 8111↔84 "with
+   this person", 6111↔4040 "your sense of". 1부를 따로 검사했을 때는 상대가
+   없어 보이지 않았다.
+3. **twinflame 재회/이별 2분할 구조 9/14 (64%)**: "Apart, / If you're in
+   contact / During separation / Separated or not"으로 문구는 모두 달랐지만,
+   한 twinflame 안에서 상태별로 나누는 담화 구조는 옛 템플릿("In reunion…
+   In separation…")과 같았다. 5개(63·137·588·4040·7447)에서 2분할을 없애
+   4/14 (29%)로 낮췄다. 3-gram 검사로는 원리상 잡히지 않는다.
+4. 길이: twinflame 1차본 중앙값이 523자로 사이트 분포(643)보다 짧았다. 10개
+   모두 한 문장씩 늘렸고(계획된 보정), 그 문장이 페이지 간 3-gram 3건과
+   manifestation 길이 구간 이탈 2건(588 516자, 137 306자)을 새로 만들어
+   다시 고쳤다.
+
+### 최종 검증
+
+1. **논지 정합성 10건**: 10페이지 모두 meaning / manifestation / love /
+   money / career / twinflame / spiritual / action / FAQ가 같은 방향이다.
+   - 588: FAQ3("경고 아님, 유리할 수 있음")에 맞춰 manifestation에 유리한
+     경우와 불리한 경우를 두 버전으로 넣었다.
+   - 4040: FAQ4("유지에 끊임없는 노력이 필요하지 않음")에 맞춰 twinflame에
+     "하루 빠져도 리듬은 깨지지 않는다"를 넣었다.
+2. 페이지 안 6칸 3-gram: **0건**
+3. 60칸 + 1부 4칸 페이지 간 3-gram: **0건** (twin flame 필수 어휘 제외)
+4. 오프너 서법: 명령 / 조건·시간 / 평서 각 33%. 한 페이지에 같은 서법
+   3칸인 경우 0.
+5. 규칙 K (twinflame 포함 전 필드): **0건**
+6. A형 골격 / LMC·twinflame 전용 금지 / X111 금지 어휘 / **비유 시그니처
+   목록(load-bearing 등)** / 내부 용어 grep: **0건**
+   - 연결구 34개: 각 1회 이하
+   - specific 계열 0, whatever 2 (상한 2)
+7. 기존 코퍼스(나머지 507페이지 전 필드)와 공유 3-gram 440개 / 64칸.
+   대부분 "the other person", "waiting for a", "in your life" 같은 일반
+   표현이다. 다른 페이지 골격을 재사용한 경우는 없다.
+8. 길이 (중앙값, 기존 분포 대비):
+
+   | 필드 | 이번 | 기존 |
+   |---|---|---|
+   | love | 339자 (285~375) | 327 |
+   | money | 162 | 153 |
+   | career | 158 | 160 |
+   | twinflame | 615 (561~675) | 643 |
+
+   manifestation 구간: 100~150 1 / 150~299 3 / 300~399 4 / 400~499 1 /
+   500+ 1 (10개 비례 배정 그대로)
+9. 빌드 통과 (1612페이지)
+
+### 6칸으로 늘린 뒤 비용 변화 (1단계 4칸 대비)
+
+| | 1단계 (4칸 + 7111 manifestation) | 2단계 배치15 (6칸, 1부 4칸 포함) |
+|---|---|---|
+| 칸 수 | 61 | 64 |
+| 재작성 횟수 (계획된 twinflame 연장 10회 제외) | 약 31 (51%) | 48 (75%) |
+| 규칙 K | 13칸 (21%) | 10칸 (16%) — 9669 한 페이지에 5칸 집중 |
+| 페이지 안 중복 | 0 | 4 (전부 twinflame 또는 manifestation이 낀 쌍, 그중 2건은 수정 회귀) |
+| 페이지 간 3-gram | 5 | 21 — **약 3분의 2가 twinflame이 낀 쌍** |
+| 담화 패턴 | 서법 쏠림 1 | twinflame 2분할 1 (5칸 재작성) |
+
+**해석**
+- 6칸이 4칸보다 비싼 이유는 칸 수가 아니라 **twinflame**이다. 한 칸이
+  약 620자로 다른 칸의 4배라 3-gram이 겹칠 표면적이 크다. 또 "재회 / 이별"
+  이라는 고정 기능 때문에 문구를 바꿔도 담화 구조가 수렴한다(규칙 D·E와
+  같은 기제).
+- 규칙 K는 오히려 줄었다. 템플릿기 페이지의 meaning이 X111 페이지보다 짧고
+  단순하기 때문이다. 다만 meaning·spiritual·action·FAQ가 같은 어휘를 4번
+  반복하는 페이지(9669)는 한 페이지에서 위반이 몰린다.
+- 서법 2/2/2 사전 배정은 지켜졌다. 같은 서법 3칸 페이지가 1단계 6개에서
+  0개가 됐다.
+
+### 배치 크기 재판단
+
+**10페이지를 유지한다. 늘리지 않는다.** 대신 절차를 바꾼다.
+
+1. **twinflame은 따로 한 번에 쓴다.** 나머지 5칸을 10페이지 모두 쓴 뒤,
+   twinflame 10개를 한꺼번에 쓰고 그 10개끼리 먼저 대조한다(3-gram +
+   재회/이별 2분할 비율). 이번 페이지 간 겹침의 약 3분의 2가 twinflame에서
+   나왔다.
+2. **twinflame 길이는 처음부터 620자 안팎으로 쓴다.** 사후 연장이 새 겹침
+   3건과 manifestation 구간 이탈 2건을 만들었다.
+3. **별도로 쓴 칸(이번 1부 같은)은 반드시 본 배치와 합쳐 통합 검사한다**
+   (규칙 J).
+4. 다음 배치에서도 재작성 비율이 70%를 넘으면 배치 크기를 8페이지로 줄이는
+   것을 검토한다.
+
+### 예상 못 한 발견
+
+- **템플릿기 페이지는 spiritual·action도 옛 골격이다.** 84 action "trace
+  it directly back to the consistent effort", spiritual 다수 "This favors…
+  worth honoring" 등이다. 논지는 meaning과 같은 방향이라 충돌은 아니지만,
+  2단계 범위(6칸) 밖이라 금지 골격이 그대로 남는다. 2단계 범위에 spiritual·
+  action을 넣을지는 다음 배치 전에 결정해야 한다(넣으면 페이지당 8칸).
+- **twinflame의 옛 템플릿은 문구가 아니라 구조였다.** "In reunion… In
+  separation…" 문구를 금지하자, 새 문장들이 다른 표현으로 같은 2분할을
+  다시 만들었다(규칙 E — 지시가 틀이 되는 다섯 번째 사례).
+- **사전 필터 기준을 넓히자 제외 후보가 45개로 늘었다**(배치14는 20개).
+  FAQ 안 숫자 언급을 양방향으로 센 결과다. 한 자리 숫자 언급(예: 13 ↔
+  1·3)까지 잡혀 과도하게 제외했을 수 있다. 다음 배치부터는 "비교 문항
+  (difference/compare)" 안의 언급으로 기준을 좁히는 것을 검토한다.

@@ -312,9 +312,9 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     summary: "The specific instruction to act on an answer intuition has already found",
     meaning:
       "7447's outer 7s (insight, intuition) hold double 4 (foundation, stability, groundedness), carrying a specific instruction: take the answer intuition has already found and build it into concrete, grounded action, rather than continuing to sit with the insight. Distinct from 474's framing of foundation holding because it's built on verified understanding, 7447 is more directive: the insight is treated as already sufficient, and the task now is construction.",
-    love: "Single: you already know, intuitively, what you want from dating — the task now is building concrete steps around that knowing, not continuing to reflect on it further. Couple: act concretely on an intuitive understanding you've already reached about the relationship, rather than continuing to only think about it.",
-    career: "Build a concrete plan around a professional insight you've already intuitively settled on, rather than continuing to deliberate — the understanding phase is complete.",
-    money: "Build a concrete financial plan around a decision your gut has already settled on, rather than continuing to second-guess it.",
+    love: "Single: if you already know you want something serious and local, adjust your app settings, schedule, and social plans that fit that answer this week. Couple: turn the understanding you've reached about the relationship into a visible arrangement, a shared calendar, a moving plan, a new weekly habit.",
+    career: "Months of thinking about a career direction have produced enough clarity, and the useful work is now drafting the résumé, the pitch, or the course enrollment.",
+    money: "When your instinct about a purchase, a budget, or where to invest has held steady for a while, set up the automatic transfer or the account that puts it into practice.",
     spiritual: "This favors recognizing when reflection is complete and construction should begin — the insight phase is done, and grounded action is the actual next step.",
     action: "Take one concrete, grounded action today that builds directly on an intuitive answer you've already found, rather than reflecting on it further.",
     category: "mirror",
@@ -338,9 +338,9 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "Readiness to act on an intuitive answer, rather than continuing to reflect on it, is a specific reunion timing signal. 7447 marks the point where the insight phase is complete and construction should begin — not more processing, but actually building on what intuition has already found. For twin flames, this is significant because both reunion and sustained connection require concrete action, not just increasingly refined clarity. In reunion, the moment when reflection shifts to building is often what timing responds to. In separation, check whether you've been processing the same intuitive knowing repeatedly without moving to action. What does your intuition about this connection already know that you haven't yet acted on?",
+      "Stop re-examining what your intuition already told you about this twin flame connection and start shaping your life around it. 7447 appears when the insight stage is finished and construction is due: practical steps, honest conversations, choices that reflect what you know. Reunion tends to respond to that shift from processing to building, since a connection needs a lived structure, not only deeper clarity. Construction can be small: a changed routine, a clear message, a decision written down and kept. Ask which conclusions about the bond you keep revisiting without acting on, and pick one to act on.",
     manifestation:
-      "7447 manifests by shifting from reflection to construction — the practical move is taking one concrete step today that builds directly on an already-settled intuitive answer, since this number's folklore treats that shift to action, not more thinking, as what's actually called for.",
+      "What your gut settled weeks ago doesn't get truer with more journaling. 7447 marks the switch from reflection to building, so turn the answer into a first concrete piece — book it, draft it, schedule it — before the day ends.",
   },
   {
     number: "7557",
@@ -600,9 +600,9 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     summary: "A period of caregiving reaching genuine completion, opening room for a new role",
     meaning:
       "9669 wraps double 6 (home, care) in 9s (completion, mission) on both sides, describing a season of caregiving, for a person, a role, a responsibility, reaching genuine completion, making room for a new role to begin. Distinct from 6996's framing of permission to release a burden, 9669 is broader: it marks the caregiving season itself as having fully run its natural course, not just permission to set something down early.",
-    love: "Single: a caregiving season, for a family member, a friend, an old partner, has genuinely concluded, opening real room for you to focus on your own needs in a new way. Couple: a specific caregiving role within the relationship, caring for a shared project, a family member, a hard period, has genuinely concluded, opening room for a different kind of role between you now.",
-    career: "A caregiving or mentoring role at work has genuinely reached its natural completion, opening room for a different kind of professional role now.",
-    money: "A season of financially supporting or caring for someone else has genuinely concluded, opening room for redirecting resources toward a new priority.",
+    love: "Single: a long period of caring for someone else, a parent, a sibling, a friend in crisis, has come to a natural close, and the energy it used is now yours to direct toward dating. Couple: if one of you has been nursing the other, or both have been raising small children, acknowledge together that this caregiving phase is closing and discuss what roles come next.",
+    career: "A mentoring or team-lead role that has wound down at work leaves space to contribute differently, and filling it automatically with another caretaking duty isn't required.",
+    money: "Redirect the money that went to supporting a relative or covering someone's care toward a goal of your own, now that the obligation is finished.",
     spiritual: "This favors recognizing when a caregiving role has fully and naturally completed its purpose, honoring that completion rather than searching for a new person or situation to care for immediately.",
     action: "Acknowledge one caregiving season that's genuinely concluded, and consciously step into whatever new role is opening as a result, rather than immediately seeking a new person or situation to care for.",
     category: "mirror",
@@ -626,9 +626,9 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "Caregiving that has run its full, natural course — not abandoned but genuinely completed — releases something that's been held in place by the weight of it. 9669 marks this specifically: doubled caregiving (6) framed by completion (9) on both sides, describing a season of care reaching its actual endpoint. For twin flames, this often appears around the end of attending to someone else — a family member, a friend, an old connection — that was running alongside the twin flame dynamic. Releasing it isn't abandoning care; it's recognizing when care has accomplished its purpose. What caregiving role has recently come to its natural end that you haven't yet fully released?",
+      "If you've been looking after someone alongside your twin flame journey — an ill parent, a struggling friend, an old relationship you kept propping up — 9669 marks that care as complete. Ending it isn't abandonment; the task has done what it was meant to do. That release often frees attention the connection could never get while the other duty filled your days. Some people find the connection reads more clearly once they're no longer exhausted from carrying someone else. Before taking on a new responsibility, notice how you'd like to use the room this ending has opened.",
     manifestation:
-      "9669 manifests by consciously honoring a completed caregiving season rather than immediately filling the space — the practical move is acknowledging today that a specific role has genuinely concluded, since this number's folklore treats that recognition as what opens the next role cleanly.",
+      "Mark the end of this long stretch of tending to someone before reaching for another person or project to look after. Where 6996 grants permission to put one burden down early, 9669 describes a whole stretch of care that has naturally finished: the child who moved out, the parent who recovered, the friend who no longer needs daily support. Leaving that space briefly empty can feel uncomfortable, especially if caring has shaped your identity for years. Use the pause to ask what you want your next role to be, because a role chosen consciously tends to fit far better than one grabbed to fill a silence.",
   },
   {
     number: "9779",

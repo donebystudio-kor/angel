@@ -58,9 +58,9 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     summary: "A significant, larger-scale shift in your financial flow approaching, bigger than a routine change",
     meaning:
       "588's 5 (change, freedom), carried on doubled 8 (abundance amplified), describing a significant, larger-scale shift in your financial flow that's approaching, distinct from 188's more modest, routine framing. This favors preparing for a genuinely substantial shift, not a minor adjustment, worth taking seriously.",
-    love: "Single: a significant shift in your financial circumstances may soon meaningfully affect your love life — prepare for something substantial, not a minor change. Couple: a significant shift in the household's financial situation is approaching — prepare together for something substantial.",
-    career: "A significant shift in the financial dimension of your career is approaching — prepare for something substantial, not a minor adjustment.",
-    money: "A significant, larger-scale shift in your financial flow is approaching — prepare for something substantial, reviewing your situation thoroughly rather than making minor tweaks.",
+    love: "Single: if a relocation, a new salary, or a major expense is about to change your daily life, factor it into who and how you date, since a big practical shift will reshape your availability. Couple: sit down together with every account and obligation in view before the larger shift lands, so neither partner meets the new reality unprepared.",
+    career: "When a restructure, a commission jump, or a career pivot will substantially change your income, renegotiate commitments and timelines at work before the change arrives.",
+    money: "A shift of this size — an inheritance, a layoff, a business sale, a big raise — rewards a complete review of cash flow, taxes, and emergency reserves over small tweaks.",
     spiritual: "This favors recognizing the scale of an approaching shift accurately, neither underestimating nor catastrophizing it.",
     action: "Take one substantial preparatory step today for a significant financial shift that's approaching, rather than a minor adjustment.",
     category: "mixed",
@@ -84,9 +84,9 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "588 describes a significant, larger-scale shift in material circumstances approaching, distinct from smaller, routine financial changes. In a twin flame context this favors preparing for a real, practical life shift, a move, a job change, a financial change, that will meaningfully affect the circumstances around the connection, not just the emotional side of it. In reunion, 588 suggests a substantial change in your practical situation is part of what's actually clearing the way for contact to become realistic, not just emotionally right. In separation, this number favors taking a significant material shift seriously as relevant to the journey, rather than treating practical life as separate from the spiritual process.",
+      "Prepare for practical change as part of the twin flame path, not a distraction from it. 588 tends to appear when a large material shift — a move, a new job, a different financial footing — is about to alter the circumstances around the connection. Reunion often depends on logistics as much as feelings, and a substantial change in where you live or what you can afford may be what turns contact from a wish into a plan. Treat the upheaval as part of your own growth too, and give it the planning a shift this size deserves. Make the practical plan first and let the emotional meaning catch up afterward.",
     manifestation:
-      "588 manifests through substantial, thorough preparation rather than a minor tweak — the practical move is reviewing your overall financial situation today in anticipation of a significant shift, since this number's folklore treats that scale-appropriate readiness as what makes the transition manageable.",
+      "588 sizes the coming financial shift well above the routine adjustment 188 points to, and the planning has to match that scale. A quick glance at your balance won't cover it; a full pass through income, debts, insurance, and next year's big expenses will. Sketch two versions of the year, one where the shift lands in your favor and one where it costs you, so neither outcome catches you flat. If the change turns out smaller than expected, the extra preparation becomes a stronger baseline.",
   },
   {
     number: "599",

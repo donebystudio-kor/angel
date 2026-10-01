@@ -374,9 +374,9 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     summary: "A season where consistent past effort is now specifically translating into material reward",
     meaning:
       "84 joins 8 (abundance) and 4 (foundation, effort), describing a season where consistent effort already invested is now specifically translating into material reward, rather than reward arriving independently of past work. This favors recognizing the direct link between what you've already put in and what's now coming back, worth celebrating rather than dismissing as luck.",
-    love: "Single: the consistent effort you've put into your own growth is specifically translating into a season of reward in your love life now — recognize that link rather than crediting luck. Couple: the consistent effort you've both put into the relationship is specifically translating into a rewarding season now — recognize and celebrate that link.",
-    career: "The consistent professional effort you've put in is specifically translating into material reward now — recognize that direct link rather than downplaying it as luck.",
-    money: "The consistent financial effort you've put in is specifically translating into material reward now — recognize and celebrate that direct link.",
+    love: "Single: look at how much more at ease you are on dates after a year of therapy, gym mornings, or simply showing up for friends, and let that ease count as something you built. Couple: if the relationship feels easier lately, connect it to the unglamorous repairs you both kept making — the apologies, the budgeting nights — so luck doesn't get the thanks those habits earned.",
+    career: "Put the promotion or client win next to the skills you practiced while nobody was watching, and bring that pairing to your next review as evidence.",
+    money: "A raise, a paid-off card, or an investment finally in the green is usually the visible end of a long line of boring deposits, and that line deserves a place in how you plan.",
     spiritual: "This favors recognizing reward as directly connected to past effort, worth honoring the effort itself rather than crediting the outcome purely to fortune.",
     action: "Name one specific reward arriving now, and trace it directly back to the consistent effort that produced it, celebrating that link today.",
     category: "mixed",
@@ -400,9 +400,9 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "84 pairs abundance with foundation to mark effort you've already invested translating specifically into material, tangible reward, not just an internal sense of progress. In a twin flame context this favors noticing concrete, practical signs, better circumstances, resources, opportunity, that trace directly back to work you've done around the connection. In reunion, 84 suggests tangible conditions are improving because of effort already put in, not arriving independently of it. In separation, this number favors recognizing when practical aspects of your life are genuinely better because of growth work done during this stretch, worth celebrating as real payoff, not luck.",
+      "When a twin flame stretch suddenly gets practically easier — a better job that allows travel, a stable home, savings that make a visit possible — 84 points at the groundwork you laid during the harder months. Those improvements didn't drop in from outside the story; they grew out of choices you kept making while nothing seemed to move. If contact returns, that tangible readiness is part of what can make it last. Effort doesn't guarantee the outcome you want in this connection; it means the footing you stand on now is real, and you made it. Separated or not, count the material gains of this period as your own work paying out, and keep the habits that produced them.",
     manifestation:
-      "84 manifests by consciously crediting past effort for current reward — the practical move is naming one specific reward today and tracing it back to the consistent work behind it, since this number's folklore treats that acknowledgment as what reinforces continued effort.",
+      "Rewards that arrive after months of quiet consistency tend to get filed under good timing, and that filing habit costs you something: it hides the lever you can pull again. Write down what the steady work was — the hours, the habit, the repeated small choice — beside what it's now paying, and your following goal starts from a method you've already proven, not from hope.",
   },
   {
     number: "85",

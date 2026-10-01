@@ -516,9 +516,9 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     summary: "A mutual, simultaneous ending and beginning happening together within a relationship",
     meaning:
       "299 holds 2 (partnership), intensified by a doubled 9 (completion amplified), describing a mutual, simultaneous ending and beginning happening together within a relationship, both people closing one chapter and opening the next in tandem, rather than one person leading and the other following. This favors recognizing and honoring that the transition is genuinely shared.",
-    love: "Single: if a mutual friendship or connection is transitioning, notice that both people are ending and beginning something together, in tandem, rather than one person driving the change alone. Couple: the relationship is ending one chapter and beginning another together, in tandem — honor that mutuality rather than framing either person as leading or following the transition.",
-    career: "A professional partnership is ending one chapter and beginning another together, in tandem — honor that mutuality rather than framing it as one-sided.",
-    money: "A financial partnership is ending one arrangement and beginning another together, in tandem — honor that shared transition.",
+    love: "Single: a friendship or a casual connection can be changing on both sides at once, each of you outgrowing the old version together, with no one to blame for the shift. Couple: name together the phase you're both leaving behind — the student years, the long-distance stretch, the newborn months — so neither of you carries the change alone.",
+    career: "Two coworkers leaving a project together, or a manager and you both changing roles, makes for a parallel transition that runs smoother when the handover is planned jointly.",
+    money: "When a joint lease, account, or business arrangement ends for both parties simultaneously, arrange the replacement side by side so the new terms reflect two people's starting points.",
     spiritual: "This favors recognizing mutual, simultaneous transition as its own distinct experience, worth honoring as shared rather than assuming one person is leading it.",
     action: "Acknowledge today, with the other person if possible, that a transition you're both going through is genuinely mutual and simultaneous.",
     category: "mixed",
@@ -542,9 +542,9 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "299 in a twin flame context favors recognizing a mutual, simultaneous transition, both people ending one stage and beginning another together, rather than one person ahead of the other. In reunion, this often means both people are ready for the next stage at genuinely the same time, a synchronicity worth trusting rather than second-guessing. In separation, this number favors recognizing that both people may be going through parallel transitions independently, even at a distance, rather than assuming only one side is changing.",
+      "Picture the transition in your twin flame connection as two people walking through doorways at the same moment, with neither one ahead. 299 describes endings and beginnings arriving for both of you together, even when you can't see the other side's version. Mutual change doesn't require synchronized timing down to the day; it means both lives are genuinely moving at once. If you're in contact, compare notes on what each of you is finishing; the overlap is often larger than expected. If you're apart, consider that their life may be turning a page alongside yours, and allow that possibility to soften the story that only you are changing.",
     manifestation:
-      "299 manifests by honoring a transition as genuinely mutual — the practical move is acknowledging today, ideally together, that both people are ending and beginning something at the same time, since this number's folklore treats that shared recognition as what makes the transition land well for both.",
+      "If you and someone close are both wrapping up an old stage and starting a fresh one at once, want what comes after jointly, with nobody cast as leader or follower. Which part of this shift have you assumed was yours alone?",
   },
   {
     number: "311",

@@ -516,6 +516,42 @@ itself not just"). 같은 원인으로, meaning을 새로 쓴 페이지의
 love/money/career가 옛 논지를 그대로 말하는 충돌도 아무도 잡지 못했다
 (`lmc-track.md` 참조).
 
+### 규칙 K 재확대 — twinflame 포함 (2026-10-02, LMC 2단계부터)
+
+**대조 범위에 twinflame을 추가한다.** 규칙 K의 최종 대조 범위는 같은
+페이지의 다음 전부다.
+- meaning
+- manifestation
+- love(싱글·커플) / money / career
+- spiritual
+- action
+- FAQ 전 문항
+- **twinflame**
+
+**확대 이유**: LMC 1단계에서 meaning부터 FAQ까지 맞춰 놓은 뒤에도
+twinflame만 옛 논지로 남아 있었다. 7111("a single moment of genuine
+insight setting off a wave"), 8111("a single abundance moment fires…"),
+1999("new start is what's bringing the previous cycle to its close")가
+meaning과 정면충돌했다. 이것은 love/money/career를 범위 밖으로 두었다가
+13배치 뒤에 발견한 경로와 같다. **"범위 밖" 필드는 남김없이 대조 범위에
+넣는다.**
+
+**twinflame 전용 금지 골격** (템플릿기 페이지에 반복):
+- "In a twin flame context this favors…"
+- "In reunion, [N] suggests… In separation, this number favors…"
+- "this number favors" 전체
+
+**재회/이별 2분할 구조 상한 — 40% 이하**: 한 twinflame 안에서 "재회
+시엔… / 이별 중엔…"으로 나누는 담화 구조는, 문구를 바꿔도 옛 템플릿의
+골격이 그대로 남는다. 배치15 1차본에서 "Apart, / If you're in contact /
+During separation" 등으로 문구는 모두 달랐지만, 이 2분할이 14개 중 9개
+(64%)였다. 5개를 다시 써서 4/14(29%)로 낮췄다(규칙 E — 지시가 틀이
+되는 경우). 2분할은 배치 전체 twinflame의 40% 이하로 관리한다.
+
+**twinflame 필드 필수 어휘**: "twin flame connection", "your twin flame"
+같은 3-gram은 이 필드의 필수 어휘라, 숫자 표준 어휘(규칙 G)처럼 페이지 간
+3-gram 대조에서 제외한다. 같은 페이지 안 대조에서는 제외하지 않는다.
+
 ### 규칙 L — 페이지 안 4칸 복제 금지 (LMC 트랙, 2026-10-01)
 
 love 싱글 / love 커플 / money / career 네 칸이 같은 문장에 도메인
@@ -529,6 +565,11 @@ love 싱글 / love 커플 / money / career 네 칸이 같은 문장에 도메인
 2. 네 칸이 말하는 대상을 가른다. 싱글은 아직 관계가 없는 사람,
    커플은 관계 안의 사람, money는 돈·자원, career는 일.
 3. 작성 후 페이지 안 4칸끼리 3-gram 검사를 한다. 목표는 0건이다.
+
+**2단계부터 6칸 + 서법 배정**: manifestation, love 싱글, love 커플,
+money, career, twinflame 6칸을 같은 원칙으로 배정한다. 서법(명령 /
+조건·시간절 / 평서)은 한 페이지 안에서 같은 것이 2칸을 넘지 않게 한다.
+6칸을 3종으로 나누면 각 2칸씩, 이 배분 하나만 가능하다.
 
 **LMC 1단계 실측**: 배정을 먼저 하자 1차 초안에서 페이지 안 4칸
 3-gram이 15페이지 전부 0건이었다. 재작성 비용은 4칸 복제가 아니라

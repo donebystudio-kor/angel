@@ -304,9 +304,9 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     summary: "A small, ordinary moment in daily life carrying genuine, real significance worth noticing",
     meaning:
       "63 sets 6 (home, care) next to 3 (creativity, expression), describing a small, ordinary moment in daily home life that carries genuine, real significance, worth actively noticing rather than passing over as unremarkable. This favors recognizing that meaningful moments don't have to be dramatic to be real.",
-    love: "Single: a small, ordinary moment in your daily life carries real significance for your love life right now — notice it rather than only watching for something dramatic. Couple: a small, ordinary daily moment between you carries real significance right now — notice and appreciate it.",
-    career: "A small, ordinary professional moment carries real significance right now — notice it rather than only watching for something dramatic.",
-    money: "A small, ordinary financial moment or decision carries real significance right now — notice it rather than dismissing it as too minor to matter.",
+    love: "Single: notice the evenings alone that already feel good — the cooking, the music, the call with your sister — because the life a partner would join is being built in those hours. Couple: when you catch yourselves laughing over dishes or a shared joke in the car, pause long enough to register it; those unplanned minutes hold the relationship together.",
+    career: "A colleague's quick thank-you or a smooth Tuesday meeting can say more about whether a job fits you than the annual review ever will.",
+    money: "Track one modest money moment this week, such as packing lunch or skipping a fee, and read it as evidence of how your household actually runs.",
     spiritual: "This favors recognizing small, everyday moments as legitimate sites of real meaning, not lesser than dramatic or obviously significant events.",
     action: "Notice and appreciate one small, ordinary moment today as genuinely meaningful, rather than passing over it unremarked.",
     category: "mixed",
@@ -330,9 +330,9 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "63 pushes back against only counting the dramatic signs, a major synchronicity, a big reunion moment, as meaningful. In a twin flame context this favors noticing a small, ordinary moment, a passing thought of them, a quiet sense of ease, as genuinely significant rather than too minor to count. In reunion, 63 suggests the moment that actually matters might be an unremarkable one, not a grand gesture. In separation, this number favors treating small, quiet evidence of your own growth or peace as real progress, worth counting fully rather than waiting for something more obviously dramatic.",
+      "If you're waiting for a dramatic sign about your twin flame — a perfect synchronicity, a movie-scene reunion — 63 redirects attention to quieter evidence. A song that reminds you of them without stinging, a calm morning when the bond feels settled, a short kind exchange: these small scenes carry real information on the state of the connection. Ordinary days of feeling more at peace count as progress in their own right, and the routine stretches between grand gestures are where any bond gets lived. Keep a short note of these moments for a few weeks, and the pattern they form will often speak louder than one dramatic sign.",
     manifestation:
-      "63 manifests by actively noticing small, meaningful moments — the practical move is pausing today to genuinely appreciate one small, ordinary moment, since this number's folklore treats that noticing as what reveals its real significance.",
+      "In 63, home's 6 meets the expressive 3 at a scale too small to photograph, and that smallness is the point: wanting goes better when it starts from what's quietly good already, because meaning in daily life rarely announces itself.",
   },
   {
     number: "64",
@@ -520,9 +520,9 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     summary: "Foundational stability present as a steady, ongoing pulse, not a single confirmed state",
     meaning:
       "4040 repeats the 40 block (4 for foundation, 0 for amplification), describing foundational stability that's present as a steady, ongoing pulse right now, distinct from 40's framing of foundation as a general, confirmed state. Where 40 is a broad confirmation, 4040 emphasizes the active, rhythmic quality of that stability, present and renewing itself continuously.",
-    love: "Single: your sense of personal stability has a steady, ongoing pulse right now, actively renewing itself, worth trusting as continuous rather than a one-time confirmation. Couple: the relationship's stability has a steady, ongoing pulse right now, actively renewing itself.",
-    career: "Your professional stability has a steady, ongoing pulse right now, actively renewing itself — trust that continuous quality.",
-    money: "Your financial stability has a steady, ongoing pulse right now, actively renewing itself — trust that continuous quality.",
+    love: "Single: notice how your weekly routines, workouts, calls, quiet Sundays, keep restoring who you are, and date from that renewed footing. Couple: when things between you feel calm, recognize that the calm is being remade daily through small habits, not settled once and left on a shelf.",
+    career: "Count the reliable rhythms at work, the weekly check-ins and steady output, as a renewing source of security, and plan from it.",
+    money: "Financial security here works like a recurring rhythm, paycheck, savings transfer, bill paid, that keeps refreshing itself without dramatic effort on your part.",
     spiritual: "This favors recognizing stability as an active, continuously renewing pulse, not a fixed, one-time state to simply confirm and move past.",
     action: "Trust today that your foundation is actively, continuously renewing its own stability, rather than treating it as a fixed, one-time confirmation.",
     category: "double",
@@ -546,9 +546,9 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "4040's rhythmically renewing stability describes inner work not as a one-time clearing but as an ongoing practice — and in a twin flame context, that distinction matters. The connection isn't waiting for you to reach a fixed state of readiness; it's developing in response to a rhythm of continuous inner work that you're already doing. In separation, each cycle of that internal renewal is amplifying the foundation the connection will eventually return to. In reunion, 4040 often appears when both people have been independently maintaining that kind of inner steadiness. What part of your inner work has deepened over the last few months without you fully noticing?",
+      "When inner work around a twin flame bond starts to feel like routine, 4040 suggests the routine itself carries the work. Each cycle of reflection, rest, and recommitment renews a foundation that never has to reach a finished state before it counts. Those repetitions keep strengthening the ground the connection stands on, in its present form. If you're already in contact, notice whether both of you have been keeping a similar rhythm, since shared steadiness often outweighs any dramatic breakthrough. Missing a day of practice doesn't break the rhythm, since the renewal belongs to the pattern rather than any one session.",
     manifestation:
-      "4040 manifests by trusting stability as an active, ongoing pulse — the practical move is acting today from confidence in that continuous renewal, rather than treating stability as a single, static fact, since this number's folklore treats that ongoing trust as what the pulse actually confirms.",
+      "Stability under 4040 behaves like a heartbeat, not a certificate: the doubled 40 restates the foundation-plus-amplifier pairing so that steadiness keeps renewing itself on a rhythm. Wanting things from that place works best when the asking stays regular too, small and repeated, matched to the beat already running. Where in your life is that rhythm already beating, unnoticed?",
   },
   {
     number: "5050",

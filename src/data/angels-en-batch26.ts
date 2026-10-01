@@ -523,9 +523,9 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     summary: "A specific invitation to trust a coming change enough to genuinely dive into it",
     meaning:
       "25 blends 2 (partnership, faith) and 5 (change, freedom), describing a specific invitation to trust a coming change enough to genuinely dive into it, rather than standing at the edge deliberating indefinitely. This favors recognizing that faith, more than more information, is what's actually needed to move forward here.",
-    love: "Single: trust a coming change in your love life enough to genuinely dive in, rather than continuing to deliberate at the edge of it. Couple: trust a coming change for the relationship enough to genuinely dive in together, rather than continuing to hesitate at the edge.",
-    career: "Trust a coming professional change enough to genuinely dive in, rather than continuing to deliberate indefinitely at the edge of it.",
-    money: "Trust a coming financial change enough to genuinely dive in, rather than continuing to hesitate for more certainty that may not arrive.",
+    love: "Single: if you keep rehearsing what you'd say to someone interesting, say it to an actual person before the moment cools. Couple: a cross-country move, a career switch for one of you, or a baby on the horizon asks both partners for faith, and another spreadsheet of pros and cons won't supply it.",
+    career: "When a career change has been discussed for so long that the conversation itself feels like work, treat that fatigue as the signal to apply, resign, or pitch.",
+    money: "Make the financial switch you keep circling — the new bank, the index fund, the price change — before another month of comparison charts eats the window.",
     spiritual: "This favors recognizing that faith, not more analysis, is the actual missing ingredient for moving forward with this particular change.",
     action: "Take one step today that genuinely dives into a change you've been trusting but hesitating to fully commit to.",
     category: "mixed",
@@ -549,9 +549,9 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "25 favors diving in over continuing to deliberate at the edge, naming faith, not more information, as the actual missing ingredient. In a twin flame context this favors recognizing when you already have what you need to move, and further analysis is just another form of standing still. In reunion, 25 suggests trusting a coming shift enough to actually step into it, rather than gathering more reassurance first. In separation, this number favors committing to trust a current change fully, since the hesitation itself, more than the uncertainty, may be what's keeping you at the edge.",
+      "Faith carries more weight than information in 25's twin flame reading. Knowing everything about where the other person stands is rarely possible, and the urge to collect more signals before moving can turn into its own kind of stillness. When contact is possible, taking the step you already sense is right — a message, an honest answer, a visit — usually teaches you what months of interpretation couldn't. Faith here doesn't mean ignoring the facts already on hand; it means accepting that the missing pieces won't arrive before you move. During separation, commit to the inner change you've tested from the shallow end, since hesitating longer won't make the water warmer.",
     manifestation:
-      "25 manifests by trusting enough to commit rather than continuing to deliberate — the practical move is diving into one specific change today that you've been hesitating on, since this number's folklore treats that trust-based commitment as what the moment calls for.",
+      "Quit researching the change in front of you; the useful answers stopped arriving a while ago, so step into it this week.",
   },
   {
     number: "26",
