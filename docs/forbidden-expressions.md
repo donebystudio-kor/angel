@@ -488,5 +488,59 @@ A형 골격 grep을 "검증 단계"에서 "작성 절차"로 옮겼더니 위반
 - meaning: 이 숫자가 무엇을 뜻하는가
 - action: 오늘 무엇을 할 것인가
 - manifestation: 원하는 것을 어떻게 이룰 것인가
+- love / money / career: 그 뜻이 연애(싱글·커플)·돈·일 영역에서 각각
+  어떻게 나타나는가
 
-셋이 같은 말이 되면 안 된다.
+넷이 같은 말이 되면 안 된다.
+
+### 규칙 K 확대 — love / money / career 포함 (2026-10-01, LMC 1단계부터)
+
+**대조 범위에 love / money / career를 추가한다.** 이제 규칙 K의
+대조 범위는 같은 페이지의 아래 전체다.
+- meaning 전체
+- manifestation
+- spiritual
+- action
+- FAQ 전 문항
+- **love(싱글·커플) / money / career**
+
+어느 필드를 쓰든 나머지 전부와 대조한다. manifestation을 쓸 때는
+love/money/career와도 대조하고, love/money/career를 쓸 때는
+manifestation과도 대조한다.
+
+**확대 이유 (실측)**: love/money/career가 대조 범위 밖이라, 정규 배치
+1~14에서 재작성한 manifestation 10개가 같은 페이지 love/money/career의
+표현을 가져다 썼다(19·76·191·321·505·3366·5665·8558·0606·0555 — 각
+2~5개 3-gram 공유. 예: 191 "a fully processed lesson", 3366 "the warmth
+itself not just"). 같은 원인으로, meaning을 새로 쓴 페이지의
+love/money/career가 옛 논지를 그대로 말하는 충돌도 아무도 잡지 못했다
+(`lmc-track.md` 참조).
+
+### 규칙 L — 페이지 안 4칸 복제 금지 (LMC 트랙, 2026-10-01)
+
+love 싱글 / love 커플 / money / career 네 칸이 같은 문장에 도메인
+단어("dating / relationship / financial / professional")만 바꿔 넣은
+복제가 되면 안 된다. EN 292페이지가 이 상태다(`lmc-track.md` 진단).
+
+**필수 절차**:
+1. 작성 전에 네 칸의 **핵심 동사와 문장 구조를 페이지마다 미리
+   배정**한다(명령 / 조건·시간절 / 평서 주어 등이 한 페이지 안에서
+   겹치지 않게).
+2. 네 칸이 말하는 대상을 가른다. 싱글은 아직 관계가 없는 사람,
+   커플은 관계 안의 사람, money는 돈·자원, career는 일.
+3. 작성 후 페이지 안 4칸끼리 3-gram 검사를 한다. 목표는 0건이다.
+
+**LMC 1단계 실측**: 배정을 먼저 하자 1차 초안에서 페이지 안 4칸
+3-gram이 15페이지 전부 0건이었다. 재작성 비용은 4칸 복제가 아니라
+규칙 K(13칸)와 통합 검사(10칸)에서 나왔다.
+
+**LMC 전용 금지 표현** (기존 목록에 추가):
+- specifically what's / is + 동사
+- igniting / overwhelming wave (X111 트랙 금지 어휘 spark·ignite·
+  momentum·wave와 동일)
+- trace it back / honor that spark
+- trust that / trust it / trust the process
+- This favors
+- worth + ~ing
+- rather than / right now — 페이지당 1회 이하 (LMC 1단계는 15페이지
+  전체에서 0회)

@@ -702,9 +702,9 @@ export const EN_BATCH10_NUMBERS: EnAngelNumber[] = [
     summary: "A long stable period naturally making room for change, in that order",
     meaning:
       "4455 pairs 44 (reliability, stability) with 55 (change), and the order is the whole point — this is the reverse of 456's change-settling-into-stability arc. Where 456 marks change landing into a stable shape, 4455 describes stability that's held for a long time now naturally giving way to change, not because anything failed, but because stability, like change, isn't meant to be permanent.",
-    love: "Single: a long stretch of the same dating pattern or relationship status is naturally shifting now, not because something went wrong but because it's simply time. Couple: a long-stable phase of the relationship is giving way to something new — this is a natural evolution, not a sign the stability was false.",
-    career: "A long-held stable role or routine is naturally shifting now. This isn't a sign the stability failed, just that it's served its purpose and change is due.",
-    money: "A long-stable financial situation is naturally shifting — this favors using the existing foundation to support the change rather than abandoning it outright.",
+    love: "Single: once a long run of being comfortably single or dating one familiar type loosens on its own, keep the friendships and routines that steadied you. Couple: a settled phase between you is moving into something new, so decide together which traditions travel with you into it.",
+    career: "After years in one steady role, change is arriving naturally; carry one dependable skill or relationship into the next setup so it isn't a total restart.",
+    money: "When long-steady finances start shifting, let the savings habit you trust anchor the change while other parts of the plan get rewritten.",
     spiritual: "A long-settled belief or practice is naturally due for evolution now, not because it was wrong, but because nothing stable stays static forever.",
     action: "Identify one long-stable area of your life that's naturally starting to shift, and take one step today that uses the existing foundation to support the change, rather than discarding it.",
     category: "double",

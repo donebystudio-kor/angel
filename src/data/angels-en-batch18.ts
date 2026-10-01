@@ -376,9 +376,9 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
     summary: "Abundance's whole system rebuilt from a cleared starting point, not just an amount increasing",
     meaning:
       "0888 combines 0 (clearing, resetting) with 888 (abundance amplified), describing the entire system or approach to abundance being rebuilt from a genuinely cleared starting point, rather than simply an amount increasing within the old approach. This follows the same reset-then-rebuild logic as 0444, applied specifically to financial and material systems: old patterns, old beliefs, old habits around money are being cleared to make way for a rebuilt approach.",
-    love: "Single: your whole approach to how love and abundance connect for you is being rebuilt from scratch, not just improving within old patterns and beliefs about worth and receiving. Couple: your shared approach to abundance as a couple is being rebuilt from a cleared starting point, worth consciously designing fresh rather than defaulting to old patterns from before.",
-    career: "Your whole approach to generating professional or financial abundance is being rebuilt from a cleared starting point, worth consciously redesigning rather than defaulting to old habits.",
-    money: "Your entire system for handling money, budgeting, saving, earning, is being rebuilt from a cleared starting point — this favors consciously redesigning the system rather than patching the old one.",
+    love: "Single: the beliefs about deserving and receiving that shape who you choose are up for complete redesign, and the most patched-together assumption is the place to begin. Couple: rewrite how you two handle shared resources from a blank page — who pays for what, how gifts work — starting with whichever arrangement has caused the most friction.",
+    career: "If your earnings grew by patchwork, one rate bump followed by a side gig, redesign the whole approach on fresh terms, opening with the pay arrangement you've tolerated longest.",
+    money: "Clear the old budget completely and build a new one, beginning with the category you've adjusted so often it no longer makes sense.",
     spiritual: "This favors treating your relationship with abundance as something you can consciously rebuild and redesign, rather than a fixed pattern to work within indefinitely.",
     action: "Redesign one specific piece of your approach to money or abundance from scratch today, rather than patching the old pattern.",
     category: "time",

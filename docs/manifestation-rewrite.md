@@ -764,7 +764,10 @@ manifestation을 그 축 그대로 쓰면 어휘가 자연히 수렴한다는 �
 
 **X111 트랙 완전 종료**: 이번 배치로 X111 트랙 31개 페이지의
 manifestation이 전부 완료돼, 6필드 + manifestation 100% 완료 상태가
-됐다. 상세는 `x111-track.md`의 "X111 트랙 100% 완전 종료" 섹션 참조.
+됐다. 상세는 `x111-track.md`의 "X111 트랙 종료" 섹션 참조.
+(**2026-10-01 정정**: 7111 manifestation은 meaning과 충돌한 채 남아
+있었다. love/money/career와 twinflame도 범위 밖이었다. `x111-track.md`
+정정 노트와 `lmc-track.md` 참조.)
 
 배치 10 과제:
 - 없음(연결구 목록 3배치 연속 포화, X111 트랙 완전 종료 — 다음 배치는
@@ -1721,6 +1724,10 @@ ABA7·AAB4·ABBB2 (mixed 합계 138개). 카테고리 전체 잔여
 놓쳤다. 미수정 상태다.
 
 배치 15 과제:
+- **LMC 2단계 통합 (2026-10-01 결정)**: 배치15부터 각 페이지의
+  love/money/career 4칸을 manifestation과 함께 쓴다. 배치 크기는
+  10페이지를 권장한다. 근거와 절차는 `lmc-track.md`, 규칙 K 확대와
+  규칙 L은 `forbidden-expressions.md` 참조
 - 비유·관용구 금지 목록(`forbidden-expressions.md` 3번)도 A형 골격
   grep과 함께 작성 절차 1순위 grep에 넣을 것
 - 각 묶음(5개) 작성 직후 결말 분류를 즉시 재확인하는 절차 추가

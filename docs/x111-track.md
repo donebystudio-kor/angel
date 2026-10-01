@@ -900,7 +900,34 @@ X111 트랙 31개 중 manifestation이 완료된 것: 2111·3111·7111·8111·
 7999·8999·9993·9994·9995·9996·9997·9998(정규 배치9에서 완료, 14개)**
 = 총 31개.
 
-## X111 트랙 100% 완전 종료 (2026-09-16, 배치9로 마감)
+## X111 트랙 종료 (2026-09-16, 배치9로 마감) — ⚠️ "100% 완료"는 정정됨
+
+> **정정 (2026-10-01)**: 아래 표가 말하는 "100% 완료"는 두 가지 점에서
+> 사실이 아니었다.
+>
+> 1. **7111 manifestation은 완료가 아니었다.** 7111은 트랙 시작 전
+>    정규 배치2에서 manifestation이 재작성돼 "완료"로 분류됐다. 그런데
+>    그 문구("There's usually one specific realization… a single insight
+>    that actually started it")는 트랙1이 새로 쓴 meaning(질문형, 단언하지
+>    않음)과 정면충돌했다. 이 문서 "manifestation 정면충돌" 표에도 7111이
+>    "새로 써야 한다"고 적혀 있었다. 하지만 이미 완료된 번호라 정규 배치가
+>    다시 고르지 않아서 실행되지 않았다. LMC 1단계(`lmc-track.md`)에서
+>    meaning의 질문형 축에 맞춰 재작성했다.
+> 2. **love / money / career는 처음부터 범위 밖이었다.** "6필드"에 이 세
+>    필드는 들어 있지 않았다. X111 16개와 X999 8개는 여전히 "specifically
+>    what's igniting an overwhelming wave" 원본 골격이었고, 그중 8개
+>    (2111·3111·4111·5111·6111·7111·8111·1999)와 9998은 새 meaning과
+>    정면충돌했다. 이 9개와 중간충돌 1119·5999·9992는 LMC 1단계에서
+>    고쳤다. 나머지 X111 트랙 19개의 love/money/career는 아직 옛 골격이다
+>    (경미하거나 충돌 없음 — `lmc-track.md` 참조).
+> 3. 같은 이유로 **twinflame도 범위 밖**이었다. 7111·8111·1999의
+>    twinflame은 아직 meaning과 정면충돌한다(`lmc-track.md` 잔여 항목).
+>
+> 정확한 상태: **meaning·titleHook·summary·spiritual·action·FAQ +
+> manifestation은 31개 완료(7111 manifestation은 2026-10-01 완료).
+> love/money/career는 12개 수정, 19개 미수정. twinflame은 미착수.**
+
+아래는 2026-09-16 당시 기록이다(원문 유지).
 
 **X111 트랙 31개 페이지 전부, 6필드(meaning·titleHook·summary·
 spiritual·action·FAQ) + manifestation까지 100% 완료.** 남은 항목 없음.
