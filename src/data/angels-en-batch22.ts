@@ -445,11 +445,11 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     summary: "A call to actively lead and initiate change, rather than waiting for it or reacting to it",
     meaning:
       "135 weaves 1 (new beginnings, self) through 3 (creativity, expression) and 5 (change, freedom), describing a specific call to actively lead and initiate change through creative, expressive action, rather than waiting for change to arrive or simply reacting to it. This favors recognizing your own agency as the source of the coming shift, not a bystander role.",
-    love: "Single: be the one who actively initiates a needed change in your dating life, through a bold conversation or a new approach, rather than waiting for it to happen to you. Couple: be the one who actively initiates a needed change within the relationship, through honest, creative expression, rather than waiting for circumstances to force it.",
-    career: "Be the one who actively initiates a needed professional change, through a proposal or a bold move, rather than waiting for someone else to make it happen.",
-    money: "Be the one who actively initiates a needed financial change, through a concrete plan or proposal, rather than waiting passively for circumstances to shift.",
-    spiritual: "This favors recognizing your own agency as the source of needed change, rather than experiencing yourself as a passive recipient of whatever happens.",
-    action: "Actively initiate one specific change today, through a conversation or concrete action, rather than waiting for it to happen on its own.",
+    love: "Single: send the first message, suggest the plan, or try the new approach to meeting people yourself, since the shift you want is waiting on your move. Couple: when the relationship needs a new arrangement, propose it creatively, a written plan, a trial month, before frustration forces the change for you.",
+    career: "A stalled team process often stays stalled until someone sketches an alternative and circulates it, and this time that sketch can come from you.",
+    money: "Draft the financial proposal yourself, a new budget split, a raise request, a side-income plan, and put it in front of whoever needs to see it.",
+    spiritual: "When you notice yourself narrating life as events that unfold around you, reclaim the author's role; agency sits at the center of this number's spirit.",
+    action: "Open one overdue conversation or take a first concrete step toward a change you want, before anyone else sets the terms or the timing for you.",
     category: "mixed",
     faq: [
       {
@@ -471,9 +471,9 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "135 puts you in the lead role, not a number like 53's external guidance, but your own initiative as the actual source of the coming shift. In a twin flame context this favors recognizing when waiting for the other person, or for circumstances, to make the first move has quietly become the obstacle itself. In reunion, 135 favors being the one who initiates, a direct conversation, a genuine first step, rather than continuing to wait it out. In separation, this number favors recognizing your own agency as the source of whatever changes next, not a passive position of simply enduring until something else moves first.",
+      "When the twin flame story has turned into a long wait for the other person to move, 135 puts the next step in your hands. Waiting can feel loyal, yet it often hides a fear of being the first to be seen trying. Initiative here doesn't mean pressure; it means refusing to let your own life stay on hold. If contact is open, be the one who proposes the honest conversation or the first concrete plan, framed in your own words, not in hints. If you're separated, start the change you've put off — the move, the course, the creative project — and let the connection meet you wherever that takes you.",
     manifestation:
-      "135 manifests by actively taking the lead on needed change — the practical move is initiating one concrete change today rather than waiting for it to arrive, since this number's folklore treats that active leadership, not passive waiting, as what the moment calls for.",
+      "Among numbers that tie change to expression, 3553 has your words setting off a shift in that very moment; 135 asks something broader of you — to start it yourself. Letting the world move first can feel prudent, yet it quietly hands the timing to someone else. Initiation here doesn't need drama: a proposal drafted, a conversation opened, a first version shared. Which change have you been treating as something that will happen to you, when it could start with you this week?",
   },
   {
     number: "136",

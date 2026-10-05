@@ -552,6 +552,49 @@ During separation" 등으로 문구는 모두 달랐지만, 이 2분할이 14개
 같은 3-gram은 이 필드의 필수 어휘라, 숫자 표준 어휘(규칙 G)처럼 페이지 간
 3-gram 대조에서 제외한다. 같은 페이지 안 대조에서는 제외하지 않는다.
 
+### 8칸 전면 통합 (2026-10-05, 배치16부터)
+
+정규 배치의 작성 범위를 페이지당 **8칸**으로 넓혔다: manifestation /
+love 싱글 / love 커플 / money / career / twinflame / **spiritual / action**.
+meaning과 FAQ만 범위 밖(기준)이다. 규칙 K 대조 범위는 위 "재확대"
+목록 그대로이고, 8칸 중 새로 쓰는 칸끼리는 페이지 안 3-gram 0건이
+목표다.
+
+**spiritual·action 금지 골격** (템플릿기 페이지 전반에 남아 있음):
+- "This favors…" (spiritual 다수가 이 문장으로 시작)
+- "worth honoring" / "worth tracing back" / "worth + ~ing" 전체
+- "trace it directly back" / "trace … back" 활용형 전체
+- "trusting that doing so…" / "trusting that the release itself…" 류
+  (LMC 금지 "trust that"과 같은 계열)
+
+**서법 상한 (8칸)**: 명령 / 조건·시간 / 평서 중 한 서법이 한 페이지에서
+3칸을 넘지 않는다(3/3/2 또는 3/2/3).
+
+**twinflame 2분할 상한 (배치당)**: 재회/이별 2분할 구조는 배치의
+twinflame 8개 중 **3개 이하**다. 나머지는 시간 축(지금/나중), 주체 축(당신/
+상대), 상태 축(앎/모름), 단일 서술(분할 없음) 중에서 배정한다. 3-gram으로는
+안 잡히므로 구조를 직접 분류해 센다.
+
+**칸별 목표 길이 (작성 전에 정한다 — 배치16 실측)**: 사이트 기존 분포의
+중앙값 근처, 25백분위 아래로 내려가지 않게 쓴다.
+
+| 칸 | 25백분위 | 중앙값 |
+|---|---|---|
+| love 전체 | — | 327 |
+| money | 139 | 153 |
+| career | 144 | 160 |
+| spiritual | 143 | 156 |
+| action | 122 | 136 |
+| twinflame | 594 | 643 |
+
+배치16에서 이 기준 없이 쓰자 career·spiritual·action 22칸이 25백분위 미만으로
+나와 사후에 늘려야 했다(재작성 비용의 약 3분의 1).
+
+**twinflame 사전 대조 범위 (배치16 실측)**: twinflame 8개를 따로 모아
+쓰고 서로 대조하면 페이지 간 겹침은 일찍 잡히지만, **같은 페이지의 나머지
+7칸과의 겹침은 통합 검사에서야 드러났다(5건)**. twinflame 사전 대조에는
+8개 상호 대조와 함께 "각 twinflame ↔ 자기 페이지 7칸" 대조를 넣는다.
+
 ### 규칙 L — 페이지 안 4칸 복제 금지 (LMC 트랙, 2026-10-01)
 
 love 싱글 / love 커플 / money / career 네 칸이 같은 문장에 도메인

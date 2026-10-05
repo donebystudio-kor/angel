@@ -88,11 +88,11 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
     summary: "A call to organize intuitive understanding into a repeatable system, not just trust it once",
     meaning:
       "4774's two 4s (foundation, structure) frame double 7 (insight, intuition), describing a specific call to organize intuitive understanding into a structured, repeatable practice, rather than 474's simpler framing of foundation holding because it's built on verified understanding. Where 474 is about checking accuracy once, 4774 is about turning intuition into an ongoing system, a journal, a regular check-in practice, so it becomes a reliable tool rather than a one-time insight.",
-    love: "Single: build a regular practice, journaling, quiet reflection, of checking in with your intuition about dating, rather than relying on occasional flashes of insight. Couple: build a regular, structured practice of checking in with your shared intuition about the relationship, rather than relying on occasional gut feelings alone.",
-    career: "Build a repeatable system for checking your professional instincts, a regular reflection practice, rather than relying on occasional flashes of insight alone.",
-    money: "Build a regular practice of checking in with your financial instincts, rather than relying on occasional gut feelings about money without any structure around them.",
-    spiritual: "This favors turning intuitive practice into a structured discipline, a regular meditation, a journaling habit, rather than waiting for insight to arrive unprompted.",
-    action: "Set up one regular, structured practice today for checking in with your intuition, rather than relying on occasional, unprompted flashes of insight.",
+    love: "Single: keep a short note after each date about what your gut said and what happened next, and review the pattern monthly. Couple: if you both rely on hunches about the relationship, set a monthly check-in where each of you shares what your instincts have been noticing.",
+    career: "Build a simple log at work, decision, gut call, outcome, and revisit it each quarter to see where your instincts earn their keep and where they drift.",
+    money: "A weekly ten-minute review of spending, paired with a line about how each decision felt, turns money instincts you already rely on into a logbook to return to.",
+    spiritual: "When insight arrives only in rare flashes, a steady meditation or journaling rhythm can turn that occasional visitor into a dependable presence.",
+    action: "Choose a fixed time each day this week for five minutes of quiet listening, and record what surfaces in one line, without judging it yet.",
     category: "mirror",
     faq: [
       {
@@ -114,9 +114,9 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "Developing intuition as a structured discipline — not a passive experience, but a practiced skill — is a specific readiness signal for twin flame connections. 4774 describes foundation built through repeated, deliberate intuitive inquiry: checking in regularly, noting what surfaces, building real skill at distinguishing genuine insight from wishful thinking. In reunion, this practiced discernment means you arrive with a reliable internal compass. In separation, becoming genuinely good at reading your own knowing is practical preparation, not theoretical. What intuitive practice are you currently building, and how consistent has it actually been?",
+      "Discernment in a twin flame connection is a skill built through repetition, and 4774 treats your intuition as something to train. A short daily practice — noting what you sensed about the bond, then checking later what happened — slowly separates genuine knowing from hope or fear dressed up as insight. Keep it brief enough that you'll actually continue. During separation, that log becomes a steady companion that keeps you from rewriting the story every time a sign appears. When contact resumes, it gives you a calmer internal compass, so decisions come from tested instincts and not from the intensity of the moment.",
     manifestation:
-      "4774 manifests by building intuition into a repeatable system — the practical move is starting one structured check-in practice today, a journal entry, a regular reflection, since this number's folklore treats that ongoing structure, not occasional insight alone, as what makes intuition a reliable long-term tool.",
+      "What makes intuition dependable over months is routine, not luck. 474 checks one insight for accuracy and stops; 4774 asks for a recurring practice around your inner read, because a habit of listening produces a record you can learn from.",
   },
   {
     number: "4884",
@@ -196,11 +196,11 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
     summary: "Honoring both a genuine desire for change and a real need for stability at the same time",
     meaning:
       "5445's 5s (change, freedom) open and close around double 4 (foundation, stability), describing a real tension worth honoring rather than resolving in favor of one side: wanting change while still genuinely needing stability. Distinct from 4554's framing of change safely happening on top of an already-solid foundation, 5445 puts change as the outer frame and doubled stability as the persistent, legitimate need within it — both desires are real and don't need to cancel each other out.",
-    love: "Single: it's genuinely okay to want new experiences in dating while also needing real emotional stability, both are legitimate, not a contradiction to resolve by picking one. Couple: it's genuinely okay for one or both of you to want change while also needing stability in the relationship — both needs deserve to be honored rather than treated as opposing demands.",
-    career: "It's genuinely okay to want a change in your career while also needing financial or professional stability during the transition — plan for both rather than treating them as opposites.",
-    money: "It's genuinely okay to want financial change, a new investment, a different approach, while also needing to maintain real stability — build a plan that honors both.",
-    spiritual: "This favors recognizing that wanting change and needing stability aren't contradictory — both can be true and held together without one having to win.",
-    action: "Name one way you can honor both your desire for change and your need for stability today, rather than forcing yourself to choose one over the other.",
+    love: "Single: if part of you wants adventure in dating and part wants something steady, look for people and plans that can hold both. Couple: one partner craving novelty while the other needs routine isn't a problem to solve by vote; a shared calendar with fixed anchors and open weekends can carry both.",
+    career: "When a career move tempts you but security still matters, negotiate a bridge like a trial project or phased start, so the jump has a landing waiting for it.",
+    money: "Keep a stable core of emergency savings and fixed bills untouched, and let a smaller, clearly capped slice of money go toward the change you're itching to try.",
+    spiritual: "Wanting movement and needing ground can sit inside one honest life; neither desire has to win for you to feel whole, and holding both is its own maturity.",
+    action: "List one small change you'll make this week alongside one routine you'll protect, and keep both promises through Sunday.",
     category: "mirror",
     faq: [
       {
@@ -222,9 +222,9 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "Both the pull toward change and the need for stability deserve to be honored in twin flame work rather than treated as a contradiction to resolve. 5445 names this as an inner work challenge: how do you remain genuinely open to transformation while keeping the foundational stability that inner growth requires? For twin flames, the answer tends to come from building what might be called a mobile anchor — practices, values, and self-knowledge that hold steady even as circumstances shift. In separation, the quality of change you're going through matters less than whether it's grounded. What do you reach for when change feels destabilizing, and is it actually working?",
+      "When you can't tell whether the twin flame connection is heading toward change or settling into something steady, 5445 says you don't have to pick an answer before you act. What you know is that both needs are real in you: the pull to move, and a hunger for solid footing. What you don't know yet is how they will respond to either. Build around the known part — routines, values, and supports that stay put while circumstances shift — and treat the unknown part as open rather than threatening. Nothing about the connection has to be settled first. That flexible kind of stability lets you stay responsive without losing yourself.",
     manifestation:
-      "5445 manifests by honoring two real needs simultaneously rather than forcing a choice — the practical move is naming one concrete way today to make room for both change and stability, since this number's folklore treats that integration, not a forced either/or decision, as what actually resolves the tension.",
+      "5445 keeps two needs in the same frame without ranking them: the 5s on the outside want movement, the doubled 4 inside wants ground to stand on. 4554 describes change resting safely on a foundation already laid; here neither side is subordinate, and both pulls stay legitimate at once. That's why the useful want is a design, not a verdict — a plan with a fixed core and a flexible edge, such as keeping your home base while taking the short contract, or holding the savings floor while trying the new investment. Forcing a winner tends to backfire, because the need you overrule usually returns louder.",
   },
   {
     number: "5665",

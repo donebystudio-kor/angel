@@ -54,7 +54,7 @@ EN 521개의 love / money / career 세 필드를 다루는 트랙이다. 이 세
 | 단계 | 대상 | 규모 | 상태 |
 |---|---|---|---|
 | 1 | 논리 충돌 15페이지(정면 10 + 중간 5) + 7111 manifestation | 1배치 | **완료 (2026-10-01)** |
-| 2 | 정규 manifestation 배치(잔여 213)에 LMC + twinflame 통합 — 페이지당 6칸 | 배치당 10페이지, 약 21배치 | **진행 중 — 배치15 완료, 잔여 203** |
+| 2 | 정규 manifestation 배치에 전 필드 통합 — 배치15는 6칸, **배치16부터 8칸**(+spiritual·action) | 배치16부터 8페이지, 약 25배치 | **진행 중 — 배치16 완료, 잔여 195** |
 | 3 | 이미 재작성한 템플릿 페이지 약 146개 LMC 보충 | 약 15배치 | 보류 — 2단계 실측 후 판단 |
 
 손대지 않는 것:
@@ -500,3 +500,185 @@ a", 9669 manifestation ~ twinflame "looking after someone").
   FAQ 안 숫자 언급을 양방향으로 센 결과다. 한 자리 숫자 언급(예: 13 ↔
   1·3)까지 잡혀 과도하게 제외했을 수 있다. 다음 배치부터는 "비교 문항
   (difference/compare)" 안의 언급으로 기준을 좁히는 것을 검토한다.
+
+---
+
+## 2단계 — 배치 16 (8칸 전면 통합, 2026-10-05 완료)
+
+### 결정 사항
+- **범위 확대**: spiritual·action을 넣어 페이지당 8칸으로 늘렸다
+  (manifestation / love 싱글·커플 / money / career / twinflame / spiritual /
+  action). love/money/career와 twinflame을 범위 밖으로 뒀다가 별도 트랙을
+  두 번 연 전례를 되풀이하지 않기 위해서다. meaning과 FAQ만 범위 밖(기준)이다.
+- **배치 크기 8페이지** (64칸, 배치15의 60칸과 비슷)
+- **사전 필터 축소**: "FAQ 비교 문항(difference / compare / vs / mirror /
+  reverse 등)의 **질문 문장**에 명시적 비교 대상으로 나온 숫자"만 센다.
+  양방향 집계는 유지한다. 한 자리 숫자의 단순 언급은 제외 사유가 아니다.
+  → 제외 후보 **39개** (배치15 기준 45개). 13처럼 한 자리 숫자만 언급된
+  후보는 이번에 제외되지 않았다.
+
+### 대상 8개 (잔여 203 → 필터 후 164 → 템플릿기 파일 145개 중)
+
+| 번호 | 파일 | 패턴 | meaning 축 |
+|---|---|---|---|
+| 86 | en-batch20 | mixed AB | 불안하게 움켜쥔 걱정이 풍요가 들어올 자리를 막는다 — 걱정을 놓는 것 자체가 실천 |
+| 93 | en-batch20 | mixed AB | 놓아주는 것은 끝이 아니라 새 창조적 성장의 전제 |
+| 288 | en-batch23 | mixed ABB | 한 파트너십 안의 너그러움이 돌아오는 것을 불린다 (96은 가정 전반) |
+| 766 | en-batch25 | mixed ABB | 과잉 분석을 멈추고 가까운 사람을 직접 돌보라 |
+| 135 | en-batch22 | mixed ABC | 변화를 기다리지 말고 스스로 시작하라 — 주체성 (3553은 표현이 변화를 일으킴) |
+| 5445 | en-batch18 | mirror | 변화 욕구와 안정 욕구 둘 다 정당하다 — 하나를 고르지 않는다 (4554는 기반 위의 변화) |
+| 4774 | en-batch18 | mirror | 직관을 반복 가능한 체계로 조직한다 (474는 한 번의 검증) |
+| 9090 | en-batch28 | double | 완결은 작은 마무리들의 꾸준한 리듬 (90은 한 장이 저무는 것) |
+
+숫자를 3개 이상 공유하는 그룹(규칙 G)이 없도록 골랐다(8·6·9·3·7·4·5가
+각각 2개씩).
+
+### 8칸 배정표 (핵심 동사 · 서법 · twinflame 축)
+
+| 번호 | manifestation | 싱글 | 커플 | money | career | spiritual | action | twinflame |
+|---|---|---|---|---|---|---|---|---|
+| 86 | occupy / give an appointment — 평 | if… loosen — 조 | agree — 명 | separate — 명 | when… put a limit — 조 | rarely share a room — 평 | pick — 명 | if… points at — 조 / **시간 축** |
+| 93 | clear / make the gap — 명 | can be retired — 평 | when… try — 조 | if… cancel — 조 | step away — 명 | can be an act of planting — 평 | once… write — 조 | let… end — 명 / **단일 서술** |
+| 288 | when… invest / adjust — 조 | be generous — 명 | are compounding — 평 | grows faster when — 평 | share — 명 | when… notice — 조 | do — 명 | runs in two directions — 평 / **주체 축** |
+| 766 | already has its answer — 평 | if… call or visit — 조 | put down — 명 | needs a gesture — 평 | when… beats — 조 | if… is the move — 조 | choose — 명 | set aside — 명 / **단일 서술** |
+| 135 | asks something broader — 평 | send — 명 | when… propose — 조 | draft — 명 | stays stalled until — 평 | when… reclaim — 조 | open — 명 | when… puts in your hands — 조 / **2분할** |
+| 5445 | keeps two needs — 평 | if… look for — 조 | isn't a vote — 평 | keep — 명 | when… negotiate — 조 | can sit inside — 평 | list — 명 | when… says — 조 / **앎·모름 축** |
+| 4774 | makes dependable — 평 | keep a note — 명 | if… set a check-in — 조 | turns into a logbook — 평 | build — 명 | when… can turn — 조 | choose — 명 | is a skill — 평 / **2분할** |
+| 9090 | if… look at — 조 | is a full closing — 평 | mark — 명 | when… note — 조 | keeps from accumulating — 평 | can arrive in a pulse — 평 | finish — 명 | release — 명 / **2분할** |
+
+- 서법 합계(64칸): 명령 23 (36%) / 조건·시간 21 (33%) / 평서 20 (31%).
+  한 서법이 3칸을 넘는 페이지 0.
+- twinflame 2분할: **3/8** (135·4774·9090) — 상한 이내
+
+### manifestation 4중 배정 (결말 사전 배정 준수)
+
+| 번호 | 길이 | 결말 | 오프너 | 근거출처 |
+|---|---|---|---|---|
+| 766 | 108 | 대비 | 관계절 | 독자상황 |
+| 93 | 217 | 행동 | 동사 | 숫자자체 |
+| 4774 | 238 | 근거 | 관계절 | 비교대상(474) |
+| 288 | 286 | 조건 | 조건절 | 비교대상(96) |
+| 86 | 310 | 결과 | 명사구 | 독자상황 |
+| 9090 | 355 | 결과 | 조건절 | 독자상황 |
+| 135 | 476 | 질문 | 전치사구 | 비교대상(3553) |
+| 5445 | 603 | 근거 | 숫자 | 비교대상(4554) |
+
+- 결말을 묶음 직후 확인했다. 배정에서 벗어난 것 0건이다(배치15는 2건).
+- 길이 구간 1/3/2/1/1 — 20개 기준(2/7/6/3/2)을 8개로 비례 축소한 배정
+  그대로다. 다만 766이 1차 98자로 구간 하한 아래여서 늘렸다.
+
+### 작성 경위
+
+**절차**: twinflame을 뺀 7칸을 4개씩 2묶음으로 쓰고, twinflame 8개를
+마지막에 모아 쓰고 서로 먼저 대조한 뒤, 64칸 통합 검사를 했다.
+
+| 단계 | 재작성 칸 | 원인 |
+|---|---|---|
+| 묶음A 7칸 (86·93·288·766) | 7 | 연결구 "you've been" 4회, 규칙 K 2 (288 manifestation ~ FAQ "a particular partnership", 766 career ~ FAQ "how to help"), 페이지 안 1, 페이지 간 1 |
+| 묶음B 7칸 (135·5445·4774·9090) | 6 + 회귀 2 | 연결구 "the same"·"as a" 초과, 규칙 K 2 (135 manifestation ~ FAQ "the same moment", 9090 manifestation ~ FAQ "waiting for one / to feel finished"), 페이지 안 1, 페이지 간 1 |
+| 두 묶음 합산 (7칸 × 8) | 2 | 묶음 경계 페이지 간 2건 ("you this week", "is the spiritual") |
+| twinflame 8개 사전 대조 | 6 | 규칙 K 4 (93·5445·9090), 페이지 간 3, "as a" 2회 |
+| twinflame 길이 | 8 | **처음부터 620자로 쓰라는 절차를 지키지 못했다** — 1차본 510~584자. 8개 모두 한 문장씩 늘림 |
+| 64칸 통합 | 10 | 아래 "통합에서만 잡힌 것" |
+| 칸 길이 보정 | 22 | career·spiritual·action이 기존 25백분위 미만 |
+| 논지 정합 다듬기 | 1 + 회귀 1 | 4774 money "vague instincts"가 FAQ4와 어긋남 → 고친 문장이 manifestation과 새로 겹쳐 다시 고침 |
+
+**통합 검사에서만 잡힌 것**
+1. **twinflame ↔ 같은 페이지 다른 칸의 겹침 5건**: 93 싱글 ~ twinflame
+   "can be retired", 288 manifestation ~ twinflame "within what you can",
+   766 커플 ~ twinflame "put down the", 9090 money ~ twinflame "add up to",
+   9090 career ~ twinflame "at a time". twinflame을 따로 쓰고 8개끼리만
+   대조했기 때문에, 자기 페이지 7칸과의 대조가 통합 단계로 밀렸다.
+2. 연결구 초과 5종 ("as a" 3, "the one"·"back to"·"the same" 각 2, whatever
+   3). 7칸 묶음과 twinflame 묶음에 1회씩 흩어져 있다가 합쳐서 드러났다
+   (규칙 J).
+3. 페이지 간 2건 ("you keep postponing", "back to you")
+4. 칸 길이: career·spiritual·action 중앙값이 132 / 119 / 112자로, 기존
+   160 / 156 / 136보다 짧았다.
+
+### 최종 검증
+1. **논지 정합성 8건**: 8페이지 모두 meaning·FAQ를 포함한 전 필드가 같은
+   방향이다.
+   - 86: FAQ2 "실제 계획은 계속" → money에서 손쓸 수 있는 청구서를 따로
+     처리하게 함
+   - 288: FAQ4 "무제한 아님" → manifestation·action·twinflame에
+     "감당할 수 있는 범위" 명시
+   - 766: FAQ4 "생각 자체가 나쁜 게 아님" → spiritual을 조건형으로
+   - 135: FAQ4 "규모 아닌 주체성" → manifestation에 "drama 불필요"
+   - 4774: FAQ4 "지금 직관이 부정확하다는 뜻 아님" → money 수정
+   - 9090: FAQ4 "작은 끝도 각각 온전한 끝" → 싱글·spiritual
+2. 페이지 안 8칸 3-gram: **0건**
+3. 64칸 페이지 간 3-gram: **0건** (twin·flame 필수 어휘 제외)
+4. 오프너 서법: 명령 36% / 조건·시간 33% / 평서 31%
+5. twinflame 2분할: 3/8
+6. 규칙 K (meaning·FAQ 기준 전 필드): **0건**
+7. 금지 표현 5종 (A형 골격 / 연결구 / 비유 시그니처 / LMC 전용 /
+   spiritual·action 골격): **0건**
+   - 연결구 34개: 각 1회 이하
+   - whatever 2, specific 계열 0
+8. 기존 코퍼스와 공유 3-gram 314개 / 64칸. 일반 표현 수준이다.
+9. 길이 (중앙값):
+
+   | 칸 | 이번 | 기존 |
+   |---|---|---|
+   | love | 322 | 327 |
+   | money | 153 | 153 |
+   | career | 150 | 160 |
+   | spiritual | 151 | 156 |
+   | action | 141 | 136 |
+   | twinflame | 621 | 643 |
+
+10. 빌드 통과 (1612페이지)
+
+### 8칸으로 늘린 뒤 재작성 비율
+
+| | 배치15 (6칸) | 배치16 (8칸) |
+|---|---|---|
+| 칸 수 | 64 | 64 |
+| 내용 위반으로 인한 재작성 (길이 보정 제외) | 48 (75%)* | **34 (53%)** |
+| 길이 보정 재작성 | 계획 연장 10 (+ 그로 인한 회귀) | 30 (twinflame 8 + 기타 22) |
+| 전체 재작성 | 58 | 64 (100%) |
+| 규칙 K | 10칸 | 7칸 |
+| 페이지 간 3-gram | 21 | 9 |
+| 페이지 안 겹침 | 4 | 7 (5건이 twinflame ↔ 자기 페이지) |
+
+\* 배치15의 75%에는 길이 연장 뒤에 생긴 회귀 일부가 섞여 있다.
+
+**해석**
+- 내용 위반 재작성은 75% → 53%로 줄었다. 두 절차가 효과를 냈다.
+  - twinflame을 마지막에 모아 쓰고 서로 먼저 대조 → 페이지 간 겹침 21 → 9
+  - 묶음 직후 결말 확인 → 이탈 0건
+- 새로운 비용은 **길이**다. spiritual·action·career에 목표 길이를 정하지 않고
+  썼더니 22칸이 짧게 나왔다. twinflame은 "처음부터 620자" 절차가 있었는데도
+  8개 모두 짧았다. 칸이 늘어날수록 짧게 쓰는 쪽으로 흐른다.
+- 페이지 안 겹침 7건 중 5건이 twinflame ↔ 자기 페이지 칸이다. twinflame을
+  따로 쓰는 절차의 사각지대다.
+
+### 배치 크기 판단
+- **8페이지를 유지한다.** 내용 위반 비율(53%)은 1단계(51%) 수준으로
+  돌아왔다.
+- 다음 배치부터 절차를 두 가지 추가한다.
+  1. **칸별 목표 길이를 작성 전에 고정한다** (`forbidden-expressions.md`
+     표 참조). 길이 보정만으로 30칸을 다시 썼다.
+  2. **twinflame 사전 대조에 "자기 페이지 7칸" 대조를 넣는다.**
+
+### 남은 배치 수 재산정
+- 정규 트랙 잔여: 203 − 8 = **195개**
+- 배치당 8개면 195 ÷ 8 = 24.4 → **25배치** (배치17~41, 마지막 배치는 3개)
+- mixed : 그 외 비율(5:3)은 매 배치 시작 시점 잔여로 다시 계산한다.
+
+### 예상 못 한 발견
+- **재작성 비용의 성격이 바뀌었다.** 배치15는 페이지 간 겹침이 주된 비용
+  이었고, 배치16은 길이가 주된 비용이었다. 한 비용을 절차로 잡으면 다음
+  병목이 드러난다.
+- **twinflame을 따로 쓰자 새 사각지대가 생겼다**(자기 페이지 다른 칸과의
+  겹침). 따로 쓴 칸은 항상 "다른 따로 쓴 칸들"과 "자기 페이지" 두 방향으로
+  대조해야 한다.
+- **논지 정합성 다듬기가 새 겹침을 만들 수 있다.** 4774 money를 FAQ4에
+  맞춰 고친 문장이 manifestation과 겹쳤는데, 검사 결과를 보기 전에 소스에
+  적용해버렸다. 다시 고쳐 재적용했다. 이후로는 **검사가 통과해야만 적용
+  스크립트가 실행되게** 묶었다.
+- 템플릿기 페이지 twinflame에 템플릿이 두 종류 있었다. 86·93·288·766·135는
+  "In a twin flame context this favors… In reunion… In separation…",
+  5445·4774·9090은 "…? 질문으로 끝나는" 시기 템플릿이다. 두 템플릿 모두 이번
+  재작성으로 없어졌다.

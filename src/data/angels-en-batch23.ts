@@ -480,11 +480,11 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     summary: "A season where generosity within partnership specifically multiplies the resulting material return",
     meaning:
       "288 places single 2 (partnership) alongside doubled 8 (abundance amplified), describing a specific season where generosity within a partnership is what's multiplying the resulting material return, rather than generosity and gain being separate or competing forces. This favors trusting that giving more within this specific relationship is directly connected to receiving more back.",
-    love: "Single: being generous with your time and resources within a close friendship or family relationship right now is specifically what's multiplying what comes back to you. Couple: being generous with each other right now, materially and emotionally, is specifically what's multiplying the shared abundance coming back to the relationship.",
-    career: "Being generous with knowledge, credit, or resources within a professional partnership right now is specifically what's multiplying the resulting return.",
-    money: "Being generous within a specific financial partnership right now is specifically what's multiplying the resulting material return, worth trusting rather than holding back out of scarcity fear.",
-    spiritual: "This favors trusting generosity within partnership as an active multiplying force, not a depleting one, specifically in this season.",
-    action: "Be generous with one specific person today, trusting that doing so within this partnership is specifically multiplying what comes back.",
+    love: "Single: be openly generous with a friend or sibling who has shown up for you, since the circle that forms around that kind of giving is often where good introductions come from. Couple: the gestures you two trade, a covered bill, an errand run, a long listen, are compounding into a sturdier shared life, and keeping score slows that growth.",
+    career: "Share credit, contacts, and know-how freely with one trusted collaborator this quarter, and notice how often that openness circles back to you in kind.",
+    money: "A joint venture tends to grow faster when each partner offers a little beyond what the agreement strictly requires, as long as the extra stays within your means.",
+    spiritual: "When giving inside one close bond feels like loss, it may help to notice that generosity here enlarges the shared pool both of you draw from over time.",
+    action: "Do one generous thing for a chosen partner today, a favor, a resource, an hour of help, sized to a level you can comfortably sustain.",
     category: "mixed",
     faq: [
       {
@@ -506,9 +506,9 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "288 centers on generosity within a specific partnership as what's multiplying the return, rather than generosity and gain competing with each other. In a twin flame context this favors extending real patience, grace, or understanding toward the process itself, not withholding warmth while waiting for proof it's deserved. In reunion, 288 suggests generosity you extend now, toward yourself, toward the process, toward them if contact exists, is directly connected to what comes back, not a separate, riskier investment. In separation, this number favors trusting that generosity toward your own healing process specifically multiplies what's available to you, rather than depleting your reserves.",
+      "Generosity in a twin flame bond runs in two directions, and 288 asks you to look at both. Your side is the part you control: patience with the process, kindness toward yourself on the hard days, warmth offered before any proof arrives that it will be returned. Small kindness you can sustain for months carries further than one grand gesture. Their side is theirs to give or withhold, and keeping a ledger of it tends to shrink what you're willing to offer. When your giving stays inside a range you can sustain, it widens the field the connection grows in, whether or not they're matching it yet.",
     manifestation:
-      "288 manifests by trusting generosity within a specific partnership as multiplying — the practical move is giving generously to one specific person today, since this number's folklore treats that reciprocal generosity, not withholding, as what's actually increasing the shared abundance.",
+      "When one partnership is already giving back, invest in it more openly — time, credit, resources — within what you can actually afford. 96 spreads that warmth across a whole household; 288 keeps it pointed at one person, so if the return dips, adjust the giving instead of abandoning it.",
   },
   {
     number: "299",

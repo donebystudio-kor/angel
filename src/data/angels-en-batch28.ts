@@ -700,11 +700,11 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     summary: "Completion present as a steady, ongoing rhythm of small closures, not one single, final ending",
     meaning:
       "9090 repeats the 90 block (9 for completion, 0 for amplification), describing completion present as a steady, ongoing rhythm of small closures right now, distinct from 90's framing of one chapter passively winding down. This favors recognizing that completion doesn't have to be one big, final event, it can be an active, ongoing rhythm of finishing small things well.",
-    love: "Single: completion in your love life is happening as a steady rhythm of small closures right now, not one single, final ending — recognize and honor each small completion. Couple: completion within the relationship is happening as a steady rhythm of small closures right now, worth honoring together.",
-    career: "Completion in your career is happening as a steady rhythm of small closures right now, worth recognizing and honoring each one.",
-    money: "Completion in your finances is happening as a steady rhythm of small closures right now, worth recognizing and honoring each one.",
-    spiritual: "This favors recognizing completion as an active, ongoing rhythm of small, honored closures, not requiring one single, dramatic ending to count.",
-    action: "Honor one small completion today as genuinely meaningful, part of an ongoing rhythm rather than waiting for one big, final ending.",
+    love: "Single: each small letting-go, deleting an old thread, returning a borrowed sweater, skipping the familiar bar, is a full closing in its own right. Couple: mark the little endings you share, the last box unpacked, the final payment on the car, with a word or a toast, since those moments build a rhythm of moving on together.",
+    career: "Wrapping up projects one at a time, with a brief record of what each taught you, keeps a career from accumulating unfinished weight over the years.",
+    money: "When a subscription is cancelled or a small debt cleared, note it on a running list, because those modest closures add up to a cleaner financial picture.",
+    spiritual: "Completion can arrive in a pulse of small, honest endings, each whole by itself, with no grand conclusion required for the letting go to be real.",
+    action: "Finish one small open loop today, a reply, a return, a payment, and acknowledge it in a sentence before starting anything new.",
     category: "double",
     faq: [
       {
@@ -726,8 +726,8 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "9090 reframes letting go as a rhythm rather than a single dramatic moment. In twin flame separations, the tendency is to look for the one conversation, the one decision, the one day when release finally happens. 9090 describes something steadier: a continuous sequence of small completions — releasing one expectation, then another, then the next — each one real and sufficient on its own, without requiring the whole connection to be resolved in a single act. In reunion, this number describes the same ongoing completion: each chapter closing cleanly as the next opens, without carrying old forms of the dynamic forward unnecessarily.",
+      "Release the twin flame story in small pieces, one expectation after another, with no single day expected to resolve everything. 9090 describes completion as a rhythm: dropping the hope that they'll text on your birthday, then the habit of checking their activity, then the fantasy of a perfect reunion speech, each a finished ending on its own. None of these steps has to be announced to anyone; noticing them is enough to make them count. Apart, those small closings build into real freedom even if the bond stays meaningful. Back in contact, that rhythm keeps old dynamics from being carried into each new chapter.",
     manifestation:
-      "9090 manifests by honoring small completions as they happen — the practical move is recognizing and marking one small closure today, since this number's folklore treats that ongoing recognition, not waiting for one big ending, as what actually completes things well.",
+      "If you're holding out for one sweeping ending before anything counts as done, look at how many smaller closings already happened this month — a returned item, a finished course, a conversation that finally got said. Counting them as real lets the want move forward on a lighter load, and the sense of completion you wanted tends to arrive in installments.",
   },
 ];

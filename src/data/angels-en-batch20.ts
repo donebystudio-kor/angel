@@ -446,11 +446,11 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     summary: "Releasing material worry specifically making room for the abundance you've been anxious about",
     meaning:
       "86 combines 8 (abundance) with 6 (home, care, worry), describing the release of material worry as specifically what's making room for the abundance you've been anxious about. This favors recognizing that the anxious grip itself may be what's crowding out the resources or ease you're seeking, rather than lack of resources being the actual problem.",
-    love: "Single: release the anxious worry about being enough or having enough for a relationship — that release itself is specifically what makes room for real connection to arrive. Couple: release anxious worry about the relationship's material or practical circumstances — that release itself is specifically what makes room for more ease between you.",
-    career: "Release anxious worry about professional financial security — that release itself is specifically what makes room for opportunity to actually land.",
-    money: "Release anxious worry about money specifically — that release itself, more than the worry, is what's making room for real financial ease to arrive.",
-    spiritual: "This favors recognizing that anxious grip and abundance don't easily coexist — releasing the worry is itself the practical step, not just a nice feeling to aim for.",
-    action: "Consciously release one specific worry about money or resources today, trusting that the release itself is making room for ease.",
+    love: "Single: if you keep postponing dating until your bank balance or your body feels good enough, notice how much of each evening that fretting eats, and loosen its hold first. Couple: agree on a short weekly money talk and keep budget fears out of dinner the other six nights, so the tension stops leaking into every conversation.",
+    career: "When fear about job security fills every quiet moment at work, it blocks the attention that spots openings, so put a limit on the worrying and look around.",
+    money: "Separate the bills you can act on this month from the ones you're only dreading, handle the first list, and set the second aside for a calmer day.",
+    spiritual: "Abundance and a clenched hold rarely share a room; easing your grip on worry is a spiritual practice in itself, not a mood you wait to arrive before you begin.",
+    action: "Pick one money worry, give it ten minutes of real planning on paper, then close the page and go do something unrelated for the rest of the hour.",
     category: "mixed",
     faq: [
       {
@@ -472,9 +472,9 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "86 treats releasing anxious worry as the specific act that makes room for what you've been anxious about, not proof that the worry was unfounded. In a twin flame context this applies directly to anxiety about timing or outcome: the tight grip itself may be what's crowding out ease, more than any actual lack of connection. In reunion, 86 suggests loosening your hold on needing reunion to happen a certain way is what actually creates space for it to unfold naturally. In separation, this number favors recognizing that releasing the anxious watching, not more vigilance, is the practical step this stretch is asking for.",
+      "If worry about when or whether reunion happens has been filling your days, 86 points at the cost of that vigilance today, not at the outcome down the road. Anxious watching — checking their profiles, replaying signs, bargaining with timelines — tends to crowd the present so fully that nothing new can land in it. Later will arrive on its own schedule either way, and no amount of monitoring today moves that date. What changes now is how much room you leave for ordinary ease: sleep, friends, work that absorbs you. Loosening the grip this week doesn't decide the future; it lets you meet whatever comes with steadier hands.",
     manifestation:
-      "86 manifests by consciously releasing anxious worry rather than continuing to grip it — the practical move is naming and setting aside one specific financial worry today, since this number's folklore treats that release, not more worrying, as what actually makes room for ease.",
+      "Money anxiety that runs all day tends to occupy the exact space where a better financial decision could form. Give the worry a fixed appointment — fifteen minutes, one honest plan — and stop when the time is up; the hours you get back are usually where the clearer choices and the easier days start showing up.",
   },
   {
     number: "87",
@@ -518,11 +518,11 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     summary: "Releasing something specifically making room for new creative growth to bloom",
     meaning:
       "93 combines 9 (completion) with 3 (creativity, expression), describing the release of something as specifically what makes room for new creative growth to bloom. This favors trusting that letting go isn't just an ending, it's the specific precondition for something new and creative to flourish in the space that's cleared.",
-    love: "Single: releasing an old pattern or expectation about relationships is specifically what's making room for a more authentic, creative way of connecting to bloom. Couple: releasing an old dynamic within the relationship is specifically what's making room for a fresher, more creative way of connecting to bloom between you.",
-    career: "Releasing an old professional approach or role is specifically what's making room for a new creative direction to bloom.",
-    money: "Releasing an old financial approach or habit is specifically what's making room for a more creative, effective approach to bloom.",
-    spiritual: "This favors trusting release as generative, not just an ending — the letting go is specifically what clears space for new growth.",
-    action: "Release one specific old pattern today, trusting that doing so is making room for new creative growth to bloom.",
+    love: "Single: an old script about who you're supposed to date can be retired, and the space it leaves often fills with a looser, more playful way of meeting people. Couple: when an outdated routine between you finally ends, try something neither of you has done before, a class, a trip, a new tradition, in the time it frees up.",
+    career: "Step away from a role or task you've outgrown at work and use the reclaimed hours to pitch the idea sketched in your spare time, even in rough form.",
+    money: "If a financial habit no longer fits your life, cancel it and put the freed money toward a creative project or skill you've postponed for too long.",
+    spiritual: "Letting something end can be an act of planting; the ground you clear is where unfamiliar growth gets its chance, often in a shape you couldn't have planned.",
+    action: "Once you've chosen the old pattern to drop, write down what you'd like to grow in its place, and tape that note somewhere you'll see it before the day ends.",
     category: "mixed",
     faq: [
       {
@@ -544,9 +544,9 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "93 treats release as generative, the letting go itself clears space for new growth, not a separate ending disconnected from what comes next. In a twin flame context this favors releasing an old version of how the connection looked or worked, not the bond itself, to make room for something the two of you haven't tried yet. In reunion, 93 suggests actively letting go of an outdated dynamic is what's opening room for a genuinely different, more authentic way of connecting. In separation, this number favors trusting that release right now is planting something, not just ending something.",
+      "Let an outdated form of the twin flame dynamic end so something unfamiliar can grow between you or within you. 93 puts completion before expression: the habits that defined the connection — the chasing, the silent tests, the long gaps followed by intense reunions — can be put away without retiring the bond itself, the way a house can be rearranged without being sold. What replaces them isn't scripted yet, and that is part of the point; creative growth needs room it hasn't already been told how to fill. Notice which patterns you keep repeating out of loyalty to the story, and set one down this month to see what appears where it used to be.",
     manifestation:
-      "93 manifests through trusting release as generative — the practical move is consciously letting go of one old pattern today, since this number's folklore treats that release, not holding on, as what makes room for new growth to bloom.",
+      "Clear one shelf, file, or habit this week that belongs to an older version of you. In 93, the finishing 9 sits ahead of the expressive 3, so the clearing comes first and the new work grows into the gap — make the gap.",
   },
   {
     number: "94",

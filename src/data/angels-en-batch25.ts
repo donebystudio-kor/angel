@@ -454,11 +454,11 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     summary: "A call to shift from overthinking into direct, active caregiving action for someone close",
     meaning:
       "766 places single 7 (insight, thought) alongside doubled 6 (home, care amplified), describing a specific call to shift from overthinking a situation into direct, active caregiving action for someone close, rather than continuing to analyze. This favors recognizing that further thought isn't what's needed here, active presence and care is.",
-    love: "Single: stop overthinking your approach to relationships and instead show up with direct, active care for someone close to you right now. Couple: stop overthinking the relationship and instead show up with direct, active care for your partner right now — presence, not more analysis, is what's needed.",
-    career: "Stop overthinking a work situation and instead show up with direct, practical care for a colleague or team member who needs it right now.",
-    money: "Stop overthinking a financial decision related to family and instead take direct, practical action to care for what actually needs attention.",
-    spiritual: "This favors recognizing when analysis has become the obstacle, and direct, active caregiving is what the moment genuinely calls for instead.",
-    action: "Set aside overthinking today and take one direct, active step to care for someone close to you.",
+    love: "Single: if you've spent weeks decoding a friend's or crush's messages, call or visit; one hour together tells you what the decoding never could. Couple: put down the mental replay of last week's argument and cook dinner, run the errand, or simply sit with your partner tonight.",
+    career: "When a teammate is struggling and you keep weighing how to support them, a direct offer of hands-on help beats another round of planning in your head.",
+    money: "A family money question that's been mulled over for months usually needs a concrete gesture, paying the bill or setting up the transfer, and another spreadsheet won't settle it.",
+    spiritual: "If thinking has become a way of keeping your distance from people you love, care in action is the spiritual move this moment asks for.",
+    action: "Choose the person who's been on your mind and do one practical thing for them before tonight, even something as small as dropping off a meal.",
     category: "mixed",
     faq: [
       {
@@ -480,9 +480,9 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "766 interrupts a very specific twin flame habit: treating every sign, number, and coincidence as something to analyze instead of something to act on. The doubled 6 pushes toward direct care, not more interpretation. In reunion, 766 favors setting the analysis aside once contact is possible and simply being present and caring, rather than continuing to decode what everything means. In separation, this number suggests redirecting that analytical energy into actual caregiving, toward yourself, toward people actually in front of you, since more thinking about the connection right now won't produce more clarity than action already would.",
+      "Set aside the decoding — the number meanings, the timestamps, the second-guessing of every message — and offer the twin flame connection something it can feel. 766 interrupts the reflex of treating each sign like a puzzle by turning attention toward care that can be given today: a kind message, steady attention to your own sleep and body, practical help for the people already near you. Even a five-minute act of care counts here. Analysis promises clarity but rarely delivers it at this stage. Presence does more, and the bond tends to read differently once you're acting from care, not interpretation.",
     manifestation:
-      "766 manifests by shifting from analysis to action — the practical move is setting aside overthinking today and taking one direct, caring action for someone close, since this number's folklore treats that active presence, not more thought, as what's actually needed.",
+      "Whatever you keep analyzing about someone close already has its answer: show up in person, not think harder.",
   },
   {
     number: "788",
