@@ -124,11 +124,11 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     summary: "A specific change actively being led by your own intuition, worth trusting as the navigator",
     meaning:
       "57 blends 5 (change, freedom) and 7 (insight, intuition), describing a specific change that's actively being led by your own intuition right now, worth trusting as the actual navigator of the shift. This favors recognizing that your gut, more than external logic, is steering this particular change well.",
-    love: "Single: your intuition is actively leading a change in how you approach dating right now — trust it as the navigator rather than deferring to external logic alone. Couple: your shared intuition is actively leading a change for the relationship right now — trust it as the navigator.",
-    career: "Your intuition is actively leading a professional change right now — trust it as the navigator rather than deferring to external logic alone.",
-    money: "Your intuition is actively leading a financial change right now — trust it as the navigator.",
-    spiritual: "This favors trusting intuition as the active guide for a change already in motion, not just a feeling to notice after the fact.",
-    action: "Let your intuition actively guide one decision today related to a change currently in motion.",
+    love: "Single: if a shift in how you date is already happening, follow the instinct that keeps steering you toward certain people and away from others, even when it surprises your friends. Couple: the change you two are navigating has a felt direction that both of you sense before you can explain it, and that shared hunch is steering better than any pros-and-cons list.",
+    career: "When a reorganization or role change is underway, the quiet sense of which project to grab next is usually the read to act on before the dust settles.",
+    money: "Let your gut set the pace of a financial transition already underway, then back its calls with a simple budget so the numbers keep up with the instinct.",
+    spiritual: "Intuition here isn't a passenger noting the scenery after the fact; it's the hand on the wheel of a shift that's already moving through your life.",
+    action: "Make one decision today about the transition in progress by listening first to your gut, and write down why it felt right before you second-guess it.",
     category: "mixed",
     faq: [
       {
@@ -150,9 +150,9 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "57 puts intuition in the driver's seat, not just as a feeling to notice afterward but as what's actively steering a shift already in motion. In a twin flame context this favors trusting a strong gut sense about the connection right now over what logic or evidence alone would suggest. In reunion, 57 suggests your intuition already knows more about the timing than your analysis does, worth following even without external confirmation yet. In separation, this number favors letting intuitive sense, not anxious speculation, guide how you interpret this stretch, since the two produce very different reads of the same silence.",
+      "When the twin flame connection is shifting and logic lags behind what you sense, 57 puts your intuition in charge of the present moment, not the forecast. What your gut picks up today about tone, distance, or readiness is information you can use now; what it might mean months from now doesn't have to be decided yet. Anxious speculation borrows from the future and usually reads silence as rejection, while a calmer inner sense tends to read that silence as space. Allow that instinct to guide this week's choices about reaching out or holding back, and give the longer timeline room to reveal itself without forcing a verdict.",
     manifestation:
-      "57 manifests by letting intuition actively steer a change in motion — the practical move is trusting your gut on one decision today related to the change, since this number's folklore treats that active trust as what navigates it well.",
+      "Pick the next fork in the change you're already living through — a move, a role shift, a new routine — and decide it by gut before you open another comparison chart; planning can follow that lead, but let the instinct choose the turn.",
   },
   {
     number: "58",
@@ -556,11 +556,11 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     summary: "Freedom and change present as an active, ongoing rhythm, not a single event to wait for",
     meaning:
       "5050 repeats the 50 block (5 for change, 0 for amplification), describing freedom and change as present in an active, ongoing rhythm right now, distinct from 50's framing of a wide, expansive flow beginning as a single event. Where 50 marks a beginning, 5050 is about the sustained, rhythmic quality of the freedom already in motion, worth engaging with continuously.",
-    love: "Single: freedom and change in your love life are present as an active, ongoing rhythm right now, not a one-time event to wait for — engage with it continuously. Couple: freedom and change for the relationship are present as an active, ongoing rhythm right now, worth engaging with continuously together.",
-    career: "Freedom and change in your career are present as an active, ongoing rhythm right now — engage with it continuously rather than waiting for one big shift.",
-    money: "Freedom and change in your finances are present as an active, ongoing rhythm right now — engage with it continuously.",
-    spiritual: "This favors recognizing change as a sustained, rhythmic process to engage with continuously, rather than a single event to wait for and then move past.",
-    action: "Engage today with the ongoing rhythm of change in your life, rather than waiting for one single, defining shift.",
+    love: "Single: dating that keeps shifting, new people, new places, new versions of what you want, can be a healthy rhythm of freedom, not a sign you're failing to settle. Couple: build regular moments of change into your shared life, a new restaurant monthly, a rotating plan for weekends, so freedom stays part of the routine.",
+    career: "A career built on rotating projects, freelance contracts, or evolving roles can be stable in its own way when you treat the change as an ongoing pattern.",
+    money: "If your income or spending shifts month to month, set up a flexible budget that expects movement, so the rhythm feels manageable and each change has a place to land.",
+    spiritual: "When you keep expecting one final transformation, consider that freedom here moves in a steady pulse, and each small shift counts as real movement.",
+    action: "Make one small adjustment today that flows with a change in progress, then schedule a brief weekly check-in to keep pace with the rhythm.",
     category: "double",
     faq: [
       {
@@ -582,9 +582,9 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "5050 resists the framing of separation as the problem and reunion as the solution. For twin flames, this number describes the movement between togetherness and apartness as a working rhythm — purposeful on both ends, not a malfunction to correct. In active separation, 5050 suggests the space itself is serving something; pushing to collapse it prematurely tends to interrupt a process mid-cycle rather than advance it. In reunion, this number is less a finish line than a reminder that the rhythm continues: closeness and independent development will keep alternating, and that alternation is the design, not a residue of unresolved issues.",
+      "Togetherness and distance can alternate in a twin flame connection as a working rhythm, and 5050 treats that alternation as design, not malfunction. During apart phases, the space gives each person room to grow in ways closeness wouldn't allow; pushing to end it early tends to interrupt that process. During close phases, independence doesn't vanish, and keeping your own friendships, goals, and routines makes the closeness healthier. Watching for patterns across several cycles helps you tell a natural swing from a real problem. The movement between the two is steady enough to learn, so you can meet each phase with less alarm.",
     manifestation:
-      "5050 manifests by engaging continuously with change's rhythm — the practical move is taking one small action today that flows with ongoing change, rather than waiting for a single defining shift, since this number's folklore treats that continuous engagement as what actually works with this rhythm.",
+      "When change keeps showing up in steady pulses, not one dramatic turn, stop waiting for the single shift that will settle everything. 50 marks the moment a wide stream of freedom opens; 5050 describes that freedom once it's moving, repeating on a rhythm you can learn. Work with the pulse: small adjustments each week, a habit of reviewing what changed, room in the calendar for whatever opens up. Engaging this way keeps the movement manageable, and over a season the steady adjustments add up to a life that feels freer without ever feeling chaotic.",
   },
   {
     number: "6060",

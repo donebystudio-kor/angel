@@ -54,7 +54,7 @@ EN 521개의 love / money / career 세 필드를 다루는 트랙이다. 이 세
 | 단계 | 대상 | 규모 | 상태 |
 |---|---|---|---|
 | 1 | 논리 충돌 15페이지(정면 10 + 중간 5) + 7111 manifestation | 1배치 | **완료 (2026-10-01)** |
-| 2 | 정규 manifestation 배치에 전 필드 통합 — 배치15는 6칸, **배치16부터 8칸**(+spiritual·action) | 배치16부터 8페이지, 약 25배치 | **진행 중 — 배치16 완료, 잔여 195** |
+| 2 | 정규 manifestation 배치에 전 필드 통합 — 배치15는 6칸, **배치16부터 8칸**(+spiritual·action) | 배치16부터 8페이지, 약 24배치 남음 | **진행 중 — 배치17 완료, 잔여 187** |
 | 3 | 이미 재작성한 템플릿 페이지 약 146개 LMC 보충 | 약 15배치 | 보류 — 2단계 실측 후 판단 |
 
 손대지 않는 것:
@@ -682,3 +682,142 @@ a", 9669 manifestation ~ twinflame "looking after someone").
   "In a twin flame context this favors… In reunion… In separation…",
   5445·4774·9090은 "…? 질문으로 끝나는" 시기 템플릿이다. 두 템플릿 모두 이번
   재작성으로 없어졌다.
+
+---
+
+## 2단계 — 배치 17 (2026-10-05 완료)
+
+### 배치16에서 넘어온 절차 (이번에 처음 적용)
+1. **칸별 목표 길이를 숫자로 먼저 정하고, 각 칸을 쓴 직후 잰다.**
+   - 목표: love 싱글·커플 각 160 (합계 하한 300) / money 153 (하한 139) /
+     career 160 (144) / spiritual 156 (144) / action 137 (123) /
+     twinflame 630 (594)
+2. **twinflame 양방향 사전 대조**: 8개 상호 + 자기 페이지 7칸
+3. **수정 → 검사 → 적용 순서 엄수**: 검사가 통과해야만 적용 스크립트를
+   실행했다.
+
+### 대상 8개 (잔여 195 → 필터 후 153 → 템플릿기 파일 135개 중)
+- 좁힌 사전 필터 제외 후보: 42개. 배치16 완료분 때문에 474·4554·62 등
+  3개가 새로 편입됐다.
+
+| 번호 | 파일 | 패턴 | meaning 축 |
+|---|---|---|---|
+| 57 | en-batch28 | mixed AB | 이미 진행 중인 변화를 직관이 이끈다 (계획과 함께 갈 수 있음) |
+| 42 | en-batch27 | mixed AB | 파트너십 안의 꾸준한 인내가 지금 실제 결과로 익는다 — 끝없는 기다림이 아님 |
+| 199 | en-batch24 | mixed ABB | 한 장이 닫히는 동안 새 시작이 이미 옆에서 자란다 — 겹침 (99는 닫힘만) |
+| 688 | en-batch25 | mixed ABB | 꾸준히 지킨 책임이 지금 물질적 보상의 직접 원인 (책임을 더 지라는 뜻 아님) |
+| 126 | en-batch22 | mixed ABC | 특정 관계가 집에 새 기운을 들인다 (116은 일반적 가벼워짐) |
+| 3883 | en-batch17 | mirror | 아직 갖지 않은 풍요를 말로 앞당겨 선언하는 것이 생성적 (383은 이미 가진 것, 말만으론 부족) |
+| 9339 | en-batch16 | mirror | 배운 것을 가르치면 새 배움이 돌아온다 |
+| 5050 | en-batch28 | double | 자유와 변화가 꾸준한 리듬으로 진행 중 (50은 시작, 격변 아님) |
+
+숫자를 3개 이상 공유하는 그룹 없음.
+
+### 8칸 배정표 (핵심 동사 · 서법 · 목표 길이 대비 최종 길이)
+
+| 번호 | manifestation | 싱글 | 커플 | money | career | spiritual | action | twinflame |
+|---|---|---|---|---|---|---|---|---|
+| 57 | pick / let choose — 명 (234) | if… follow — 조 (173) | has a felt direction — 평 (174) | let set the pace — 명 (152) | when… is the read — 조 | isn't a passenger — 평 | make one decision — 명 | when… puts in charge — 조 / **시간 축** (609) |
+| 42 | fruit tends to arrive — 평 (361) | look at — 명 | when… celebrate — 조 | is reaching a point — 평 | take stock — 명 | if… bears fruit — 조 | name one result — 명 | tends to look like — 평 / **2분할** (635) |
+| 199 | isn't closing into a void — 평 (208) | if… glance — 조 | while… name — 조 | when… track — 조 | overlaps with — 평 | can share one stretch — 평 | write down — 명 | notice — 명 / **앎·모름 축** (618) |
+| 688 | ties today's reward — 평 (110) | credit — 명 | when… grew from that — 조 | connect — 명 | is the real reason — 평 | if… reframes — 조 | pick / note — 명 | if… links — 조 / **주체 축** (604) |
+| 126 | if… ask which person — 조 (240) | may be the reason — 평 | notice — 명 | when… formalize — 조 | invite — 명 | arrives through a person — 평 | spend time — 명 | usually comes from — 평 / **2분할** (604) |
+| 3883 | sits inside two 3s — 평 (479) | if… describe — 조 | write — 명 | carries more weight — 평 | when… state — 조 | can be a creative act — 평 | say one goal — 명 | say — 명 / **단일 서술** (607) |
+| 9339 | stops growing — 평 (304) | tell — 명 | when… answer — 조 | walk through — 명 | if… offer — 조 | turns into an exchange — 평 | before… share — 조 | share — 명 / **단일 서술** (632) |
+| 5050 | when… stop waiting — 조 (550) | can be a rhythm — 평 | build — 명 | if… set up — 조 | can be stable — 평 | when… consider — 조 | make one adjustment — 명 | can alternate — 평 / **2분할** (610) |
+
+- 서법 합계: 명령 22 (34%) / 조건·시간 21 (33%) / 평서 21 (33%). 한
+  서법이 3칸을 넘는 페이지 0.
+- twinflame 2분할: **3/8** (42·126·5050)
+- manifestation 결말: 행동 1 / 결과 2 / 근거 2 / 대비 1 / 조건 1 / 질문 1.
+  묶음 직후 확인에서 이탈 0건.
+
+### 작성 경위
+
+| 단계 | 재작성 칸 | 원인 |
+|---|---|---|
+| 7칸 작성 직후 길이 측정 | 3 | spiritual 3칸 140~141자 (하한 144) — 바로 늘림 |
+| 묶음A (57·42·199·688) | 7 | 연결구 "is already" 2회, 규칙 K 5칸 (57 spiritual·199 manifestation·199 action·688 manifestation ~ meaning·FAQ), 페이지 안 1, 페이지 간 1 |
+| 묶음B (126·3883·9339·5050) | 5 | "as a" 2회, 규칙 K 4칸 (126 manifestation·action, 5050 manifestation, 9339 career ~ meaning·FAQ) |
+| 7칸 두 묶음 합산 | 3 | "as a" 묶음 경계 2회, 페이지 간 1, 길이 회귀 1 (688 manifestation이 수정 후 95자로 구간 이탈) |
+| twinflame 작성 직후 길이 측정 | (4) | 620자 목표로 썼으나 4개가 583~592자 — 아래 겹침 수정과 함께 늘림 |
+| twinflame 사전 대조 (2방향) | 7 | **자기 페이지 7칸과 겹침 5건** (42 spiritual "and this season", 57 manifestation "let the instinct", 126 커플 "the feel of", 126 spiritual "often arrives through", 9339 action "use it and"), 규칙 K 5칸, twinflame끼리 2건, "as a" 2회 |
+| 64칸 통합 | 8 | 아래 "통합에서만 잡힌 것" |
+
+**재작성 합계: 33칸 / 64칸 (52%)**
+- 길이 때문만인 재작성: 4칸 (spiritual 3 + 199 twinflame 마지막 보정)
+- 길이가 다른 사유와 겹친 칸: 4개 twinflame, 688 manifestation
+- 내용 위반 재작성만 세면 약 29칸 (45%)
+
+**통합 검사에서만 잡힌 것**
+1. **twinflame ↔ 다른 페이지 7칸 겹침 6건**: 42 싱글 ~ 199 twinflame
+   "its own pace", 57 커플 ~ 9339 twinflame "you can explain", 57
+   twinflame ~ 5050 action "keep pace with", 199 twinflame ~ 3883
+   manifestation "what you already", 688 twinflame ~ 5050 manifestation
+   "showing up in", 3883 twinflame ~ 5050 싱글 "what you want". 사전
+   대조가 "twinflame끼리"와 "자기 페이지" 두 방향이었기 때문에 세 번째
+   방향이 남아 있었다.
+2. 5050 안의 "as a" 2회 (spiritual + twinflame)
+3. 수정 회귀 2건: 9339 twinflame을 고친 "back to you"가 meaning·FAQ와
+   겹침, 57 twinflame을 고친 "keep up with"가 같은 페이지 money와 겹침
+
+### 최종 검증
+1. **논지 정합성 8건**: 8페이지 모두 meaning·FAQ를 포함한 전 필드가 같은
+   방향이다.
+   - 57: FAQ4 "계획과 함께" → manifestation·money에 계획을 뒤따르게 함
+   - 42: FAQ4 "끝없이 기다리라는 뜻 아님"
+   - 199: FAQ4 "시점은 특정하지 않음" → twinflame "finish when it's ready"
+   - 688: FAQ4 "책임을 더 지라는 뜻 아님" → action "without adding new
+     duties"
+   - 126: FAQ4 "이사할 필요 없음"
+   - 3883: FAQ4 "말만으론 부족" → manifestation·money·twinflame에 실행 동반
+   - 9339: FAQ4 "전문 교사일 필요 없음"
+   - 5050: FAQ4 "끊임없는 격변 아님" → manageable
+2. 페이지 안 8칸 3-gram: **0건**
+3. 64칸 페이지 간 3-gram: **0건**
+4. 오프너 서법 34 / 33 / 33%
+5. twinflame 2분할 3/8. 양방향 사전 대조에서 자기 페이지 겹침 5건을 잡았다.
+6. 규칙 K: **0건**
+7. 금지 표현 5종: **0건**. 연결구 각 1회 이하, whatever 1, specific 0.
+8. **길이**: 칸별 하한 미달 **0** (보정 9칸, 그중 길이 단독 사유 4칸)
+
+   | 칸 | 최종 중앙값 | 목표 |
+   |---|---|---|
+   | love | 340 | 330 |
+   | money | 153 | 153 |
+   | career | 153 | 160 |
+   | spiritual | 149 | 156 |
+   | action | 142 | 137 |
+   | twinflame | 609 | 630 |
+
+9. 기존 코퍼스 공유 3-gram 431개 / 64칸. 일반 표현 수준이다.
+10. 빌드 통과 (1612페이지)
+
+### 배치16 대비
+| | 배치16 | 배치17 |
+|---|---|---|
+| 길이 보정 | 30칸 | **9칸** (단독 사유 4칸) |
+| 전체 재작성 | 64칸 (100%) | **33칸 (52%)** |
+| 내용 위반 재작성 | 34칸 (53%) | 약 29칸 (45%) |
+| 페이지 안 겹침 (통합 단계까지 남은 것) | 5 | 0 (사전 대조에서 5건 모두 잡음) |
+| 페이지 간 겹침 (통합 단계에서 처음 발견) | 3 | 6 (모두 twinflame ↔ 다른 페이지) |
+
+**해석**
+- 길이를 먼저 정하고 쓴 직후 재는 절차로 길이 보정이 30 → 9칸이 됐다.
+- twinflame 자기 페이지 대조로 페이지 안 겹침이 통합 단계까지 남지 않았다.
+- 대신 "twinflame ↔ 다른 페이지 7칸"이 통합 단계의 주된 발견이 됐다.
+  사전 대조를 세 방향으로 늘린다(`forbidden-expressions.md`).
+- twinflame 길이는 620을 목표로 쓰면 하한(594) 근처로 떨어진다. 목표를
+  640 안팎으로 올린다.
+
+### 남은 배치 수
+- 잔여: 195 − 8 = **187개**
+- 187 ÷ 8 = 23.4 → **24배치** (배치18~41, 마지막 배치는 3개)
+
+### 예상 못 한 발견
+- **수정이 회귀를 만드는 경로가 매번 다르다.** 이번에는 twinflame 수정
+  2건이 각각 다른 필드(meaning·FAQ / 같은 페이지 money)와 새로 겹쳤다. 검사
+  → 적용 순서를 지켜서 소스에 들어가기 전에 모두 잡혔다.
+- **"하한 바로 아래"가 반복된다.** spiritual 3칸 모두 140~141자(하한 144),
+  twinflame 4개 모두 583~592자(하한 594)였다. 목표를 정해도 실제로는 목표보다
+  4~6% 짧게 쓰는 경향이 있다. 목표값 자체를 그만큼 위로 잡는 것이 확실하다.

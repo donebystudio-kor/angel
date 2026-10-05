@@ -119,11 +119,11 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     summary: "A significant chapter closing, with a genuine new beginning already quietly forming alongside it",
     meaning:
       "199: 1 (new beginnings), paired with a double dose of 9 (completion amplified), describing a significant chapter that's closing, with a genuine new beginning already quietly forming alongside it, distinct from 99's simpler framing of a role or chapter closing on its own. This favors noticing that something new is already taking shape, even while the ending is still actively happening.",
-    love: "Single: a significant chapter of your dating life is closing, and a genuine new beginning is already quietly forming alongside it, even if you can't see its shape clearly yet. Couple: a significant chapter within the relationship is closing, and a genuine new stage is already quietly forming alongside it.",
-    career: "A significant professional chapter is closing, and a genuine new direction is already quietly forming alongside it, even if it's not fully visible yet.",
-    money: "A significant financial chapter is closing, and a genuine new approach is already quietly forming alongside it.",
-    spiritual: "This favors recognizing that endings and beginnings often overlap in time, rather than assuming the new beginning waits until the ending is fully complete.",
-    action: "Look today for one sign that a new beginning is already quietly forming alongside a chapter that's currently closing.",
+    love: "Single: if an old pattern in your love life is still winding down, glance at the new interests and people already appearing at the edges, since they belong to what comes after. Couple: while one phase of your relationship finishes, name the new habits that have already started between you so the transition feels like a handoff, not a gap.",
+    career: "A role that's wrapping up at work often overlaps with a project or skill that's already pulling at you, and that early pull marks your following direction.",
+    money: "When an old income source or financial arrangement is ending, track the newer one quietly growing beside it so the ending reads like a transition, not a cliff.",
+    spiritual: "Endings and beginnings can share one stretch of time; the new shape is often present before the old one has fully gone, and seeing both at once softens the loss.",
+    action: "Write down one ending you're partway through and, beside it, one small new thing that has quietly started during those weeks, however minor it looks.",
     category: "mixed",
     faq: [
       {
@@ -145,9 +145,9 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "199 describes an ending and a new beginning overlapping in time rather than happening one after the other, a significant chapter closing while something new is already quietly forming alongside it. In a twin flame context this favors noticing that reunion may already be taking shape internally even while separation is still actively underway, not waiting for separation to fully finish first. In reunion, 199 suggests the shift you're stepping into was already forming before the ending felt complete, worth trusting even if its shape isn't fully clear yet. In separation, this number is reassurance against the idea that nothing new can begin until the hard part is entirely over.",
+      "Notice what's known and what isn't yet in this twin flame chapter, because 199 suggests both are true at once. You know something is ending — an old dynamic, a way of waiting, a version of yourself that kept the connection at the center of every day. You may not yet know what is beginning, yet signs of it are often present: new friendships, a steadier routine, a quieter mind when their name comes up. The unknown part doesn't need to be solved to be real, and guessing at its shape rarely helps. Let the ending finish when it's ready while you watch for the small beginnings already taking root beside it, unannounced.",
     manifestation:
-      "199 manifests by noticing a new beginning forming alongside an ending — the practical move is looking today for one sign of something new quietly taking shape, since this number's folklore treats that noticing as what helps the transition feel less like a void and more like an overlap.",
+      "What's ending around you isn't closing into a void. 99 frames a chapter wrapping up by itself; 199 adds the overlap, because a new start is usually already forming in that season, just too early to recognize.",
   },
   {
     number: "377",

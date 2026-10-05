@@ -121,11 +121,11 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     summary: "A new, refreshing energy entering home life specifically through a relationship or partnership dynamic",
     meaning:
       "126 draws 1 (new beginnings) into 2 (partnership) and 6 (home, care), describing fresh, refreshing energy entering home life specifically through a relationship or partnership dynamic, distinct from 116's more general lightening of the home atmosphere. This favors recognizing that a specific relationship, not just circumstance generally, is the source of this new domestic energy.",
-    love: "Single: a new connection or renewed closeness with someone is specifically bringing fresh, refreshing energy into your home life right now. Couple: a fresh dynamic between you two is specifically bringing refreshing new energy into your shared home life right now, worth actively welcoming.",
-    career: "A new professional relationship or collaboration is specifically bringing fresh energy into work that touches your home life.",
-    money: "A new financial partnership or arrangement is specifically bringing fresh, positive energy into household finances.",
-    spiritual: "This favors recognizing a specific relationship, not just general circumstance, as the actual source of fresh domestic energy right now.",
-    action: "Notice the specific relationship that's bringing fresh energy into your home life right now, and actively invest in that connection today.",
+    love: "Single: a new friend, roommate, or budding romance may be the reason your place feels livelier, and that person deserves some credit for the change. Couple: notice how your partner's new routine or recent effort has changed the feel of your shared rooms, and return the favor with a gesture of your own.",
+    career: "Invite the new collaborator who has improved your remote setup or work-from-home rhythm into a regular check-in, since that relationship is lifting your days.",
+    money: "When a fresh arrangement, a new housemate splitting rent or a partner joining the budget, eases the household finances, formalize it so the relief holds.",
+    spiritual: "Renewal at home often arrives through a person, not a coincidence; recognizing who is carrying it in lets you meet that gift consciously and in kind.",
+    action: "Spend unhurried time today with the person who has refreshed your household, and tell them what has changed since they arrived.",
     category: "mixed",
     faq: [
       {
@@ -147,9 +147,9 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "126 pins down the source specifically, where 116 describes a general lightening, this number ties the fresh energy directly to a relationship dynamic, not circumstance in general. In a twin flame context this favors recognizing when this particular connection, not life broadly, is what's actually refreshing your daily environment right now. In reunion, 126 suggests the renewed contact itself is what's changing the atmosphere at home, worth naming as its actual source. In separation, this number favors noticing if a different close relationship is currently doing that refreshing work, since the source matters here, not just the refreshment.",
+      "Fresh energy in a twin flame story usually comes from a bond you can name, not through circumstances in general, and 126 asks you to identify which one. When contact has resumed, notice how their presence changes the atmosphere at home, the small routines, the way evenings pass, and treat that change with care. When you're apart, a different person may be doing the refreshing — a housemate, a close friend from years back, a sibling who visits more — and that relationship deserves credit too. Naming the source keeps you from assuming the twin flame is the only bond that can lift your days.",
     manifestation:
-      "126 manifests by actively investing in the specific relationship refreshing your home — the practical move is identifying that connection today and nurturing it deliberately, since this number's folklore treats that focused investment as what sustains the fresh domestic energy.",
+      "If home has felt lighter lately, ask which person is bringing that air in. 116 speaks of the household mood lifting in general; 126 names a relationship as the source, so put deliberate time into that bond if you want the freshness to last.",
   },
   {
     number: "127",

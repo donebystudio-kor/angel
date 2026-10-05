@@ -450,11 +450,11 @@ export const EN_BATCH17_NUMBERS: EnAngelNumber[] = [
     summary: "Actively voicing abundance you don't yet fully have, as the specific act that brings it closer",
     meaning:
       "3883's 3s (creativity, expression) open and close around double 8 (abundance), describing the specific act of speaking or claiming abundance you don't yet fully possess as what's actively bringing it into being. Distinct from 383's framing of voicing abundance already present, 3883 is more forward-looking and manifestation-oriented: the speaking itself is treated as a generative act, not just an acknowledgment of existing resources.",
-    love: "Single: speak the kind of connection and abundance you want in love as though it's genuinely possible, not just describing what's already there — the voicing itself is part of what draws it closer. Couple: speak the abundant future you want for the relationship out loud together, rather than only acknowledging your current resources.",
-    career: "Speak your professional goals and the abundance you're working toward as genuinely achievable, rather than only describing your current position — the voicing itself is part of the process.",
-    money: "Speak specific financial goals out loud or in writing as genuinely achievable, rather than only acknowledging what you currently have — the act of claiming it forward is the point here.",
-    spiritual: "This favors treating spoken affirmation as a generative, forward-looking practice, not just gratitude for what already exists.",
-    action: "Speak one specific abundance goal out loud today as though it's genuinely achievable, rather than only describing your current resources.",
+    love: "Single: if you've been vague about the kind of relationship you want, describe it clearly to a friend as something you expect to find, and notice how that changes your choices. Couple: write a short description of the financial and emotional life you're building together, phrased as where you're heading, and revisit it each season.",
+    career: "When a performance review or networking chat comes up, state the role or rate you're aiming for this year, then name the step you'll take first.",
+    money: "A savings figure or income target spoken to an accountability partner carries more weight than one kept in your head, as long as it comes with a plan.",
+    spiritual: "Speech can be a creative act: naming an abundance you haven't reached yet, sincerely and with effort behind it, helps shape the reality you step into.",
+    action: "Say one concrete abundance goal to someone you trust today, with a number and a date attached, and add the first action you'll take toward it.",
     category: "mirror",
     faq: [
       {
@@ -476,9 +476,9 @@ export const EN_BATCH17_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "Claiming a twin flame connection before it's fully manifested — naming it as real and possible, not hypothetical — is the specific form of certainty 3883 points to. The doubled abundance of 88 gets voiced through expression (3 on both sides): speaking is what generates certainty here, more than external signs. For twin flames working through doubt, the question is whether you're waiting for evidence before claiming the connection is real, or willing to claim it and let evidence follow. In separation, naming the connection's reality — even to yourself in writing — tends to produce more clarity than waiting for circumstances to confirm it. What about this connection are you willing to claim as real before you have proof?",
+      "Say what you hope this twin flame connection becomes in plain, present terms, and say it to yourself or in writing before outside evidence catches up. 3883 places abundance between two layers of expression, so naming the bond as real and possible is part of how it takes shape. That naming works best paired with action: tending your own growth, keeping your word, staying honest about what you need. Words that never become action drift into wishful thinking, yet action without words can leave you unsure what you're even building. Claim the version you're working toward, and let your choices back it up.",
     manifestation:
-      "3883 manifests by treating spoken affirmation as forward-looking rather than just descriptive — the practical move is speaking one specific abundance goal out loud today as genuinely achievable, since this number's folklore treats that generative voicing, paired with real follow-through, as what actually draws the abundance closer.",
+      "In 3883, the doubled 8 sits inside two 3s, so abundance arrives through what you say before it arrives in your accounts. 383 voices what you already hold; 3883 voices what you're reaching for, stated as achievable and backed by a plan. A goal said plainly to another person tends to recruit attention, contacts, and follow-through that a private wish never does. The words alone don't finish the job, yet they matter here because spoken intention organizes the work that follows.",
   },
   {
     number: "3993",

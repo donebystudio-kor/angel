@@ -238,11 +238,11 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     summary: "Following through on caregiving or domestic responsibility specifically producing material reward",
     meaning:
       "688: 6 (home, care, responsibility), paired with a double dose of 8 (abundance amplified), describing genuine follow-through on caregiving or domestic responsibility as what's specifically producing material reward right now, rather than the two being unrelated. This favors trusting that fulfilling your responsibilities well has a real, traceable connection to the abundance now arriving.",
-    love: "Single: the responsibility you've consistently fulfilled toward your own wellbeing and close relationships is specifically producing real reward now — trust that link. Couple: the responsibility you've both consistently fulfilled toward home and family is specifically producing real, shared reward now.",
-    career: "The responsibility you've consistently fulfilled at work, especially caregiving-adjacent responsibility, is specifically producing real material reward now.",
-    money: "The responsibility you've consistently fulfilled around household finances is specifically producing real reward now — trust that traceable connection.",
-    spiritual: "This favors recognizing responsibility fulfilled well as a legitimate, direct cause of material reward, not a separate, unrelated virtue.",
-    action: "Trace one specific reward today back to a responsibility you've consistently fulfilled, and recognize that connection directly.",
+    love: "Single: credit the stability you feel to the commitments you've kept with family, health, and friends, since that reliability is what makes you a steady partner now. Couple: when shared responsibilities, the kids' schedules, a parent's care, the household admin, have been handled faithfully, the ease or income showing up now grew from that.",
+    career: "Caregiving-adjacent or support work you've done reliably, the covering, the follow-up, the cleanup, is the real reason the raise or bonus is arriving.",
+    money: "Connect the money landing this month to the bills paid on time and obligations met across the past year, and keep that record where you'll see it.",
+    spiritual: "If duty has felt thankless, this number reframes it: a responsibility carried well is a direct source of the reward, never a separate virtue standing apart from it.",
+    action: "Pick one reward you've received lately and note the responsibility you kept that made it possible, without adding new duties to earn more.",
     category: "mixed",
     faq: [
       {
@@ -264,9 +264,9 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "688 draws a direct line between follow-through and reward, and in a twin flame context that line runs through your own healing work specifically. The doubled 8 says this isn't a small return, it's proportionate to the responsibility actually fulfilled. In reunion, 688 favors trusting that the consistent, often unglamorous work you've done on yourself has a real, traceable connection to renewed contact now arriving; it isn't unrelated luck. In separation, this number confirms that fulfilling your responsibilities to your own healing, even without a visible payoff yet, is genuinely building toward reward later.",
+      "If renewed warmth or contact is appearing in your twin flame connection, 688 links it to responsibilities you've kept, not to their mood or to chance. Your side of the ledger is the part to examine: the healing you kept up, the boundaries you held, the self-care you didn't skip even when nothing seemed to change. Their side moves on its own schedule and isn't yours to manage. What you can claim is that steadily keeping commitments in your own life has shaped the conditions the connection now meets. Count that work as genuine and earned, and keep it going without turning it into a bargain for more.",
     manifestation:
-      "688 manifests by recognizing responsibility fulfilled as the cause of reward — the practical move is tracing one specific benefit back to consistent follow-through today, since this number's folklore treats that acknowledged connection as what reinforces continued responsible effort.",
+      "688 ties today's reward to the duties you kept carrying faithfully, not to luck or to a burst of fresh effort.",
   },
   {
     number: "699",

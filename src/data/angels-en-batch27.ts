@@ -371,11 +371,11 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
     summary: "Steady, patient effort within a partnership specifically ripening into a real, tangible result",
     meaning:
       "42 combines 4 (foundation, patience) with 2 (partnership), describing steady, patient effort within a partnership as what's specifically ripening into a real, tangible result right now. This favors trusting that the patience shown together is genuinely paying off, worth recognizing rather than assuming the wait continues indefinitely.",
-    love: "Single: the patience you've shown in a slowly developing connection is specifically ripening into something real now — trust that the wait is paying off. Couple: the patience you've both shown in a slowly developing area of the relationship is specifically ripening into something real now.",
-    career: "The patience shown within a professional partnership is specifically ripening into a real, tangible result now — trust that the wait is paying off.",
-    money: "The patience shown within a financial partnership is specifically ripening into a real result now — trust that connection.",
-    spiritual: "This favors recognizing patient effort within relationship as a genuine, active cause of ripening results, worth honoring rather than downplaying.",
-    action: "Recognize today one specific way patient effort within a partnership is ripening into a real result.",
+    love: "Single: look at the friendship or slow-burn connection you've let develop at its own pace, because the patience you invested is now turning into something you can actually see. Couple: when a goal you've worked toward together for a long time finally shows results, celebrate it as the product of shared patience, not a lucky break that arrived on its own.",
+    career: "Take stock of a long-running collaboration at work and list the results it has produced this year, since the patient groundwork is finally showing up as output.",
+    money: "A joint savings plan, co-owned investment, or shared business that grew slowly is reaching a point where the returns are tangible enough to count and plan around.",
+    spiritual: "If waiting together has felt endless, notice that patience shared between two people bears fruit, and this season is when that fruit finally appears.",
+    action: "Name one concrete result that steady teamwork with someone has produced, and tell that person what you see before the week ends.",
     category: "mixed",
     faq: [
       {
@@ -397,9 +397,9 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "42 in a twin flame context favors trusting that patient, steady effort within the connection is genuinely ripening into a real result right now, not still an indefinite wait. In reunion, this often means the patience shown through a slow-developing stage is specifically what's now paying off in tangible ways. In separation, this number favors recognizing that patient inner work during the separation is genuinely ripening, even if the connection's external status hasn't yet visibly changed.",
+      "Patience in a twin flame bond tends to look like nothing is happening, until the results surface all at once. 42 points to that moment of ripening: the slow, steady work of the past months — honest conversations, kept promises, inner healing done without an audience — is becoming visible. If you're in contact, the change may show up as easier communication or plans that finally hold. If you're apart, it may show up inside you first, as calm where there used to be urgency. Either way, the wait has been working harder than it seemed, and the coming weeks finally show you what all that quiet effort built.",
     manifestation:
-      "42 manifests by recognizing patient effort as genuinely ripening — the practical move is acknowledging today one specific result that patience within a partnership has produced, since this number's folklore treats that recognition as what honors the process properly.",
+      "Fruit from a slow, shared effort tends to arrive quietly, and it's easy to miss when you've braced for the wait to go on forever. Look at what you and a partner, colleague, or friend have been tending side by side for months, then point to the concrete result already sitting there; naming it shifts the coming stretch from enduring to building on what's grown.",
   },
   {
     number: "43",

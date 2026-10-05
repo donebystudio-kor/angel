@@ -492,11 +492,11 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     summary: "Sharing what you've learned specifically produces new learning in return",
     meaning:
       "9339's two 9s (completion, mission) frame double 3 (expression, creativity, teaching), describing a specific cycle: sharing or teaching what you've already learned brings new learning back to you in return. This favors treating knowledge as something that grows through active sharing, rather than something to finish accumulating privately before considering it complete.",
-    love: "Single: share something you've learned from past relationships with a friend going through something similar — that act of sharing will teach you something new about your own experience. Couple: share what you've learned as a couple with others going through something similar, and notice what new understanding that sharing brings back to your own relationship.",
-    career: "Share or teach something you've mastered professionally to someone else — the act of explaining it will likely surface new understanding for you as well.",
-    money: "Share a financial lesson you've learned with someone who could use it — that act of teaching often clarifies your own understanding further.",
-    spiritual: "This favors treating teaching and sharing as an active spiritual practice that deepens your own understanding, not just a generous act toward others.",
-    action: "Share one specific lesson you've learned with someone today, and notice what new understanding surfaces for you in the act of explaining it.",
+    love: "Single: tell a friend going through a breakup what your own last relationship taught you, and listen for what their response reveals about your story. Couple: when friends ask how you two handle conflict or money, answer honestly, since putting your habits into words often shows you something new about them.",
+    career: "If you've mastered a process at work, offer a short teach-in or mentoring session, because explaining it to others will surface gaps and refinements.",
+    money: "Walk a younger relative or colleague through the budgeting or investing lesson you learned the hard way, and note what their questions clarify for you.",
+    spiritual: "Teaching turns knowledge into a living exchange; what you pass on returns to you deepened, often in a form you could not have reached on your own.",
+    action: "Before the day ends, share one lesson you've earned with someone who can use it, and jot down the new insight that surfaces while you explain it.",
     category: "mirror",
     faq: [
       {
@@ -518,9 +518,9 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "Sharing what you've genuinely learned — teaching it, articulating it to someone who could use it — is what 9339 marks as a timing signal. The return loop of real teaching is that sharing creates new understanding, and that new understanding is often the readiness marker rather than the outcome of reunion. For twin flames, this means the completion of an inner learning cycle tends to show up through your capacity to give it away, to articulate it clearly to others. In separation, check whether there's something you've genuinely learned through this period that you haven't yet shared. What has this period of growth actually taught you that you could give to someone who needs to hear it?",
+      "Share something this twin flame period has taught you with a person who could benefit, and notice what you gain in return. 9339 frames teaching like a loop: when you explain a hard lesson about patience, boundaries, or self-worth, you hear it differently, and that new understanding is often a quiet marker of readiness. The sharing doesn't require a stage — a long conversation with a friend, a careful journal entry written as advice, a reply to someone facing a similar struggle. Notice which parts come out clearly and which still feel tangled, because the tangled parts show where your learning continues.",
     manifestation:
-      "9339 manifests through the active cycle of teaching and learning — the practical move is sharing one specific lesson with someone today and paying attention to what it teaches you in return, since this number's folklore treats that reciprocal cycle as how understanding actually deepens.",
+      "Knowledge kept on a private shelf stops growing at the point you stored it. Explaining a lesson to someone who needs it forces you to find words you didn't have, and those words usually reveal a layer you'd missed. Who in your life could use what you've learned, and what might their questions teach you?",
   },
   {
     number: "9449",
