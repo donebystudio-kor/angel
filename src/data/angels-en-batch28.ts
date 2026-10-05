@@ -340,11 +340,11 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     summary: "Real growth happening specifically because of an already-solid foundation underneath it",
     meaning:
       "64 combines 6 (home, care) with 4 (foundation, stability), describing real growth, personal, relational, or domestic, that's happening specifically because of an already-solid foundation underneath it, rather than growth occurring despite instability. This favors recognizing and trusting that existing foundation as what's enabling the growth.",
-    love: "Single: real personal growth is happening specifically because of the solid emotional foundation you've already built — trust that connection. Couple: real growth for the relationship is happening specifically because of the solid foundation you've already built together.",
-    career: "Real professional growth is happening specifically because of an already-solid foundation — trust that connection.",
-    money: "Real financial growth is happening specifically because of an already-solid foundation — trust that connection.",
-    spiritual: "This favors recognizing existing foundation as the direct enabler of current growth, worth trusting and continuing to build on.",
-    action: "Recognize today one specific way an existing foundation is directly enabling growth you're experiencing.",
+    love: "Single: the confidence you bring to dating now rests on years of friendships, therapy, or self-respect you built, and that grounding is why new connections feel easier to grow. Couple: name the routines and agreements that keep your relationship steady, then lean on them as you take the next step, since they are what's letting the bond deepen.",
+    career: "List the skills and relationships at work that took years to build, then use them deliberately as you reach for the promotion or project that's now within range.",
+    money: "Savings, a reliable income, or paid-down debt form the floor under your current financial progress, and that floor explains why the gains are holding this time.",
+    spiritual: "When growth feels sudden, it often has a quiet root system; recognizing the foundation beneath it keeps you from mistaking steady, well-supported progress for chance.",
+    action: "Write down one area where you're clearly growing, and beside it the foundation that made that growth possible, then protect that foundation this week.",
     category: "mixed",
     faq: [
       {
@@ -366,9 +366,9 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "64 credits an existing foundation, not instability survived despite itself, for growth that's actually happening now. Where a number like 744 ties stability specifically to study and understanding, 64 is broader: real relational or emotional growth, period, is what the existing groundwork is enabling. In reunion, 64 favors recognizing that whatever's developing now is only possible because of work already done, not happening in spite of a shaky base. In separation, this number suggests the growth you're noticing in yourself is real precisely because it's built on ground that already held, not on hope alone.",
+      "Some of what supports this twin flame connection is visible to you and some isn't yet, and 64 points to the part you can already see. You know the ground you've built: steadier routines, honest friendships, a calmer relationship with your own needs. You may not know how the other person's foundation looks, or how things between you will develop from here. Growth happening at present stands on the solid part you can verify, and that's enough to build on. Let the unknown stay open while you strengthen what's real, because sturdy footing on your end changes how any future meeting can unfold. It also keeps hope from carrying a heavier load than it should.",
     manifestation:
-      "64 manifests by trusting existing foundation as the source of growth — the practical move is recognizing today one specific way solid ground is enabling current growth, since this number's folklore treats that acknowledgment as what reinforces continued flourishing.",
+      "If something in your life is growing steadily, look beneath it before crediting luck. 64 places home and care beside stability, so the growth you see is the visible part of ground that held firm long before the progress showed. That's why the most useful want right now extends what's already holding, because a firm base carries growth better than a fresh start would.",
   },
   {
     number: "65",
@@ -484,11 +484,11 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     summary: "Creative energy pulsing in a steady, alternating rhythm, distinct from a recurring wave",
     meaning:
       "3030 repeats the 30 block (3 for creativity, 0 for potential), describing creative energy that's pulsing in a steady, alternating rhythm, distinct from 0303's framing of creativity returning in recurring waves. Where 0303 emphasizes trust in the wave's return, 3030 is about a steady pulse already in motion, present tense and ongoing, worth working with directly rather than waiting for it to arrive.",
-    love: "Single: your creative approach to expressing interest in dating has a steady, ongoing pulse right now, worth working with directly rather than waiting for a bigger wave of inspiration. Couple: your creative connection has a steady, ongoing pulse right now, worth engaging with directly and regularly.",
-    career: "Creative professional energy has a steady, ongoing pulse right now, worth engaging with directly and regularly rather than waiting for a bigger burst.",
-    money: "Creative financial thinking has a steady, ongoing pulse right now, worth engaging with directly and regularly.",
-    spiritual: "This favors working with a steady creative pulse already present, rather than waiting for a larger wave of inspiration to arrive before engaging.",
-    action: "Engage with today's steady creative pulse directly, in a small, regular way, rather than waiting for a bigger burst of inspiration.",
+    love: "Single: express interest in small, steady ways, a funny message, an invitation to a show, a shared playlist, rather than saving it all for one grand romantic gesture. Couple: when creative ideas for your time together keep surfacing, act on the small ones weekly, so the playful rhythm between you stays alive.",
+    career: "Show up to your creative work in short, consistent sessions over the coming weeks, and keep a simple log of what each session produces so the pattern becomes visible.",
+    money: "A side project that earns a little every week, through regular posts, commissions, or teaching, builds more dependable income than holding out for one big creative payday.",
+    spiritual: "If you've been hoping for a flood of inspiration, notice the modest beat that's here now; tending it a little each day keeps the creative spirit alive and responsive.",
+    action: "Do one small creative act today, a sketch, a paragraph, a melody, and put the same small act on tomorrow's calendar so the pulse continues.",
     category: "double",
     faq: [
       {
@@ -510,9 +510,9 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "3030's steady pulse of expression followed by quiet describes a runner-chaser dynamic with unusual precision: one person consistently shows up, reaches out, or opens a conversation, and the other consistently needs to pull back and process in silence before the cycle can begin again. If you're the one expressing, the emptiness afterward isn't rejection — it's part of how this particular connection breathes. If you're the one pulling back, the withdrawal isn't cruelty, it's the 0 in the rhythm, the clearing before the next engagement. In separation or reunion, examine which role you're playing and whether you've named it honestly.",
+      "If one of you consistently reaches out and the other consistently needs quiet to process, 3030 reads that alternation as the connection's breathing pattern. For the person who expresses, the silence afterward isn't automatically rejection; it can be the pause that lets the following exchange happen. For the person who withdraws, stepping back isn't cruelty, though it helps to name the need instead of disappearing without a word. Notice which role you tend to play, and whether you've named it honestly to yourself. A pulse needs both beats, and understanding your part makes the rhythm feel less like a test.",
     manifestation:
-      "3030 manifests by engaging with a steady creative pulse directly — the practical move is a small, regular creative act today rather than waiting for a bigger wave, since this number's folklore treats that steady engagement as what sustains the pulse.",
+      "3030 describes a creative current that's already pulsing, steady and present, not a tide you're waiting to see return. 0303 asks you to believe inspiration will come back; 3030 asks you to use the beat that's running now. Small, regular acts suit this rhythm best: a page each morning, a sketch at lunch, ten minutes of practice before bed. The pace may not hold forever, so use it while it's here. These modest sessions keep the pulse alive in a way that one grand burst can't, because a rhythm stays strong only while something keeps answering it.",
   },
   {
     number: "4040",

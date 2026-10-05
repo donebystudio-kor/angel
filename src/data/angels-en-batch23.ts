@@ -192,11 +192,11 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     summary: "A well-grounded, solid transition from a closing chapter into a genuinely new one",
     meaning:
       "149 threads 1 (new beginnings) into 4 (foundation, stability) and 9 (completion), describing a transition from a closing chapter into a new one that's genuinely well-grounded and solid, distinct from a shaky or uncertain handoff. This favors trusting that the closing chapter is transferring real, usable foundation into whatever comes next, rather than leaving a gap.",
-    love: "Single: a dating chapter is closing in a way that's genuinely transferring real, useful foundation, lessons, clarity, self-understanding, into what comes next. Couple: a chapter within the relationship is closing in a way that's genuinely transferring real foundation into the next stage, worth trusting as a solid handoff.",
-    career: "A professional chapter is closing in a way that's genuinely transferring real, useful foundation into the next one, worth trusting as a solid handoff.",
-    money: "A financial chapter is closing in a way that's genuinely transferring real foundation into the next one, worth trusting as a solid, well-grounded transition.",
-    spiritual: "This favors trusting that an ending is transferring real, usable foundation forward, rather than leaving a gap the new beginning has to fill from scratch.",
-    action: "Identify one piece of real foundation a closing chapter is transferring into what comes next, and consciously carry it forward today.",
+    love: "Single: if a dating chapter is closing, jot down the clarity it gave you about your needs and boundaries, and bring that knowledge into every first date ahead. Couple: as one stage of your relationship ends, choose together which traditions and understandings to keep, so the new stage starts on ground you already trust.",
+    career: "When you leave a role, document the systems and contacts you developed there, since they form a ready-made base for the job or venture you move into.",
+    money: "Money lessons from a finished chapter, a paid-off loan or a closed business, become reusable structure, and a new budget built on them starts on firm footing.",
+    spiritual: "An ending can pass things along, not only take them away; the foundation built in one chapter travels into what follows when you choose to carry it.",
+    action: "Pick one resource, habit, or relationship from a chapter that's closing and deliberately bring it into your new routine this week.",
     category: "mixed",
     faq: [
       {
@@ -218,9 +218,9 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "149 focuses on the handoff itself, distinct from a number like 119's emphasis on the strength of what's beginning: the closing chapter here is specifically transferring real, usable foundation into the next one, not leaving a gap. In a twin flame context this favors trusting that whatever this stage taught you, patience, clarity, your own worth, is carrying forward intact, not lost when it ends. In reunion, 149 suggests what's opening now is genuinely built on what closed, not starting from zero. In separation, this number favors recognizing that a closing chapter is handing something real forward, worth naming rather than assuming the ending erases what it built.",
+      "Carry what this twin flame chapter taught you into the following one, because 149 describes an ending that hands forward something usable. Patience, clearer boundaries, a firmer sense of your own worth: these don't vanish when a phase closes. If a reunion is forming, those lessons become the base the renewed connection stands on, so it isn't starting from zero. If the separation continues, those lessons travel with you into everything else you do and keep their value. Writing them down makes them easier to hold onto. Name two or three of them plainly, and let them shape how you meet the stage that arrives after this one.",
     manifestation:
-      "149 manifests by consciously carrying real foundation forward from a closing chapter — the practical move is identifying one specific piece of usable groundwork today and bringing it into the new chapter deliberately, since this number's folklore treats that continuity as what makes the transition solid.",
+      "Across a transition, 149 is about packing, not abandoning. 91 simply hands one ending to the following beginning; 149 adds the cargo — lessons, savings, habits, relationships — that this ending stage is passing forward. Make a short inventory of what you're bringing: the skill you built, the boundary you learned, the contact who believed in you. Carried consciously, those pieces become the first floor of what follows, and the start feels steadier than one built from nothing.",
   },
   {
     number: "150",

@@ -384,11 +384,11 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     summary: "Spiritual insight specifically balancing the demands of relationships and home life together",
     meaning:
       "Two 7s (insight, intuition) frame a doubled 6 (home, care), describing spiritual or intuitive insight that's specifically helping balance the competing demands of relationships and home life. Distinct from 6776's framing of growth happening within home's protective boundary, 7667 is about active balancing: insight is the tool being used right now to keep multiple caregiving demands in reasonable proportion.",
-    love: "Single: trust your intuition to help you balance time and energy between dating and other close relationships or family obligations, rather than letting one crowd out the others by default. Couple: trust intuitive insight to help balance the relationship's needs against other home and family demands, rather than letting one consistently take priority without reflection.",
-    career: "Trust your intuition to help balance professional demands against home and caregiving responsibilities, rather than letting one consistently override the other without a real check-in.",
-    money: "Trust your intuitive sense of proportion when balancing spending between household needs and other close relationship demands.",
-    spiritual: "This favors using intuitive insight actively as a balancing tool between competing caregiving demands, rather than assuming logic alone can resolve the proportion.",
-    action: "Use your intuition today to actively rebalance time or energy between two competing home or relationship demands, rather than continuing an unexamined default pattern.",
+    love: "Single: let your intuition decide how many evenings go to dating versus family and friends this month, adjusting the mix when one side starts feeling neglected. Couple: if the relationship and your extended family keep competing for weekends, sit together and trust your shared sense of what feels fair before drafting a schedule.",
+    career: "Weigh your workload against home and caregiving duties using your instincts as well as logic, and adjust one commitment this week to restore proportion.",
+    money: "When household spending and support for relatives pull against each other, let a quiet gut check about proportion guide the split before you run the numbers.",
+    spiritual: "Insight works here like a scale in your hands, measuring care between competing claims so no one area quietly absorbs everything you have to give.",
+    action: "Check in with yourself today about where your time and energy are going at home, and shift one hour toward whatever has been shortchanged.",
     category: "mirror",
     faq: [
       {
@@ -410,9 +410,9 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "7667 in a twin flame context favors using intuitive insight to balance the connection against other home and relationship demands, rather than letting the intensity of the bond crowd out everything else, or vice versa. In reunion, this often means trusting your gut about how much space the reconnection needs relative to existing responsibilities, rather than following a rigid rule either way. In separation, this number favors intuitively balancing attention to the connection with genuine attention to home and other close relationships, rather than letting either consume all your energy.",
+      "Balance is the quiet skill 7667 asks of a twin flame journey, and intuition does the measuring. An intense connection can easily take over evenings, conversations, and attention that family, friends, or your own home also need. Rigid rules rarely solve that, but a regular gut check does: who has received less of you lately, and what would a fair share look like this week? Adjust in small amounts, notice how the bond feels when other parts of your life are tended too, and keep checking in, since the right proportion shifts as circumstances change. Balance here is a routine review, nothing that signals something is broken.",
     manifestation:
-      "7667 manifests by actively using intuition to rebalance competing demands — the practical move is trusting a gut sense of proportion to adjust time or energy between two areas today, since this number's folklore treats that active, intuitive balancing as what actually resolves the tension.",
+      "Balance between home and the people you love rarely comes from a fixed rule. 6776 keeps growth safe inside home's walls; 7667 turns insight outward as a working tool, weighing who needs more of you this week and who can wait. Your gut usually knows the proportion before your calendar admits it. Which demand has been getting your default yes without a real check?",
   },
   {
     number: "7887",

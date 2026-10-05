@@ -91,11 +91,11 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     summary: "Completing something while simultaneously seeking out a strong new collaborative partnership",
     meaning:
       "In 922, 9 (completion) meets a doubled 2 (partnership amplified), describing the simultaneous process of wrapping up a current chapter while actively seeking out a new, strong collaborative partnership, rather than treating the two as sequential. This favors recognizing that completion and new partnership-seeking can genuinely happen at the same time.",
-    love: "Single: while wrapping up an old chapter of your dating life, actively look for a new, meaningful connection at the same time, rather than waiting for full closure first. Couple: while completing an old dynamic within the relationship, actively work on building a stronger, new kind of partnership at the same time.",
-    career: "While wrapping up a professional chapter, actively seek out a new, strong collaborative partnership at the same time, rather than waiting for full closure first.",
-    money: "While completing an old financial arrangement, actively seek out a new, strong partnership or collaboration for what comes next.",
-    spiritual: "This favors recognizing that completion and new connection-seeking don't have to wait for each other, both processes can genuinely run in parallel.",
-    action: "Take one step today toward completing something while also actively reaching out to build a new collaborative connection.",
+    love: "Single: keep tying off an old romantic chapter while saying yes to coffee with someone new, since both steps can move forward together without either one being rushed. Couple: when an old way of relating is winding down, start building the new partnership you want right away, through fresh agreements and shared plans.",
+    career: "Finishing a role and lining up a new collaboration can happen in parallel, and the conversations you start now often land just as the old commitments wrap up.",
+    money: "Close out the expiring account or contract while you scout a stronger financial partner, advisor, or co-investor for what follows next quarter and beyond.",
+    spiritual: "If you've believed closure must come first, consider that endings and new alliances can grow side by side without either cheating the other of attention or care.",
+    action: "Take one step today toward finishing something old and one step toward contacting a potential collaborator, and do both before evening.",
     category: "mixed",
     faq: [
       {
@@ -117,9 +117,9 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "922 rejects the idea that closure has to come before anything new, and that's a genuinely useful twin flame message: 9 marks the wrapping-up, while the doubled 2 pushes active partnership-seeking to happen at the same time, not after. In reunion, 922 suggests you don't need to fully resolve the last chapter of this connection before genuine reconnection becomes possible, both can move forward together. In separation, this number favors closing out what's actually finished on your end while staying open to the bond's next form, rather than waiting for total resolution first.",
+      "If you assume a past chapter with your twin flame must be fully resolved before anything new can begin, 922 loosens that rule. Finishing and starting can run in parallel here. If you're in contact, you can keep working through an old misunderstanding while building fresh habits of connection, without waiting for the history to be spotless. If you're apart, close out what is truly finished on your side, the unsent letters, the rituals of checking, and stay open to the form the bond takes next. Parallel motion doesn't rush the ending; it simply stops the ending from blocking every other step.",
     manifestation:
-      "922 manifests by pursuing completion and new partnership in parallel — the practical move is taking one step today toward each simultaneously, since this number's folklore treats that parallel process as what actually works here, not a strict sequence.",
+      "Whatever you're finishing can share the calendar with whatever you're starting. 9229 lets one ending clear space for a new bond; 922 runs both at once — wrap up what's finishing and reach toward the new collaborator in one season, not one after the other.",
   },
   {
     number: "933",

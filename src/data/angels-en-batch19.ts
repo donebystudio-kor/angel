@@ -522,11 +522,11 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
     summary: "A relationship's access or opportunity swinging open and shut, testing whether to walk through in time",
     meaning:
       "0220 is a palindrome bookending double 2 (partnership, connection) with 0 (potential, threshold) on both sides, describing a relationship's door of opportunity or access swinging open and then closed, a testing, uncertain phase specifically about whether a connection stays available, rather than about the stability of an existing bond.",
-    love: "Single: an opportunity for connection with someone may be opening and closing intermittently right now — this favors paying attention and acting when the door is genuinely open, rather than assuming it will stay open indefinitely. Couple: access to a deeper stage of the relationship may be opening and closing intermittently right now — this favors noticing and acting during the open windows, rather than assuming the opportunity is permanently available.",
-    career: "A professional opportunity or connection may be opening and closing intermittently right now — act during the windows when it's genuinely open, rather than assuming it will remain available.",
-    money: "A financial opportunity tied to a specific connection may be opening and closing intermittently — act during the open windows rather than assuming it will remain available indefinitely.",
-    spiritual: "This favors paying close attention to timing around a specific connection, since the window of opportunity here seems to come and go rather than staying reliably open.",
-    action: "Pay attention today to whether a specific connection's door of opportunity is currently open, and act if it is, rather than assuming it will stay open indefinitely.",
+    love: "Single: someone you're interested in may be available for a short stretch and then busy again, and noticing those openings beats planning a perfect moment. Couple: watch for the evenings when your partner is genuinely open to a deeper talk, and use those windows to bring up what matters most to you both.",
+    career: "A contact or role that seemed out of reach may be briefly within reach this month, and timing your outreach to that window is half the work of getting through.",
+    money: "If a financial opportunity tied to a friend or partner appears, move during the period it's clearly available, since access may close again without warning.",
+    spiritual: "When doors seem to open and shut around a relationship, treat the rhythm as information about timing, not a verdict on whether the bond matters.",
+    action: "Notice today whether a particular connection feels open, and if it does, send the message or make the call before the moment passes.",
     category: "time",
     faq: [
       {
@@ -548,9 +548,9 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "Watching the rhythm of a twin flame connection's availability — when it opens, when it closes, how long each lasts — is what 0220 points at. The palindrome wraps doubled partnership in 0 on both sides, making timing more important than effort. Pushing when the window is closed doesn't open it; recognizing when it opens and meeting it with genuine intention is what actually moves things. In separation, 0220 favors attention over action: tracking when contact feels genuinely available versus when it would be forced. The pacing question this number raises is about timing as much as readiness. What pattern in this connection tells you when the door is actually open versus when it's closed?",
+      "Timing carries more weight than effort in 0220's twin flame reading. Today, the question is whether contact or closeness feels genuinely open; later, the door may swing shut and open again on its own schedule. Pushing during a closed stretch rarely helps and often costs trust, while showing up sincerely during an open stretch can move things further in an hour than weeks of pressure. Jot a short note whenever the connection feels available and when it doesn't, and over several cycles a pattern usually emerges. Patience during a closed stretch is participation, not passivity. That pattern doesn't judge the bond; it simply tells you about pacing.",
     manifestation:
-      "0220 manifests by acting during an open window rather than assuming permanent access — the practical move is checking today whether a specific connection's opportunity currently feels open, and acting if it does, since this number's folklore treats that attentive timing as what actually matters here.",
+      "When a connection that matters feels open today, act on it today. Access here comes and goes, and if the door is closed tomorrow, waiting with attention, not pushing, is how you catch it when it reopens.",
   },
   {
     number: "0321",

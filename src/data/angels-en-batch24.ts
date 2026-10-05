@@ -47,11 +47,11 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     summary: "Time spent genuinely alone specifically producing the clarity a question has been waiting for",
     meaning:
       "177's 1 (new beginnings, self), carried on doubled 7 (insight, wisdom amplified), describing genuine solitary time as what's specifically producing the clarity a question has been waiting for, distinct from seeking answers through conversation with others. This favors trusting that time alone, not more outside input, is what's actually needed right now.",
-    love: "Single: time genuinely alone, not more conversations with friends about it, is specifically what will bring clarity to a question about your love life right now. Couple: time genuinely alone, reflecting individually, is specifically what will bring clarity to a question about the relationship, more than more conversation about it right now.",
-    career: "Time genuinely alone, not more discussion with colleagues, is specifically what will bring clarity to a professional question right now.",
-    money: "Time genuinely alone, not more outside opinions, is specifically what will bring clarity to a financial question right now.",
-    spiritual: "This favors trusting solitude as an active source of answers, not just a retreat from a question, worth actively seeking rather than avoiding.",
-    action: "Spend real time alone today with a specific question, trusting that solitude, not more outside conversation, is what will bring the clarity.",
+    love: "Single: if you keep polling friends about whether to pursue someone, take an evening alone with that question and notice what your own mind says without anyone's commentary. Couple: a question about the relationship can become clearer after each of you spends some time apart reflecting, and that solo thinking often makes the shared conversation shorter and kinder.",
+    career: "A career crossroads that colleagues keep debating with you may resolve faster during a solo walk or a weekend away than in one more meeting about it.",
+    money: "When a financial decision has gathered too many opinions, close the forums and spreadsheets for a day and let the answer form in quiet reflection on your own.",
+    spiritual: "Solitude can be a source of answers, not just a retreat; the quiet you seek deliberately often holds the clarity that conversation keeps postponing.",
+    action: "Schedule a stretch of uninterrupted time alone today, bring one unresolved question into it, and write down the first clear answer that surfaces.",
     category: "mixed",
     faq: [
       {
@@ -73,9 +73,9 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "177 points to genuine solitary time as what's specifically producing clarity, distinct from seeking the answer through conversation with others. In a twin flame context this favors stepping back from forums, friends' opinions, or outside interpretations of the connection, and trusting time alone as the actual source of the clarity you're looking for. In reunion, 177 suggests the answer to a specific question about the connection is more available in solitude than in another conversation about it. In separation, this number favors deliberately seeking real alone time as an active practice, not just a retreat from an unanswered question.",
+      "When the twin flame question you keep circling has been discussed with every friend and forum you trust, 177 points you away from more input and toward real solitude. Clarity about this connection tends to surface in unhurried quiet: a long walk without headphones, a morning journal page, an evening with nothing scheduled. The goal isn't withdrawing from the people around you, only space where your own perception can be heard over everyone else's. Bring one specific question with you, let it sit without forcing an answer, and see what you know once the outside voices fade. Even twenty quiet minutes can be enough to start.",
     manifestation:
-      "177 manifests by actively seeking solitude rather than more outside input — the practical move is spending real, uninterrupted time alone today with a specific question, since this number's folklore treats that solitude as what actually produces the clarity.",
+      "Block out an hour with no phone and no advisers, bring one question into that quiet, and stay until something settles.",
   },
   {
     number: "188",

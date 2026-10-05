@@ -227,11 +227,11 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
     summary: "Creative expression specifically channeling material abundance inward right now",
     meaning:
       "38 combines 3 (creativity, expression) with 8 (abundance), describing creative expression as what's specifically channeling material abundance inward right now, distinct from a general hope that creativity will eventually pay off. This favors trusting that the channel is already active, worth actively engaging with rather than waiting for it to prove itself first.",
-    love: "Single: your creative approach to building a life for yourself is specifically channeling real abundance inward right now — engage with it actively. Couple: your creative approach to building a shared life is specifically channeling real, shared abundance inward right now.",
-    career: "Your creative professional work is specifically channeling real abundance inward right now — engage with it actively rather than waiting for proof first.",
-    money: "Your creative approach to money is specifically channeling real abundance inward right now — engage with it actively.",
-    spiritual: "This favors trusting an already-active channel between creative expression and abundance, worth engaging with directly rather than waiting for confirmation.",
-    action: "Actively engage today with the creative channel that's currently bringing in real abundance, rather than waiting for further proof.",
+    love: "Single: if the projects you make or share have been drawing interesting people toward you, keep showing that side of yourself, since your creativity is opening doors in your love life too. Couple: put time into a shared creative venture, a small business, a renovation, a joint blog, because the things you build together are beginning to return tangible rewards.",
+    career: "When your creative output at work starts producing measurable results, ask for the resources or recognition that match it, before the results need a second confirmation.",
+    money: "Treat the side income from your designs, writing, or craft like a real revenue line, and give it a weekly block of attention so the money it brings keeps arriving.",
+    spiritual: "Making things can be a form of receiving; the act of expression opens a path through which abundance moves, and staying engaged with it keeps that path clear and wide.",
+    action: "Spend at least an hour today on the creative work that has already earned you something, and note one way to widen its audience before the month ends.",
     category: "mixed",
     faq: [
       {
@@ -253,9 +253,9 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "38 moves from creative expression into material abundance, and in a twin flame context that sequence points at a specific dynamic: the creative or expressive work you're engaged in right now is building toward real, tangible results, and those results are part of the twin flame timeline even when they don't feel directly connected. In separation, 38 is often a signal that what you're making or expressing — professionally, artistically, or personally — is the live form of the twin flame energy in this phase, and investing in it is investing in the connection. In reunion, 38 marks a generative phase where creative collaboration between you two has a practical dimension that's worth paying attention to — things are being made that have real-world weight.",
+      "When creative work you care about starts paying off in tangible ways, 38 suggests that progress belongs inside the twin flame story too, even if it seems unrelated to the other person. What you make, sell, or publish during this period carries the energy of the bond in a practical form: confidence, resources, a life with more room in it. Apart, investing in that output is one of the most grounded ways to stay connected to your own path while the connection unfolds at its own speed. Together, a creative project built jointly can become a real asset, so pay attention to what the two of you are producing, not only to how it feels.",
     manifestation:
-      "38 manifests by actively engaging with a flowing creative channel — the practical move is continuing creative work today that's already bringing in real abundance, since this number's folklore treats that active engagement as what sustains the flow.",
+      "Creative work already bringing in money or opportunity is the channel 38 points at, not a hope parked for later. Keep feeding it this week with real hours, and the flow tends to widen the more steadily you show up for it.",
   },
   {
     number: "39",
