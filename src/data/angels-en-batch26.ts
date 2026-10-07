@@ -307,11 +307,11 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     summary: "Genuine completion specifically followed by real abundance waiting on the other side",
     meaning:
       "988's 9 (completion), carried on doubled 8 (abundance amplified), describing genuine completion of a chapter as specifically followed by real, substantial abundance waiting on the other side, distinct from 9889's emphasis on completion directly producing the abundance that follows. Where 9889 is causal, 988 is more anticipatory: the abundance is simply waiting there, ready, once the completion happens.",
-    love: "Single: real abundance in your love life is waiting on the other side of properly completing a current chapter — trust that it's there, ready. Couple: real, shared abundance is waiting on the other side of properly completing a current chapter within the relationship — trust that it's there.",
-    career: "Real professional abundance is waiting on the other side of properly completing a current chapter — trust that it's there, ready for you.",
-    money: "Real financial abundance is waiting on the other side of properly completing a current chapter — trust that it's there, ready once the completion happens.",
-    spiritual: "This favors trusting that abundance is genuinely waiting, not something you have to manufacture separately from completing the current chapter well.",
-    action: "Finish one lingering piece of a current chapter today, trusting that real abundance is genuinely waiting on the other side of it.",
+    love: "Single: the good relationship you're hoping for may already be closer than it seems, waiting just past the final step of letting an old attachment go for good. Couple: finish the long-postponed joint task, the paperwork, the move, the overdue conversation, because something better for you both is lined up right after it.",
+    career: "A project at work that has stalled near the end often hides the recognition or opportunity you want, and getting it over the line is what puts that reward within reach.",
+    money: "When a debt or financial project is nearly complete, push through the final payments or filings, since a meaningful reward sits waiting past that point.",
+    spiritual: "If you've felt you must create abundance from scratch, consider that it could be waiting already; completing what's in front of you is how you arrive where it is.",
+    action: "Close one lingering task from a chapter that's almost over, then notice what opportunities or ease become available once it's finally off your plate.",
     category: "mixed",
     faq: [
       {
@@ -333,9 +333,9 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "988 pairs completion with doubled abundance in an anticipatory way, the reward isn't caused by finishing, it's simply already there, waiting, once the completion happens. In a twin flame context this favors trusting that something genuinely good is positioned on the other side of properly finishing whatever this current chapter requires, not something you have to manufacture separately. In reunion, 988 suggests what's waiting for you once a current phase completes is real and ready, not something you'll need to build from scratch. In separation, this number reassures that closing out this stretch properly is what reveals the abundance already there, not what creates it.",
+      "Something good sits beyond the last leg of the current twin flame chapter, and 988 suggests it's already there, not something you'll have to build from nothing. What remains is finishing the chapter properly: the honest conversation, the boundary you said you'd keep, the closure you've been circling. If you're in contact, completing that piece together tends to reveal an easier way of relating that was waiting for you. If you're apart, closing your side well shows you peace, clarity, or new connections that were ready all along. The reward doesn't arrive by skipping the ending; it appears once the ending is done.",
     manifestation:
-      "988 manifests by trusting waiting abundance enough to finish the current chapter — the practical move is completing one lingering piece today, trusting the reward is genuinely there, since this number's folklore treats that completion as what actually reaches it.",
+      "If a chapter has been lingering at ninety percent done, the reward 988 describes is already sitting on the far side of the last stretch. 9889 treats finishing as the thing that produces abundance; 988 reads it like an appointment that's been kept open for you. The remaining tasks still have to be done, because the waiting reward doesn't come to meet an unfinished job. Pick the smallest unfinished piece and close it this week, and if another loose end appears behind it, close that one too.",
   },
   {
     number: "10",

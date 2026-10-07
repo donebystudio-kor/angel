@@ -348,11 +348,11 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     summary: "Intuition holding steady and reliable specifically in the middle of fast-moving change",
     meaning:
       "7557 wraps double 5 (change, freedom) in 7s (insight, intuition) on both sides, describing intuition that remains steady and trustworthy specifically in the middle of rapid, doubled change, rather than getting scrambled by it. This favors trusting your gut precisely because things are moving fast, not despite the speed — intuition tends to cut through faster than careful analysis can keep up with here.",
-    love: "Single: trust your gut read on a fast-moving dating situation, even without time to fully analyze it — the speed doesn't make the instinct less reliable here. Couple: trust your intuitive read on a rapidly shifting situation in the relationship, since careful analysis may not keep pace with how quickly things are changing.",
-    career: "Trust your gut read on a fast-moving professional situation, a rapid negotiation, a quick pivot, since intuition can track the change faster than deliberate analysis here.",
-    money: "Trust your instinct on a fast-moving financial decision, since the speed of the situation favors a quick, intuitive read over slow, methodical analysis.",
-    spiritual: "This favors recognizing intuition as especially reliable, not less reliable, during periods of rapid change — trust the fast read rather than demanding slow certainty.",
-    action: "Trust one quick gut instinct today about a fast-moving situation, rather than insisting on slower analysis before acting.",
+    love: "Single: when a new connection is developing quickly, go with your gut about whether to keep seeing them, without demanding a full analysis after every single date you go on. Couple: if circumstances around you are shifting fast, a move, a new job, a family change, rely on the shared instinct about what matters, since overthinking will lag behind.",
+    career: "Act on your instinct during a rapid negotiation or quick pivot at work, then review the details afterward, when the pace allows reflection, and note what your gut caught.",
+    money: "Fast markets and sudden offers reward a calm, intuitive read, and a decision made on a clear gut sense often beats one delayed until the opportunity has passed.",
+    spiritual: "When life speeds up, intuition can become clearer rather than scrambled; the stillness at your center lets you read rapid situations accurately.",
+    action: "Make one quick decision today based on your first clear instinct about a fast-changing situation, and note how it turns out over the coming days.",
     category: "mirror",
     faq: [
       {
@@ -374,9 +374,9 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "Fast-moving change and the intuitive reads that cut through it faster than analysis can — that's the timing mechanism 7557 describes. For twin flames, reunion often arrives mid-motion, and the instinct that recognizes the window tends to surface quickly and fade if it's second-guessed too long. 7557 marks this as a trust issue more than a timing issue: the read is accurate; the question is whether you act on it before analysis talks you out of it. In separation, if a quick gut sense about timing has surfaced recently and been set aside for further thought — that instinct may have been the actual signal. What fast intuitive read about this connection have you been second-guessing?",
+      "Recognition in a fast-moving twin flame moment often arrives in the form of a quick, clear read that fades if you argue with it too long. 7557 places that read between two steady 7s, which suggests the speed of events sharpens your perception here, not scrambles it. When contact suddenly opens, or a situation shifts overnight, the first calm instinct on how to respond is usually the one to follow. Save detailed reflection for slower days. Fast doesn't mean careless; it means trusting a signal that arrived clearly. Ask yourself which recent quick read about this connection you set aside for more thinking, and whether it still feels true.",
     manifestation:
-      "7557 manifests by trusting quick intuitive reads during fast-moving situations — the practical move is acting on one gut instinct today without waiting for slower analysis to catch up, since this number's folklore treats that trust in speed, not delay, as what actually serves you here.",
+      "In fast-moving situations, 7557 sides with the quick read over the slow audit. Where 0505 treats change mostly as disorientation to ground yourself through, 7557 sees that speed as the condition that sharpens your instinct, two 7s standing guard around the doubled 5. When an offer, a conversation, or a choice is moving faster than deliberation can follow, act on the first clear read and let detailed thinking follow once things slow down. Slower decisions, with room to breathe, still earn slower thinking. Acting on the quick read here tends to put you in position before the window shifts, and the outcomes from those quick calls often hold up better than the delay would have.",
   },
   {
     number: "7667",

@@ -624,11 +624,11 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     summary: "Consistent creative effort finally solidifying into something tangible and real",
     meaning:
       "344: 3 (creativity, expression), paired with a double dose of 4 (foundation, structure amplified), describing consistent creative effort that's finally solidifying into something tangible and real, distinct from a sudden creative burst. This favors recognizing and honoring the moment sustained work actually takes concrete shape, worth celebrating as a real milestone.",
-    love: "Single: the consistent effort you've put into understanding and expressing yourself is finally taking real, tangible shape in how you show up in dating now. Couple: the consistent creative effort you've both put into building something together is finally taking real, tangible shape now — celebrate that milestone.",
-    career: "The consistent creative effort you've put into a professional project is finally taking real, tangible shape now — celebrate that milestone.",
-    money: "The consistent creative effort you've put into a financial plan or venture is finally taking real, tangible shape now — celebrate that milestone.",
-    spiritual: "This favors honoring the moment sustained, unglamorous creative effort finally becomes something concrete, worth real celebration rather than immediately moving to the next task.",
-    action: "Take a moment today to recognize and celebrate one piece of consistent creative effort that's finally taking real, tangible shape.",
+    love: "Single: if the work you've done on expressing yourself honestly is starting to show in easier first conversations, notice that shift; steady practice produced it. Couple: celebrate the shared project that has slowly become real, the garden, the renovated room, the savings goal, before moving straight to the following one.",
+    career: "When a professional project you've nursed for months finally produces a working draft, prototype, or launch date, pause to document what the sustained effort built before pushing ahead.",
+    money: "A side venture or financial plan you've chipped away at for months is reaching a tangible stage, like the first steady sales or a funded account, and that deserves notice.",
+    spiritual: "Persistence has a creative dignity of its own; the moment patient effort becomes visible is a milestone to pause for, even if more work lies ahead.",
+    action: "Hold up one result of your steady creative effort today, show it to someone, and tell them plainly how many months it took to reach this stage.",
     category: "mixed",
     faq: [
       {
@@ -650,9 +650,9 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "344 rewards sustained effort over sudden insight: not a breakthrough, but quiet work on understanding this connection finally becoming something solid enough to see. The doubled 4 is what makes this structural rather than a passing realization, built over time rather than arriving all at once. In reunion, 344 suggests the groundwork you've quietly put in is what makes renewed contact feel stable rather than fragile. In separation, this number confirms that the effort you've been putting into your own growth, even without visible progress in the connection, has actually been forming a real foundation.",
+      "Look at the quiet, steady effort you've put in around this twin flame connection, the journaling, the therapy, the patience on days when nothing moved, and notice that it has started to take shape. 344 favors accumulation over breakthrough: no single revelation changed things, yet the structure you built through repetition is now solid enough to stand on. That foundation makes renewed contact feel less fragile and makes distance feel less destabilizing. Celebrate the milestone without assuming the work is over, and keep the habits that brought you here. It deserves acknowledgment as an achievement, not a footnote.",
     manifestation:
-      "344 manifests by celebrating consistent effort taking concrete shape — the practical move is pausing today to recognize one piece of sustained creative work that's now tangible, since this number's folklore treats that acknowledgment as what honors the cumulative process properly.",
+      "344 rewards the long haul: the double 4 means months of steady creative work are finally hardening into something you can hold. Where 311 is a sudden launch, this is accumulation paying out, so treat this as a milestone, not an ending.",
   },
   {
     number: "355",

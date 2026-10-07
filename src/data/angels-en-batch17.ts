@@ -18,11 +18,11 @@ export const EN_BATCH17_NUMBERS: EnAngelNumber[] = [
     summary: "New-beginning energy specifically bringing doubled balance to home life",
     meaning:
       "1 (self, new beginnings) opens and closes around a doubled 6 (home, care), describing a new beginning that's specifically bringing doubled balance and steadiness to home life, rather than disrupting it. This favors recognizing that starting something new, a habit, a role, an approach, is precisely what's settling and steadying home right now, not something competing with domestic stability.",
-    love: "Single: a new approach to your own life is specifically what's bringing more balance to your living situation and close relationships, worth trusting rather than assuming a new start always disrupts home life. Couple: a new beginning you're taking on together is specifically what's steadying and balancing home life, not something to delay until things settle first.",
-    career: "A new professional beginning is specifically bringing more balance and steadiness to your home life, rather than the two competing for attention.",
-    money: "A new financial approach or habit is specifically what's steadying household balance, worth starting now rather than waiting for home life to feel more settled first.",
-    spiritual: "This favors recognizing that new beginnings and domestic steadiness aren't opposites — starting something new can be exactly what settles a home situation.",
-    action: "Start one new habit or approach today specifically because it will help steady and balance your home life, not despite the change it introduces.",
+    love: "Single: if your living situation has felt unsettled, starting one new routine for yourself, a morning walk, a weekly dinner with friends, can make home feel calmer and more like yours. Couple: begin a new household ritual together, a Sunday reset, a shared budget meeting, and notice how it brings a calmer rhythm to the place you share each week.",
+    career: "A new role or schedule at work can bring more balance to family life when it frees evenings or reduces stress, and that domestic benefit is part of why it fits now.",
+    money: "When household finances feel scattered, adopting one new system, a shared spreadsheet or a separate bills account, can be precisely the anchor your household budget needs.",
+    spiritual: "Fresh beginnings and a settled home are allies here; the change you choose becomes a stabilizer, bringing quiet order to the spaces where you live and care.",
+    action: "Start one new habit today chosen because it will leave your household steadier, like a set bedtime, a weekly tidy-up, or a shared meal plan.",
     category: "mirror",
     faq: [
       {
@@ -44,9 +44,9 @@ export const EN_BATCH17_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "1661 frames reunion not as a single event but as something that includes domestic stability — the practical conditions that allow two people to actually share life, not just feel the connection. For twin flames expecting reunion to be purely emotional or spiritual, this number gently challenges that framing. The 6 at its center carries the weight of home, responsibility, and care; 1661 suggests those concerns are part of what's aligning, not separate from the timing. If your own sense of groundedness or home stability has been shifting recently, that shift may be more directly related to the connection's timing than it appears.",
+      "When you're unsure how this twin flame connection will unfold, 1661 points to what you can know: whether your own home life is steadying. You may not know the timing of reunion or the other person's readiness, and guessing tends to unsettle you further. What you can see is whether a new routine, a calmer living space, or a fresh habit is evening out your days. That steadiness belongs to the conditions a shared life would need, not a distraction from the bond. Let the unknown stay unknown for now and tend the part of home you can actually shape. A calmer household makes either outcome easier to meet.",
     manifestation:
-      "1661 manifests by trusting that a new start and home stability reinforce each other — the practical move is beginning one new thing today specifically because it will steady your home life, since this number's folklore treats that connection, not caution about disruption, as what's actually true here.",
+      "A new start bracketing the two central 6s is the picture 1661 draws, with the 1s on either side holding the 6s steady. That arrangement is why beginning something new here steadies your household: the fresh start is the stabilizer.",
   },
   {
     number: "1771",

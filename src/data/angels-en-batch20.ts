@@ -410,11 +410,11 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     summary: "A significant, favorable shift specifically moving through your financial or material circumstances",
     meaning:
       "85 sets 8 (abundance) next to 5 (change, freedom), describing a significant, generally favorable shift specifically moving through your financial or material circumstances right now, distinct from 500's general life-wave framing or 5885's more neutral, high-stakes uncertainty. This favors leaning into the shift with openness, since the change described here tends toward improvement rather than uncertain volatility.",
-    love: "Single: a favorable shift in your material circumstances may be opening new possibilities in your love life, more freedom, more ease, worth noticing and welcoming. Couple: a favorable shift in shared material circumstances is moving through the relationship right now, worth welcoming and making the most of.",
-    career: "A favorable shift in your professional financial circumstances is moving through right now, worth welcoming and leaning into with openness.",
-    money: "A favorable shift in your financial circumstances is moving through right now — lean into it with openness rather than bracing for it to be difficult.",
-    spiritual: "This favors welcoming a generally favorable change with openness, trusting the shift's direction rather than approaching it with unnecessary caution.",
-    action: "Welcome one sign of favorable financial or material change today with openness, rather than approaching it cautiously as though it might be a setback.",
+    love: "Single: if your circumstances are loosening up, more money, more time, a better place to live, let that ease show up in how you date, saying yes to plans you once couldn't afford. Couple: sit down together and decide how to use the improving situation, a trip, a bigger home, less overtime, so the good change actually lands in your shared days.",
+    career: "When a raise, contract, or promotion starts tilting your income upward, accept the expanded responsibilities with curiosity, since the overall direction favors you.",
+    money: "Lean into the upturn: update your budget to reflect the higher income or lower costs, and direct part of the gain toward a goal you'd shelved during leaner months.",
+    spiritual: "Openness is the spiritual stance this moment asks for; a favorable shift meets you halfway when you stop bracing for it to disappoint you, even if a few bumps come along.",
+    action: "Name one encouraging sign in your money or living situation today and take a small step that welcomes it, like booking the appointment or opening the account.",
     category: "mixed",
     faq: [
       {
@@ -436,9 +436,9 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "85 is anticipatory where a number like 855 confirms a shift already underway: this is a favorable wind still moving toward you, worth leaning into rather than bracing against. In a twin flame context this favors noticing early signs of ease approaching the connection's circumstances, before they've fully arrived. In reunion, 85 suggests meeting this approaching shift with openness now, rather than waiting for full certainty before letting yourself feel it. In separation, this number favors trusting that the direction things are moving in is generally favorable, even while the change itself is still gathering rather than finished.",
+      "When the circumstances around your twin flame connection begin improving, steadier finances, an easier schedule, a home with more room, 85 asks you to notice the shift while it's still arriving, before every piece is in place. Right now, the signs may be small: a conversation that flows more easily, a practical obstacle that quietly disappears. Later, the full change gets easier to see, but welcoming it at this early stage lets you take part in it. The direction leans favorable even if the road has a few rough patches, so keep bracing to a minimum and allow yourself to feel the ease that's gathering. Small welcomes now make the larger change easier to receive.",
     manifestation:
-      "85 manifests by welcoming favorable change with openness rather than bracing cautiously — the practical move is leaning into one sign of positive shift today, since this number's folklore treats that openness, not defensive caution, as what serves you when the direction is generally favorable.",
+      "A shift in your finances or circumstances that's tilting your way deserves a warmer reception than suspicion. Meet the first good sign with an open plan instead of a braced one, and the improvement usually settles in faster and lasts longer.",
   },
   {
     number: "86",
@@ -662,11 +662,11 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     summary: "A specific stage of spiritual growth or understanding reaching a genuine, significant completion",
     meaning:
       "97 sets 9 (completion) next to 7 (insight, spirit), describing a specific stage of spiritual growth or understanding reaching a genuine, significant completion, worth honoring as real progress rather than an endless, never-finished process. This favors recognizing when a particular chapter of inner growth has genuinely concluded, even while understanding that growth in general continues.",
-    love: "Single: a specific stage of your own inner growth around self-worth and readiness for love has genuinely concluded — recognize and honor that completion. Couple: a specific stage of spiritual or emotional growth you've navigated together has genuinely concluded, worth honoring before the next stage naturally opens.",
-    career: "A specific stage of professional or personal growth has genuinely concluded — recognize and honor that completion before moving to whatever's next.",
-    money: "A specific stage of growth in your relationship with money and security has genuinely concluded — recognize and honor that completion.",
-    spiritual: "This favors recognizing when a specific stage of spiritual growth has genuinely completed, honoring it as real progress rather than treating growth as an endless, never-finished task.",
-    action: "Acknowledge one specific stage of your own growth that's genuinely completed, honoring it today before turning attention to what's next.",
+    love: "Single: recognize that the season of healing after your last relationship has run its course, and let yourself date as the steadier person that work produced, leaving the recovering version behind. Couple: if you've both outgrown an old way of handling conflict, say so to each other, since naming the finished stage lets the relationship stop rehearsing it.",
+    career: "Mark the close of a learning phase at work, the apprenticeship years, the imposter-syndrome stretch, with a concrete gesture such as updating your title or rate.",
+    money: "Your relationship with money has passed a real milestone, maybe panic spending finally stopped or you no longer hide statements, and that progress belongs on the record.",
+    spiritual: "When growth starts to feel endless, it helps to see that the path moves in distinct stages; one of them has genuinely closed, and the larger journey continues beyond it.",
+    action: "Write one sentence describing a stage of personal growth you've completed, read it aloud once, and file it somewhere you'll find it on a discouraged day.",
     category: "mixed",
     faq: [
       {
@@ -688,9 +688,9 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "97 marks a specific stage of spiritual growth reaching genuine completion, worth honoring as real progress rather than assuming growth is always still in progress somewhere. In a twin flame context this favors naming one particular lesson or stage this connection has been teaching you as actually finished, not an open-ended, ongoing process. In reunion, 97 suggests you can trust that a specific piece of inner work is done, freeing you to meet the connection from that completed place. In separation, this number favors recognizing when a distinct growth stage has genuinely concluded, even while understanding the larger journey continues.",
+      "One particular lesson this twin flame connection set out to teach you may be finished, and 97 encourages you to call it that. It might be learning to stop chasing, to state your needs plainly, or to stay steady when contact goes quiet. In contact, meeting the other person from that completed place changes the conversation, because you're no longer working on that lesson in real time. In separation, recognizing that the lesson has closed frees energy that was tied up in it, even though the wider path continues. A finished lesson doesn't end growth; it simply opens room for whatever comes after. Naming it clearly keeps you from relearning it out of habit.",
     manifestation:
-      "97 manifests by consciously acknowledging a completed stage of growth — the practical move is naming one specific area of inner development that's genuinely concluded today, since this number's folklore treats that acknowledgment as what properly honors the progress and opens room for what's next.",
+      "What you've finished learning deserves to be called finished. 7997 lets understanding close a chapter from the outside in; 97 is more personal: one phase of your inner work has actually concluded. Treating every lesson as permanently unfinished keeps you studying material you've already absorbed, because a stage that never gets marked complete can't make room for its successor.",
   },
   {
     number: "98",

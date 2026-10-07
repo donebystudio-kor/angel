@@ -49,11 +49,11 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     summary: "Steady, incremental progress toward a dream, built one deliberate step at a time",
     meaning:
       "124 holds 1 (new beginnings) alongside 2 (partnership, patience) and 4 (foundation, structure), describing steady, incremental progress toward a dream, built deliberately one step at a time rather than in one dramatic leap. This favors trusting that each small, solid step is genuinely bringing the dream closer, worth honoring rather than measuring only against the finish line.",
-    love: "Single: each small, deliberate step you're taking toward the relationship you want is genuinely bringing it closer, worth honoring rather than only measuring against the final goal. Couple: each small, deliberate step you're both taking toward a shared dream is genuinely building toward it, worth honoring along the way.",
-    career: "Each small, deliberate professional step you're taking is genuinely bringing a larger goal closer, worth honoring as real progress rather than only measuring against the finish line.",
-    money: "Each small, deliberate financial step you're taking is genuinely building toward a larger goal, worth honoring as real progress along the way.",
-    spiritual: "This favors honoring incremental progress as genuinely meaningful, rather than only valuing the moment a dream is fully realized.",
-    action: "Take one small, deliberate step today toward a larger dream, and consciously honor it as real progress rather than measuring only against the end goal.",
+    love: "Single: one more honest conversation, one healthier boundary, one evening out despite nerves, is how the relationship you want gets built, and each of those counts now. Couple: when the big shared goal, a house, a wedding, a business, feels far off, list the modest milestones you've already passed together and let them steady your pace.",
+    career: "A career built through incremental skills, certifications, and steady deliveries is moving at a legitimate pace, even if colleagues seem to leap ahead.",
+    money: "Automate a small recurring transfer toward the bigger financial dream, and review the growing balance monthly, judging it by its direction, not its distance from the final target.",
+    spiritual: "If progress feels too slow to matter, remember that steady pacing and solid groundwork are part of how a dream takes form; each deliberate step is sacred in its own right.",
+    action: "Complete one small, deliberate task toward your bigger dream today, then write down in a sentence how it moved you forward, however slightly.",
     category: "mixed",
     faq: [
       {
@@ -75,9 +75,9 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "124 measures progress in small, deliberate steps, not one dramatic leap, and that pacing is worth naming directly in a twin flame context, where it's tempting to only count the big, obvious breakthroughs. In reunion, 124 favors recognizing that a small, ordinary step, one honest conversation, one boundary held, is genuinely building toward the outcome you want, not just filling time before a bigger moment. In separation, this number suggests honoring each deliberate step you're taking as real progress in its own right, worth counting fully rather than measuring your growth only against the far-off finish line.",
+      "If you're counting only the dramatic moments in your twin flame story, 124 widens the lens to small, deliberate steps. Each honest message, each boundary held, each week of steady self-care adds a brick to what you're building. During contact, those steps show up as conversations that go a little better than they used to and plans that actually happen. Apart, they show up as calmer mornings and fewer spirals after a sign. Progress measured this way is slower to notice but harder to undo, and it keeps you moving with no breakthrough required. Your pace is valid even when it feels unremarkable.",
     manifestation:
-      "124 manifests by honoring incremental steps as real progress — the practical move is taking one small step today toward a dream and consciously recognizing it as meaningful, since this number's folklore treats that honored consistency, not only reaching the finish line, as what actually builds the dream.",
+      "Take the small step toward your larger dream today and count it before you measure the distance left. 124 pairs a fresh start with patience and structure, which means the dream gets assembled piece by piece, not in one leap. If you only feel successful at the finish, most of the journey will feel like failure. What did the last month of small steps actually build?",
   },
   {
     number: "125",
