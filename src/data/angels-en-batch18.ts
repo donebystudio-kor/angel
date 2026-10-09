@@ -52,11 +52,11 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
     summary: "A call to apply structure and system specifically to how you're caring for home, not just more effort",
     meaning:
       "4 (foundation, structure) opens and closes around a doubled 6 (home, care), describing a specific call to bring organized structure to caregiving, rather than 464's simpler framing of consistent, ongoing care building foundation. Where 464 is about steady effort over time, 4664 is about method: doubled caregiving demands right now specifically need a system, a schedule, a plan, not just more consistent care applied ad hoc.",
-    love: "Single: bring more structure and system to how you care for yourself, a routine, a plan, rather than relying on ad hoc effort alone. Couple: bring more structure to how you share caregiving responsibilities together, a schedule, a clear system, rather than continuing to handle it ad hoc.",
-    career: "If your work involves caregiving or nurturing others, bringing more organized structure to that responsibility, rather than just working harder at it, is favored right now.",
-    money: "Bring a more structured system to household or family financial care, a budget, an automated plan, rather than managing it ad hoc.",
-    spiritual: "This favors recognizing that care sometimes needs structure, not just heart, to be sustainable — organizing your caregiving is itself a form of care.",
-    action: "Create one specific system or structure today for a caregiving responsibility you've been handling ad hoc, a schedule, a checklist, a plan.",
+    love: "Single: set yourself a weekly routine for the basics, sleep, meals, a night off, and keep it for a month. Someone new can step more easily into a life that already looks after its owner. Couple: looking after kids, parents, or a pet runs smoother between partners once each task has a name and an owner; a shared calendar turns quiet resentment into an agreed plan.",
+    career: "Turn the steps you repeat for the patients, students, or clients you look after into a checklist the team can share; in nurturing roles, a clear procedure protects your energy too.",
+    money: "If family costs keep catching you off guard, open a separate account for them with an automatic monthly top-up. Care spending feels lighter once it has its own line in the budget.",
+    spiritual: "When tending to others feels like a test of devotion, 4664 offers a gentler view: order can be a form of love, and care arranged to last serves people well.",
+    action: "List every recurring task involved in looking after someone close to you, then assign each one a day of the week on a single page you can pin up.",
     category: "mirror",
     faq: [
       {
@@ -78,9 +78,9 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "4664 gently challenges the expectation that care in a twin flame connection should feel effortless — that if it requires sustained, deliberate effort, something must be wrong. The structure of 4664 holds care (6) inside stability (4s), and it says plainly: real care within real structure is sometimes demanding, and that demand isn't a failure signal. For twin flames, this becomes relevant when one or both people begin to pull back because the connection requires more than felt comfortable. 4664 suggests releasing the expectation of effortlessness rather than the connection itself. Sustained, chosen effort is often what the reunion phase actually requires, practically.",
+      "Care inside a twin flame connection can turn chaotic when it runs only on feeling: long messages at midnight, silence for a week, then a flood of worry. 4664 suggests giving that care a shape both people can rely on. That might be a regular call, an agreed way to check in during hard weeks, or a simple rule about when big conversations happen and when they wait. Order of this kind isn't cold. It keeps the warmth from burning out, and it lets each person know what to expect, which lowers the anxiety that so often drives these bonds into push and pull. You aren't failing at love by planning it; you're making it sustainable, and that steadiness is often what lets a hard-won closeness last.",
     manifestation:
-      "4664 manifests through structure rather than more raw effort — the practical move is building one concrete system today for an existing caregiving responsibility, since this number's folklore treats that organization, not increased effort alone, as what actually sustains the care.",
+      "A rota, not extra stamina, is where 4664 parts ways with 464: steady effort was the earlier lesson, and method is this one. Pick the care duty you dread most and give it a fixed order, and the easier household you want begins to arrive on its own timetable.",
   },
   {
     number: "4774",

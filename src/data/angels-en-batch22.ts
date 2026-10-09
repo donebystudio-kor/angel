@@ -85,11 +85,11 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     summary: "A partnership finding real equilibrium specifically while navigating genuine change together",
     meaning:
       "125 threads 1 (new beginnings) into 2 (partnership, balance) and 5 (change, freedom), describing a partnership that's finding real equilibrium specifically in the midst of navigating genuine change together, rather than waiting for the change to end before feeling stable. This favors trusting that balance is available now, within the change, not only after it settles.",
-    love: "Single: real balance is available in how you're navigating a changing dating situation right now, worth finding within the change rather than waiting for it to settle first. Couple: real balance is available for the relationship right now, specifically within the change you're navigating together, not only once things settle down.",
-    career: "Real balance is available in a professional partnership navigating change right now, worth finding within the change rather than waiting for stability first.",
-    money: "Real balance is available in a financial partnership navigating change right now, worth actively finding within the change rather than waiting for it to resolve.",
-    spiritual: "This favors trusting that balance and change can coexist, rather than treating equilibrium as something only available once change has fully stopped.",
-    action: "Find one small point of real balance today within a change you're currently navigating in a relationship, rather than waiting for the change to end first.",
+    love: "Single: keep dating even while your job, city, or schedule is in flux. Plan dates that suit the week you really have, and let someone see how calmly you handle a moving target. Couple: if a transition has turned your evenings into logistics meetings, protect one unhurried hour a week for each other; couples find their footing mid-change by keeping a small ritual intact.",
+    career: "Sit down with the colleague you work most closely with while the reorganization unfolds, and divide the new load fairly; a working partnership can feel steady mid-merger.",
+    money: "A shared account or business going through a restructure can still run evenly. Agreeing who covers which bills during the shake-up gives both sides a stable floor.",
+    spiritual: "When peace seems to belong to a quieter future, 125 moves it into the present. Equanimity here is practiced in motion, like staying upright on a moving train.",
+    action: "Ask the person sharing this transition with you what would make the week feel steadier, and do that one thing together before Sunday.",
     category: "mixed",
     faq: [
       {
@@ -111,9 +111,9 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "125 refuses to wait for change to finish before allowing balance, and that's a direct answer to a common twin flame frustration: feeling like steadiness is only possible once the uncertainty resolves. In reunion, 125 favors trusting that real equilibrium is available now, inside the current adjustment period, not reserved for some calmer future stage. In separation, this number suggests balance and not-knowing can genuinely coexist, worth finding within the current flux rather than treating stability as something waiting on the other side of resolution.",
+      "Twin flame connections seldom pause for calm before asking you to show up, and 125 treats that as workable. Where you're back in contact, steadiness looks like small agreements made while things are still moving: how often you talk, which topics wait, which plans stay loose for now. Where you're apart, it looks like a routine that carries you through the uncertain weeks, sleep, friends, work that matters to you, so the waiting doesn't swallow your days. Both pictures share one idea: firm footing can be built mid-motion, and it rarely gets easier by postponing it. The connection may keep changing shape for a while, and you can still meet it on an even keel today.",
     manifestation:
-      "125 manifests by actively finding balance within ongoing change rather than waiting for it to end — the practical move is identifying one point of real equilibrium today amid a current change, since this number's folklore treats that active balance, not delayed stability, as what actually serves the partnership.",
+      "What 2552 asks of a couple riding a big upheaval, 125 asks on an ordinary scale: steadiness while things move. Decide together what this stretch should give you, a calmer week, a fair split of chores, a shared plan, and make that ask now, in the thick of it. Which part of that wish could begin before anything settles?",
   },
   {
     number: "126",

@@ -266,11 +266,11 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     summary: "A single, concrete step you can take right now toward a larger sense of purpose",
     meaning:
       "79 combines 7 (insight, wisdom) with 9 (completion, mission), describing one concrete, actionable step available right now toward your larger sense of purpose, rather than the mission itself being fully clear yet. This favors trusting that a single next step is enough, without needing the entire path mapped out in advance.",
-    love: "Single: one concrete step toward being ready for a relationship that fits your larger sense of purpose is available right now — trust that one step is enough for today. Couple: one concrete step toward building a shared life that serves both your larger purposes is available right now — take it without needing every detail mapped out yet.",
-    career: "One concrete step toward a larger professional purpose is available right now — trust that a single step is sufficient progress, without needing the whole path clear yet.",
-    money: "One concrete financial step toward supporting your larger sense of purpose is available right now — take it without needing the whole plan mapped out first.",
-    spiritual: "This favors trusting one clear, concrete next step as sufficient progress toward purpose, rather than needing the entire mission to be fully understood in advance.",
-    action: "Take one concrete step today toward a larger sense of purpose, trusting that this single step is enough progress for now.",
+    love: "Single: if you've shelved dating until your life has a clear direction, drop that condition. Someone suited to where you're going can meet you while you're still working it out. Couple: choose a joint project the two of you can start this month, a savings goal, a class, a trip toward the life you want together. Shared direction gets clearer by moving in it.",
+    career: "When work feels aimless because the larger direction is fuzzy, pick the task this week that teaches you most about what you'd like to do. Doing it well counts as progress.",
+    money: "Money that serves a bigger aim doesn't need a ten-year budget. A small fixed amount moved each payday toward what you care about most builds the habit, and the plan can catch up later.",
+    spiritual: "Wisdom arrives here in small portions. Insight paired with a calling grows through doing: each modest act toward what matters shows you a little more of why it matters.",
+    action: "Write down a task you could finish by tonight that moves you toward the work or life you keep circling, then get it done before bed.",
     category: "mixed",
     faq: [
       {
@@ -292,9 +292,9 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "79 favors trusting one concrete, available step over needing the entire path mapped out in advance. In a twin flame context this directly counters the pressure to know exactly how or when reunion happens: one small, doable action toward the larger purpose this connection serves is genuinely enough for today. In reunion, 79 suggests focusing on the single next real step rather than trying to see the whole arc of what's coming. In separation, this number favors identifying one specific, concrete thing you can actually do right now, rather than staying stuck waiting for the full picture to become clear first.",
+      "When the twin flame connection seems like a riddle you're supposed to crack all at once, 79 sorts it by time. Today asks for something small and doable: a message you've meant to send, an honest journal page about what this bond is teaching you, a boundary you can keep this week. Later is where the larger meaning lives, and it isn't yours to settle yet. People often stall because they want the far end of the story before they act on its opening pages, yet that far end tends to come into view only after enough small, present-day choices have stacked up. Your twin flame bond can grow toward what it's for through what you do this week, while the bigger picture sharpens month by month.",
     manifestation:
-      "79 manifests by trusting one concrete step as sufficient progress — the practical move is identifying and taking that single available step today, since this number's folklore treats that trust in incremental progress, not full clarity in advance, as what actually moves the mission forward.",
+      "79 narrows what plain 9 leaves broad: you don't have to name your calling before you can act toward it. Pick the want that sits closest to your direction this month and put a date on one piece of it, because progress comes from a dated piece, not a finished blueprint.",
   },
   {
     number: "82",

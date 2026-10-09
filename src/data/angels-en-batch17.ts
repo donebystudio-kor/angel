@@ -486,11 +486,11 @@ export const EN_BATCH17_NUMBERS: EnAngelNumber[] = [
     summary: "A closure expressed with genuine care and beauty, not just functionally provided",
     meaning:
       "3993 places double 9 (completion) at the center of two 3s (creativity, expression), describing a closing expression delivered with genuine grace and care, distinct from 393's simpler focus on providing functional closure through words. Where 393 is about the necessity of speaking closing words at all, 3993 is about the quality of how they're delivered — doing the closing beautifully and thoughtfully, not just adequately.",
-    love: "Single: if you're providing closure to a chapter of your dating life, take the time to do it with real grace and care, not just get it over with functionally. Couple: if a chapter within the relationship needs closing words, deliver them with real thoughtfulness and care, not just as a quick, functional wrap-up.",
-    career: "If you're closing out a professional chapter, take the time to do it with genuine grace, a thoughtful final message, a considerate handoff, not just a minimal, functional sign-off.",
-    money: "If closing out a financial chapter with someone else involved, do it with real consideration and care, not just the minimum necessary paperwork.",
-    spiritual: "This favors treating the manner of closing, not just the fact of it, as spiritually significant — how you end something matters as much as that it ends.",
-    action: "If you're closing out a chapter today, take extra care with how you do it, choosing words and gestures that reflect genuine grace, not just efficiency.",
+    love: "Single: ending things with someone you've dated doesn't have to be a text and a silence. A short, kind conversation that thanks them for what was good lets you both walk away lighter. Couple: mark the end of a hard season together, a finished move, a long-distance stretch over, with a dinner or a letter; partners who close chapters on purpose carry less old strain forward.",
+    career: "Leaving a job well is a skill people remember: a handover someone can follow, a goodbye note, and proper thanks to whoever trained you often outlast the final project.",
+    money: "When you settle a loan between friends or a joint lease, close it with a written summary and a word of thanks; tidy money endings keep relationships intact.",
+    spiritual: "Give the final days of a friendship, a lease, or a job the attention you gave its start; many traditions regard the threshold as holy ground, and leaving kindly is a spiritual act.",
+    action: "Think of something you're about to finish, and before it's over, write a brief note of thanks to one person who made it better.",
     category: "mirror",
     faq: [
       {
@@ -512,9 +512,9 @@ export const EN_BATCH17_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "Grace in how something ends — the care with which you close a chapter — determines whether what's released actually releases. 3993 is specific to twin flames: a closing expression delivered without genuine care tends to leave residue, a partial closure that doesn't fully free either person. The quality of the ending matters as much as the ending itself. In reunion, what was closed with grace tends to stay closed, making room for something genuinely new. In separation, the way you're currently expressing an ending determines whether you're actually releasing it. What closing expression, if delivered with real care and honesty, would let you genuinely let go of what needs releasing?",
+      "If you can't tell whether a twin flame chapter is ending or only pausing, 3993 separates what you know from what you don't. You may not know where this connection is headed, whether contact returns, or how they feel now. You usually do know how you want to conduct yourself in this moment: whether to leave things with an apology, a thank-you, or a calm explanation of what you need. That part is in your hands even while the larger question stays open. Saying it kindly, in a way you'd be proud of later, makes the uncertainty easier to carry, because whatever happens from here, you won't be left wishing you'd handled your side differently.",
     manifestation:
-      "3993 manifests through graceful, considered closing rather than minimal efficiency — the practical move is taking extra time today to deliver one closing expression with genuine care, since this number's folklore treats that quality of delivery, not just the fact of closure, as what it's actually pointing toward.",
+      "If you're wrapping up a role, a friendship, or a home and hoping what follows comes in clean, put your attention on the manner of your exit. 393 is satisfied once the parting words get said; 3993 asks how they land. Write the thank-you you'd want to receive, return what you borrowed, leave the place tidier than you found it, nothing lavish. Endings handled this way leave less unfinished business behind, so whatever you're hoping for next has room to arrive.",
   },
   {
     number: "8338",

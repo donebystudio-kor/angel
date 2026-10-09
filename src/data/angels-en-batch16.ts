@@ -708,11 +708,11 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     summary: "Collaboration specifically amplifying abundance beyond what either person could produce alone",
     meaning:
       "A double 2 (partnership, collaboration), wrapped in 8 (abundance) on both sides, describing abundance that's specifically multiplied through genuine collaboration, rather than achieved alone. This favors recognizing that a partnership, business, financial, or creative, is producing more abundance together than either party would achieve independently, and that the collaborative structure itself deserves credit for the multiplication, not just individual effort.",
-    love: "Single: a collaborative approach to building resources with a friend, family member, or roommate is producing more abundance than doing it alone would. Couple: your combined efforts as a couple are producing more material and emotional abundance together than either of you would generate separately — recognize the multiplying effect of the partnership itself.",
-    career: "A professional partnership or collaboration is specifically multiplying abundance beyond what either person would produce working alone — invest further in that collaborative structure.",
-    money: "A financial partnership or joint venture is genuinely multiplying resources beyond individual effort — recognize and continue investing in the collaboration itself.",
-    spiritual: "This favors recognizing collaboration itself as an abundance-generating force, not just a practical convenience — the whole genuinely exceeding the sum of its parts here.",
-    action: "Invest further in one collaborative partnership today, recognizing explicitly that it's producing more abundance together than either side would alone.",
+    love: "Single: if you share rent, a car, or a side hustle with a friend or roommate, notice how much further pooled money goes; someone who values teamwork will hear that ease in how you describe your life. Couple: tell your partner which shared result this year you couldn't have reached alone, a paid-down loan, a calmer household. Couples who name their combined wins keep pooling effort.",
+    career: "A working duo whose output beats what each of you would manage solo is an asset to protect; shared bylines and joint pitches lead to rooms neither person could enter alone.",
+    money: "When a joint venture or co-investment is outpacing what you'd earn by yourself, add to your stake and get the terms in writing. Good arrangements grow sturdier with clear paperwork.",
+    spiritual: "Once you see that some gifts only appear between people, generosity stops feeling like loss; 8228 treats the meeting point of two lives as fertile ground for both.",
+    action: "Message the person you get the most done with and suggest a next project, along with a short note on what their part has added so far.",
     category: "mirror",
     faq: [
       {
@@ -734,8 +734,8 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "8228 captures the twin flame connection's specific quality as collaborative multiplication: each person's growth genuinely accelerating beyond what either sustains independently when the timing is right. In reunion, this shows up as a felt sense that your development is moving more clearly and in a direction you couldn't have navigated alone — that's real signal, not coincidence. In separation, the honest intuition that you'd both grow more effectively together than apart is worth noting: it's accurate information about the connection's actual nature, and it's part of what the separation itself is helping you to clarify. Trust the read.",
+      "Two people growing faster side by side than they would separately is the quality 8228 points to in a twin flame bond. During periods of contact, look for concrete signs: you both make braver decisions, old habits loosen sooner, and conversations leave each of you with something usable. Those gains deserve a place in your notes. When you're living apart, a similar pattern can surface as a clear sense that certain kinds of growth stall without the other person's input. Take that seriously as information about the bond, without turning it into pressure to reconnect before both of you are ready. Growth on your own still counts; this number simply observes that some of yours speeds up in company.",
     manifestation:
-      "8228 manifests by actively investing in a collaboration that's genuinely multiplying results — the practical move is contributing further to one specific partnership today, recognizing its multiplying effect explicitly, since this number's folklore treats that continued investment as what sustains the amplified abundance.",
+      "A pair of 2s held between two 8s gives 8228 its shape: plenty on the outside, joint effort at the core, so the gain sits inside the partnership. If your goal is bigger than one person's reach, a book, a shop, a household fund, name the person whose skills cover your gaps and propose a clear arrangement: who brings what, how results get shared. Solo projects keep their place. Wants of this size tend to stall when one partner quietly does all the asking, and they pick up speed once both people see their contribution in the result, because a pairing that already outperforms its members is the engine 8228 describes.",
   },
 ];

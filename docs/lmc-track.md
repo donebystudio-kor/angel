@@ -54,7 +54,7 @@ EN 521개의 love / money / career 세 필드를 다루는 트랙이다. 이 세
 | 단계 | 대상 | 규모 | 상태 |
 |---|---|---|---|
 | 1 | 논리 충돌 15페이지(정면 10 + 중간 5) + 7111 manifestation | 1배치 | **완료 (2026-10-01)** |
-| 2 | 정규 manifestation 배치에 전 필드 통합 — 배치15는 6칸, **배치16부터 8칸**(+spiritual·action) | 배치16부터 8페이지, 약 22배치 남음 | **진행 중 — 배치19 완료, 잔여 171** |
+| 2 | 정규 manifestation 배치에 전 필드 통합 — 배치15는 6칸, **배치16부터 8칸**(+spiritual·action) | 배치16부터 8페이지, 약 21배치 남음 | **진행 중 — 배치20 완료, 잔여 163** |
 | 3 | 이미 재작성한 템플릿 페이지 약 146개 LMC 보충 | 약 15배치 | 보류 — 2단계 실측 후 판단 |
 
 손대지 않는 것:
@@ -1103,3 +1103,221 @@ a", 9669 manifestation ~ twinflame "looking after someone").
 - **스크래치패드 작업 파일 일부가 사라졌다**(번호→파일 매핑, 공통 모듈).
   소스에서 다시 만들었다. 적용 스크립트가 매핑에 의존하므로, 다음부터는
   배치를 시작할 때 매핑을 새로 만드는 것을 절차에 넣는다.
+
+---
+
+## 2단계 — 배치 20 (2026-10-09 완료)
+
+### 넘어온 절차 (이번에 적용)
+1. **배치 시작 시 매핑 재생성**: 새 스크래치패드에서 `angels.en.ts`를
+   번들해 en.json을 만들고, 번호→파일 매핑(521개, 중복 0)과 공통 모듈을
+   새로 만들었다. 완료 목록에 배치15~19를 넣고 잔여가 171개인지 확인했다.
+2. **원본 필드 간 3-gram 공유량 측정 (신규)**: 후보마다 meaning / spiritual /
+   action / FAQ / love / money / career / twinflame 8개 필드 사이의 3-gram
+   공유 건수를 셌다(불용어만으로 된 3-gram 제외). 아래 "복제량 측정" 참조.
+3. **칸 단위 작성·측정**: 7칸과 twinflame 모두 **한 칸에 한 번씩** 쓰고
+   바로 쟀다. 측정 스크립트가 칸마다 시도 번호와 시각을 남겼다(총 137회
+   측정). 예외는 아래 "측정 시점 준수 여부"에 적었다.
+4. 소재 분량(meaning 365 / FAQ 답변 679 대비), twinflame 네 방향 사전 대조,
+   수정 → 검사 → 적용 순서는 배치19와 같다. 적용 스크립트는 검사·길이
+   게이트가 모두 0일 때만 실행되게 묶었다.
+
+### 대상 선정 (잔여 171 → 필터 후 117 → 템플릿기 파일 99개 중)
+- 좁힌 사전 필터 제외 후보: **54개** (배치19는 49개). 배치19 완료분이
+  비교 대상으로 새로 편입됐다.
+- 숫자를 3개 이상 공유하는 그룹 없음 (1~9 각 2개 이하, 7은 1개)
+
+### 원본 필드 간 복제량 측정
+
+후보 99개 분포: 8필드 쌍별 공유 합계 p25 63 / 중앙값 89 / p75 111 /
+최대 212(150). 100 이상이 39개다. meaning·spiritual·action·FAQ 네 필드끼리만
+센 값(core)은 중앙값 15, 최대 53(355). 3개 이상 필드에 같이 나오는 3-gram은
+중앙값 12, 최대 25.
+
+참고(배치19 원본, 재작성 전): **97은 공유 144 / core 39 / 3필드+ 17** → 규칙 K
+5칸. 988은 170 / 32 / 21.
+
+| 번호 | 파일 | 패턴 | 소재 (meaning / FAQ) | 공유 합계 | core | 3필드+ | meaning~FAQ | meaning 축 |
+|---|---|---|---|---|---|---|---|---|
+| 79 | en-batch20 | mixed AB | **324** / 682 | **121** | **26** | 18 | 11 | 큰 목적 전체가 아니라 지금 할 수 있는 작은 일 하나면 충분 (9는 일반적 사명감) |
+| 54 | en-batch28 | mixed AB | **312** / 689 | 89 | 11 | 16 | 11 | 변화 한가운데서도 보호가 둘러싸고 있다 — 어려움이 없다는 뜻은 아님 (45는 안정된 기반에서의 전환) |
+| 388 | en-batch24 | mixed ABB | 368 / 745 | 62 | 10 | 12 | 7 | 창작 노력에 비례한 재정적 보상 — 이 경우에 한한 연결, 보편 법칙 아님 (8338) |
+| 166 | en-batch24 | mixed ABB | 361 / 792 | 69 | 10 | 9 | 8 | 바라는 집·관계의 결과를 꽉 쥔 손을 풀면 가까워진다 — 관심을 끊는 게 아님 (6996) |
+| 125 | en-batch22 | mixed ABC | 370 / 711 | 91 | 15 | 13 | 6 | 변화가 끝나기 전, 변화 안에서 관계의 균형을 찾는다 — 시점은 말하지 않음 (2552는 격한 변동) |
+| 8228 | en-batch16 | mirror | 465 / 673 | 25 | 7 | 3 | 2 | 협업 자체가 풍요를 불린다 — 혼자 일하지 말라는 뜻 아님 (800) |
+| 4664 | en-batch18 | mirror | 426 / 717 | 15 | 4 | 2 | 2 | 돌봄에 더 많은 노력이 아니라 체계·방법이 필요 — 돌봄이 부족하다는 판단 아님 (464는 꾸준함) |
+| 3993 | en-batch17 | mirror | 424 / 698 | 25 | 3 | 3 | 3 | 끝맺음을 어떻게 전하는가 — 모든 끝이 정성스러울 필요는 없음 (393은 말하는 것 자체) |
+
+- 79는 복제량이 후보 상위권(97과 비슷한 수준)인 페이지를 **일부러** 넣었다.
+  54·125도 중상위다. 나머지는 낮은 쪽이다.
+- 소재: 둘 다 미달인 페이지는 없다. 79·54는 meaning만 25백분위 아래이고,
+  FAQ는 기준을 겨우 넘는다.
+
+**금지 목록 사전 설계 (복제가 많은 페이지)**
+
+meaning·FAQ 3-gram 금지 목록과 별도로, 3개 이상 필드에서 반복되는 **단어**를
+먼저 뽑아 대체 어휘를 정한 뒤 썼다.
+
+| 번호 | 반복 어휘 (원본) | 피한 방식 |
+|---|---|---|
+| 79 | concrete step / one step / larger sense of purpose / available right now / mapped out / in advance / step is enough / without needing | "step"·"purpose"·"mission"을 칸에서 아예 쓰지 않음. calling / direction / aim, task / piece / move, blueprint / ten-year budget로 대체 |
+| 54 | real protection surrounds / during a period of change / unnecessary fear / flux / unguarded / trust that safety | "protection"·"flux"·"trust"를 쓰지 않음. sheltered / backing / cover / backstop / cushion / held로 대체 |
+| 125 | real balance is available / within the change / waiting for the change to end / settles / equilibrium | "balance"·"equilibrium"을 쓰지 않음. steadiness / evenly / footing / even keel / equanimity / mid-motion |
+| 388 | creative effort / in proportion / fair, traceable / effort and reward | "proportion"·"fair"·"traceable"을 쓰지 않음. ratio / in line with / match between work and pay / fluke |
+| 166 | tight grip / release itself / brings it closer / desired outcome | "grip"·"release"·"outcome"을 쓰지 않음. clench / micromanaging / steering / hands off |
+
+**결과**: 묶음 검사에서 규칙 K는 **3칸**이었다(54 action "during the change",
+166 action "home or relationship", 125 career "waiting for the"). 복제량이 가장 큰
+**79는 0칸**이었다. 배치19는 97 한 페이지에서만 5칸이 나왔다.
+
+### 8칸 배정표 (서법 · 최종 길이)
+
+| 번호 | manifestation | 싱글 | 커플 | money | career | spiritual | action | twinflame |
+|---|---|---|---|---|---|---|---|---|
+| 54 | 명 (136, 행동) | 평 | 조 | 명 | 평 | 조 | 명 | 평 / **단일 서술** (706) |
+| 79 | 평 (268, 대비) | 조 | 명 | 평 | 조 | 평 | 명 | 조 / **시간 축** (690) |
+| 166 | 조 (254, 조건) | 평 | 명 | 평 | 조 | 평 | 명 | 조 / **주체 축** (698) |
+| 4664 | 평 (257, 결과) | 명 | 평 | 조 | 명 | 조 | 명 | 평 / **단일 서술** (695) |
+| 125 | 평 (319, 질문) | 명 | 조 | 평 | 명 | 조 | 명 | 평 / **2분할** (670) |
+| 388 | 평 (308, 근거) | 명 | 조 | 조 | 명 | 평 | 명 | 조 / **2분할** (675) |
+| 3993 | 조 (461, 결과) | 평 | 명 | 조 | 평 | 명 | 명 | 조 / **앎·모름 축** (643) |
+| 8228 | 평 (619, 근거) | 조 | 명 | 조 | 평 | 조 | 명 | 평 / **2분할** (700) |
+
+- 서법 합계: 평서 22 / 조건·시간 21 / 명령 21 (34 / 33 / 33%). 자동 분류
+  결과가 배정표와 칸 단위로 일치한다. 한 서법이 3칸을 넘는 페이지는 0이다.
+- twinflame 2분할: **3/8** (125·388·8228)
+- manifestation 결말: 결과 2 / 근거 2 / 행동·대비·조건·질문 각 1 — 배정과
+  일치, 이탈 0. manifestation 길이를 고친 6건은 고칠 때마다 결말을 다시 봤다.
+
+### 작성 경위
+
+| 단계 | 재작성 | 원인 |
+|---|---|---|
+| 7칸 칸 단위 작성 (56칸) | **1** | 하한 미달 1 (388 manifestation 299자, 구간 300~399) — 바로 보정 |
+| 묶음A 검사 (79·54·388·166) | 7 | 연결구 "the next" 2회, 페이지 안 3 (79·166), 규칙 K 2칸 (54·166 action), 페이지 간 2 |
+| 묶음B 검사 (125·8228·4664·3993) | 6 | 페이지 안 2, 규칙 K 1칸 (125 career), 페이지 간 3 |
+| 7칸 두 묶음 합산 | 7 | "the next" 2회, 묶음 경계 페이지 간 6건 ("the two of you", "what you want", "tends to go" 등) |
+| **길이 과다 보정** | **39** | 아래 "길이 — 이번 배치의 주된 비용" |
+| 과다 보정 후 재검사 | 1 | 줄이다 생긴 페이지 안 회귀 1 (3993 money ~ spiritual "lease or a") |
+| twinflame 칸 단위 작성 | 3 | 상한(720) 초과 3 (79 760, 388 746, 166 725) — 바로 줄임 |
+| **twinflame 네 방향 대조** | 6 | 상호 **3**, 자기 페이지 **2**, 다른 페이지 **4**, 빈도 **0**, 규칙 K 0 |
+| 네 방향 재대조 | 1 | **수정 회귀 1** (166 twinflame "once you see" ~ 8228 spiritual) |
+| 세 번째 대조 | 0 | 전 방향 0 |
+| 64칸 통합 | **2** | 아래 "통합 검사에서만 잡힌 것" |
+
+**재작성 합계: 73회 / 64칸 (114%)** — 배치19는 43회(67%)
+- 내용 위반: **30회 (47%)** — 배치19 58%, 배치18 38%
+- 길이: 43회 — 하한 미달 2 (388 manifestation, 줄이다 하한 아래로 내려간
+  166 커플), 상한 초과 41 (twinflame 3 + 과다 보정 38)
+- 한 번 이상 다시 쓴 칸은 52칸이다. 내용 사유로 다시 쓴 칸만 세면 24칸(38%)이다.
+
+### 길이 — 이번 배치의 주된 비용 (과다 쪽)
+- 하한 미달을 막으려고 칸마다 하한(165 / 139 / 144 / 144 / 123)만 보고 썼다.
+  그러자 **반대로 길게 썼다.** 56칸을 다 쓴 뒤 사이트 분포와 비교하니 love
+  합계는 8페이지 모두 95~99백분위, career·spiritual은 대부분 91~95백분위였다
+  (중앙값: love 486 / money 205 / career 227 / spiritual 222).
+- 문서 기준은 "중앙값 근처"다. 측정 스크립트에 **상한**(싱글·커플 각 205,
+  love 합계 400, money 185, career 190, spiritual 190, action 165, twinflame
+  720, manifestation 500+ 구간 640)을 넣고 37칸을 줄였다.
+- 줄인 뒤 내용 회귀는 1건이었다(위 표).
+- 최종 중앙값은 아래 "최종 검증" 8번에 있다. love·twinflame은 여전히
+  사이트 p75 근처다.
+
+### 측정 시점 준수 여부 (정직하게 기록)
+- **지킨 것**: 처음 쓴 56칸과 twinflame 8칸은 칸 하나에 호출 하나로 쓰고
+  바로 쟀다. 측정 결과를 보기 전에 다음 칸을 쓰지 않았다. 처음 쓸 때 걸린
+  4건(388 manifestation 미달, twinflame 3개 초과)은 다음 칸으로 가기 전에 그
+  자리에서 고쳤다.
+- **지키지 못한 것**:
+  1. 처음 게이트에 **상한이 없었다.** 과다 길이는 56칸을 다 쓴 뒤 분포
+     비교에서야 보였다.
+  2. 검사 뒤 수정과 과다 보정은 한 호출에 4~8칸씩 썼다. 칸마다 쓰자마자
+     재긴 했다. 그런데 166 과다 보정 호출은 `;`로 이어져 있어서, 커플 칸이
+     164자(하한 165)로 떨어진 뒤에도 같은 호출에서 뒤 칸 3개가 실행됐다.
+     바로 다음 호출에서 고쳤고, 이후 호출은 모두 첫 실패에서 멈추게(`&&`)
+     했다.
+  3. 125 manifestation을 쓰자마자 79 커플과 "the two of you"가 겹친다는 것을
+     알았다. 하지만 집계를 정직하게 남기려고 바로 고치지 않았고, 합산
+     검사에서 잡히게 뒀다.
+
+### 네 방향 대조 결과
+- 1차: 상호 3 / 자기 페이지 2 / 다른 페이지 4 / 빈도 0, 규칙 K 0
+- 재대조: 수정 회귀 1 (다른 페이지)
+- 세 번째: 0
+
+### 통합 검사에서만 잡힌 것 — 2건 (배치19는 0건)
+64칸 3-gram 교차와 서법, 오프너·중간·결말 반복은 0건이었다. 새로 잡힌 2건은
+모두 **기존 코퍼스 교차**에서 나왔다.
+1. **8228 manifestation "Two 8s standing guard around a pair of 2s"**는 배치19
+   7557 manifestation의 "two 7s standing guard around the doubled 5"와 같은
+   비유 틀이다. 그 3-gram을 공유하는 페이지가 1개뿐이라 상위 목록에 떴다.
+   mirror 숫자의 바깥 자리를 "양옆을 지키는 보초"로 그리는 틀이 내가 쓴
+   페이지에서 반복된 것이다(비유 시그니처 재사용). "A pair of 2s held between
+   two 8s"로 바꿨다.
+2. 79 twinflame의 "like a puzzle"이 766 twinflame(배치16)과 겹쳤다. "riddle"로
+   바꿨다.
+- 코퍼스 교차는 지금까지 "공유 수 보고"였다. 앞으로는 **공유 페이지 수가
+  1~2인 3-gram의 출처를 직접 확인한다**는 항목을 통합 검사에 넣는다.
+
+### 최종 검증
+1. **논지 정합성 8건**: 전 필드가 같은 방향이다.
+   - 79: FAQ4 "목적 전체를 알 필요 없음" → manifestation "you don't have to
+     name your calling before you can act", twinflame "isn't yours to settle yet"
+   - 54: FAQ4 "어려움이 전혀 없다는 뜻 아님" → career "a few rough patches
+     don't cancel that", twinflame "isn't a promise that nothing hard will happen"
+   - 388: FAQ4 "보편 보장 아님" → career "here the match… is evidence",
+     twinflame "without inflating them into a guarantee"
+   - 166: FAQ2 "관심을 끊으라는 뜻 아님" → 커플 "The caring stays",
+     spiritual "isn't giving up on what you love", twinflame "doesn't mean
+     caring less"
+   - 125: FAQ4 "시점을 말하지 않음" → 끝나는 시점을 말하는 칸 없음
+     (twinflame "may keep changing shape for a while")
+   - 8228: FAQ4 "혼자 일하지 말라는 뜻 아님" → manifestation "Solo projects
+     keep their place", twinflame "Growth on your own still counts"
+   - 4664: FAQ4 "돌봄이 부족하다는 판단 아님" → twinflame "You aren't failing
+     at love by planning it"
+   - 3993: FAQ4 "모든 끝이 정성스러울 필요 없음" → manifestation "nothing lavish"
+2. 페이지 안 8칸 3-gram: **0건**
+3. 64칸 페이지 간 3-gram: **0건**
+4. 서법 34 / 33 / 33%. 문장 기능별 반복(오프너 첫 3단어 / 중간 문장 첫
+   2단어 / 결말 끝 3단어): 0건
+5. twinflame 2분할 3/8. 네 방향 대조 결과는 위와 같다.
+6. 규칙 K: **0건**
+7. 금지 표현 5종: **0건**. 연결구 각 1회 이하, whatever 2, specific 0.
+8. **길이**: 칸별 하한 미달 0, 상한 초과 0.
+
+   | 칸 | 최종 중앙값 | 목표 | 사이트 p75 |
+   |---|---|---|---|
+   | love 합계 | 375 | 330 | 363 |
+   | money | 173 | 155 | 176 |
+   | career | 172 | 160 | 183 |
+   | spiritual | 163 | 165 | 175 |
+   | action | 134 | 140 | 152 |
+   | twinflame | 695 | 650 | 676 |
+
+9. 기존 코퍼스 공유 3-gram 357개 / 64칸. 출처가 1~2페이지뿐인 것은 직접
+   확인했고, 위 2건 말고는 일반 표현이다.
+10. 빌드 통과 (1612페이지). 배포 HTML 8페이지에서 "manifests by"·"In a twin
+    flame context"는 0건이다.
+
+### 남은 배치 수
+- 잔여: 171 − 8 = **163개**
+- 163 ÷ 8 = 20.4 → **21배치** (배치21~41, 마지막 배치는 3개)
+
+### 예상 못 한 발견
+- **복제량을 미리 재고 어휘를 설계하자 규칙 K가 크게 줄었다.** 복제량이
+  97과 비슷한 79가 0칸이었고, 배치 전체도 3칸이었다. 3-gram 금지 목록만으로는
+  부족했다. 여러 필드에 반복되는 **핵심 단어 자체**(step·purpose·protection·
+  balance·grip)를 칸에서 빼는 것이 효과가 있었다.
+- **하한만 있는 게이트는 반대 방향으로 실패한다.** 배치16~19의 문제는 짧게
+  쓰는 것이었다. 이번에는 하한을 의식하자 30~50% 길게 썼다. 게이트에는
+  하한과 상한이 둘 다 있어야 한다.
+- **비유 시그니처 재사용은 3-gram 교차에서 "공유 1페이지"로만 보인다.**
+  8228의 "standing guard around"는 64칸 안 검사로는 원리상 잡히지 않는다.
+  출처는 지난 배치의 내 문장이었다. 비유 시그니처 목록이 심화 필드 6개에서
+  멈춰 있었고, 정규 배치에서 만든 비유는 목록에 들어가지 않았다.
+- **복제량은 규칙 K를 예측했지만 페이지 간 겹침은 예측하지 못했다.** 내용
+  사유 재작성은 복제량이 가장 낮은 축인 3993이 7회로 가장 많았다(페이지 간
+  겹침 4, 페이지 안 2, 연결구 1 — 규칙 K는 0). 복제량이 가장 큰 79는
+  3회(그중 2회가 twinflame)였다. 복제량은 규칙 K
+  위험 지표로만 쓴다.

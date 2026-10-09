@@ -52,11 +52,11 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     summary: "Real protection specifically surrounding you during a period of significant change",
     meaning:
       "54 combines 5 (change, freedom) with 4 (foundation, protection), describing real protection that's specifically surrounding you during a period of significant change, worth trusting rather than approaching the change with unnecessary fear. This favors recognizing that being in flux doesn't mean being unguarded.",
-    love: "Single: real protection surrounds you during a change in your love life right now — trust that safety rather than approaching the change with unnecessary fear. Couple: real protection surrounds the relationship during a change you're navigating together — trust that safety.",
-    career: "Real protection surrounds you during a professional change right now — trust that safety rather than approaching it with unnecessary fear.",
-    money: "Real protection surrounds you during a financial change right now — trust that safety rather than bracing for disaster.",
-    spiritual: "This favors trusting that change and protection can coexist, rather than assuming flux always means vulnerability.",
-    action: "Trust today that real protection surrounds a change you're navigating, and take one step forward with that confidence.",
+    love: "Single: a move, a new job, or a shake-up in your routine doesn't put your love life on pause. You're more sheltered through this upheaval than it feels, so meeting someone mid-transition is fine. Couple: when you and your partner face something unsettling, a relocation, a new baby, a lost job, list together what's still steady. Partners who know their backstop argue less about what's shifting.",
+    career: "A reorganization, a new role, or a career switch often comes with more backing than you expect. Colleagues, references, and skills travel with you; a few rough patches don't cancel that.",
+    money: "Check what's cushioning you before a financial shift lands: the emergency fund, insurance, one steady paycheck. Knowing its size lets you make the move without panic.",
+    spiritual: "If you equate stillness with safety, 54 offers another reading: being looked after and being in motion can happen at once, and steadiness of spirit travels with you.",
+    action: "Name three sources of support you can call on while this change plays out, and get in touch with one of them before the day ends.",
     category: "mixed",
     faq: [
       {
@@ -78,9 +78,9 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "54 makes a specific claim worth sitting with: being in flux doesn't mean being unguarded. In a twin flame context this favors trusting that real protection surrounds you specifically during this stretch of change, not once things settle back down. In reunion, 54 suggests you can trust the transition currently reshaping the connection without needing to brace against it out of fear. In separation, this number favors recognizing that instability and safety can coexist, the uncertainty of not knowing what's next doesn't mean you're actually unprotected within it.",
+      "Twin flame bonds rarely hold still, and 54 speaks to the fear that every shift between you is a threat. Its reading is gentler: you can be in the middle of real movement, a change in contact, a move to another city, a new boundary one of you has set, and still be held. That cover isn't a promise that nothing hard will happen; some stretches will sting, and the number doesn't pretend otherwise. What it does say is that you aren't exposed just because the footing beneath you shifts. That leaves room for calmer choices. Instead of reacting to each change as an emergency, you can answer it from a steadier place, which tends to keep the connection kinder on both sides however the coming season unfolds.",
     manifestation:
-      "54 manifests by trusting present protection through change — the practical move is moving forward today with one step into the change, trusting the safety surrounding it, since this number's folklore treats that trust as what makes the transition less fearful.",
+      "Ask for what you want while the ground is still moving: line up the people and savings you can lean on, then make the request this week.",
   },
   {
     number: "56",

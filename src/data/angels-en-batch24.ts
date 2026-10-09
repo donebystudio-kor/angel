@@ -11,11 +11,11 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     summary: "Releasing a tight grip on a home or relationship outcome specifically bringing it closer",
     meaning:
       "166 brings one 1 (new beginnings) and a doubled 6 (home, care amplified) together, describing the release of a tight grip on a desired home or relationship outcome as what specifically brings that outcome closer, rather than gripping harder producing better results. This favors trusting that loosening your hold, not tightening it, is what actually works here.",
-    love: "Single: release the tight grip on wanting a specific relationship outcome — that release itself, more than continued anxious effort, is what's specifically bringing the right connection closer. Couple: release a tight grip on controlling how the relationship or home life unfolds — that release itself is what's specifically making the ease you want more possible.",
-    career: "Release a tight grip on controlling a specific professional outcome — that release itself is specifically what's making the desired result more possible.",
-    money: "Release a tight, anxious grip on a specific financial outcome — that release itself is specifically what's making the ease you want more possible.",
-    spiritual: "This favors trusting that release, not tighter control, is the actual mechanism here — loosening your grip is the practical action, not a resignation.",
-    action: "Consciously loosen your grip today on one outcome you've been holding tightly, trusting that the release itself is what brings it closer.",
+    love: "Single: dating goes better once the checklist goes in a drawer. You'll recognize someone who'd fit your home life more readily when you're curious about them, not auditing them. Couple: hand your partner a household decision you'd normally keep, the paint color, the holiday plan, and live with their choice. The caring stays; only the micromanaging goes.",
+    career: "If a proposal has sat in revision for weeks, send it as it stands and let the people deciding do their part. Pressing on a result at work often slows it down.",
+    money: "Refreshing a savings balance all day rarely makes it grow faster. Automating the transfer toward the home you want and checking it monthly keeps the goal moving.",
+    spiritual: "Surrender in 166 isn't giving up on what you love. It's a shift from managing life to taking part in it, where caring deeply and holding lightly sit together.",
+    action: "Choose a household or relationship plan you've been micromanaging, and leave it untouched until tomorrow evening, no checking, no nudging.",
     category: "mixed",
     faq: [
       {
@@ -37,9 +37,9 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "166 favors loosening a tight grip on a desired outcome as what actually brings it closer, not tightening your hold further. In a twin flame context this lines up with one of the most repeated ideas in the space: that reunion tends to move toward you specifically when you stop gripping the timeline or the specific shape it has to take. In reunion, 166 favors releasing the anxious effort to control exactly how or when contact resumes, trusting release itself as the mechanism, not resignation. In separation, this number suggests loosening your hold on the outcome is the actual practical step here, not giving up on it.",
+      "When you realize how much energy goes into steering the twin flame connection, 166 asks you to sort what belongs to you from what belongs to the other person. Your side is real and deserves attention: your honesty, your patience, how you treat yourself during the unresolved stretch. Their side is theirs, the pace at which they reach out, the conclusions they come to, the life they're building meanwhile. Trying to manage both halves usually tires you out and crowds them. Handing their half back doesn't mean caring less; you can still hope for contact and say so plainly. It means you stop rehearsing their moves for them, and that often leaves more space for them to come forward on their own.",
     manifestation:
-      "166 manifests through conscious release rather than tighter control — the practical move is deliberately loosening your grip today on one outcome you've been holding tightly, since this number's folklore treats that release as what actually brings it closer.",
+      "When you notice yourself checking on a hope for your home or a relationship every hour, let the other people involved make a few of the calls. A wish keeps its shape without you clenching it, and it tends to land sooner if you stop steering every detail.",
   },
   {
     number: "177",
@@ -191,11 +191,11 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     summary: "Financial return arriving specifically in proportion to the creative effort you've genuinely invested",
     meaning:
       "388's 3 (creativity, expression), carried on doubled 8 (abundance amplified), describing financial return that's arriving specifically in proportion to the creative effort you've genuinely invested, worth trusting as a fair, traceable relationship rather than an arbitrary outcome. This favors recognizing that the reward reflects the real work put in, not luck alone.",
-    love: "Single: the effort you've put into creatively building a life and resources for yourself is specifically producing proportional financial return — trust that fair relationship. Couple: the creative effort you've both put into building shared resources is specifically producing proportional return — trust that fair relationship between effort and reward.",
-    career: "The creative professional effort you've invested is specifically producing proportional financial return — trust that fair relationship between effort and reward.",
-    money: "The creative effort you've invested in a financial approach is specifically producing proportional return — trust that fair, traceable relationship.",
-    spiritual: "This favors recognizing a fair, direct relationship between creative effort and material return, worth trusting rather than crediting outcomes purely to chance.",
-    action: "Trace one specific financial result today back to the creative effort that genuinely produced it, trusting that fair relationship.",
+    love: "Single: keep a simple record of what your side projects bring in against the hours they cost. Seeing those figures rise together helps you value yourself, and that shows when you meet someone new. Couple: if one of you has poured evenings into a creative venture that's finally earning, compare the money with the work it took. Crediting the hours keeps the gain from feeling like a windfall.",
+    career: "Put your portfolio pieces beside what each one earned you. Bring the best-paying examples to your next rate conversation; here the match between work and pay is evidence you can cite.",
+    money: "When a payment for creative work arrives, log it next to the hours behind it. The ratio shows which work deserves a higher price and which costs too much for what it brings.",
+    spiritual: "There's quiet integrity in seeing that what you make and what comes back are connected; 388 lets that link count, so gratitude rests on something you took part in.",
+    action: "Pick a recent payment you received for something you made and jot down the work that earned it, so the link is on paper whenever you start doubting your rates.",
     category: "mixed",
     faq: [
       {
@@ -217,9 +217,9 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "388 insists on proportion: what's returning to you actually matches the real effort you've put in, not an arbitrary or unfair outcome. In a twin flame context this counters a common worry, that all the inner work is one-sided and unrewarded. In reunion, 388 favors trusting that the depth of connection now showing up genuinely reflects what you've each invested, not luck or timing alone. In separation, this number suggests the growth you can already see in yourself is a fair, traceable return on real effort, worth counting as legitimate progress rather than dismissing because the connection hasn't visibly changed yet.",
+      "If you've poured years of inner work into this twin flame connection, 388 answers the worry that it all went nowhere. The return tends to match what you put in, and its form depends on where things stand. Together or in touch again, it may look like conversations that finally land and a closeness that reflects the honesty you both practiced. Apart, the return is mostly inward: steadier moods, clearer boundaries, a sense that you can stand on your own feet, all earned by the hours you spent facing yourself. Neither version is a fluke. Counting those gains honestly, without inflating them into a guarantee of reunion, keeps the bond grounded in what has really happened.",
     manifestation:
-      "388 manifests by trusting the proportional link between creative effort and reward — the practical move is tracing one specific result back to the effort behind it today, since this number's folklore treats that traced fairness as what reinforces continued creative investment.",
+      "With income starting to come in from things you've made, the next want is easier to aim. Look at which pieces paid in line with the hours and skill they took, and set your next target in that lane, because a payoff that matched its input once is the clearest sign you have of where more input will pay again.",
   },
   {
     number: "399",

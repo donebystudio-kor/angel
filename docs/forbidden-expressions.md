@@ -178,6 +178,8 @@ that actually(7999) / the specific(5999) / back to(9994) / the one
 | extra length invites a lazy reading | 4567 misconception | 위반 없음 |
 | blocks sitting side by side | 1177 structure | 위반 없음 |
 | borrows a stability it doesn't quite earn | 1010 misconception | 위반 없음 |
+| (two Ns) standing guard around (the doubled M) — mirror의 바깥 자리를 양옆의 보초로 그리는 틀 | 7557 manifestation (정규 배치19) | 배치20 8228 manifestation 1차본에서 재사용 → 통합 검사(코퍼스 교차)에서 잡아 수정. 현재 원출처 1건만 |
+| like a puzzle (표지를 풀어야 할 퍼즐로 보는 비유) | 766 twinflame (정규 배치16) | 배치20 79 twinflame 1차본에서 재사용 → 수정. 현재 원출처 1건만 |
 
 새로 심화 필드를 쓸 때 인상적인 비유가 나오면 이 표에 추가할 것.
 
@@ -641,6 +643,60 @@ twinflame과 새로 겹쳤는데, 수정 후 네 방향을 다시 돌려서 잡�
 쓴 직후 재자, 7칸 56개 중 하한 미달은 3칸이었다(배치16은 22칸). twinflame은
 620자를 목표로 써도 8개 중 4개가 583~592자로 하한(594) 바로 아래에
 나왔다. **twinflame은 목표를 하한보다 넉넉히 위(640자 안팎)로 잡는다.**
+
+### 원본 필드 간 복제량 측정 (배치20부터, 선정 단계)
+
+후보마다 meaning / spiritual / action / FAQ / love / money / career /
+twinflame 8필드 사이의 3-gram 공유 건수를 잰다(불용어만으로 된 3-gram 제외).
+함께 보는 값:
+- 쌍별 공유 합계
+- core: meaning·spiritual·action·FAQ 네 필드끼리의 공유
+- 3개 이상 필드에 같이 나오는 3-gram 수
+
+배치20 후보 99개 기준으로 합계 중앙값 89, p75 111이다. 배치19의 97(합계 144 /
+core 39)은 규칙 K 5칸을 냈다.
+
+**복제가 많은 페이지를 고르면 (필수)**:
+1. 3개 이상 필드에 반복되는 **핵심 단어**를 뽑는다. 3-gram만 뽑아서는
+   부족하다.
+2. 그 단어를 칸에서 아예 쓰지 않을 대체 어휘를 먼저 정한다. 예: 79는
+   step·purpose·mission 대신 calling·direction·aim·task·blueprint를 썼다.
+3. 그 다음에 3-gram 금지 목록(규칙 K)을 적용해 쓴다.
+
+**배치20 실측**: 이 절차로 복제량이 97과 비슷한 79가 규칙 K **0칸**이었다.
+배치 전체 규칙 K도 3칸이었다(배치19는 97 한 페이지에서만 5칸). 단, 복제량은
+**페이지 간 겹침은 예측하지 못한다.** 복제량이 낮은 3993이 내용 재작성 7회로
+가장 많았다.
+
+### 길이 게이트 상한 (배치20부터)
+
+하한만 있는 게이트로 쓰자 반대로 길게 썼다. 배치20 1차 56칸은 love 합계가
+8페이지 모두 사이트 95~99백분위였다. 게이트에 **상한도 넣는다**(사이트
+p75~p90 사이).
+
+| 칸 | 하한 | 목표 | 상한 |
+|---|---|---|---|
+| love 싱글·커플 (각) | 165 | 165 | 205 |
+| love 합계 | 300 | 330 | 400 |
+| money | 139 | 155 | 185 |
+| career | 144 | 160 | 190 |
+| spiritual | 144 | 165 | 190 |
+| action | 123 | 140 | 165 |
+| twinflame | 594 | 650 | 720 |
+| manifestation 500+ 구간 | 500 | — | 640 |
+
+여러 칸을 한 호출에서 고칠 때는 **첫 실패에서 멈추게** 한다(배치20에서
+`;`로 이은 호출이 하한 미달 칸 뒤의 칸까지 실행했다).
+
+### 코퍼스 교차 — 공유 1~2페이지 3-gram 출처 확인 (배치20부터, 통합 검사)
+
+통합 검사의 기존 코퍼스 교차는 지금까지 공유 수만 보고했다. 배치20에서
+8228 manifestation "Two 8s standing guard around a pair of 2s"가 배치19 7557
+manifestation "two 7s standing guard around the doubled 5"의 비유 틀을 다시
+썼다. 64칸 안 검사로는 원리상 보이지 않고, 코퍼스 교차에서 "공유 1페이지"로만
+드러났다. **공유 페이지가 1~2개인 3-gram은 출처 문장을 직접 읽고 비유·틀
+재사용인지 판단한다.** 정규 배치에서 만든 비유도 3번 표(비유·관용구 금지)에
+올린다.
 
 ### 규칙 L — 페이지 안 4칸 복제 금지 (LMC 트랙, 2026-10-01)
 
