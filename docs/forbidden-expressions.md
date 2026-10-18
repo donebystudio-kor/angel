@@ -264,7 +264,7 @@ that actually(7999) / the specific(5999) / back to(9994) / the one
 
 | 틀 | 연쇄 (배치) |
 |---|---|
-| twinflame 앎·모름 축: "You may not know … / Let the unknown stay … / what you can know / the unknown part" | 5445(16) → 64(18) → 1661(19) → 3993(20) → 0440(21). 49칸 재작성에서 64·1661·3993·199는 이 틀을 뺐다. **0440(21)은 범위 밖이라 남아 있다** |
+| twinflame 앎·모름 축: "You may not know … / Let the unknown stay … / what you can know / the unknown part" | 5445(16) → 64(18) → 1661(19) → 3993(20) → 0440(21). 49칸 재작성에서 64·1661·3993·199는 이 틀을 뺐고, 0440(21)도 10-18에 따로 다시 썼다(→ "폭풍 사이의 조용한 달 = 정비 시즌"). **5445(16)는 연쇄의 출발점이라 원문에 "What you don't know yet", "the unknown part"가 남아 있다** — 현재 코퍼스에서 이 금지 문구를 그대로 쓰는 유일한 칸이다 |
 | "메모·기록을 남기면 패턴이 보인다": "keep a short/simple note·log·record of what …", "a pattern emerges", "review the pattern", "jot" | 63(15) → 4774 싱글·career(16) → 0220·3030(18) → 388(20) |
 | 삶의 변화 나열: "a move, a new job, a baby, a career switch, a relocation …" 중 두 개 이상을 한 나열에 넣는 것 | 555 커플·888 twinflame(기존) → 588·25(15) → 7557(19) → 54(20) → 1771(21) |
 | 비교 도구 이미지: spreadsheet / comparison chart / pros-and-cons / forums | 25 커플·money(15) → 766(16) → 57(17) → 177(18). 실물로서의 spreadsheet(844 action "a household spreadsheet" 등)는 제외 |

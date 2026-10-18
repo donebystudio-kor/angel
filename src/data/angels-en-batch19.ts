@@ -656,7 +656,7 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "Nothing has to be wrong in a twin flame connection for 0440 to show up. It marks a calm stretch, often a separation without drama, that suits a careful review of what you've put in place. Part of the picture is visible from where you stand: whether you're sleeping well, whether your boundaries held during the last contact, whether your friendships survived the intensity. Other parts stay hidden for now, including your twin flame's inner struggles or when you'll speak again. Spend your energy on the visible part. Check each item gently, make small adjustments where needed, and note what is holding up well. If you speak again, you'll bring a firm grasp of what's sturdy, and the unknowns will feel less loud.",
+      "Twin flame advice usually arrives during storms: the sudden silence, the painful split, the intense reunion. 0440 belongs to the uneventful months in between, often a separation without drama, and treats them as the right season for a gentle tune-up. Nothing has to be wrong for this number to show up. Go through a short checklist of your own: how you're sleeping, whether the limits you set at the last contact have lasted, which friendships came through the intensity intact. Tighten what has loosened and leave the sound parts alone; that small upkeep keeps ordinary wear from growing into a crisis later. Whenever the two of you talk again, you'll arrive rested, not braced.",
     manifestation:
       "A calm look at what already works keeps it working, because small fixes made early cost much less than repairs made in a hurry.",
   },
