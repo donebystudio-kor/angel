@@ -271,11 +271,11 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     summary: "A life chapter closing specifically alongside deep, doubled realization about what it meant",
     meaning:
       "977 brings one 9 (completion) and a doubled 7 (insight, wisdom amplified) together, describing a life chapter that's closing specifically alongside deep, doubled realization about what it actually meant, distinct from 7997's emphasis on genuine understanding being what completes a chapter. Where 7997 is about understanding as the mechanism of closure, 977 is broader: the chapter's ending and the deep realization are simply happening together, a significant, meaningful convergence.",
-    love: "Single: a chapter of your dating life is closing alongside a deep realization about what it actually taught you — let both happen together fully. Couple: a chapter within the relationship is closing alongside a deep, shared realization about what it meant — honor both together.",
-    career: "A professional chapter is closing alongside a deep realization about what it actually meant for your path — let both happen together fully.",
-    money: "A financial chapter is closing alongside a deep realization about what it actually taught you — honor both as they happen together.",
-    spiritual: "This favors recognizing the convergence of ending and deep realization as significant in itself, worth honoring as a meaningful, complete moment.",
-    action: "Take time today to honor both a closing chapter and the deep realization arriving alongside it, letting them happen together.",
+    love: "Single: If a stretch of dating is winding down just as you see what you were really looking for, let that insight write your next profile and first-date questions, not the old checklist. Couple: Pick an evening as a difficult year between you closes, and let each of you point out one thing the year revealed about the other; lessons voiced while they are new tend to stick for years.",
+    career: "Exit interviews and final project reviews are often where people first see why a job mattered. That understanding belongs in your coming applications, phrased in your own words.",
+    money: "When a financial era closes, a final car payment or a business wound down, note what it revealed about how you spend under pressure before budgeting the year ahead.",
+    spiritual: "Clarity doesn't always trail behind loss by months. Sometimes the sense of an ending arrives with it, and receiving both at once is a quiet kind of grace, not a sign you're rushing.",
+    action: "Pick one thing that ended this year and finish this sentence on paper: underneath, it was really about... Keep the answer where you plan your week.",
     category: "mixed",
     faq: [
       {
@@ -297,9 +297,9 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "977 pairs completion with doubled insight to describe an ending and a deep realization about what it actually meant arriving together, not one after the other. In a twin flame context this favors letting a closing chapter and a genuine understanding of its real significance land at the same time, rather than expecting clarity to arrive only well after the ending settles. In reunion, 977 suggests the true meaning of a difficult stretch may become clear right as it's ending, not months later in hindsight. In separation, this number favors trusting a realization that arrives right alongside a real ending as genuine, significant insight, not something to second-guess for coming too quickly.",
+      "If a long, hard stretch with your twin flame is ending just as you finally see the lesson inside it, 977 suggests you can rely on that timing. Understanding doesn't have to arrive years afterward, filtered through hindsight. Sometimes it comes with the ending itself, in a conversation that suddenly makes sense of months of distance, or one still morning when anger turns into recognition. Write down what you now understand about yourself, about them, and about the way you two kept reopening each other's wounds. Keep those notes close as the bond shifts. However the connection changes from here, the knowledge you earned goes with you, and it doesn't expire because it came quickly.",
     manifestation:
-      "977 manifests by honoring the convergence of ending and realization — the practical move is taking real time today to hold both together, the closing chapter and the deep insight arriving with it, since this number's folklore treats that combined honoring as what makes the moment complete.",
+      "A finish and an insight arriving in the same season is what 977 describes: something in your life wraps up, and almost simultaneously you grasp what it was for. 7997 makes understanding the thing that brings a phase to its close; here neither causes the other, and they simply coincide. People often wait months after a breakup, a graduation, or a job exit before setting new goals, assuming the lesson must settle first. Under 977 the lesson is already in hand. Write it down in plain words, then let it edit your list of wishes: which ones still fit the person who learned this, and which belonged to someone who hadn't yet?",
   },
   {
     number: "988",
@@ -703,11 +703,11 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     summary: "A specific idea or feeling that risks fading away if it isn't actively expressed soon",
     meaning:
       "30 blends 3 (creativity, expression) and 0 (potential, amplification), describing a specific idea, feeling, or piece of creative inspiration that risks quietly fading away if it isn't actively expressed soon. This favors treating expression as time-sensitive here, worth acting on now rather than assuming it will keep indefinitely unspoken.",
-    love: "Single: a feeling or thought about someone risks fading if you don't express it soon — say it now rather than assuming it will keep. Couple: a feeling or idea about the relationship risks fading if it isn't expressed soon — say it now rather than letting it go unspoken.",
-    career: "A professional idea risks fading if it isn't expressed or acted on soon — voice it now rather than assuming it will keep indefinitely.",
-    money: "A financial idea risks fading if it isn't expressed or acted on soon — voice it now rather than letting the window close unaddressed.",
-    spiritual: "This favors treating creative and emotional expression as genuinely time-sensitive, worth acting on now rather than assuming it will always be available later.",
-    action: "Express one specific idea or feeling today that's been sitting unspoken, before it has a chance to fade.",
+    love: "Single: When you notice warmth toward someone new, let them know within the week; a compliment or invitation offered while the feeling is fresh lands better than one delivered after months of hesitation. Couple: Thanks you feel but never voice turns into background noise. A precise thank-you this week, for something small, reaches your partner in a way an anniversary card rarely does.",
+    career: "If a fix for a work problem has lived in your head for weeks, raise it at Monday's meeting; held back much longer, it often shows up later under someone else's name.",
+    money: "Run the money idea you've told nobody, a price increase, a side offer, a savings rule, past one person by Sunday, since plans kept private seldom get tested.",
+    spiritual: "Some of what moves you is meant for now. Not every stray notion needs an audience, but a thought that visits three times in one week is asking to be shared before its warmth fades.",
+    action: "Choose one sentence you've been holding back, a compliment, a pitch, an apology, and deliver it to the person it belongs to before tonight.",
     category: "mixed",
     faq: [
       {
@@ -729,8 +729,8 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "30 treats expression as genuinely time-sensitive, not something that keeps indefinitely unspoken. In a twin flame context this favors naming a specific feeling or realization about the connection now, rather than assuming there will always be a later moment for it. In reunion, 30 suggests saying the thing you've been holding back, once contact allows it, rather than letting the window close again. In separation, this number favors putting words to what you're actually feeling before it quietly fades into something vaguer and harder to name.",
+      "When something true about this twin flame bond surfaces in you, gratitude for one ordinary evening, regret over a sharp remark, a plain admission that you miss them, 30 asks that it reach the other person while it still sounds like you. Feelings held back for months tend to come out later in a harder voice, or in a message so polished it says nothing. Today the job is small: find the sentence and decide how it will travel, a text, a letter, a call. Later, once it's said, you can watch how they answer without guessing what they'd have heard. If contact isn't possible yet, write it anyway and date it, so the version you eventually deliver is something meant, not something rehearsed into stiffness.",
     manifestation:
-      "30 manifests by expressing an idea before it fades — the practical move is saying or creating one specific thing today that's been sitting unspoken, since this number's folklore treats that timely expression as what actually preserves it.",
+      "Write down the thought you keep almost sharing, then give it a deadline measured in days: a text by Friday, a sketch posted this weekend, a sentence offered at dinner. Ideas left in drafts tend to go stale, so put this one in front of someone before the week ends.",
   },
 ];

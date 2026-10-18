@@ -634,11 +634,11 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     summary: "A calm caution to reinforce foundational structure specifically to protect existing abundance",
     meaning:
       "844 places 8 (abundance) beside double 4 (foundation, structure amplified), offering a calm caution to reinforce foundational structure, budgets, plans, agreements, specifically to protect and sustain the abundance you already have, rather than assuming it will remain secure on its own. This is a checkpoint, not an alarm, favoring proactive reinforcement.",
-    love: "Single: reinforce the practical foundations supporting your life, savings, plans, agreements, specifically to protect the security you've already built. Couple: reinforce the practical foundations supporting the relationship's shared resources, specifically to protect the abundance you've already built together.",
-    career: "Reinforce the practical foundations supporting your professional financial security, specifically to protect what you've already built.",
-    money: "Reinforce the practical foundations supporting your existing financial abundance, budgets, plans, agreements, specifically to protect what you've already built.",
-    spiritual: "This favors calm, proactive reinforcement of existing structure, not anxious hoarding, as what actually protects abundance already achieved.",
-    action: "Reinforce one specific foundational structure today, a plan, an agreement, a budget, specifically to protect abundance you've already built.",
+    love: "Single: Look over what keeps your solo life steady, the lease terms, the savings buffer, the spare key with a friend, and tighten whatever has drifted before romance adds new plans. Couple: Once the two of you share real assets, a joint account or a home, go over the paperwork together each season; couples who check calmly rarely end up checking in a panic.",
+    career: "Document how your main clients, contracts, and systems run, then walk one colleague through the notes, so the success you've earned survives a week without you.",
+    money: "Wealth slips away less through disaster than through neglect: lapsed coverage, an outdated will, autopay tied to a closed card. An hour of paperwork costs far less than any of those.",
+    spiritual: "When things are going well, looking after them can feel like tempting bad luck. Calm attention to good fortune isn't fear at all; it's gratitude put to work on ordinary days.",
+    action: "Open the one document you've avoided revisiting, a will, a policy, a household spreadsheet, and bring it up to date before the evening ends.",
     category: "mixed",
     faq: [
       {
@@ -660,9 +660,9 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "844 is a checkpoint, not an alarm, and applied to a twin flame connection it points at reinforcing what's already solid rather than assuming it'll hold on its own. In reunion, 844 favors actually naming and shoring up whatever groundwork the reconnection rests on, communication habits, boundaries, before treating it as finished business. In separation, this number suggests the growth you've already built is genuinely worth protecting deliberately, revisiting it occasionally, rather than letting it quietly erode from neglect while you wait for the next visible sign.",
+      "Good stretches in a twin flame connection rarely end from one dramatic blow; they thin out through small neglect, a promise forgotten, a call skipped, assumptions nobody voices. 844 calls for care while the bond feels good. If you're in contact, settle a few practical habits together, such as the usual hour for calls and how you make up after an argument, and revisit them every couple of months. During time apart, look after what you've grown in yourself: the therapy sessions, the friendships, the savings that give you choices. Neither is a sign of trouble. Calm attention now keeps your gains from quietly slipping, and it leaves you steadier whichever way the connection moves.",
     manifestation:
-      "844 manifests through calm, proactive reinforcement rather than anxious hoarding — the practical move is reinforcing one specific foundational structure today to protect existing abundance, since this number's folklore treats that steady maintenance as what keeps the abundance secure.",
+      "8448 lets abundance pile up on ground that's already firm; 844 asks for attention to the arrangements holding what you've gained. Update the beneficiary form, renew the contract, check the insurance limits, and the gains you have tend to stay put while you aim for more.",
   },
   {
     number: "855",

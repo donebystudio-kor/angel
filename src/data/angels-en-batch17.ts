@@ -54,11 +54,11 @@ export const EN_BATCH17_NUMBERS: EnAngelNumber[] = [
     summary: "Self-driven confidence, not intuition alone, is what's opening a genuinely new path",
     meaning:
       "A doubled 7 (insight, intuition) sits at the center of two 1s (self, agency), describing your own confidence and willingness to trust yourself, more than the intuition itself, as what's opening a genuinely new path. Distinct from 7117's framing where insight itself is the outer lens validating a new direction, 1771 reverses the emphasis: self-agency is the outer frame, and it's your decision to trust doubled intuitive signals that's actually doing the opening.",
-    love: "Single: your own willingness to trust your gut about what you want, more than the gut feeling itself, is what's opening a new direction in your love life. Couple: your own decision to trust intuitive signals about the relationship, together, is specifically what's opening a new stage, more than the signals arriving on their own.",
-    career: "Your own decision to act on intuitive signals, not the signals alone, is what's opening a new professional direction — the agency is the key ingredient here.",
-    money: "Your own willingness to trust and act on a financial instinct, rather than the instinct alone, is what's opening a new path forward.",
-    spiritual: "This favors recognizing that intuition alone doesn't open doors — your own decision to trust and act on it is the actual mechanism.",
-    action: "Make a deliberate decision today to trust and act on an intuitive signal you've been sitting on, recognizing your own agency as what's opening the path.",
+    love: "Single: If you can already tell which kind of person suits you, stop polling friends for second opinions and arrange the date yourself; your read only counts once you follow it. Couple: Raise the gut feeling you've both been circling, a dog, a smaller apartment, a return to school, with your partner, and agree on who will make the first practical move this month.",
+    career: "When you've known for months which project or role fits you, pitch it to your manager this week; waiting for someone else to propose it rarely gets you there.",
+    money: "A financial hunch you never back becomes a story about what could have been. Putting even a small, capped amount behind it turns that instinct into a result you can study.",
+    spiritual: "Inner knowing is only half of the gift. The other half is the courage to let it count, and that part belongs entirely to you, never to a sign waiting outside you.",
+    action: "Write the hunch you've sat on longest at the top of a page, add the smallest move that would test it, and do that move before you go to bed.",
     category: "mirror",
     faq: [
       {
@@ -80,9 +80,9 @@ export const EN_BATCH17_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "1771 describes the moment when acting on intuition — rather than continuing to assess it — becomes the thing that determines timing. For twin flames, this tends to land during periods when a next step has been internally clear for a while but hasn't been taken. 1771 suggests that the pace of the connection's development now depends more on that decision than on any external factor. This doesn't mean the intuitive read is guaranteed correct — it means the continued deferral of it is itself a choice that's shaping outcomes. Acting on what you sense, specifically and concretely, shifts the pace.",
+      "When it has been clear to you for a long time what your move with your twin flame should be, a message, a boundary, a visit, an honest goodbye, 1771 says the knowing has done its part. The hunch won't grow more certain by being examined again. What's left is your choice to give it weight. If you two are talking, tell them what you've decided and attach a date to it, so it stops being a someday. While you're apart, carry out your half anyway: send the letter, stop checking the profile you keep refreshing, go ahead with the plans you shelved for their sake. You may be wrong about details. Even so, a decision you made yourself teaches you something that months of waiting for a sign never could.",
     manifestation:
-      "1771 manifests by taking ownership of the decision to trust intuition, not waiting for the feeling to feel more certain — the practical move is acting today on an intuitive signal you've already noticed, since this number's folklore treats that self-authorized trust, not clearer signals, as what actually opens the path.",
+      "7117 lets insight vouch for a fresh start; 1771 puts the self on the outside of the number, so the deciding falls to you. You have the hunch. Most stalled wishes aren't short on information; they're short on someone ruling that the information is enough. Choose one instinct you've carried for weeks, about a move, a person, a project, and commit a date and an amount to it. Once a hunch has a deadline behind it, events tend to start lining up around it.",
   },
   {
     number: "1881",

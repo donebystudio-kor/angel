@@ -155,11 +155,11 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
     summary: "A call to prioritize filling your own emotional needs before expressing outward or giving to others",
     meaning:
       "36 weaves 3 (creativity, expression) together with 6 (home, care, heart), describing a specific call to fill your own emotional cup first, before continuing to expressively give to others. This favors recognizing that your own heart's needs deserve attention now, not as selfishness but as necessary maintenance for sustainable giving.",
-    love: "Single: fill your own emotional needs first, through self-care and self-understanding, before continuing to pour outward into dating and connection. Couple: fill your own emotional cup first, so that what you give to the relationship comes from genuine fullness, not depletion.",
-    career: "Fill your own professional and emotional needs first, so that what you give at work comes from genuine capacity, not depletion.",
-    money: "Address your own emotional relationship with money first, before continuing to give financially to others from a depleted place.",
-    spiritual: "This favors recognizing self-care as a legitimate priority, not a selfish delay before the real work of giving to others begins.",
-    action: "Take one specific step today to fill your own emotional cup, before continuing to give outward from a depleted place.",
+    love: "Single: Dating while exhausted tends to draw people who need rescuing. A few weeks of restoring your own sleep, friendships, and quiet hours changes who you notice and who notices you. Couple: Tell your partner plainly which evening this week is yours alone, then keep it without apology; a rested you brings more warmth home than one who never takes a night off.",
+    career: "The colleague everyone leans on tends to burn out quietly. Declining one extra request this month keeps the help you do offer sharp, and most teams adjust faster than expected.",
+    money: "When lending or gifting money to family leaves you anxious about your own bills, pause further transfers until your emergency savings feel steady again.",
+    spiritual: "Once you count tending your own heart as part of loving others, the guilt eases. Care was never meant to run one way; you belong on the list of people you look after.",
+    action: "Block out one hour today for something that restores you, a nap, a walk, music with headphones on, and turn down every request that tries to claim it.",
     category: "mixed",
     faq: [
       {
@@ -181,9 +181,9 @@ export const EN_BATCH27_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "36 puts a specific order first: your own emotional cup, before continuing to pour outward, even toward this connection. In a twin flame context this directly counters the instinct to keep giving to the bond while running on empty yourself. In reunion, 36 favors making sure what you bring to renewed contact comes from genuine fullness, not depletion disguised as devotion. In separation, this number favors treating your own emotional needs as the actual priority right now, not a selfish delay before the real work, since sustainable care for the connection starts with care for yourself.",
+      "Twin flame stories often cast you as someone who must keep giving: patience, reassurance, endless understanding of their distance. 36 points at the giver. Their needs are real, and so are yours, and only one set is in your hands. They can't rest on your behalf, sleep for you, or revive the friendships you let slide while your attention was on them. Those belong to you, and tending them changes what you bring when you next speak. A rested person listens differently, asks for less proof, and notices warmth without counting it. Their side of the work is theirs; yours starts with an evening you keep for yourself this week.",
     manifestation:
-      "36 manifests by prioritizing genuine self-care as necessary maintenance — the practical move is taking one concrete step today to fill your own emotional cup before giving outward, since this number's folklore treats that fullness, not depletion, as what sustains giving long-term.",
+      "If 366 aims creative energy at the household, 36 points it back at you for a while: a restful evening, a hobby that answers to nobody, a no said kindly. What you want next comes more easily when you aren't running on fumes, as long as that evening stays on the calendar.",
   },
   {
     number: "37",

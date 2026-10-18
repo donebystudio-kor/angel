@@ -630,11 +630,11 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
     summary: "A calm, bounded period specifically for routine foundational maintenance, not crisis rebuilding",
     meaning:
       "0440 is a palindrome bookending double 4 (foundation, stability) with 0 (potential, quiet) on both sides, describing a calm, contained period specifically set aside for routine foundational maintenance, distinct from 0044's framing of a shaky foundation needing a complete rebuild from scratch. This is gentler and more routine: a quiet, bounded tune-up, not an emergency reconstruction.",
-    love: "Single: take a quiet, contained period to do some routine maintenance on your own emotional foundation, journaling, reflection, simple self-care, not because anything is broken, just as healthy upkeep. Couple: take a quiet, contained period together for routine relationship maintenance, a check-in, a shared reflection, not because anything is broken, just as healthy upkeep.",
-    career: "Take a quiet, contained period for routine professional maintenance, updating skills, reviewing your plan, not in response to a crisis, just as healthy upkeep.",
-    money: "Take a quiet, contained period for routine financial maintenance, reviewing a budget, updating a plan, not because anything is broken, just as healthy upkeep.",
-    spiritual: "This favors treating routine maintenance as valuable in its own right, not something to do only in response to a crisis or visible problem.",
-    action: "Set aside one quiet, bounded period today for routine maintenance on something foundational in your life, without needing a crisis to justify it.",
+    love: "Single: While no one new is on the horizon, use a slow weekend to notice which of your habits support the life you'd want to share, and adjust one before dating picks up again. Couple: Put an unhurried hour on the shared calendar each month to ask each other what's working and what feels slightly off, and keep it light enough that neither of you dreads it.",
+    career: "Set aside an unscheduled Friday afternoon to review your certifications, passwords, and project notes; doing it during a calm week means no deadline is forcing the timing.",
+    money: "Most money trouble starts small, a creeping subscription price or an outgrown insurance plan, and a twice-yearly review catches it while it's still cheap to correct.",
+    spiritual: "If you only examine your life when something goes wrong, every look inward feels like an emergency. Checking in during calm stretches teaches you that attention can be gentle.",
+    action: "Choose one part of your life that's running fine, your car, your sleep, a friendship, and give it twenty minutes of care today anyway.",
     category: "time",
     faq: [
       {
@@ -656,9 +656,9 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "Quiet maintenance — structural work that requires stillness to accomplish — is the purpose 0440 assigns to twin flame separation. The palindrome frames doubled foundation (44) in 0 (clearing) on both sides: a container specifically suited for checking what's holding, what has shifted, what needs attention before the next active phase begins. This isn't the dramatic work of rebuilding; it's the less visible but equally necessary work of examining what's already in place. In separation, the question is whether you're using the stillness for genuine structural check-ins or simply waiting for something to happen. What in your current foundation has been asking for maintenance you've deferred?",
+      "Nothing has to be wrong in a twin flame connection for 0440 to show up. It marks a calm stretch, often a separation without drama, that suits a careful review of what you've put in place. Part of the picture is visible from where you stand: whether you're sleeping well, whether your boundaries held during the last contact, whether your friendships survived the intensity. Other parts stay hidden for now, including your twin flame's inner struggles or when you'll speak again. Spend your energy on the visible part. Check each item gently, make small adjustments where needed, and note what is holding up well. If you speak again, you'll bring a firm grasp of what's sturdy, and the unknowns will feel less loud.",
     manifestation:
-      "0440 manifests through calm, routine maintenance rather than crisis response — the practical move is scheduling one bounded period today for foundational upkeep, since this number's folklore treats that regular tune-up, not waiting for a problem, as what keeps the foundation genuinely solid.",
+      "A calm look at what already works keeps it working, because small fixes made early cost much less than repairs made in a hurry.",
   },
   {
     number: "0550",

@@ -204,11 +204,11 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     summary: "Home's material foundation specifically solidifying, not just improving temporarily",
     meaning:
       "6886 places double 8 (abundance) at the center of two 6s (home, care), describing home's material foundation specifically becoming solid and lasting, rather than a temporary improvement. Distinct from 8448's framing of abundance building on already-stable foundation generally, 6886 is specifically domestic: household finances, property, family resources, are settling into genuine, durable solidity right now.",
-    love: "Single: your personal financial foundation, savings, stability, is solidifying in a way that will genuinely support a future shared home, not just a temporary upswing. Couple: your household's material foundation is becoming genuinely solid and lasting right now, worth recognizing as durable, not just a good month.",
-    career: "If your work supports household finances directly, recognize that the resulting stability is becoming genuinely durable right now, not a temporary high point.",
-    money: "Household or family financial foundation is solidifying in a lasting way right now — this favors treating current gains as a durable base to build on, not a temporary windfall to spend freely.",
-    spiritual: "This favors recognizing material security as a legitimate, durable form of stability worth trusting, not something to remain anxious about even as it solidifies.",
-    action: "Take one action today that treats your current household financial stability as durable and lasting, a long-term investment, a real plan, rather than a temporary state to remain anxious about.",
+    love: "Single: Keep building the savings and the steady routines you've started; a settled personal life makes it far easier to say yes when someone eventually asks about moving in together. Couple: Shared money worries tend to seep into unrelated arguments. As the household finances steady, many couples find they bicker less about chores too, and that calm deserves notice.",
+    career: "Treat the steady income your work brings home as reliable enough to plan around, and ask for the schedule or benefits that let you enjoy the house it pays for.",
+    money: "Once the family emergency fund covers several months, move extra cash toward long-horizon goals like home equity or retirement, while keeping a sensible monthly review.",
+    spiritual: "When security finally arrives, gratitude can feel riskier than worry, as if relaxing might undo it. Resting in a well-kept home is an act of faith, and it isn't carelessness.",
+    action: "Plan today as if your household will still be steady in five years, then book one item: a home repair you have postponed, a better policy, a college fund.",
     category: "mirror",
     faq: [
       {
@@ -230,9 +230,9 @@ export const EN_BATCH16_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "Durable home stability — material and financial foundations that have genuinely solidified rather than temporarily improved — is a preparation signal most twin flame guidance overlooks. 6886 includes it explicitly: what you're building on the material and domestic level isn't separate from readiness; it's part of the foundation that makes sustained connection livable rather than just aspirational. In reunion, the difference between a connection that can hold and one that collapses under real-life weight often comes down to whether the material base is genuinely solid. In separation, building real domestic stability is preparation in the fullest sense. How solid is the material and home foundation you're actually standing on right now?",
+      "Twin flame guidance tends to skip the practical, yet 6886 places the household at its heart. Rent paid on time, a full fridge, a home you're not embarrassed to invite someone into: these shape how a connection feels day to day, well beyond any synchronicity. Money stress makes reunions brittle, because every visit and every plan gets weighed against the bills. As your domestic finances settle, pay attention to whether thoughts of your twin flame now arrive without a knot in your stomach. That ease counts as readiness. Keep building it at a sensible pace, keep reviewing the budget, and let the bond meet you in a life roomy enough for two people.",
     manifestation:
-      "6886 manifests by treating current stability as durable rather than temporary — the practical move is making one long-term decision today that assumes lasting solidity, since this number's folklore treats that trust, not continued anxious hedging, as what the growing foundation actually calls for.",
+      "What 6886 sets out is family on both edges with two 8s in the middle, so the gains it describes are domestic: the mortgage, the savings for the kids, the house that's finally yours. Commit to the long plan, the fifteen-year rate or the education fund, because a household base that has settled this far tends to hold.",
   },
   {
     number: "6996",

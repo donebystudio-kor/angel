@@ -63,7 +63,7 @@ export const EN_DEEP = [
   "1212", "0000", "11111", "9", "0101",
 ];
 
-// docs/lmc-track.md — LMC stage 2, batches 15–20 (all content fields rewritten)
+// docs/lmc-track.md — LMC stage 2, batches 15–21 (all content fields rewritten)
 export const EN_LMC = [
   // batch 15
   "84", "25", "63", "299", "588", "137", "140", "9669", "7447", "4040",
@@ -77,6 +77,8 @@ export const EN_LMC = [
   "85", "97", "344", "988", "124", "7557", "1661", "0321",
   // batch 20
   "79", "54", "388", "166", "125", "8228", "4664", "3993",
+  // batch 21
+  "30", "36", "844", "977", "119", "6886", "1771", "0440",
 ];
 
 // ── KO rewritten pages (docs/ko-track.md) ───────────────────────────────

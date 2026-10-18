@@ -626,11 +626,11 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     summary: "A chapter ending specifically to make room for a strong, well-supported new one",
     meaning:
       "119 holds two 1 (new beginnings, self), met by 9 (completion), describing a chapter that's ending specifically to make room for a new one, with the doubled 1 emphasizing the strength and clarity of the new chapter more than the weight of the ending itself. This favors focusing forward, on the strength of what's beginning, rather than lingering primarily on what's closing.",
-    love: "Single: a dating chapter is ending specifically to make room for a stronger, clearer new one — focus on the strength of what's beginning rather than lingering only on the ending. Couple: a chapter within the relationship is ending specifically to make room for a stronger, clearer new stage — focus forward together.",
-    career: "A professional chapter is ending specifically to make room for a stronger, clearer new one — focus on what's beginning rather than lingering only on the ending.",
-    money: "A financial chapter is ending specifically to make room for a stronger, clearer new one — focus forward on the new approach rather than dwelling only on the ending.",
-    spiritual: "This favors focusing attention on the strength and clarity of what's beginning, honoring the ending briefly but not lingering there indefinitely.",
-    action: "Acknowledge one ending today briefly, then deliberately shift your attention to the strength of what's beginning as a result.",
+    love: "Single: Thank your last relationship for what it showed you, in a journal line or a quiet walk, then accept the invitations that put you among unfamiliar people again this month. Couple: As one era of your partnership closes, say the years of caring for a parent or of commuting between cities, plan the first ritual of what comes next together, so it begins by shared choice.",
+    career: "When a role or project wraps up, spend an afternoon on the thank-yous and loose ends, then pour your effort into the opportunity ahead, where your energy now earns the most.",
+    money: "Paying off a loan or closing a credit line frees up cash each month, and what you do with that money in the first few weeks usually decides where it goes for years.",
+    spiritual: "Endings deserve a moment of respect, but grief that replays itself can become a way of avoiding what's new. Spirit tends to move toward beginnings, and so can your attention.",
+    action: "Sum up one recent ending in one sentence, then list three things the new situation already makes possible and start on the first today.",
     category: "mixed",
     faq: [
       {
@@ -652,9 +652,9 @@ export const EN_BATCH21_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "For twin flames, 119 names a specific transition inside the dynamic itself, not a general life chapter. The doubled 1 puts more weight on the strength of what's opening than on what's closing, which matters here because it's easy to fixate on the ending stage of a connection instead of what it's clearing room for. In reunion, 119 suggests an old version of the dynamic is closing so a steadier one can begin. In separation, this number frames the current chapter as genuinely ending, not stalling, with something clearer forming just behind it.",
+      "When an old pattern in this twin flame bond finally runs out, one of you pursuing while the other withdraws, or silence broken by a sudden intense reunion, 119 puts most of its weight on what can start afterward. Note that close briefly; an evening of journaling or a frank conversation is enough. If you're still in touch, propose one new way of relating, say a weekly call at a set hour, and try it for a month before judging it. If you're apart, put the energy that used to go into replaying the past into something growing in your own life: a course, a new neighborhood, a friendship you finally have time for. What follows can be sturdier, and it gets that way through attention, not through mourning on repeat.",
     manifestation:
-      "119 manifests by focusing attention forward on a strong new beginning — the practical move is briefly acknowledging an ending today, then deliberately directing energy toward what's starting, since this number's folklore treats that forward focus as what makes the new chapter land with real strength.",
+      "In 91, one thing finishes and the next simply follows. 119 adds a second 1, so the weight sits on what's arriving: a new role, a new city, a routine already showing promise. Give the closing a brief farewell, a last lunch or a final walk, then spend your planning hours on the arrival. Wishes aimed at the new phase gather speed; wishes aimed at the old one replay it, not revive it.",
   },
   {
     number: "120",

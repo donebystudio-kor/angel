@@ -183,6 +183,80 @@ that actually(7999) / the specific(5999) / back to(9994) / the one
 
 새로 심화 필드를 쓸 때 인상적인 비유가 나오면 이 표에 추가할 것.
 
+### 신규 비유 누적 목록 — 정규 배치(배치15~) 비유 시그니처 (2026-10-18 확정)
+
+배치20에서 "standing guard"·"like a puzzle" 재사용이 나온 뒤, 정규 배치15~20에서
+만든 비유를 **소급해서** 모았다. 검사 스크립트의 금지 6종 중 6번째 종류
+('신규비유')가 이 목록이다. 위 표는 심화 필드 원출처, 이 목록은 정규 배치
+원출처다. **새 칸을 쓸 때 아래 표현은 쓰지 않는다**(원출처 칸만 예외).
+
+원출처는 2026-10-18 코퍼스 전수 grep 기준(배치15~20 페이지만 표시). "그 외 N"은
+템플릿기·심화 등 다른 페이지에 이미 있는 건수로, 그 페이지들은 고치지 않는다.
+
+| 표현 (검사 정규식 기준) | 원출처 (배치) | 비고 |
+|---|---|---|
+| pulse / heartbeat | 4040 manifestation "heartbeat"(15), 5050 manifestation·spiritual(17), 3030 manifestation·twinflame·action(18), 9090 spiritual(16) | 0X0X 계열 meaning에도 있음 |
+| lever | 84 manifestation (15) | 그 외 1 |
+| ledger | 288 twinflame (16), 688 twinflame (17) | |
+| compass | 4774 twinflame (16) | 그 외 10 |
+| keel | 125 twinflame (20) | |
+| engine | 8228 manifestation (20) | 그 외 1 |
+| blueprint | 79 manifestation (20) | 그 외 6 |
+| riddle / puzzle | 79 twinflame (20) / 766 twinflame (16) | |
+| standing guard | 7557 manifestation (19) | 3번 표에도 있음 |
+| holy ground / threshold | 3993 spiritual (20), 0220 meaning (18) | threshold 그 외 18 |
+| brick / lens | 124 twinflame (19) | lens 그 외 5 |
+| anchor | 5445 love (16), 1661 money (19) | 그 외 4 |
+| cargo | 149 manifestation (18) | |
+| root system / take root | 64 spiritual (18) / 199 twinflame (17) | |
+| floor under | 64 money (18) | |
+| same frame | 5445 manifestation (16) | |
+| doorway / door(s) | 299 twinflame (15) / 0220 4칸·38 love (18) | door 그 외 74 — 단어 자체를 피한다 |
+| path through | 38 spiritual (18) | |
+| fork / wheel / passenger / scenery | 57 manifestation·spiritual (17) | 운전 비유 묶음 |
+| handoff | 199 love (17), 149 meaning (18) | hand-off 표기 포함 |
+| cliff | 199 money (17) | |
+| like a loop | 9339 twinflame (17) | |
+| a current / creative current / tide | 922 meaning, 3030 manifestation (18) | current 그 외 18 |
+| terrain | 137 twinflame (15) | |
+| clock runs out | 0321 action (19) | |
+| appointment | 86 manifestation (16), 988 manifestation·85 action (19) | |
+| lane | 388 manifestation (20) | |
+| windfall | 388 love (20) | 그 외 13 |
+| steer | 57 meaning·love (17), 166 manifestation·twinflame (20) | |
+| clench | 86 spiritual (16), 166 manifestation (20) | |
+| landing | 5445 career (16), 688 money (17) | 그 외 31 |
+| scale in your hands | 7667 spiritual (18) | |
+| share a room | 86 spiritual (16) | |
+| rearranged | 93 twinflame (16) | |
+| photograph | 63 manifestation (15) | |
+| turning a page / close the page | 299 twinflame (15) / 86 action (16) | |
+| home's walls | 7667 manifestation (18) | |
+| on the record | 97 money (19) | |
+| head(s) start | 원출처 없음 | 배치21 작성 중 예방용으로 등록 |
+
+**배치21에서 추가 (원출처 = 배치21)**:
+
+| 표현 | 원출처 |
+|---|---|
+| running on fumes | 36 manifestation |
+| rehearsed into stiffness | 30 twinflame |
+| thin out through small neglect | 844 twinflame |
+| replay it, not revive it | 119 manifestation |
+| a life roomy enough for two | 6886 twinflame |
+| the unknowns will feel less loud | 0440 twinflame |
+
+**목록 밖이지만 같은 종류 — 예시 나열 재사용 (배치21 실측)**: 비유가 아니라
+**구체적 예시 나열**도 시그니처가 된다. 배치21 통합 검사(코퍼스 교차, 공유
+1~2페이지 출처 확인)에서 아래가 기존 페이지의 나열을 거의 그대로 다시 썼다.
+- "the chasing, the silent …, the long gaps …" (93 twinflame, 배치16)
+- "the student years, the long-distance stretch, the newborn months" (299 love)
+- "a cross-country move, a career switch …, a baby" (25 love)
+- "an apology, a thank-you, …" (3993 twinflame)
+- "how often you talk, which topics wait …" (125 twinflame)
+
+나열은 정규식으로 막기 어렵다. 공유 1~2페이지 3-gram 출처 확인을 계속 한다.
+
 ---
 
 ## 4. 심화 필드별 오프너 패턴
@@ -697,6 +771,12 @@ manifestation "two 7s standing guard around the doubled 5"의 비유 틀을 다�
 드러났다. **공유 페이지가 1~2개인 3-gram은 출처 문장을 직접 읽고 비유·틀
 재사용인지 판단한다.** 정규 배치에서 만든 비유도 3번 표(비유·관용구 금지)에
 올린다.
+
+**배치21 보강**: 상위 목록만 보지 말고 공유 1~2페이지 3-gram **전체**를 출처
+문장과 나란히 읽는다(배치21은 219건). 그렇게 하자 64칸 안 검사가 전부 0인
+상태에서 14칸이 더 나왔고, 대부분 비유가 아니라 **예시 나열·문장 틀**
+재사용이었다(3번 "신규 비유 누적 목록" 아래 예시). 고친 뒤에는 새로 생긴 공유
+1~2페이지 3-gram을 다시 뽑아 읽는다.
 
 ### 규칙 L — 페이지 안 4칸 복제 금지 (LMC 트랙, 2026-10-01)
 
