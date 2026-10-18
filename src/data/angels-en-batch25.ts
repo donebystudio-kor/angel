@@ -84,7 +84,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "Prepare for practical change as part of the twin flame path, not a distraction from it. 588 tends to appear when a large material shift — a move, a new job, a different financial footing — is about to alter the circumstances around the connection. Reunion often depends on logistics as much as feelings, and a substantial change in where you live or what you can afford may be what turns contact from a wish into a plan. Treat the upheaval as part of your own growth too, and give it the planning a shift this size deserves. Make the practical plan first and let the emotional meaning catch up afterward.",
+      "Prepare for practical change as part of the twin flame path, not a distraction from it. 588 shows up near big material turns: an inheritance that changes what's possible, a salary that finally covers travel, a lease ending in a city you no longer need. Reunion often depends on logistics as much as feelings, and a substantial change in where you live or what you can afford may be what turns contact from a wish into a plan. Treat the upheaval as part of your own growth too, and give it the planning a shift this size deserves. Make the practical plan first and let the emotional meaning catch up afterward.",
     manifestation:
       "588 sizes the coming financial shift well above the routine adjustment 188 points to, and the planning has to match that scale. A quick glance at your balance won't cover it; a full pass through income, debts, insurance, and next year's big expenses will. Sketch two versions of the year, one where the shift lands in your favor and one where it costs you, so neither outcome catches you flat. If the change turns out smaller than expected, the extra preparation becomes a stronger baseline.",
   },
@@ -241,7 +241,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     love: "Single: credit the stability you feel to the commitments you've kept with family, health, and friends, since that reliability is what makes you a steady partner now. Couple: when shared responsibilities, the kids' schedules, a parent's care, the household admin, have been handled faithfully, the ease or income showing up now grew from that.",
     career: "Caregiving-adjacent or support work you've done reliably, the covering, the follow-up, the cleanup, is the real reason the raise or bonus is arriving.",
     money: "Connect the money landing this month to the bills paid on time and obligations met across the past year, and keep that record where you'll see it.",
-    spiritual: "If duty has felt thankless, this number reframes it: a responsibility carried well is a direct source of the reward, never a separate virtue standing apart from it.",
+    spiritual: "If duty has felt thankless, this number reframes it: the responsibilities you carry well are part of how the reward got built, so the gratitude you feel now can include them too.",
     action: "Pick one reward you've received lately and note the responsibility you kept that made it possible, without adding new duties to earn more.",
     category: "mixed",
     faq: [
@@ -264,7 +264,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "If renewed warmth or contact is appearing in your twin flame connection, 688 links it to responsibilities you've kept, not to their mood or to chance. Your side of the ledger is the part to examine: the healing you kept up, the boundaries you held, the self-care you didn't skip even when nothing seemed to change. Their side moves on its own schedule and isn't yours to manage. What you can claim is that steadily keeping commitments in your own life has shaped the conditions the connection now meets. Count that work as genuine and earned, and keep it going without turning it into a bargain for more.",
+      "If renewed warmth or contact is appearing in your twin flame connection, 688 links it to responsibilities you've kept, not to their mood or to chance. Look at what you sustained: the healing you kept up, the boundaries you held, the self-care you didn't skip even in weeks that looked like a standstill. How the other person moves runs on a schedule you don't set, and chasing it only drains you. What you can claim is that steadily keeping commitments in your own life has shaped the conditions the connection now meets. Count that work as genuine and earned, and keep it going without turning it into a bargain for more.",
     manifestation:
       "688 ties today's reward to the duties you kept carrying faithfully, not to luck or to a burst of fresh effort.",
   },
@@ -456,7 +456,7 @@ export const EN_BATCH25_NUMBERS: EnAngelNumber[] = [
       "766 places single 7 (insight, thought) alongside doubled 6 (home, care amplified), describing a specific call to shift from overthinking a situation into direct, active caregiving action for someone close, rather than continuing to analyze. This favors recognizing that further thought isn't what's needed here, active presence and care is.",
     love: "Single: if you've spent weeks decoding a friend's or crush's messages, call or visit; one hour together tells you what the decoding never could. Couple: put down the mental replay of last week's argument and cook dinner, run the errand, or simply sit with your partner tonight.",
     career: "When a teammate is struggling and you keep weighing how to support them, a direct offer of hands-on help beats another round of planning in your head.",
-    money: "A family money question that's been mulled over for months usually needs a concrete gesture, paying the bill or setting up the transfer, and another spreadsheet won't settle it.",
+    money: "A family money question that has been mulled over for months usually needs a concrete gesture, paying the bill or setting up the transfer; more calculating rarely helps.",
     spiritual: "If thinking has become a way of keeping your distance from people you love, care in action is the spiritual move this moment asks for.",
     action: "Choose the person who's been on your mind and do one practical thing for them before tonight, even something as small as dropping off a meal.",
     category: "mixed",

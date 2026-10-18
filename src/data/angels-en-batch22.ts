@@ -53,7 +53,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     career: "A career built through incremental skills, certifications, and steady deliveries is moving at a legitimate pace, even if colleagues seem to leap ahead.",
     money: "Automate a small recurring transfer toward the bigger financial dream, and review the growing balance monthly, judging it by its direction, not its distance from the final target.",
     spiritual: "If progress feels too slow to matter, remember that steady pacing and solid groundwork are part of how a dream takes form; each deliberate step is sacred in its own right.",
-    action: "Complete one small, deliberate task toward your bigger dream today, then write down in a sentence how it moved you forward, however slightly.",
+    action: "Spend part of today on one modest, deliberate task that serves your bigger dream, then tell someone close what you did, however slight the progress looks.",
     category: "mixed",
     faq: [
       {
@@ -111,7 +111,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "Twin flame connections seldom pause for calm before asking you to show up, and 125 treats that as workable. Where you're back in contact, steadiness looks like small agreements made while things are still moving: how often you talk, which topics wait, which plans stay loose for now. Where you're apart, it looks like a routine that carries you through the uncertain weeks, sleep, friends, work that matters to you, so the waiting doesn't swallow your days. Both pictures share one idea: firm footing can be built mid-motion, and it rarely gets easier by postponing it. The connection may keep changing shape for a while, and you can still meet it on an even keel today.",
+      "Twin flame connections seldom pause for calm before asking you to show up, and 125 finds that workable. Where you're back in contact, steadiness looks like small agreements made while things are still moving: how often you talk, which topics wait, which plans stay loose for now. Where you're apart, it looks like a routine that carries you through the uncertain weeks, early nights, a standing call with a friend, a project that absorbs you, so the waiting doesn't swallow your days. Both pictures share one idea: firm footing can be built mid-motion, and it rarely gets easier by postponing it. The connection may keep changing shape for a while, and you can still meet it on an even keel today.",
     manifestation:
       "What 2552 asks of a couple riding a big upheaval, 125 asks on an ordinary scale: steadiness while things move. Decide together what this stretch should give you, a calmer week, a fair split of chores, a shared plan, and make that ask now, in the thick of it. Which part of that wish could begin before anything settles?",
   },
@@ -471,7 +471,7 @@ export const EN_BATCH22_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "When the twin flame story has turned into a long wait for the other person to move, 135 puts the next step in your hands. Waiting can feel loyal, yet it often hides a fear of being the first to be seen trying. Initiative here doesn't mean pressure; it means refusing to let your own life stay on hold. If contact is open, be the one who proposes the honest conversation or the first concrete plan, framed in your own words, not in hints. If you're separated, start the change you've put off — the move, the course, the creative project — and let the connection meet you wherever that takes you.",
+      "When the twin flame story has turned into a long wait for the other person to move, 135 puts the next step in your hands. Waiting can feel loyal, yet it often hides a fear of being the first to be seen trying. Taking the lead can stay gentle and still keep your own life from sitting on hold. If contact is open, be the one who proposes the honest conversation or the first concrete plan, framed in your own words, not in hints. If you're separated, start the change you've put off, whether that's the class you keep bookmarking or the creative project gathering dust, and let the connection meet you wherever that takes you.",
     manifestation:
       "Among numbers that tie change to expression, 3553 has your words setting off a shift in that very moment; 135 asks something broader of you — to start it yourself. Letting the world move first can feel prudent, yet it quietly hands the timing to someone else. Initiation here doesn't need drama: a proposal drafted, a conversation opened, a first version shared. Which change have you been treating as something that will happen to you, when it could start with you this week?",
   },

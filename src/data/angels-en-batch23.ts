@@ -192,11 +192,11 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     summary: "A well-grounded, solid transition from a closing chapter into a genuinely new one",
     meaning:
       "149 threads 1 (new beginnings) into 4 (foundation, stability) and 9 (completion), describing a transition from a closing chapter into a new one that's genuinely well-grounded and solid, distinct from a shaky or uncertain handoff. This favors trusting that the closing chapter is transferring real, usable foundation into whatever comes next, rather than leaving a gap.",
-    love: "Single: if a dating chapter is closing, jot down the clarity it gave you about your needs and boundaries, and bring that knowledge into every first date ahead. Couple: as one stage of your relationship ends, choose together which traditions and understandings to keep, so the new stage starts on ground you already trust.",
+    love: "Single: if a dating chapter is closing, jot down the clarity it gave you about your needs and boundaries, and bring that knowledge into every first date ahead. Couple: as one stage of your relationship ends, talk through which rituals you will carry forward, the Friday dinners, the way you settle a disagreement, so the new stage begins on familiar footing.",
     career: "When you leave a role, document the systems and contacts you developed there, since they form a ready-made base for the job or venture you move into.",
-    money: "Money lessons from a finished chapter, a paid-off loan or a closed business, become reusable structure, and a new budget built on them starts on firm footing.",
+    money: "The rules you learned while clearing old debt, like waiting a day before any big purchase, can shape your next budget, so it starts out already tested against real life.",
     spiritual: "An ending can pass things along, not only take them away; the foundation built in one chapter travels into what follows when you choose to carry it.",
-    action: "Pick one resource, habit, or relationship from a chapter that's closing and deliberately bring it into your new routine this week.",
+    action: "Name one skill you gained in a chapter that is closing, and put it to use this week in the thing you are starting, even in a modest way.",
     category: "mixed",
     faq: [
       {
@@ -218,7 +218,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "Carry what this twin flame chapter taught you into the following one, because 149 describes an ending that hands forward something usable. Patience, clearer boundaries, a firmer sense of your own worth: these don't vanish when a phase closes. If a reunion is forming, those lessons become the base the renewed connection stands on, so it isn't starting from zero. If the separation continues, those lessons travel with you into everything else you do and keep their value. Writing them down makes them easier to hold onto. Name two or three of them plainly, and let them shape how you meet the stage that arrives after this one.",
+      "Treat this twin flame chapter as one that leaves you tools, because 149 describes an ending that hands forward something usable. Patience, clearer boundaries, a firmer sense of your own worth: these don't vanish when a phase closes. If a reunion is forming, those lessons become the base the renewed connection stands on, so it isn't starting from zero. If the separation continues, they stay useful in friendships, at work, and in every later relationship. Writing them down makes them easier to hold onto. Name two or three of them plainly, and let them shape how you meet the stage that arrives after this one.",
     manifestation:
       "Across a transition, 149 is about packing, not abandoning. 91 simply hands one ending to the following beginning; 149 adds the cargo — lessons, savings, habits, relationships — that this ending stage is passing forward. Make a short inventory of what you're bringing: the skill you built, the boundary you learned, the contact who believed in you. Carried consciously, those pieces become the first floor of what follows, and the start feels steadier than one built from nothing.",
   },
@@ -624,7 +624,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     summary: "Consistent creative effort finally solidifying into something tangible and real",
     meaning:
       "344: 3 (creativity, expression), paired with a double dose of 4 (foundation, structure amplified), describing consistent creative effort that's finally solidifying into something tangible and real, distinct from a sudden creative burst. This favors recognizing and honoring the moment sustained work actually takes concrete shape, worth celebrating as a real milestone.",
-    love: "Single: if the work you've done on expressing yourself honestly is starting to show in easier first conversations, notice that shift; steady practice produced it. Couple: celebrate the shared project that has slowly become real, the garden, the renovated room, the savings goal, before moving straight to the following one.",
+    love: "Single: if the work you've done on expressing yourself honestly is starting to show in easier first conversations, notice that shift; steady practice produced it. Couple: celebrate the shared project that has slowly become real, the garden, the renovated room, the savings goal, with an evening that's only about enjoying it, no talk of what's next.",
     career: "When a professional project you've nursed for months finally produces a working draft, prototype, or launch date, pause to document what the sustained effort built before pushing ahead.",
     money: "A side venture or financial plan you've chipped away at for months is reaching a tangible stage, like the first steady sales or a funded account, and that deserves notice.",
     spiritual: "Persistence has a creative dignity of its own; the moment patient effort becomes visible is a milestone to pause for, even if more work lies ahead.",
@@ -650,7 +650,7 @@ export const EN_BATCH23_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "Look at the quiet, steady effort you've put in around this twin flame connection, the journaling, the therapy, the patience on days when nothing moved, and notice that it has started to take shape. 344 favors accumulation over breakthrough: no single revelation changed things, yet the structure you built through repetition is now solid enough to stand on. That foundation makes renewed contact feel less fragile and makes distance feel less destabilizing. Celebrate the milestone without assuming the work is over, and keep the habits that brought you here. It deserves acknowledgment as an achievement, not a footnote.",
+      "Look at the quiet, steady effort you've put in around this twin flame connection, the hard conversations you rehearsed with a friend, the evenings you chose rest over rumination, the patience on days when nothing moved, and notice that it has started to take shape. 344 favors accumulation over breakthrough: no single revelation changed things, yet the structure you built through repetition is now solid enough to stand on. That foundation makes renewed contact feel less fragile and makes distance feel less destabilizing. Celebrate the milestone without assuming the work is over; that daily practice still matters next month. It deserves acknowledgment as an achievement, not a footnote.",
     manifestation:
       "344 rewards the long haul: the double 4 means months of steady creative work are finally hardening into something you can hold. Where 311 is a sudden launch, this is accumulation paying out, so treat this as a milestone, not an ending.",
   },

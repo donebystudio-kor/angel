@@ -257,6 +257,39 @@ that actually(7999) / the specific(5999) / back to(9994) / the one
 
 나열은 정규식으로 막기 어렵다. 공유 1~2페이지 3-gram 출처 확인을 계속 한다.
 
+**배치15~20 소급 대조로 추가 (2026-10-18)** — 경위는 `lmc-track.md` "배치15~20
+소급 대조와 49칸 재작성".
+
+(1) **배치를 넘어 이어진 틀 — 금지** (문구를 바꿔도 같은 틀이면 위반)
+
+| 틀 | 연쇄 (배치) |
+|---|---|
+| twinflame 앎·모름 축: "You may not know … / Let the unknown stay … / what you can know / the unknown part" | 5445(16) → 64(18) → 1661(19) → 3993(20) → 0440(21). 49칸 재작성에서 64·1661·3993·199는 이 틀을 뺐다. **0440(21)은 범위 밖이라 남아 있다** |
+| "메모·기록을 남기면 패턴이 보인다": "keep a short/simple note·log·record of what …", "a pattern emerges", "review the pattern", "jot" | 63(15) → 4774 싱글·career(16) → 0220·3030(18) → 388(20) |
+| 삶의 변화 나열: "a move, a new job, a baby, a career switch, a relocation …" 중 두 개 이상을 한 나열에 넣는 것 | 555 커플·888 twinflame(기존) → 588·25(15) → 7557(19) → 54(20) → 1771(21) |
+| 비교 도구 이미지: spreadsheet / comparison chart / pros-and-cons / forums | 25 커플·money(15) → 766(16) → 57(17) → 177(18). 실물로서의 spreadsheet(844 action "a household spreadsheet" 등)는 제외 |
+| "verdict" 계열: "not a verdict", "a design, not a verdict", "without forcing a verdict" | 555·0111 twinflame(기존) → 5445 MF(16) → 57 twinflame(17) → 0220 spiritual(18) |
+| 주체 축 문구: "Your side is … / Their side is theirs", "their half" | 288(16) → 688(17) → 166(20). 166은 "내 몫과 상대 몫을 가른다"가 논지라 구조는 남기고 문구만 바꿨다 |
+| "X here doesn't mean Y; it means Z" | 2020·2112 FAQ4·0909 twinflame(기존) → 25 twinflame(15) → 135 twinflame(16) |
+
+(2) **출처 1곳뿐인 정규 배치 비유 — 원출처 외 재사용 금지**
+
+| 표현 | 원출처 | 비고 |
+|---|---|---|
+| first floor (of what follows) | 149 manifestation (18) | |
+| time on loan | 0321 spiritual (19) | |
+| left on a shelf | 4040 커플 (15) | 49칸 재작성에서 원문에서도 빠졌다. 금지는 유지 |
+| breathing pattern | 3030 twinflame (18) | 같은 이유로 원문에서 빠짐(현재는 "inhaling and exhaling"). 금지 유지 |
+| fixed core / flexible edge | 5445 manifestation (16) | |
+| steadier hands | 86 twinflame (16) | |
+| filed under … / filing habit | 84 manifestation (15) | 611 manifestation에도 "filed under"가 있다(기존 페이지) |
+
+(3) **기존 페이지 비유를 정규 배치가 가져온 것** — 이번에 고치지 않았다(경계 판정). 앞으로 쓰지 않는다.
+- "act of planting" — 93 spiritual(16) ← 31 manifestation·twinflame
+- "fertile ground" — 8228 spiritual(20) ← 35·65 (meaning·twinflame·spiritual·FAQ)
+- "the ground under you" — 140 manifestation(15) ← 44444·1114 FAQ, 484 meaning
+- "on the far side of" — 988 manifestation(19) ← 454 manifestation, 1118 meaning
+
 ---
 
 ## 4. 심화 필드별 오프너 패턴

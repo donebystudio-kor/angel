@@ -311,7 +311,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     career: "A project at work that has stalled near the end often hides the recognition or opportunity you want, and getting it over the line is what puts that reward within reach.",
     money: "When a debt or financial project is nearly complete, push through the final payments or filings, since a meaningful reward sits waiting past that point.",
     spiritual: "If you've felt you must create abundance from scratch, consider that it could be waiting already; completing what's in front of you is how you arrive where it is.",
-    action: "Close one lingering task from a chapter that's almost over, then notice what opportunities or ease become available once it's finally off your plate.",
+    action: "Finish the oldest item left over from a chapter that's almost over, then notice what opportunities or ease show up once it's finally off your plate.",
     category: "mixed",
     faq: [
       {
@@ -549,7 +549,7 @@ export const EN_BATCH26_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "Faith carries more weight than information in 25's twin flame reading. Knowing everything about where the other person stands is rarely possible, and the urge to collect more signals before moving can turn into its own kind of stillness. When contact is possible, taking the step you already sense is right — a message, an honest answer, a visit — usually teaches you what months of interpretation couldn't. Faith here doesn't mean ignoring the facts already on hand; it means accepting that the missing pieces won't arrive before you move. During separation, commit to the inner change you've tested from the shallow end, since hesitating longer won't make the water warmer.",
+      "Faith carries more weight than information in 25's twin flame reading. Knowing everything about where the other person stands is rarely possible, and the urge to collect more signals before moving can turn into its own kind of stillness. When contact is possible, take the step you already sense is right, whether that's answering their last note or proposing a time to meet; one real exchange usually teaches you what months of interpretation couldn't. Faith in this reading still looks at the facts on hand. It simply stops waiting for the missing pieces to arrive before you move. During separation, commit to the inner change you've tested from the shallow end, since hesitating longer won't make the water warmer.",
     manifestation:
       "Quit researching the change in front of you; the useful answers stopped arriving a while ago, so step into it this week.",
   },

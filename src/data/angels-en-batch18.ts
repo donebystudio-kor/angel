@@ -52,9 +52,9 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
     summary: "A call to apply structure and system specifically to how you're caring for home, not just more effort",
     meaning:
       "4 (foundation, structure) opens and closes around a doubled 6 (home, care), describing a specific call to bring organized structure to caregiving, rather than 464's simpler framing of consistent, ongoing care building foundation. Where 464 is about steady effort over time, 4664 is about method: doubled caregiving demands right now specifically need a system, a schedule, a plan, not just more consistent care applied ad hoc.",
-    love: "Single: set yourself a weekly routine for the basics, sleep, meals, a night off, and keep it for a month. Someone new can step more easily into a life that already looks after its owner. Couple: looking after kids, parents, or a pet runs smoother between partners once each task has a name and an owner; a shared calendar turns quiet resentment into an agreed plan.",
+    love: "Single: set yourself a weekly routine for the basics, sleep, meals, a night off, and keep it for a month. Someone new can step more easily into a life that already looks after its owner. Couple: looking after kids, parents, or a pet runs smoother between partners once each task has a name and an owner; writing the split down turns quiet resentment into an agreed plan.",
     career: "Turn the steps you repeat for the patients, students, or clients you look after into a checklist the team can share; in nurturing roles, a clear procedure protects your energy too.",
-    money: "If family costs keep catching you off guard, open a separate account for them with an automatic monthly top-up. Care spending feels lighter once it has its own line in the budget.",
+    money: "If family costs keep catching you off guard, open a separate account for them with an automatic monthly top-up. Care spending feels lighter once its money already has a home.",
     spiritual: "When tending to others feels like a test of devotion, 4664 offers a gentler view: order can be a form of love, and care arranged to last serves people well.",
     action: "List every recurring task involved in looking after someone close to you, then assign each one a day of the week on a single page you can pin up.",
     category: "mirror",
@@ -88,7 +88,7 @@ export const EN_BATCH18_NUMBERS: EnAngelNumber[] = [
     summary: "A call to organize intuitive understanding into a repeatable system, not just trust it once",
     meaning:
       "4774's two 4s (foundation, structure) frame double 7 (insight, intuition), describing a specific call to organize intuitive understanding into a structured, repeatable practice, rather than 474's simpler framing of foundation holding because it's built on verified understanding. Where 474 is about checking accuracy once, 4774 is about turning intuition into an ongoing system, a journal, a regular check-in practice, so it becomes a reliable tool rather than a one-time insight.",
-    love: "Single: keep a short note after each date about what your gut said and what happened next, and review the pattern monthly. Couple: if you both rely on hunches about the relationship, set a monthly check-in where each of you shares what your instincts have been noticing.",
+    love: "Single: Give yourself a quiet minute after each date to ask what your gut picked up, then compare it with how things unfolded; over a season, that check sharpens your read on people. Couple: if you both rely on hunches about the relationship, set a monthly check-in where each of you shares what your instincts have been noticing.",
     career: "Build a simple log at work, decision, gut call, outcome, and revisit it each quarter to see where your instincts earn their keep and where they drift.",
     money: "A weekly ten-minute review of spending, paired with a line about how each decision felt, turns money instincts you already rely on into a logbook to return to.",
     spiritual: "When insight arrives only in rare flashes, a steady meditation or journaling rhythm can turn that occasional visitor into a dependable presence.",

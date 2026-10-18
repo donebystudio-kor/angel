@@ -52,9 +52,9 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     summary: "Real protection specifically surrounding you during a period of significant change",
     meaning:
       "54 combines 5 (change, freedom) with 4 (foundation, protection), describing real protection that's specifically surrounding you during a period of significant change, worth trusting rather than approaching the change with unnecessary fear. This favors recognizing that being in flux doesn't mean being unguarded.",
-    love: "Single: a move, a new job, or a shake-up in your routine doesn't put your love life on pause. You're more sheltered through this upheaval than it feels, so meeting someone mid-transition is fine. Couple: when you and your partner face something unsettling, a relocation, a new baby, a lost job, list together what's still steady. Partners who know their backstop argue less about what's shifting.",
+    love: "Single: an unsettled stretch in your daily routine doesn't put your love life on pause. You're more sheltered through this upheaval than it feels, so meeting someone mid-transition is fine. Couple: when you and your partner face something unsettling, from a health scare to a sudden drop in income, list together what's still steady. Partners who know their backstop argue less about what's shifting.",
     career: "A reorganization, a new role, or a career switch often comes with more backing than you expect. Colleagues, references, and skills travel with you; a few rough patches don't cancel that.",
-    money: "Check what's cushioning you before a financial shift lands: the emergency fund, insurance, one steady paycheck. Knowing its size lets you make the move without panic.",
+    money: "Check what's cushioning you before a financial shift lands, from money set aside to the income you can count on. Knowing its size lets you make the move without panic.",
     spiritual: "If you equate stillness with safety, 54 offers another reading: being looked after and being in motion can happen at once, and steadiness of spirit travels with you.",
     action: "Name three sources of support you can call on while this change plays out, and get in touch with one of them before the day ends.",
     category: "mixed",
@@ -124,11 +124,11 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     summary: "A specific change actively being led by your own intuition, worth trusting as the navigator",
     meaning:
       "57 blends 5 (change, freedom) and 7 (insight, intuition), describing a specific change that's actively being led by your own intuition right now, worth trusting as the actual navigator of the shift. This favors recognizing that your gut, more than external logic, is steering this particular change well.",
-    love: "Single: if a shift in how you date is already happening, follow the instinct that keeps steering you toward certain people and away from others, even when it surprises your friends. Couple: the change you two are navigating has a felt direction that both of you sense before you can explain it, and that shared hunch is steering better than any pros-and-cons list.",
+    love: "Single: if a shift in how you date is already happening, follow the instinct that keeps steering you toward certain people and away from others, even when it surprises your friends. Couple: the change you two are navigating has a felt direction that both of you sense before you can explain it, and that shared hunch deserves the lead for now, with the planning following close behind.",
     career: "When a reorganization or role change is underway, the quiet sense of which project to grab next is usually the read to act on before the dust settles.",
     money: "Let your gut set the pace of a financial transition already underway, then back its calls with a simple budget so the numbers keep up with the instinct.",
     spiritual: "Intuition here isn't a passenger noting the scenery after the fact; it's the hand on the wheel of a shift that's already moving through your life.",
-    action: "Make one decision today about the transition in progress by listening first to your gut, and write down why it felt right before you second-guess it.",
+    action: "Settle one choice about the transition in progress today by consulting your gut first, then add a line about why it felt right while the reason is still fresh.",
     category: "mixed",
     faq: [
       {
@@ -152,7 +152,7 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "When the twin flame connection is shifting and logic lags behind what you sense, 57 puts your intuition in charge of the present moment, not the forecast. What your gut picks up today about tone, distance, or readiness is information you can use now; what it might mean months from now doesn't have to be decided yet. Anxious speculation borrows from the future and usually reads silence as rejection, while a calmer inner sense tends to read that silence as space. Allow that instinct to guide this week's choices about reaching out or holding back, and give the longer timeline room to reveal itself without forcing a verdict.",
     manifestation:
-      "Pick the next fork in the change you're already living through — a move, a role shift, a new routine — and decide it by gut before you open another comparison chart; planning can follow that lead, but let the instinct choose the turn.",
+      "Pick the next fork in the change you're already living through, the one that keeps resurfacing in your thoughts, and decide it by gut before gathering more data; planning can follow that lead, but let the instinct choose the turn.",
   },
   {
     number: "58",
@@ -344,7 +344,7 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     career: "List the skills and relationships at work that took years to build, then use them deliberately as you reach for the promotion or project that's now within range.",
     money: "Savings, a reliable income, or paid-down debt form the floor under your current financial progress, and that floor explains why the gains are holding this time.",
     spiritual: "When growth feels sudden, it often has a quiet root system; recognizing the foundation beneath it keeps you from mistaking steady, well-supported progress for chance.",
-    action: "Write down one area where you're clearly growing, and beside it the foundation that made that growth possible, then protect that foundation this week.",
+    action: "Pick one area where you're clearly growing, ask what steady support made that possible, and protect that support this week, whether it's sleep, a mentor, or savings.",
     category: "mixed",
     faq: [
       {
@@ -366,7 +366,7 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "Some of what supports this twin flame connection is visible to you and some isn't yet, and 64 points to the part you can already see. You know the ground you've built: steadier routines, honest friendships, a calmer relationship with your own needs. You may not know how the other person's foundation looks, or how things between you will develop from here. Growth happening at present stands on the solid part you can verify, and that's enough to build on. Let the unknown stay open while you strengthen what's real, because sturdy footing on your end changes how any future meeting can unfold. It also keeps hope from carrying a heavier load than it should.",
+      "Some of what supports this twin flame connection is visible to you and some isn't yet, and 64 points to the part you can already see. Look at the ground you've built: steadier routines, honest friendships, more patience with your own needs. What the other person is building on their end stays out of view for now, and that's fine. Growth happening at present stands on the solid part you can verify, and that's enough to build on. Strengthen what's real, because sturdy footing on your end changes how any future meeting can unfold. It also keeps hope from carrying a heavier load than it should.",
     manifestation:
       "If something in your life is growing steadily, look beneath it before crediting luck. 64 places home and care beside stability, so the growth you see is the visible part of ground that held firm long before the progress showed. That's why the most useful want right now extends what's already holding, because a firm base carries growth better than a fresh start would.",
   },
@@ -485,7 +485,7 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     meaning:
       "3030 repeats the 30 block (3 for creativity, 0 for potential), describing creative energy that's pulsing in a steady, alternating rhythm, distinct from 0303's framing of creativity returning in recurring waves. Where 0303 emphasizes trust in the wave's return, 3030 is about a steady pulse already in motion, present tense and ongoing, worth working with directly rather than waiting for it to arrive.",
     love: "Single: express interest in small, steady ways, a funny message, an invitation to a show, a shared playlist, rather than saving it all for one grand romantic gesture. Couple: when creative ideas for your time together keep surfacing, act on the small ones weekly, so the playful rhythm between you stays alive.",
-    career: "Show up to your creative work in short, consistent sessions over the coming weeks, and keep a simple log of what each session produces so the pattern becomes visible.",
+    career: "Show up to your creative work in short, consistent sessions over the coming weeks; small regular hours tend to finish more pieces than a free weekend that never quite arrives.",
     money: "A side project that earns a little every week, through regular posts, commissions, or teaching, builds more dependable income than holding out for one big creative payday.",
     spiritual: "If you've been hoping for a flood of inspiration, notice the modest beat that's here now; tending it a little each day keeps the creative spirit alive and responsive.",
     action: "Do one small creative act today, a sketch, a paragraph, a melody, and put the same small act on tomorrow's calendar so the pulse continues.",
@@ -510,7 +510,7 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "If one of you consistently reaches out and the other consistently needs quiet to process, 3030 reads that alternation as the connection's breathing pattern. For the person who expresses, the silence afterward isn't automatically rejection; it can be the pause that lets the following exchange happen. For the person who withdraws, stepping back isn't cruelty, though it helps to name the need instead of disappearing without a word. Notice which role you tend to play, and whether you've named it honestly to yourself. A pulse needs both beats, and understanding your part makes the rhythm feel less like a test.",
+      "If one of you consistently reaches out and the other consistently needs quiet to process, 3030 sees one rhythm made of two habits, much like inhaling and exhaling. For the person who expresses, the silence afterward isn't automatically rejection; it can be the pause that lets the following exchange happen. For the person who withdraws, stepping back isn't cruelty, though it helps to name the need instead of disappearing without a word. Notice which role you tend to play, and whether you've named it honestly to yourself. A pulse needs both beats, and understanding your part makes the rhythm feel less like a test.",
     manifestation:
       "3030 describes a creative current that's already pulsing, steady and present, not a tide you're waiting to see return. 0303 asks you to believe inspiration will come back; 3030 asks you to use the beat that's running now. Small, regular acts suit this rhythm best: a page each morning, a sketch at lunch, ten minutes of practice before bed. The pace may not hold forever, so use it while it's here. These modest sessions keep the pulse alive in a way that one grand burst can't, because a rhythm stays strong only while something keeps answering it.",
   },
@@ -520,7 +520,7 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     summary: "Foundational stability present as a steady, ongoing pulse, not a single confirmed state",
     meaning:
       "4040 repeats the 40 block (4 for foundation, 0 for amplification), describing foundational stability that's present as a steady, ongoing pulse right now, distinct from 40's framing of foundation as a general, confirmed state. Where 40 is a broad confirmation, 4040 emphasizes the active, rhythmic quality of that stability, present and renewing itself continuously.",
-    love: "Single: notice how your weekly routines, workouts, calls, quiet Sundays, keep restoring who you are, and date from that renewed footing. Couple: when things between you feel calm, recognize that the calm is being remade daily through small habits, not settled once and left on a shelf.",
+    love: "Single: notice how your weekly routines, workouts, calls, quiet Sundays, keep restoring who you are, and date from that renewed footing. Couple: when things between you feel calm, credit the small habits doing that work, the goodnight text, the Sunday errands, the quick apology after a sharp word; the calm gets renewed each day you keep them.",
     career: "Count the reliable rhythms at work, the weekly check-ins and steady output, as a renewing source of security, and plan from it.",
     money: "Financial security here works like a recurring rhythm, paycheck, savings transfer, bill paid, that keeps refreshing itself without dramatic effort on your part.",
     spiritual: "This favors recognizing stability as an active, continuously renewing pulse, not a fixed, one-time state to simply confirm and move past.",
@@ -728,6 +728,6 @@ export const EN_BATCH28_NUMBERS: EnAngelNumber[] = [
     twinflame:
       "Release the twin flame story in small pieces, one expectation after another, with no single day expected to resolve everything. 9090 describes completion as a rhythm: dropping the hope that they'll text on your birthday, then the habit of checking their activity, then the fantasy of a perfect reunion speech, each a finished ending on its own. None of these steps has to be announced to anyone; noticing them is enough to make them count. Apart, those small closings build into real freedom even if the bond stays meaningful. Back in contact, that rhythm keeps old dynamics from being carried into each new chapter.",
     manifestation:
-      "If you're holding out for one sweeping ending before anything counts as done, look at how many smaller closings already happened this month — a returned item, a finished course, a conversation that finally got said. Counting them as real lets the want move forward on a lighter load, and the sense of completion you wanted tends to arrive in installments.",
+      "If you're holding out for one sweeping ending before anything counts as done, look at how many smaller closings already happened this month — a cancelled membership, a cleared-out drawer, an apology you managed to send. Counting them as real lets the want move forward on a lighter load, and the sense of completion you wanted tends to arrive in installments.",
   },
 ];

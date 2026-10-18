@@ -266,7 +266,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     summary: "A single, concrete step you can take right now toward a larger sense of purpose",
     meaning:
       "79 combines 7 (insight, wisdom) with 9 (completion, mission), describing one concrete, actionable step available right now toward your larger sense of purpose, rather than the mission itself being fully clear yet. This favors trusting that a single next step is enough, without needing the entire path mapped out in advance.",
-    love: "Single: if you've shelved dating until your life has a clear direction, drop that condition. Someone suited to where you're going can meet you while you're still working it out. Couple: choose a joint project the two of you can start this month, a savings goal, a class, a trip toward the life you want together. Shared direction gets clearer by moving in it.",
+    love: "Single: if a clear life direction feels like a requirement before dating, let that requirement go. Someone suited to where you're going can meet you while you're still working it out. Couple: choose a joint project the two of you can start this month, like saving toward a house deposit or learning a language together, aimed at the life you want. Shared direction gets clearer by moving in it.",
     career: "When work feels aimless because the larger direction is fuzzy, pick the task this week that teaches you most about what you'd like to do. Doing it well counts as progress.",
     money: "Money that serves a bigger aim doesn't need a ten-year budget. A small fixed amount moved each payday toward what you care about most builds the habit, and the plan can catch up later.",
     spiritual: "Wisdom arrives here in small portions. Insight paired with a calling grows through doing: each modest act toward what matters shows you a little more of why it matters.",
@@ -413,7 +413,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     love: "Single: if your circumstances are loosening up, more money, more time, a better place to live, let that ease show up in how you date, saying yes to plans you once couldn't afford. Couple: sit down together and decide how to use the improving situation, a trip, a bigger home, less overtime, so the good change actually lands in your shared days.",
     career: "When a raise, contract, or promotion starts tilting your income upward, accept the expanded responsibilities with curiosity, since the overall direction favors you.",
     money: "Lean into the upturn: update your budget to reflect the higher income or lower costs, and direct part of the gain toward a goal you'd shelved during leaner months.",
-    spiritual: "Openness is the spiritual stance this moment asks for; a favorable shift meets you halfway when you stop bracing for it to disappoint you, even if a few bumps come along.",
+    spiritual: "Openness suits this moment spiritually; a favorable shift meets you halfway when you stop bracing for it to disappoint you, even if a few bumps come along.",
     action: "Name one encouraging sign in your money or living situation today and take a small step that welcomes it, like booking the appointment or opening the account.",
     category: "mixed",
     faq: [
@@ -449,7 +449,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     love: "Single: if you keep postponing dating until your bank balance or your body feels good enough, notice how much of each evening that fretting eats, and loosen its hold first. Couple: agree on a short weekly money talk and keep budget fears out of dinner the other six nights, so the tension stops leaking into every conversation.",
     career: "When fear about job security fills every quiet moment at work, it blocks the attention that spots openings, so put a limit on the worrying and look around.",
     money: "Separate the bills you can act on this month from the ones you're only dreading, handle the first list, and set the second aside for a calmer day.",
-    spiritual: "Abundance and a clenched hold rarely share a room; easing your grip on worry is a spiritual practice in itself, not a mood you wait to arrive before you begin.",
+    spiritual: "Abundance and a clenched hold rarely share a room; easing your grip on worry is a spiritual practice in itself, and it can begin on an anxious morning, well before any calm shows up.",
     action: "Pick one money worry, give it ten minutes of real planning on paper, then close the page and go do something unrelated for the rest of the hour.",
     category: "mixed",
     faq: [
@@ -666,7 +666,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     career: "Mark the close of a learning phase at work, the apprenticeship years, the imposter-syndrome stretch, with a concrete gesture such as updating your title or rate.",
     money: "Your relationship with money has passed a real milestone, maybe panic spending finally stopped or you no longer hide statements, and that progress belongs on the record.",
     spiritual: "When growth starts to feel endless, it helps to see that the path moves in distinct stages; one of them has genuinely closed, and the larger journey continues beyond it.",
-    action: "Write one sentence describing a stage of personal growth you've completed, read it aloud once, and file it somewhere you'll find it on a discouraged day.",
+    action: "Sum up a stage of personal growth you've completed in one line, read it aloud once, and keep it where you'll find it on a discouraged day.",
     category: "mixed",
     faq: [
       {
@@ -688,7 +688,7 @@ export const EN_BATCH20_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "One particular lesson this twin flame connection set out to teach you may be finished, and 97 encourages you to call it that. It might be learning to stop chasing, to state your needs plainly, or to stay steady when contact goes quiet. In contact, meeting the other person from that completed place changes the conversation, because you're no longer working on that lesson in real time. In separation, recognizing that the lesson has closed frees energy that was tied up in it, even though the wider path continues. A finished lesson doesn't end growth; it simply opens room for whatever comes after. Naming it clearly keeps you from relearning it out of habit.",
+      "One particular lesson this twin flame connection set out to teach you may be finished, and 97 encourages you to call it that. It might be learning to stop chasing, to state your needs plainly, or to stay steady when contact goes quiet. In contact, approaching the other person as someone who has already finished that lesson changes the conversation, because you're no longer working on it in real time. During separation, recognizing that the lesson has closed frees energy that was tied up in it, even though the wider path continues. A finished lesson doesn't end growth; it simply opens room for what comes after. Naming it clearly keeps you from relearning it out of habit.",
     manifestation:
       "What you've finished learning deserves to be called finished. 7997 lets understanding close a chapter from the outside in; 97 is more personal: one phase of your inner work has actually concluded. Treating every lesson as permanently unfinished keeps you studying material you've already absorbed, because a stage that never gets marked complete can't make room for its successor.",
   },

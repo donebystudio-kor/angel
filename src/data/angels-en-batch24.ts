@@ -13,7 +13,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
       "166 brings one 1 (new beginnings) and a doubled 6 (home, care amplified) together, describing the release of a tight grip on a desired home or relationship outcome as what specifically brings that outcome closer, rather than gripping harder producing better results. This favors trusting that loosening your hold, not tightening it, is what actually works here.",
     love: "Single: dating goes better once the checklist goes in a drawer. You'll recognize someone who'd fit your home life more readily when you're curious about them, not auditing them. Couple: hand your partner a household decision you'd normally keep, the paint color, the holiday plan, and live with their choice. The caring stays; only the micromanaging goes.",
     career: "If a proposal has sat in revision for weeks, send it as it stands and let the people deciding do their part. Pressing on a result at work often slows it down.",
-    money: "Refreshing a savings balance all day rarely makes it grow faster. Automating the transfer toward the home you want and checking it monthly keeps the goal moving.",
+    money: "Refreshing a savings balance all day rarely makes it grow faster. Set the deposit toward the home you want to run on its own, then look in once a month and nothing more.",
     spiritual: "Surrender in 166 isn't giving up on what you love. It's a shift from managing life to taking part in it, where caring deeply and holding lightly sit together.",
     action: "Choose a household or relationship plan you've been micromanaging, and leave it untouched until tomorrow evening, no checking, no nudging.",
     category: "mixed",
@@ -37,7 +37,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "When you realize how much energy goes into steering the twin flame connection, 166 asks you to sort what belongs to you from what belongs to the other person. Your side is real and deserves attention: your honesty, your patience, how you treat yourself during the unresolved stretch. Their side is theirs, the pace at which they reach out, the conclusions they come to, the life they're building meanwhile. Trying to manage both halves usually tires you out and crowds them. Handing their half back doesn't mean caring less; you can still hope for contact and say so plainly. It means you stop rehearsing their moves for them, and that often leaves more space for them to come forward on their own.",
+      "When you realize how much energy goes into steering the twin flame connection, 166 asks you to sort what you can actually tend from what was never yours to run. Your honesty, your patience, and how you treat yourself during the unresolved stretch all deserve attention. The pace at which they reach out, the conclusions they come to, and the life they're building meanwhile belong to them. Trying to manage everything usually tires you out and crowds them. Letting go of their choices leaves your caring intact; you can still hope for contact and say so plainly. What changes is that you stop rehearsing their moves for them, and that often leaves more space for them to come forward on their own.",
     manifestation:
       "When you notice yourself checking on a hope for your home or a relationship every hour, let the other people involved make a few of the calls. A wish keeps its shape without you clenching it, and it tends to land sooner if you stop steering every detail.",
   },
@@ -145,7 +145,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "Notice what's known and what isn't yet in this twin flame chapter, because 199 suggests both are true at once. You know something is ending — an old dynamic, a way of waiting, a version of yourself that kept the connection at the center of every day. You may not yet know what is beginning, yet signs of it are often present: new friendships, a steadier routine, a quieter mind when their name comes up. The unknown part doesn't need to be solved to be real, and guessing at its shape rarely helps. Let the ending finish when it's ready while you watch for the small beginnings already taking root beside it, unannounced.",
+      "Look at this twin flame chapter as an overlap: in 199, something is wrapping up while a new thing is already growing nearby. The ending might be the late-night scrolling through old messages, the role of the one who always forgives, or the belief that your life resumes when they return. The beginning is easier to miss: new friendships, a steadier routine, a quieter mind when their name comes up. There's no need to define what's starting yet, and guessing at its shape rarely helps. Let the ending finish when it's ready while you watch for the small beginnings already taking root beside it, unannounced.",
     manifestation:
       "What's ending around you isn't closing into a void. 99 frames a chapter wrapping up by itself; 199 adds the overlap, because a new start is usually already forming in that season, just too early to recognize.",
   },
@@ -191,8 +191,8 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     summary: "Financial return arriving specifically in proportion to the creative effort you've genuinely invested",
     meaning:
       "388's 3 (creativity, expression), carried on doubled 8 (abundance amplified), describing financial return that's arriving specifically in proportion to the creative effort you've genuinely invested, worth trusting as a fair, traceable relationship rather than an arbitrary outcome. This favors recognizing that the reward reflects the real work put in, not luck alone.",
-    love: "Single: keep a simple record of what your side projects bring in against the hours they cost. Seeing those figures rise together helps you value yourself, and that shows when you meet someone new. Couple: if one of you has poured evenings into a creative venture that's finally earning, compare the money with the work it took. Crediting the hours keeps the gain from feeling like a windfall.",
-    career: "Put your portfolio pieces beside what each one earned you. Bring the best-paying examples to your next rate conversation; here the match between work and pay is evidence you can cite.",
+    love: "Single: compare what the projects you run outside work bring in against the time they cost. Seeing those figures rise together helps you value yourself, and that shows when you meet someone new. Couple: if one of you has poured evenings into a creative venture that's finally earning, compare the money with the work it took. Crediting the hours keeps the gain from feeling like a windfall.",
+    career: "Line up your portfolio pieces with what each one earned, and open your next rate discussion with the best-paying ones; here the match between work and pay is plain to show.",
     money: "When a payment for creative work arrives, log it next to the hours behind it. The ratio shows which work deserves a higher price and which costs too much for what it brings.",
     spiritual: "There's quiet integrity in seeing that what you make and what comes back are connected; 388 lets that link count, so gratitude rests on something you took part in.",
     action: "Pick a recent payment you received for something you made and jot down the work that earned it, so the link is on paper whenever you start doubting your rates.",
@@ -217,7 +217,7 @@ export const EN_BATCH24_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "If you've poured years of inner work into this twin flame connection, 388 answers the worry that it all went nowhere. The return tends to match what you put in, and its form depends on where things stand. Together or in touch again, it may look like conversations that finally land and a closeness that reflects the honesty you both practiced. Apart, the return is mostly inward: steadier moods, clearer boundaries, a sense that you can stand on your own feet, all earned by the hours you spent facing yourself. Neither version is a fluke. Counting those gains honestly, without inflating them into a guarantee of reunion, keeps the bond grounded in what has really happened.",
+      "If you've poured years of inner work into this twin flame connection, 388 answers the worry that it all went nowhere. The return tends to match what you put in, and its form depends on where things stand. Together or in touch again, it may look like conversations that finally land and a closeness that reflects the honesty you both practiced. Apart, the return is mostly inward: fewer sleepless nights, firmer limits with people who drain you, confidence that you can manage on your own, all earned by the hours you spent facing yourself. Neither version is a fluke. Counting those gains honestly, without inflating them into a guarantee of reunion, keeps the bond grounded in what has really happened.",
     manifestation:
       "With income starting to come in from things you've made, the next want is easier to aim. Look at which pieces paid in line with the hours and skill they took, and set your next target in that lane, because a payoff that matched its input once is the clearest sign you have of where more input will pay again.",
   },

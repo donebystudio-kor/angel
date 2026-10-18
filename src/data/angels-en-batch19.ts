@@ -548,7 +548,7 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "Timing carries more weight than effort in 0220's twin flame reading. Today, the question is whether contact or closeness feels genuinely open; later, the door may swing shut and open again on its own schedule. Pushing during a closed stretch rarely helps and often costs trust, while showing up sincerely during an open stretch can move things further in an hour than weeks of pressure. Jot a short note whenever the connection feels available and when it doesn't, and over several cycles a pattern usually emerges. Patience during a closed stretch is participation, not passivity. That pattern doesn't judge the bond; it simply tells you about pacing.",
+      "0220 reads this twin flame connection mainly through timing, more than through effort. Today, the question is whether contact or closeness feels genuinely open; later, the door may swing shut and open again on its own schedule. Pushing during a closed stretch rarely helps and often costs trust, while showing up sincerely during an open stretch can move things further in an hour than weeks of pressure. Over several cycles you'll start to sense the rhythm of these openings, which makes the shut periods easier to sit through. Patience during a closed stretch is participation, not passivity. What that rhythm reveals is pacing, and it says nothing against the bond itself.",
     manifestation:
       "When a connection that matters feels open today, act on it today. Access here comes and goes, and if the door is closed tomorrow, waiting with attention, not pushing, is how you catch it when it reopens.",
   },
@@ -558,7 +558,7 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
     summary: "A calm countdown toward something imminent, worth preparing for without alarm",
     meaning:
       "0321 extends the descending sequence pattern with a leading zero, counting down from 3 through 2 to 1, describing something genuinely imminent, worth preparing for calmly rather than treating as a cause for alarm. This favors using the countdown period productively, since the arriving event or decision is close but not yet fully upon you.",
-    love: "Single: a meeting, a date, or a decision about someone is close at hand, and spending the remaining days getting rested and clear will serve you better than nervous rehearsing. Couple: if a big moment is approaching for the two of you, a move-in date, a family visit, a key conversation, divide the preparation calmly so neither of you carries it alone.",
+    love: "Single: a meeting, a date, or a decision about someone is close at hand, and spending the remaining days getting rested and clear will serve you better than nervous rehearsing. Couple: if a big moment is approaching for the two of you, a move-in date, a family visit, a key conversation, divide the preparation calmly and check in midweek on how each share is going.",
     career: "When an announcement, review, or launch is days away, prepare the essentials steadily, since the days beforehand are the piece of the outcome still in your hands.",
     money: "Review the documents, deadlines, and figures tied to an upcoming financial event, a closing, a tax date, a payout, while there's still time to work through it calmly.",
     spiritual: "A countdown is quiet time on loan; using it for calm readiness turns approaching change into an event you can meet on your feet.",
@@ -584,7 +584,7 @@ export const EN_BATCH19_NUMBERS: EnAngelNumber[] = [
     ],
     isPlaceholder: false,
     twinflame:
-      "Countdowns in a twin flame story tend to feel tense, yet 0321 treats the final stretch as preparation time, not a test. Something already in motion between you is nearing its resolution, and the days ahead are best spent getting ready: rest, clarity about what you want, a calmer relationship with uncertainty. Later, when the moment arrives, you'll meet it with whatever steadiness you built now. Anxious watching uses up that time without improving the outcome, while calm preparation turns it into something useful. Prepare as though the moment matters, because it does, and then let it come.",
+      "Countdowns in a twin flame story tend to feel tense, yet 0321 treats the final stretch as preparation time, not a test. Something already in motion between you is nearing its resolution, and the days ahead are best spent getting ready: rest, clarity about what you want, a little more ease with not knowing. Later, when the moment arrives, you'll meet it with the steadiness you built during these quieter days. Anxious watching uses up that time without improving the outcome, while calm preparation turns it into something useful. Prepare as though the moment matters, because it does, and then let it come.",
     manifestation:
       "Use the countdown: choose one thing to prepare for what's arriving soon, and do it calmly before the week ends.",
   },
