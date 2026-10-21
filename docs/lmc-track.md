@@ -63,14 +63,24 @@ EN 521개의 love / money / career 세 필드를 다루는 트랙이다. 이 세
 
 ---
 
-## 배치 완료 시 필수 절차 (2026-10-18, 배치21부터)
+## 배치 완료 시 필수 절차 (2026-10-18, 배치21부터 / lastmod 단계 2026-10-21 추가)
 
-배치를 끝내고 커밋하기 전에 아래를 **전부** 한다. 하나라도 빠지면 그 배치는
+> **lastmod 단계를 넣은 이유**: 2026-10-21까지 두 사이트맵(`sitemap-0.xml`,
+> `sitemap-core.xml`)의 lastmod가 전부 빌드 시각(`new Date()`)이었다. 모든 URL이
+> 같은 날짜라 구글은 lastmod를 신호로 쓰지 않았고, 3월부터의 모든 배치 수정이
+> "이 페이지가 바뀌었다"로 구글에 전달되지 않았다. 다른 사이트(해몽던)에서도 같은
+> 실수가 있었다 — 새 사이트맵을 만들 때 lastmod 출처부터 확인할 것.
+
+배치를 끝내면 아래를 **순서대로 전부** 한다. 하나라도 빠지면 그 배치는
 완료가 아니다.
 
 1. 소스 반영 → 소스를 다시 번들해 반영값이 작업본과 칸 단위로 일치하는지 확인
 2. 빌드 통과
-3. **`src/data/sitemap-core.ts` 갱신** — 이번 배치 번호를 해당 목록 끝에
+3. 문서 3개 갱신 (`forbidden-expressions.md` / `lmc-track.md` /
+   `manifestation-rewrite.md`). 정규 배치에서 만든 비유는
+   `forbidden-expressions.md` "신규 비유 누적 목록"에 올린다.
+   (콘텐츠 커밋이 lastmod 생성보다 먼저 와야 해서 2026-10-21에 앞으로 옮겼다.)
+4. **`src/data/sitemap-core.ts` 갱신** — 이번 배치 번호를 해당 목록 끝에
    배치 주석과 함께 추가한다.
    - 이유: 2026-10-15에 구글용 `sitemap-core.xml`을 189개로 줄였다(구글이
      약 1,660페이지 중 일부만 크롤링해서). 재작성한 페이지가 이 목록에 없으면
@@ -82,10 +92,15 @@ EN 521개의 love / money / career 세 필드를 다루는 트랙이다. 이 세
      중복 제거되므로 개수가 덜 늘어난다. 추가 전에 겹치는 번호를 확인한다.
    - 빌드 후 `dist/sitemap-core.xml`의 `<loc>` 개수가 **이전 개수 + 새 번호
      수**인지 확인한다(배치21: 189 → 197).
-4. 문서 3개 갱신 (`forbidden-expressions.md` / `lmc-track.md` /
-   `manifestation-rewrite.md`). 정규 배치에서 만든 비유는
-   `forbidden-expressions.md` "신규 비유 누적 목록"에 올린다.
-5. 커밋·푸시 — 소스·sitemap-core.ts·문서를 한 커밋에 넣는다.
+5. **콘텐츠 커밋 후 `npm run lastmod` 실행** — 소스·sitemap-core.ts·문서를 한
+   커밋에 넣고(`src/data/lastmod.ts`는 넣지 않는다), 그다음 `npm run lastmod`
+   (빌드 → `scripts/gen-lastmod.mjs`)를 돌린다. lastmod는 git blame의 커밋
+   시각이라 커밋 전에 돌리면 이번 배치가 반영되지 않는다.
+   - 확인: `src/data/lastmod.ts`에서 이번 배치 번호(`/en/number/N/` 등)가 방금
+     콘텐츠 커밋 시각으로 바뀌었는지 본다(배치21: 7c66c68 → 2026-10-18T05:34:01Z).
+6. **`src/data/lastmod.*`를 별도 커밋** — lastmod는 생성물이라 콘텐츠 변경과
+   섞이면 나중에 blame이 꼬인다.
+7. 푸시.
 
 ---
 
