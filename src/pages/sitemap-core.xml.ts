@@ -14,6 +14,7 @@ import {
   KO_DOUBLE,
   TOP_NUMBERS,
 } from "../data/sitemap-core";
+import { LASTMOD } from "../data/lastmod";
 
 // Google-only sitemap — see src/data/sitemap-core.ts. Not referenced from
 // robots.txt on purpose.
@@ -42,10 +43,14 @@ export const GET: APIRoute = () => {
   ];
   const unique = [...new Set(paths)];
 
-  const lastmod = new Date().toISOString();
+  // 전체 사이트맵과 같은 날짜 (scripts/gen-lastmod.mjs). 없으면 빌드 실패 — 구글용은 목록이 작아 누락을 바로 고친다.
+  const missingLastmod = unique.filter((p) => !LASTMOD[p]);
+  if (missingLastmod.length) {
+    throw new Error(`sitemap-core: no lastmod for ${missingLastmod.join(", ")} — run npm run lastmod`);
+  }
   const body = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${unique.map((p) => `  <url><loc>${SITE_URL}${p}</loc><lastmod>${lastmod}</lastmod></url>`).join("\n")}
+${unique.map((p) => `  <url><loc>${SITE_URL}${p}</loc><lastmod>${LASTMOD[p]}</lastmod></url>`).join("\n")}
 </urlset>
 `;
   return new Response(body, {
