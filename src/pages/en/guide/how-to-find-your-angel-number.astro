@@ -4,6 +4,7 @@
 // without touching the Korean site or the number pages.
 import LayoutEn from "../../../layouts/LayoutEn.astro";
 import { SITE_URL } from "../../../site";
+import NumberLink from "../../../components/NumberLink.astro";
 
 const site = SITE_URL;
 const title = "How to Find Your Angel Number";
@@ -55,8 +56,8 @@ const jsonLd = {
         </p>
         <p>
           The second is a <strong class="text-angel-text">recurring number</strong> — something like
-          <a href="/en/number/111" class="text-angel-primary hover:text-angel-accent">111</a> or
-          <a href="/en/number/717" class="text-angel-primary hover:text-angel-accent">717</a>
+          <NumberLink locale="en" number="111" class="text-angel-primary hover:text-angel-accent">111</NumberLink> or
+          <NumberLink locale="en" number="717" class="text-angel-primary hover:text-angel-accent">717</NumberLink>
           that you keep noticing in daily life, on clocks, receipts, or license plates. This one
           changes over time and is read as situational, tied to whatever's happening in your life
           right now, rather than a fixed personal trait. Most of the number pages on this site are
@@ -79,16 +80,16 @@ const jsonLd = {
         </div>
         <p class="mb-3">
           For this example birthdate, the life path number is
-          <a href="/en/number/8" class="text-angel-primary hover:text-angel-accent">8</a> — you'd
+          <NumberLink locale="en" number="8" class="text-angel-primary hover:text-angel-accent">8</NumberLink> — you'd
           then read what 8 means on this site the same way you'd read any other number.
         </p>
         <p class="mb-3">
           The one exception: if your total, at any point in the reduction, lands on 11, 22, or 33,
           stop there rather than reducing further. These are treated as master numbers with their
           own distinct meaning (see
-          <a href="/en/number/11" class="text-angel-primary hover:text-angel-accent">11</a>,
-          <a href="/en/number/22" class="text-angel-primary hover:text-angel-accent">22</a>, and
-          <a href="/en/number/33" class="text-angel-primary hover:text-angel-accent">33</a>).
+          <NumberLink locale="en" number="11" class="text-angel-primary hover:text-angel-accent">11</NumberLink>,
+          <NumberLink locale="en" number="22" class="text-angel-primary hover:text-angel-accent">22</NumberLink>, and
+          <NumberLink locale="en" number="33" class="text-angel-primary hover:text-angel-accent">33</NumberLink>).
         </p>
         <p class="mb-3">
           Here's what that looks like with a birthdate that actually lands on one: August 29, 2001
@@ -101,7 +102,7 @@ const jsonLd = {
         <p>
           The total already lands on 22, a master number, so the calculation stops right there
           instead of continuing on to 2+2=4. For this birthdate, the life path number is
-          <a href="/en/number/22" class="text-angel-primary hover:text-angel-accent">22</a>, not 4.
+          <NumberLink locale="en" number="22" class="text-angel-primary hover:text-angel-accent">22</NumberLink>, not 4.
         </p>
       </section>
 

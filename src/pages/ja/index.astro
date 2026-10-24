@@ -6,6 +6,8 @@ import LayoutJa from "../../layouts/LayoutJa.astro";
 import SearchBarJa from "../../components/SearchBarJa.astro";
 import { JA_ANGEL_NUMBERS, getJaDisplayGroup, type JaDisplayGroup } from "../../data/angels.ja";
 import { SITE_URL } from "../../site";
+import NumberLink from "../../components/NumberLink.astro";
+import { NUMBER_PAGES_ENABLED } from "../../config/locales";
 
 const site = SITE_URL;
 const title = "エンジェルナンバー — 意味・引き寄せ・ツインレイガイド";
@@ -50,21 +52,20 @@ const groups = groupOrder
       <p class="text-lg text-angel-muted">よく見る数字が伝えるメッセージを調べてみましょう。</p>
     </div>
 
+    {NUMBER_PAGES_ENABLED.ja && (
     <div class="mb-12">
       <SearchBarJa />
     </div>
+    )}
 
     <section class="mb-12">
       <h2 class="text-lg font-bold text-angel-text mb-3">人気のエンジェルナンバー</h2>
       <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
         {popular.map((a) => (
-          <a
-            href={`/ja/number/${a.number}`}
-            class="bg-angel-card border border-angel-border rounded-xl p-4 hover:shadow-md hover:shadow-angel-glow hover:border-angel-primary/40 transition-all"
-          >
+          <NumberLink locale="ja" number={a.number} box class="bg-angel-card border border-angel-border rounded-xl p-4 hover:shadow-md hover:shadow-angel-glow hover:border-angel-primary/40 transition-all">
             <div class="text-xl font-bold text-angel-primary">{a.number}</div>
             <div class="text-xs text-angel-muted mt-1 line-clamp-2">{a.summary}</div>
-          </a>
+          </NumberLink>
         ))}
       </div>
     </section>
@@ -77,12 +78,9 @@ const groups = groupOrder
         </div>
         <div class="flex flex-wrap gap-2">
           {group.items.map((a) => (
-            <a
-              href={`/ja/number/${a.number}`}
-              class="px-3 py-1.5 bg-angel-card border border-angel-border rounded-full text-sm text-angel-text hover:bg-angel-primary hover:text-white transition-colors"
-            >
+            <NumberLink locale="ja" number={a.number} box class="px-3 py-1.5 bg-angel-card border border-angel-border rounded-full text-sm text-angel-text hover:bg-angel-primary hover:text-white transition-colors">
               {a.number}
-            </a>
+            </NumberLink>
           ))}
         </div>
       </section>

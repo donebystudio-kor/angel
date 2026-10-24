@@ -5,6 +5,7 @@
 import "../styles/global.css";
 import SearchBarJa from "../components/SearchBarJa.astro";
 import { SITE_URL } from "../site";
+import { NUMBER_PAGES_ENABLED } from "../config/locales";
 
 interface Props {
   title: string;
@@ -19,6 +20,8 @@ interface Props {
 const { title, description, canonical, koUrl, enUrl } = Astro.props;
 const site = SITE_URL;
 const canonicalUrl = canonical || new URL(Astro.url.pathname, site).href;
+// JA 번호 페이지가 꺼져 있으면(src/config/locales.ts) 검색창과 푸터 번호 열을 숨긴다 — 둘 다 /ja/number/로만 간다.
+const numbersOn = NUMBER_PAGES_ENABLED.ja;
 ---
 
 <!doctype html>
@@ -112,12 +115,15 @@ const canonicalUrl = canonical || new URL(Astro.url.pathname, site).href;
     <footer class="bg-angel-card border-t border-angel-border mt-16">
       <div class="max-w-4xl mx-auto px-4 py-10">
         <!-- フッター検索 -->
+        {numbersOn && (
         <div class="mb-8">
           <p class="text-center text-sm text-angel-muted mb-3">エンジェルナンバーを検索</p>
           <SearchBarJa />
         </div>
+        )}
         <!-- フッターリンク -->
         <div class="grid grid-cols-2 md:grid-cols-4 gap-6 mb-8 text-sm">
+          {numbersOn && (<>
           <div>
             <h4 class="font-semibold text-angel-accent mb-2">人気の数字</h4>
             <div class="space-y-1">
@@ -136,6 +142,7 @@ const canonicalUrl = canonical || new URL(Astro.url.pathname, site).href;
               <a href="/ja/number/1111" class="block text-angel-muted hover:text-angel-primary transition-colors">1111</a>
             </div>
           </div>
+          </>)}
           <div>
             <h4 class="font-semibold text-angel-accent mb-2">カテゴリー</h4>
             <div class="space-y-1">

@@ -4,6 +4,7 @@
 // without touching the Korean site or the number pages.
 import LayoutEn from "../../../layouts/LayoutEn.astro";
 import { SITE_URL } from "../../../site";
+import NumberLink from "../../../components/NumberLink.astro";
 
 const site = SITE_URL;
 const title = "What Is an Angel Number?";
@@ -71,8 +72,8 @@ const jsonLd = {
           Numerology traditions since then have assigned each digit, 0 through 9, its own
           personality: 1 for new beginnings, 2 for balance and partnership, 8 for abundance, and so
           on (you can see how each of the single digits is read on this site in our
-          <a href="/en/number/1" class="text-angel-primary hover:text-angel-accent">number 1</a>
-          through <a href="/en/number/9" class="text-angel-primary hover:text-angel-accent">number 9</a>
+          <NumberLink locale="en" number="1" class="text-angel-primary hover:text-angel-accent">number 1</NumberLink>
+          through <NumberLink locale="en" number="9" class="text-angel-primary hover:text-angel-accent">number 9</NumberLink>
           pages).
         </p>
         <p>
@@ -125,7 +126,7 @@ const jsonLd = {
         </p>
         <p>
           That's also why you won't find heavy warning language on this site, even for numbers with
-          an intimidating cultural reputation. A number like <a href="/en/number/666" class="text-angel-primary hover:text-angel-accent">666</a>
+          an intimidating cultural reputation. A number like <NumberLink locale="en" number="666" class="text-angel-primary hover:text-angel-accent">666</NumberLink>
           isn't treated as an omen here — in numerology, 6 has always meant balance and
           responsibility, and even at its most repeated forms it's read as a nudge to rebalance,
           not a warning of doom.
@@ -143,9 +144,9 @@ const jsonLd = {
         </p>
         <p>
           If you've noticed a number repeating in your own life, whether it's a simple one like
-          <a href="/en/number/7" class="text-angel-primary hover:text-angel-accent">7</a> or a
-          bigger one like <a href="/en/number/1111" class="text-angel-primary hover:text-angel-accent">1111</a>
-          or <a href="/en/number/444" class="text-angel-primary hover:text-angel-accent">444</a>,
+          <NumberLink locale="en" number="7" class="text-angel-primary hover:text-angel-accent">7</NumberLink> or a
+          bigger one like <NumberLink locale="en" number="1111" class="text-angel-primary hover:text-angel-accent">1111</NumberLink>
+          or <NumberLink locale="en" number="444" class="text-angel-primary hover:text-angel-accent">444</NumberLink>,
           the fastest way to get something useful out of it is simply to look up that specific
           number rather than treat "angel numbers" as one big, vague category. And if you're
           wondering whether you have a personal number tied to your own birthdate, separate from

@@ -5,12 +5,15 @@
 import LayoutJa from "../../../layouts/LayoutJa.astro";
 import ShareButtonsJa from "../../../components/ShareButtonsJa.astro";
 import { JA_ANGEL_NUMBERS } from "../../../data/angels.ja";
-import { hasEnAngelNumber } from "../../../data/angels.en";
+import { NUMBER_PAGES_ENABLED } from "../../../config/locales";
+import { numberUrl } from "../../../lib/numberPages";
 import { SITE_URL } from "../../../site";
 import { linkMeaning, linkFaqAnswer, makeCounter } from "../../../lib/autoLink";
 import { getRelatedNumbers } from "../../../lib/relatedNumbers";
 
 export function getStaticPaths() {
+  // 스위치: src/config/locales.ts
+  if (!NUMBER_PAGES_ENABLED.ja) return [];
   return JA_ANGEL_NUMBERS.map((a) => ({
     params: { number: a.number },
     props: { angel: a },
@@ -34,8 +37,8 @@ const description = `エンジェルナンバー${angel.number}が伝える恋�
 const url = `${site}/ja/number/${angel.number}`;
 // JA is generated 1:1 from the KO number list (see angels.ja.ts), so a KO
 // counterpart always exists.
-const koUrl = `${site}/number/${angel.number}`;
-const enUrl = hasEnAngelNumber(angel.number) ? `${site}/en/number/${angel.number}` : undefined;
+const koUrl = numberUrl("ko", angel.number);
+const enUrl = numberUrl("en", angel.number);
 
 // ── Auto-link setup ───────────────────────────────────────────────
 const BASE_URL = "/ja/number/";

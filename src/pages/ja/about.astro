@@ -2,6 +2,7 @@
 // Japanese-only page. Self-canonical, no Korean counterpart.
 import LayoutJa from "../../layouts/LayoutJa.astro";
 import { SITE_URL } from "../../site";
+import NumberLink from "../../components/NumberLink.astro";
 
 const site = SITE_URL;
 const title = "AngelDoneについて";
@@ -34,7 +35,7 @@ const url = `${site}/ja/about`;
       </p>
       <p>
         だからこそ、不当なイメージを背負っている数字については、はっきりお伝えするようにしています。
-        <a href="/ja/number/666" class="text-angel-primary hover:text-angel-accent">666</a>
+        <NumberLink locale="ja" number="666" class="text-angel-primary hover:text-angel-accent">666</NumberLink>
         はポップカルチャーでは不吉な数字として扱われがちですが、数秘術では昔からバランスと責任を意味する
         数字です。話題性のために怖がらせるより、事実をそのまま説明することを大切にしています。
       </p>

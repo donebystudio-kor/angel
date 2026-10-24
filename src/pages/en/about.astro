@@ -2,6 +2,7 @@
 // English-only page. Self-canonical, no Korean counterpart.
 import LayoutEn from "../../layouts/LayoutEn.astro";
 import { SITE_URL } from "../../site";
+import NumberLink from "../../components/NumberLink.astro";
 
 const site = SITE_URL;
 const title = "About AngelDone";
@@ -37,7 +38,7 @@ const url = `${site}/en/about`;
       </p>
       <p>
         That's also why we're upfront when a number carries baggage it doesn't deserve.
-        <a href="/en/number/666" class="text-angel-primary hover:text-angel-accent">666</a> gets
+        <NumberLink locale="en" number="666" class="text-angel-primary hover:text-angel-accent">666</NumberLink> gets
         treated as an omen in pop culture, but in numerology 6 has always meant balance and
         responsibility — we'd rather explain that plainly than lean into the drama for clicks.
       </p>

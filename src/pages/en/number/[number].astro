@@ -5,12 +5,15 @@
 import LayoutEn from "../../../layouts/LayoutEn.astro";
 import ShareButtonsEn from "../../../components/ShareButtonsEn.astro";
 import { EN_ANGEL_NUMBERS } from "../../../data/angels.en";
-import { hasAuthoredJaAngelNumber } from "../../../data/angels.ja";
+import { NUMBER_PAGES_ENABLED } from "../../../config/locales";
+import { numberUrl } from "../../../lib/numberPages";
 import { SITE_URL } from "../../../site";
 import { linkMeaning, linkFaqAnswer, makeCounter } from "../../../lib/autoLink";
 import { getRelatedNumbers } from "../../../lib/relatedNumbers";
 
 export function getStaticPaths() {
+  // 스위치: src/config/locales.ts
+  if (!NUMBER_PAGES_ENABLED.en) return [];
   return EN_ANGEL_NUMBERS.map((a) => ({
     params: { number: a.number },
     props: { angel: a },
@@ -31,8 +34,8 @@ const composingNumbers = EN_ANGEL_NUMBERS.filter(
 const title = `Angel Number ${angel.number} Meaning: ${angel.titleHook}`;
 const description = `What angel number ${angel.number} means for love, money, career, manifestation and twin flames. ${angel.summary}.`;
 const url = `${site}/en/number/${angel.number}`;
-const koUrl = `${site}/number/${angel.number}`;
-const jaUrl = hasAuthoredJaAngelNumber(angel.number) ? `${site}/ja/number/${angel.number}` : undefined;
+const koUrl = numberUrl("ko", angel.number);
+const jaUrl = numberUrl("ja", angel.number);
 
 // ── Auto-link setup ───────────────────────────────────────────────
 const BASE_URL = "/en/number/";

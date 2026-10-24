@@ -3,6 +3,7 @@
 // from EN. Isolated under src/pages/ja/guide/.
 import LayoutJa from "../../../layouts/LayoutJa.astro";
 import { SITE_URL } from "../../../site";
+import NumberLink from "../../../components/NumberLink.astro";
 
 const site = SITE_URL;
 const title = "エンジェルナンバーとは？意味と由来をわかりやすく解説";
@@ -69,8 +70,8 @@ const jsonLd = {
           理解できる、という考え方です。以来、数秘術の伝統では0から9までの各数字に固有の
           性質が割り当てられてきました。1は始まり、2は調和とパートナーシップ、8は豊かさ、
           といった具合です(1から9までの一桁の数字がそれぞれどう読まれるかは、当サイトの
-          <a href="/ja/number/1" class="text-angel-primary hover:text-angel-accent">数字1</a>
-          〜<a href="/ja/number/9" class="text-angel-primary hover:text-angel-accent">数字9</a>
+          <NumberLink locale="ja" number="1" class="text-angel-primary hover:text-angel-accent">数字1</NumberLink>
+          〜<NumberLink locale="ja" number="9" class="text-angel-primary hover:text-angel-accent">数字9</NumberLink>
           の各ページでも紹介しています)。
         </p>
         <p>
@@ -122,7 +123,7 @@ const jsonLd = {
         <p>
           だからこそ、文化的に不吉なイメージを持たれがちな数字であっても、当サイトでは
           強い警告調の表現を使いません。たとえば
-          <a href="/ja/number/666" class="text-angel-primary hover:text-angel-accent">666</a>
+          <NumberLink locale="ja" number="666" class="text-angel-primary hover:text-angel-accent">666</NumberLink>
           は不吉な前兆として扱われがちですが、数秘術の伝統では昔からバランスと責任を意味する
           数字であり、繰り返しの形になってもなお「バランスを取り直そう」という促しとして
           読まれるのであって、破滅の警告ではありません。
@@ -141,11 +142,11 @@ const jsonLd = {
         </p>
         <p>
           もし日常の中で繰り返す数字に気づいているなら——
-          <a href="/ja/number/7" class="text-angel-primary hover:text-angel-accent">7</a>
+          <NumberLink locale="ja" number="7" class="text-angel-primary hover:text-angel-accent">7</NumberLink>
           のようなシンプルな数字でも、
-          <a href="/ja/number/1111" class="text-angel-primary hover:text-angel-accent">1111</a>
+          <NumberLink locale="ja" number="1111" class="text-angel-primary hover:text-angel-accent">1111</NumberLink>
           や
-          <a href="/ja/number/444" class="text-angel-primary hover:text-angel-accent">444</a>
+          <NumberLink locale="ja" number="444" class="text-angel-primary hover:text-angel-accent">444</NumberLink>
           のような大きな数字でも——「エンジェルナンバー」をひとつの漠然としたカテゴリーとして
           捉えるより、その数字を個別に調べてみるのが一番早い方法です。生年月日から導き出す
           自分だけの数字が気になる方は、

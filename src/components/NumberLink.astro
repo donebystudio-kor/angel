@@ -1,0 +1,17 @@
+---
+// 번호 페이지 링크. 그 언어의 번호 페이지가 꺼져 있으면(src/config/locales.ts) 링크 없이 내용만 남긴다.
+// box: 꺼졌을 때 class를 유지한 <div>로 감싼다 (카드·알약 등 모양이 있는 링크). 기본은 글자만.
+import { numberPath } from "../lib/numberPages";
+import type { Locale } from "../config/locales";
+
+interface Props {
+  locale: Locale;
+  number: string;
+  class?: string;
+  box?: boolean;
+}
+
+const { locale, number, class: className, box = false } = Astro.props;
+const href = numberPath(locale, number);
+---
+{href ? <a href={href} class={className}><slot /></a> : box ? <div class={className}><slot /></div> : <slot />}

@@ -2,6 +2,7 @@
 import LayoutEn from "../../../layouts/LayoutEn.astro";
 import { EN_TOPICS, getEnTopicNumbers } from "../../../data/topics.en";
 import { SITE_URL } from "../../../site";
+import NumberLink from "../../../components/NumberLink.astro";
 
 export function getStaticPaths() {
   return EN_TOPICS.map((t) => ({
@@ -48,13 +49,13 @@ const breadcrumbJsonLd = {
             ? (a.money ?? a.career)
             : a[topic.field as "love" | "career" | "spiritual"];
         return (
-          <a href={`/en/number/${a.number}`} class="bg-angel-card border border-angel-border rounded-2xl p-5 hover:border-angel-primary/50 hover:shadow-lg hover:shadow-angel-glow transition-all group">
+          <NumberLink locale="en" number={a.number} box class="bg-angel-card border border-angel-border rounded-2xl p-5 hover:border-angel-primary/50 hover:shadow-lg hover:shadow-angel-glow transition-all group">
             <div class="flex items-start justify-between mb-2">
               <span class="text-2xl font-bold text-angel-primary group-hover:text-angel-accent transition-colors">{a.number}</span>
             </div>
             <h3 class="font-semibold text-angel-text text-sm mb-1">{a.summary}</h3>
             <p class="text-xs text-angel-muted line-clamp-2">{snippet}</p>
-          </a>
+          </NumberLink>
         );
       })}
     </div>

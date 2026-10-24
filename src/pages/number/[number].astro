@@ -5,13 +5,15 @@ import ShareButtons from "../../components/ShareButtons.astro";
 import { ANGEL_NUMBERS, CATEGORY_LABELS, getMixedSubcategory } from "../../data/angels";
 import { TOPICS } from "../../data/topics";
 import type { Category } from "../../data/angels";
-import { hasEnAngelNumber } from "../../data/angels.en";
-import { hasAuthoredJaAngelNumber } from "../../data/angels.ja";
+import { NUMBER_PAGES_ENABLED } from "../../config/locales";
+import { numberUrl } from "../../lib/numberPages";
 import { SITE_URL } from "../../site";
 import { linkMeaning, linkFaqAnswer, makeCounter } from "../../lib/autoLink";
 import { getRelatedNumbers } from "../../lib/relatedNumbers";
 
 export function getStaticPaths() {
+  // 스위치: src/config/locales.ts
+  if (!NUMBER_PAGES_ENABLED.ko) return [];
   return ANGEL_NUMBERS.map((a) => ({
     params: { number: a.number },
     props: { angel: a },
@@ -40,8 +42,8 @@ const composingNumbers = ANGEL_NUMBERS.filter(
 
 const relatedTopics = TOPICS.filter((t) => t.numbers.includes(angel.number));
 
-const alternateEnUrl = hasEnAngelNumber(angel.number) ? `${site}/en/number/${angel.number}` : undefined;
-const alternateJaUrl = hasAuthoredJaAngelNumber(angel.number) ? `${site}/ja/number/${angel.number}` : undefined;
+const alternateEnUrl = numberUrl("en", angel.number);
+const alternateJaUrl = numberUrl("ja", angel.number);
 
 // ── Auto-link setup ───────────────────────────────────────────────
 const KO_VALID = new Set(ANGEL_NUMBERS.map((a) => a.number));

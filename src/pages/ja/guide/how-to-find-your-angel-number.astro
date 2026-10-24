@@ -3,6 +3,7 @@
 // from EN. Isolated under src/pages/ja/guide/.
 import LayoutJa from "../../../layouts/LayoutJa.astro";
 import { SITE_URL } from "../../../site";
+import NumberLink from "../../../components/NumberLink.astro";
 
 const site = SITE_URL;
 const title = "自分のエンジェルナンバーの見つけ方 | 計算方法つき";
@@ -52,9 +53,9 @@ const jsonLd = {
         </p>
         <p>
           もうひとつは
-          <a href="/ja/number/111" class="text-angel-primary hover:text-angel-accent">111</a>
+          <NumberLink locale="ja" number="111" class="text-angel-primary hover:text-angel-accent">111</NumberLink>
           や
-          <a href="/ja/number/717" class="text-angel-primary hover:text-angel-accent">717</a>
+          <NumberLink locale="ja" number="717" class="text-angel-primary hover:text-angel-accent">717</NumberLink>
           のように、時計やレシート、車のナンバープレートなどで日常的に繰り返し目にする
           <strong class="text-angel-text">反復する数字</strong>です。こちらは時期によって変わり、
           固定された個人の資質というより、今の状況に結びついた一時的なサインとして読まれます。
@@ -77,16 +78,16 @@ const jsonLd = {
         </div>
         <p class="mb-3">
           この生年月日の場合、ライフパスナンバーは
-          <a href="/ja/number/8" class="text-angel-primary hover:text-angel-accent">8</a>
+          <NumberLink locale="ja" number="8" class="text-angel-primary hover:text-angel-accent">8</NumberLink>
           になります。あとは、他の数字と同じように8のページを読めば意味がわかります。
         </p>
         <p class="mb-3">
           例外がひとつあります。計算の途中で合計が11、22、33になった場合は、そこで
           計算を止めてください。これらはマスターナンバーとして、それ自体で固有の意味を
           持つとされています(
-          <a href="/ja/number/11" class="text-angel-primary hover:text-angel-accent">11</a>、
-          <a href="/ja/number/22" class="text-angel-primary hover:text-angel-accent">22</a>、
-          <a href="/ja/number/33" class="text-angel-primary hover:text-angel-accent">33</a>
+          <NumberLink locale="ja" number="11" class="text-angel-primary hover:text-angel-accent">11</NumberLink>、
+          <NumberLink locale="ja" number="22" class="text-angel-primary hover:text-angel-accent">22</NumberLink>、
+          <NumberLink locale="ja" number="33" class="text-angel-primary hover:text-angel-accent">33</NumberLink>
           のページを参照)。
         </p>
         <p class="mb-3">
@@ -99,7 +100,7 @@ const jsonLd = {
         <p>
           合計がすでに22というマスターナンバーになっているため、2+2=4とさらに縮めることは
           せず、ここで計算を止めます。この生年月日のライフパスナンバーは、4ではなく
-          <a href="/ja/number/22" class="text-angel-primary hover:text-angel-accent">22</a>
+          <NumberLink locale="ja" number="22" class="text-angel-primary hover:text-angel-accent">22</NumberLink>
           です。
         </p>
       </section>
