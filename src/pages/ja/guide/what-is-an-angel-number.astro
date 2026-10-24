@@ -4,6 +4,7 @@
 import LayoutJa from "../../../layouts/LayoutJa.astro";
 import { SITE_URL } from "../../../site";
 import NumberLink from "../../../components/NumberLink.astro";
+import { sectionHomePath } from "../../../lib/numberPages";
 
 const site = SITE_URL;
 const title = "エンジェルナンバーとは？意味と由来をわかりやすく解説";
@@ -30,7 +31,7 @@ const jsonLd = {
 
   <article class="max-w-3xl mx-auto px-4 py-12">
     <nav class="text-sm text-angel-muted mb-6 flex items-center gap-2 flex-wrap">
-      <a href="/ja/" class="hover:text-angel-primary transition-colors">ホーム</a>
+      <a href={sectionHomePath("ja")} class="hover:text-angel-primary transition-colors">ホーム</a>
       <span>›</span>
       <a href="/ja/guide/" class="hover:text-angel-primary transition-colors">ガイド一覧</a>
       <span>›</span>

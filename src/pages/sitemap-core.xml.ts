@@ -15,10 +15,14 @@ import {
   TOP_NUMBERS,
 } from "../data/sitemap-core";
 import { LASTMOD } from "../data/lastmod";
-import { NUMBER_PAGES_ENABLED, type Locale } from "../config/locales";
+import { NUMBER_PAGES_ENABLED, LOCALE_PREFIX, type Locale } from "../config/locales";
 
 // Google-only sitemap — see src/data/sitemap-core.ts. Not referenced from
 // robots.txt on purpose.
+
+// 꺼진 언어는 홈(/ja/ 등)도 생성되지 않는다 — 번호 목록뿐인 페이지라 함께 끈다
+const hubPaths = (locale: Locale, paths: string[]) =>
+  NUMBER_PAGES_ENABLED[locale] ? paths : paths.filter((p) => p !== `${LOCALE_PREFIX[locale]}/`);
 
 function numberPaths(locale: Locale, prefix: string, numbers: string[], existing: Set<string>): string[] {
   // 꺼진 언어의 번호 페이지는 생성되지 않는다 (src/config/locales.ts)
@@ -38,8 +42,8 @@ export const GET: APIRoute = () => {
 
   const paths = [
     ...CORE_PATHS_KO,
-    ...CORE_PATHS_EN,
-    ...CORE_PATHS_JA,
+    ...hubPaths("en", CORE_PATHS_EN),
+    ...hubPaths("ja", CORE_PATHS_JA),
     ...numberPaths("ko", "", [...KO_X111, ...KO_DOUBLE, ...TOP_NUMBERS], ko),
     ...numberPaths("en", "/en", [...EN_X111, ...EN_DEEP, ...EN_LMC, ...TOP_NUMBERS], en),
     ...numberPaths("ja", "/ja", TOP_NUMBERS.filter((n) => ja.has(n)), ja),

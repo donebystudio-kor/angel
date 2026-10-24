@@ -3,6 +3,7 @@
 // Korean counterpart. Isolated under src/pages/en/.
 import LayoutEn from "../../layouts/LayoutEn.astro";
 import { SITE_URL } from "../../site";
+import { sectionHomePath } from "../../lib/numberPages";
 
 const site = SITE_URL;
 const title = "Privacy Policy";
@@ -14,7 +15,7 @@ const lastUpdated = "July 27, 2026";
 <LayoutEn title={title} description={description} canonical={url}>
   <article class="max-w-3xl mx-auto px-4 py-12">
     <nav class="text-sm text-angel-muted mb-6 flex items-center gap-2 flex-wrap">
-      <a href="/en/" class="hover:text-angel-primary transition-colors">Home</a>
+      <a href={sectionHomePath("en")} class="hover:text-angel-primary transition-colors">Home</a>
       <span>›</span>
       <span class="text-angel-text">Privacy Policy</span>
     </nav>
@@ -147,7 +148,7 @@ const lastUpdated = "July 27, 2026";
     </div>
 
     <div class="mt-10 text-center">
-      <a href="/en/" class="text-angel-primary hover:text-angel-accent transition-colors text-sm">← Home</a>
+      <a href={sectionHomePath("en")} class="text-angel-primary hover:text-angel-accent transition-colors text-sm">← Home</a>
     </div>
   </article>
 </LayoutEn>

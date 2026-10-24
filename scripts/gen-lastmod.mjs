@@ -14,7 +14,7 @@
  */
 
 import { execFileSync } from 'child_process';
-import { existsSync, readFileSync, writeFileSync } from 'fs';
+import { existsSync, readdirSync, readFileSync, writeFileSync } from 'fs';
 import { resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
@@ -76,6 +76,11 @@ const NUM = {
 function sourceOf(path) {
   const p = path.replace(/\/$/, '');
   for (const c of [`src/pages${p}/index.astro`, `src/pages${p}.astro`]) if (existsSync(resolve(ROOT, c))) return c;
+  // 폴더 첫 페이지를 rest 라우트로 만든 경우 (예: src/pages/ja/[...home].astro — 스위치로 끄려고)
+  const rest = existsSync(resolve(ROOT, `src/pages${p}`))
+    ? readdirSync(resolve(ROOT, `src/pages${p}`)).filter((f) => /^\[\.\.\.[^/]+\]\.astro$/.test(f))
+    : [];
+  if (rest.length === 1) return `src/pages${p}/${rest[0]}`;
   const dir = p.slice(0, p.lastIndexOf('/'));
   const dyn = execFileSync('git', ['ls-files', `src/pages${dir}/`], { cwd: ROOT, encoding: 'utf8' })
     .split('\n').filter((f) => /\/\[[^/]+\]\.astro$/.test(f) && dirname(f) === `src/pages${dir}`);

@@ -2,6 +2,7 @@
 // English-only guide hub. Isolated under src/pages/en/guide/.
 import LayoutEn from "../../../layouts/LayoutEn.astro";
 import { SITE_URL } from "../../../site";
+import { NUMBER_PAGES_ENABLED } from "../../../config/locales";
 
 const site = SITE_URL;
 const title = "Angel Number Guides";
@@ -35,8 +36,10 @@ const guides = [
       ))}
     </div>
 
+    {NUMBER_PAGES_ENABLED.en && (
     <div class="mt-10 text-center">
       <a href="/en/" class="text-angel-primary hover:text-angel-accent transition-colors text-sm">← All angel numbers</a>
     </div>
+    )}
   </section>
 </LayoutEn>

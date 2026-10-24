@@ -6,6 +6,7 @@ import "../styles/global.css";
 import SearchBarJa from "../components/SearchBarJa.astro";
 import { SITE_URL } from "../site";
 import { NUMBER_PAGES_ENABLED } from "../config/locales";
+import { sectionHomePath } from "../lib/numberPages";
 
 interface Props {
   title: string;
@@ -80,26 +81,30 @@ const numbersOn = NUMBER_PAGES_ENABLED.ja;
   <body class="min-h-screen bg-angel-bg text-angel-text antialiased">
     <header class="bg-angel-card/80 backdrop-blur-sm border-b border-angel-border sticky top-0 z-50">
       <div class="max-w-4xl mx-auto px-4 h-14 flex items-center justify-between">
-        <a href="/ja/" class="flex items-center gap-2 font-bold text-lg text-angel-accent hover:text-angel-primary transition-colors">
+        <a href={sectionHomePath("ja")} class="flex items-center gap-2 font-bold text-lg text-angel-accent hover:text-angel-primary transition-colors">
           👼 AngelDone
         </a>
         <nav class="hidden md:flex items-center gap-3 text-sm text-angel-muted">
+          {numbersOn && (<>
           <a href="/ja/category/love" class="hover:text-angel-primary transition-colors">❤️ 恋愛</a>
           <a href="/ja/category/money" class="hover:text-angel-primary transition-colors">💰 金運</a>
           <a href="/ja/category/career" class="hover:text-angel-primary transition-colors">💼 仕事</a>
           <a href="/ja/category/spiritual" class="hover:text-angel-primary transition-colors">🔮 スピリチュアル</a>
           <a href="/ja/category/twinflame" class="hover:text-angel-primary transition-colors">🔥 ツインレイ</a>
+          </>)}
           <a href="/ja/guide/" class="hover:text-angel-primary transition-colors">📖 ガイド</a>
         </nav>
         <button id="ja-mobile-menu-btn" class="md:hidden text-angel-muted hover:text-angel-primary text-xl" aria-label="メニューを開く">☰</button>
       </div>
       <nav id="ja-mobile-menu" class="hidden md:hidden border-t border-angel-border bg-angel-card/95 backdrop-blur-sm">
         <div class="max-w-4xl mx-auto px-4 py-3 flex flex-col gap-2 text-sm">
+          {numbersOn && (<>
           <a href="/ja/category/love" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">❤️ 恋愛</a>
           <a href="/ja/category/money" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">💰 金運</a>
           <a href="/ja/category/career" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">💼 仕事</a>
           <a href="/ja/category/spiritual" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">🔮 スピリチュアル</a>
           <a href="/ja/category/twinflame" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">🔥 ツインレイ</a>
+          </>)}
           <a href="/ja/guide/" class="py-2 text-angel-muted hover:text-angel-primary transition-colors">📖 ガイド</a>
         </div>
       </nav>
@@ -143,6 +148,7 @@ const numbersOn = NUMBER_PAGES_ENABLED.ja;
             </div>
           </div>
           </>)}
+          {numbersOn && (
           <div>
             <h4 class="font-semibold text-angel-accent mb-2">カテゴリー</h4>
             <div class="space-y-1">
@@ -152,6 +158,7 @@ const numbersOn = NUMBER_PAGES_ENABLED.ja;
               <a href="/ja/category/twinflame" class="block text-angel-muted hover:text-angel-primary transition-colors">🔥 ツインレイ</a>
             </div>
           </div>
+          )}
           <div>
             <h4 class="font-semibold text-angel-accent mb-2">ガイド</h4>
             <div class="space-y-1">
@@ -165,7 +172,7 @@ const numbersOn = NUMBER_PAGES_ENABLED.ja;
         <div class="flex items-center justify-center gap-4 flex-wrap mb-6 text-sm text-angel-muted">
           <span>他の言語で見る:</span>
           <a href="/" class="hover:text-angel-primary transition-colors">🇰🇷 한국어</a>
-          <a href="/en/" class="hover:text-angel-primary transition-colors">🇺🇸 English</a>
+          <a href={sectionHomePath("en")} class="hover:text-angel-primary transition-colors">🇺🇸 English</a>
         </div>
         <div class="border-t border-angel-border pt-6 text-center text-sm text-angel-muted">
           <nav class="flex items-center justify-center gap-4 flex-wrap mb-3">

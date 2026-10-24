@@ -5,6 +5,7 @@
 import LayoutEn from "../../../layouts/LayoutEn.astro";
 import { SITE_URL } from "../../../site";
 import NumberLink from "../../../components/NumberLink.astro";
+import { sectionHomePath } from "../../../lib/numberPages";
 
 const site = SITE_URL;
 const title = "How to Find Your Angel Number";
@@ -32,7 +33,7 @@ const jsonLd = {
 
   <article class="max-w-3xl mx-auto px-4 py-12">
     <nav class="text-sm text-angel-muted mb-6 flex items-center gap-2 flex-wrap">
-      <a href="/en/" class="hover:text-angel-primary transition-colors">Home</a>
+      <a href={sectionHomePath("en")} class="hover:text-angel-primary transition-colors">Home</a>
       <span>›</span>
       <a href="/en/guide/" class="hover:text-angel-primary transition-colors">Guides</a>
       <span>›</span>

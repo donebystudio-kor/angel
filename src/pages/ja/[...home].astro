@@ -6,8 +6,13 @@ import LayoutJa from "../../layouts/LayoutJa.astro";
 import SearchBarJa from "../../components/SearchBarJa.astro";
 import { JA_ANGEL_NUMBERS, getJaDisplayGroup, type JaDisplayGroup } from "../../data/angels.ja";
 import { SITE_URL } from "../../site";
-import NumberLink from "../../components/NumberLink.astro";
 import { NUMBER_PAGES_ENABLED } from "../../config/locales";
+
+// /ja/ 하나만 만드는 라우트. 이 페이지는 번호 목록이 전부라, JA 번호 페이지가 꺼지면
+// (src/config/locales.ts) 빈 페이지를 남기지 않고 함께 끈다. 그동안 입구는 /ja/guide/.
+export function getStaticPaths() {
+  return NUMBER_PAGES_ENABLED.ja ? [{ params: { home: undefined } }] : [];
+}
 
 const site = SITE_URL;
 const title = "エンジェルナンバー — 意味・引き寄せ・ツインレイガイド";
@@ -45,27 +50,28 @@ const groups = groupOrder
   .filter((g) => g.items.length > 0);
 ---
 
-<LayoutJa title={title} description={description} canonical={`${site}/ja/`} koUrl={`${site}/`} enUrl={`${site}/en/`}>
+<LayoutJa title={title} description={description} canonical={`${site}/ja/`} koUrl={`${site}/`} enUrl={NUMBER_PAGES_ENABLED.en ? `${site}/en/` : undefined}>
   <div class="max-w-3xl mx-auto px-4 py-12">
     <div class="text-center mb-8">
       <h1 class="text-3xl md:text-4xl font-bold text-angel-text mb-3">👼 エンジェルナンバー</h1>
       <p class="text-lg text-angel-muted">よく見る数字が伝えるメッセージを調べてみましょう。</p>
     </div>
 
-    {NUMBER_PAGES_ENABLED.ja && (
     <div class="mb-12">
       <SearchBarJa />
     </div>
-    )}
 
     <section class="mb-12">
       <h2 class="text-lg font-bold text-angel-text mb-3">人気のエンジェルナンバー</h2>
       <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
         {popular.map((a) => (
-          <NumberLink locale="ja" number={a.number} box class="bg-angel-card border border-angel-border rounded-xl p-4 hover:shadow-md hover:shadow-angel-glow hover:border-angel-primary/40 transition-all">
+          <a
+            href={`/ja/number/${a.number}`}
+            class="bg-angel-card border border-angel-border rounded-xl p-4 hover:shadow-md hover:shadow-angel-glow hover:border-angel-primary/40 transition-all"
+          >
             <div class="text-xl font-bold text-angel-primary">{a.number}</div>
             <div class="text-xs text-angel-muted mt-1 line-clamp-2">{a.summary}</div>
-          </NumberLink>
+          </a>
         ))}
       </div>
     </section>
@@ -78,9 +84,12 @@ const groups = groupOrder
         </div>
         <div class="flex flex-wrap gap-2">
           {group.items.map((a) => (
-            <NumberLink locale="ja" number={a.number} box class="px-3 py-1.5 bg-angel-card border border-angel-border rounded-full text-sm text-angel-text hover:bg-angel-primary hover:text-white transition-colors">
+            <a
+              href={`/ja/number/${a.number}`}
+              class="px-3 py-1.5 bg-angel-card border border-angel-border rounded-full text-sm text-angel-text hover:bg-angel-primary hover:text-white transition-colors"
+            >
               {a.number}
-            </NumberLink>
+            </a>
           ))}
         </div>
       </section>

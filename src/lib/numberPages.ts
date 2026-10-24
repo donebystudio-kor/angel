@@ -21,6 +21,14 @@ export function numberPath(locale: Locale, number: string): string | undefined {
   return `${LOCALE_PREFIX[locale]}/number/${number}`;
 }
 
+/**
+ * 그 언어 구역의 첫 페이지. 홈·카테고리는 번호 목록이 전부라 번호 페이지와 함께 꺼지므로
+ * (빈 페이지를 남기지 않는다), 꺼진 언어는 가이드 목록이 입구가 된다.
+ */
+export function sectionHomePath(locale: Locale): string {
+  return NUMBER_PAGES_ENABLED[locale] ? `${LOCALE_PREFIX[locale]}/` : `${LOCALE_PREFIX[locale]}/guide/`;
+}
+
 /** 절대 URL. 꺼졌거나 없으면 undefined. */
 export function numberUrl(locale: Locale, number: string): string | undefined {
   const p = numberPath(locale, number);

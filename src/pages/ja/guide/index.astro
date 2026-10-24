@@ -2,6 +2,7 @@
 // Japanese-only guide hub. Isolated under src/pages/ja/guide/.
 import LayoutJa from "../../../layouts/LayoutJa.astro";
 import { SITE_URL } from "../../../site";
+import { NUMBER_PAGES_ENABLED } from "../../../config/locales";
 
 const site = SITE_URL;
 const title = "エンジェルナンバーガイド | AngelDone";
@@ -35,8 +36,10 @@ const guides = [
       ))}
     </div>
 
+    {NUMBER_PAGES_ENABLED.ja && (
     <div class="mt-10 text-center">
       <a href="/ja/" class="text-angel-primary hover:text-angel-accent transition-colors text-sm">← エンジェルナンバー一覧</a>
     </div>
+    )}
   </section>
 </LayoutJa>

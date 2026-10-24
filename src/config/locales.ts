@@ -11,7 +11,10 @@
 //   - 번호 페이지 생성 (세 [number].astro의 getStaticPaths가 빈 배열)
 //   - 두 사이트맵 (sitemap-0.xml은 생성된 페이지 기준, sitemap-core.xml은 이 값을 본다)
 //   - 다른 언어 번호 페이지의 hreflang (x-default 포함)
-//   - 링크: 홈·카테고리·가이드·about·푸터의 번호 링크는 글자만 남고, 검색창은 숨긴다
+//   - 그 언어의 홈(/ja/)과 카테고리(/ja/category/*) — 번호 목록이 전부인 페이지라 빈 페이지로
+//     남기지 않고 함께 끈다. 그동안 그 언어의 입구는 가이드 목록(/ja/guide/)이다
+//     (lib/numberPages의 sectionHomePath: 로고·"ホーム"·다른 언어의 언어 전환 링크가 이것을 쓴다)
+//   - 링크: 헤더·푸터의 카테고리·번호 링크와 검색창은 숨기고, 가이드·about 본문의 번호 링크는 글자만 남긴다
 //
 // 되돌리기: 아래 값을 true로 바꾸고 배포. (켤 때는 npm run lastmod도 돌릴 것 —
 // lastmod.ts에서 그 언어의 번호 경로가 빠져 있을 수 있다.)

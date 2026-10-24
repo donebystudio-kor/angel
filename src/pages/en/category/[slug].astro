@@ -2,9 +2,11 @@
 import LayoutEn from "../../../layouts/LayoutEn.astro";
 import { EN_TOPICS, getEnTopicNumbers } from "../../../data/topics.en";
 import { SITE_URL } from "../../../site";
-import NumberLink from "../../../components/NumberLink.astro";
+import { NUMBER_PAGES_ENABLED } from "../../../config/locales";
 
 export function getStaticPaths() {
+  // 카테고리는 번호 카드 목록이 전부 — EN 번호 페이지가 꺼지면 함께 끈다 (src/config/locales.ts)
+  if (!NUMBER_PAGES_ENABLED.en) return [];
   return EN_TOPICS.map((t) => ({
     params: { slug: t.slug },
     props: { topic: t },
@@ -49,13 +51,13 @@ const breadcrumbJsonLd = {
             ? (a.money ?? a.career)
             : a[topic.field as "love" | "career" | "spiritual"];
         return (
-          <NumberLink locale="en" number={a.number} box class="bg-angel-card border border-angel-border rounded-2xl p-5 hover:border-angel-primary/50 hover:shadow-lg hover:shadow-angel-glow transition-all group">
+          <a href={`/en/number/${a.number}`} class="bg-angel-card border border-angel-border rounded-2xl p-5 hover:border-angel-primary/50 hover:shadow-lg hover:shadow-angel-glow transition-all group">
             <div class="flex items-start justify-between mb-2">
               <span class="text-2xl font-bold text-angel-primary group-hover:text-angel-accent transition-colors">{a.number}</span>
             </div>
             <h3 class="font-semibold text-angel-text text-sm mb-1">{a.summary}</h3>
             <p class="text-xs text-angel-muted line-clamp-2">{snippet}</p>
-          </NumberLink>
+          </a>
         );
       })}
     </div>

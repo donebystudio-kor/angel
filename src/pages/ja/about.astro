@@ -2,7 +2,9 @@
 // Japanese-only page. Self-canonical, no Korean counterpart.
 import LayoutJa from "../../layouts/LayoutJa.astro";
 import { SITE_URL } from "../../site";
+import { NUMBER_PAGES_ENABLED } from "../../config/locales";
 import NumberLink from "../../components/NumberLink.astro";
+import { sectionHomePath } from "../../lib/numberPages";
 
 const site = SITE_URL;
 const title = "AngelDoneについて";
@@ -13,7 +15,7 @@ const url = `${site}/ja/about`;
 <LayoutJa title={title} description={description} canonical={url}>
   <article class="max-w-3xl mx-auto px-4 py-12">
     <nav class="text-sm text-angel-muted mb-6 flex items-center gap-2 flex-wrap">
-      <a href="/ja/" class="hover:text-angel-primary transition-colors">ホーム</a>
+      <a href={sectionHomePath("ja")} class="hover:text-angel-primary transition-colors">ホーム</a>
       <span>›</span>
       <span class="text-angel-text">サイトについて</span>
     </nav>
@@ -42,7 +44,7 @@ const url = `${site}/ja/about`;
       <p>
         サイト内のすべての数字ページは同じ構成になっています――恋愛・金運・仕事・スピリチュアルの面での
         意味と、今日からできる具体的な行動を1つ添えています。ツインレイとのつながりが強い数字については、
-        <a href="/ja/category/twinflame" class="text-angel-primary hover:text-angel-accent">ツインレイカテゴリー</a>
+        {NUMBER_PAGES_ENABLED.ja ? <a href="/ja/category/twinflame" class="text-angel-primary hover:text-angel-accent">ツインレイカテゴリー</a> : "ツインレイカテゴリー"}
         でまとめて確認できます。
       </p>
       <p>
@@ -54,7 +56,7 @@ const url = `${site}/ja/about`;
     </div>
 
     <div class="mt-10 text-center">
-      <a href="/ja/" class="text-angel-primary hover:text-angel-accent transition-colors text-sm">← ホームに戻る</a>
+      <a href={sectionHomePath("ja")} class="text-angel-primary hover:text-angel-accent transition-colors text-sm">← ホームに戻る</a>
     </div>
   </article>
 </LayoutJa>
