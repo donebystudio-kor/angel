@@ -6,14 +6,16 @@
 //   new PartnersCoupang.G({ "id": …, "trackingCode": …, … }) 안의 값을 그대로 옮긴다.
 //   - bottom: 300×250. 본문이 끝나고 다음 링크 목록이 시작되기 전.
 //     카드 상자(p-6) 안에 넣으면 360px 화면에서 폭이 280px로 줄어 잘리므로 상자 밖에 둔다.
-//   - top: 680×140. 번호 페이지 제목(엔젤넘버 N) 아래. 680px보다 좁은 화면(모바일)에서는
-//     잘리므로 숨긴다 — 숨긴 배너는 스크립트도 불러오지 않는다.
+//   - top: 680×140. 번호 페이지 제목(엔젤넘버 N) 아래, 화면 폭 712px 이상(PC·태블릿)에서만.
+//   - topMobile: 320×100. 같은 자리, 712px 미만(모바일)에서만. top과 둘 중 하나만 보인다.
+//   숨겨진 쪽 배너는 스크립트도 불러오지 않는다.
 //
 // 스크립트(g.js)는 배너 자리가 화면 가까이 왔을 때 불러온다. 본문 표시를 막지 않고,
 // 배너 크기만큼 자리를 미리 잡아 두어 배너가 뜰 때 화면이 밀리지 않는다.
 const BANNERS = {
   bottom: { id: 1052752, trackingCode: "AF9474229", template: "carousel", width: "300", height: "250", tsource: "" },
   top: { id: 1052755, trackingCode: "AF9474229", template: "carousel", width: "680", height: "140", tsource: "" },
+  topMobile: { id: 1052756, trackingCode: "AF9474229", template: "carousel", width: "320", height: "100", tsource: "" },
 };
 
 interface Props {
@@ -46,9 +48,14 @@ const cfg = BANNERS[variant];
     text-align: center;
     opacity: 0.6;
   }
-  /* 680px 배너는 본문 폭(화면 - 좌우 여백 32px)이 680px 이상일 때만 */
+  /* 680px 배너는 본문 폭(화면 - 좌우 여백 32px)이 680px 이상일 때만, 그보다 좁으면 320px 배너 */
   @media (max-width: 711px) {
     .coupang-top {
+      display: none;
+    }
+  }
+  @media (min-width: 712px) {
+    .coupang-topMobile {
       display: none;
     }
   }
