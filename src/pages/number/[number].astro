@@ -151,6 +151,9 @@ const faqJsonLd = angel.faq && angel.faq.length > 0 ? {
       <p class="text-lg text-angel-accent font-medium">{angel.summary}</p>
     </div>
 
+    <!-- 쿠팡 파트너스 배너(680×140): 제목 아래, PC에서만 -->
+    <CoupangBanner variant="top" class="-mt-4 mb-10" />
+
     <!-- 핵심 의미 섹션들 -->
     <div class="space-y-6">
       {sections.map((s) => (
