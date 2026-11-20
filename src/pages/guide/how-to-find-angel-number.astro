@@ -1,4 +1,5 @@
 ---
+import CoupangBanner from "../../components/CoupangBanner.astro";
 import Layout from "../../layouts/Layout.astro";
 import SearchBar from "../../components/SearchBar.astro";
 
@@ -72,6 +73,9 @@ const description = "생년월일 계산법, 이름 수비학, 일상 속 숫자
         </div>
       </section>
     </div>
+
+    <!-- 쿠팡 파트너스 배너: 본문 끝, 이전·다음 글 링크 전 -->
+    <CoupangBanner class="mt-10" />
 
     <div class="mt-10 flex justify-between items-center text-sm">
       <a href="/guide/what-is-angel-number" class="text-angel-primary hover:text-angel-accent transition-colors">← 엔젤넘버란?</a>

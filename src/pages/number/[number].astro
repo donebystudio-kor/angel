@@ -1,4 +1,5 @@
 ---
+import CoupangBanner from "../../components/CoupangBanner.astro";
 import Layout from "../../layouts/Layout.astro";
 import SearchBar from "../../components/SearchBar.astro";
 import ShareButtons from "../../components/ShareButtons.astro";
@@ -182,6 +183,9 @@ const faqJsonLd = angel.faq && angel.faq.length > 0 ? {
         </div>
       </section>
     )}
+
+    <!-- 쿠팡 파트너스 배너: 본문(FAQ) 끝, 다음 링크 목록 전 -->
+    <CoupangBanner class="mt-10" />
 
     <!-- 구성 숫자 -->
     {composingNumbers.length > 0 && (

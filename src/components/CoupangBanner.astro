@@ -1,0 +1,99 @@
+---
+// 쿠팡 파트너스 배너 — 한국어 페이지 전용 (쿠팡은 한국 서비스라 EN·JA에는 넣지 않는다).
+//
+// ▶ 설정을 바꿀 때는 아래 COUPANG 상수만 고치면 된다.
+//   값의 출처: 쿠팡 파트너스 > 배너 광고 > 생성한 배너의 스크립트
+//   new PartnersCoupang.G({ "id": …, "trackingCode": …, … }) 안의 값을 그대로 옮긴다.
+//
+// 스크립트(g.js)는 배너 자리가 화면 가까이 왔을 때 불러온다. 본문 표시를 막지 않고,
+// 300×250 자리를 미리 잡아 두어 배너가 뜰 때 화면이 밀리지 않는다.
+// 넣는 위치: 본문이 끝나고 다음 링크 목록이 시작되기 전. 카드 상자(p-6) 안에 넣으면
+// 360px 화면에서 폭이 280px로 줄어 잘리므로 상자 밖에 둔다.
+const COUPANG = {
+  id: 1052752,
+  trackingCode: "AF9474229",
+  template: "carousel",
+  width: "300",
+  height: "250",
+  tsource: "",
+};
+
+interface Props {
+  class?: string;
+}
+const { class: className = "" } = Astro.props;
+---
+<aside class={`coupang-banner ${className}`} aria-label="쿠팡 파트너스 광고">
+  <div class="coupang-slot" data-coupang={JSON.stringify(COUPANG)}></div>
+  <p class="coupang-notice">이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p>
+</aside>
+
+<style>
+  .coupang-banner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .coupang-slot {
+    width: 300px;
+    height: 250px;
+    max-width: 100%;
+    overflow: hidden;
+  }
+  .coupang-notice {
+    margin-top: 0.375rem;
+    max-width: 300px;
+    font-size: 11px;
+    line-height: 1.4;
+    text-align: center;
+    opacity: 0.6;
+  }
+</style>
+
+<script>
+  const SRC = "https://ads-partners.coupang.com/g.js";
+  type Coupang = { G: new (opts: Record<string, unknown>) => unknown };
+  let lib: Promise<Coupang> | null = null;
+
+  function loadLib(): Promise<Coupang> {
+    const w = window as unknown as { PartnersCoupang?: Coupang };
+    if (w.PartnersCoupang) return Promise.resolve(w.PartnersCoupang);
+    lib ??= new Promise((resolve, reject) => {
+      const s = document.createElement("script");
+      s.src = SRC;
+      s.async = true;
+      s.onload = () => (w.PartnersCoupang ? resolve(w.PartnersCoupang) : reject(new Error("PartnersCoupang missing")));
+      s.onerror = () => reject(new Error("coupang g.js failed to load"));
+      document.head.appendChild(s);
+    });
+    return lib;
+  }
+
+  function render(slot: HTMLElement) {
+    if (slot.dataset.loaded) return;
+    slot.dataset.loaded = "1";
+    const opts = JSON.parse(slot.dataset.coupang!);
+    loadLib()
+      .then((P) => new P.G({ ...opts, container: slot }))
+      // 광고 차단기 등으로 못 불러오면 빈 자리만 남긴다 (본문에는 영향 없음)
+      .catch(() => {});
+  }
+
+  const slots = document.querySelectorAll<HTMLElement>(".coupang-slot[data-coupang]");
+  if ("IntersectionObserver" in window) {
+    const io = new IntersectionObserver(
+      (entries) => {
+        for (const e of entries) {
+          if (e.isIntersecting) {
+            io.unobserve(e.target);
+            render(e.target as HTMLElement);
+          }
+        }
+      },
+      { rootMargin: "400px 0px" },
+    );
+    slots.forEach((s) => io.observe(s));
+  } else {
+    window.addEventListener("load", () => slots.forEach(render));
+  }
+</script>

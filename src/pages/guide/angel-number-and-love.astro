@@ -1,4 +1,5 @@
 ---
+import CoupangBanner from "../../components/CoupangBanner.astro";
 import Layout from "../../layouts/Layout.astro";
 import SearchBar from "../../components/SearchBar.astro";
 
@@ -89,6 +90,9 @@ const description = "짝사랑, 연애, 결혼, 이별, 재회 상황에서 엔�
         </div>
       </section>
     </div>
+
+    <!-- 쿠팡 파트너스 배너: 본문 끝, 이전·다음 글 링크 전 -->
+    <CoupangBanner class="mt-10" />
 
     <div class="mt-10 flex justify-between items-center text-sm">
       <a href="/guide/how-to-find-angel-number" class="text-angel-primary hover:text-angel-accent transition-colors">← 엔젤넘버 찾는 법</a>
