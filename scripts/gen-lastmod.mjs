@@ -33,7 +33,19 @@ function blame(file) {
   return lines;
 }
 
-const fileTime = (file) => Number(git('log', '-1', '--format=%ct', '--', file).trim()) * 1000;
+// 화면 내용을 바꾸지 않은 코드 전용 커밋은 건너뛴다 (scripts/lastmod-ignore-revs.txt).
+// 파일 이름이 바뀐 경우(예: ja/index.astro → ja/[...home].astro) 이전 이름의 기록까지 따라간다.
+const IGNORE_REVS = new Set(
+  readFileSync(resolve(ROOT, 'scripts/lastmod-ignore-revs.txt'), 'utf8')
+    .split(/\r?\n/).map((l) => l.trim()).filter((l) => l && !l.startsWith('#')),
+);
+function fileTime(file) {
+  for (const line of git('log', '--follow', '--format=%H %ct', '--', file).trim().split('\n')) {
+    const [hash, ct] = line.split(' ');
+    if (!IGNORE_REVS.has(hash)) return Number(ct) * 1000;
+  }
+  throw new Error(`no commit for ${file} outside lastmod-ignore-revs.txt`);
+}
 
 // 병합 파일에서 데이터 파일 순서를 읽는다: import 이름 → 파일, 배열 펼침(...NAME) 순서
 function orderedDataFiles(mergeFile) {
