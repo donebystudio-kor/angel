@@ -80,27 +80,19 @@ EN 521개의 love / money / career 세 필드를 다루는 트랙이다. 이 세
    `manifestation-rewrite.md`). 정규 배치에서 만든 비유는
    `forbidden-expressions.md` "신규 비유 누적 목록"에 올린다.
    (콘텐츠 커밋이 lastmod 생성보다 먼저 와야 해서 2026-10-21에 앞으로 옮겼다.)
-4. **`src/data/sitemap-core.ts` 갱신** — 이번 배치 번호를 해당 목록 끝에
-   배치 주석과 함께 추가한다.
-   - 이유: 2026-10-15에 구글용 `sitemap-core.xml`을 189개로 줄였다(구글이
-     약 1,660페이지 중 일부만 크롤링해서). 재작성한 페이지가 이 목록에 없으면
-     구글이 크롤링하지 않아 **작업 효과가 색인에 반영되지 않는다.**
-   - **어느 언어 페이지를 넣는가**: 재작성한 언어의 페이지만 넣는다. EN으로
-     재작성한 트랙(LMC 2단계 등)은 `EN_LMC`에만 추가하고 KO·JA 페이지는
-     넣지 않는다. KO 트랙은 KO 목록에 넣는다.
-   - 이미 다른 목록(`EN_X111`·`EN_DEEP`·`TOP_NUMBERS` 등)에 있는 번호는
-     중복 제거되므로 개수가 덜 늘어난다. 추가 전에 겹치는 번호를 확인한다.
-   - 빌드 후 `dist/sitemap-core.xml`의 `<loc>` 개수가 **이전 개수 + 새 번호
-     수**인지 확인한다(배치21: 189 → 197).
-5. **콘텐츠 커밋 후 `npm run lastmod` 실행** — 소스·sitemap-core.ts·문서를 한
+4. **콘텐츠 커밋 후 `npm run lastmod` 실행** — 소스·문서를 한
    커밋에 넣고(`src/data/lastmod.ts`는 넣지 않는다), 그다음 `npm run lastmod`
    (빌드 → `scripts/gen-lastmod.mjs`)를 돌린다. lastmod는 git blame의 커밋
    시각이라 커밋 전에 돌리면 이번 배치가 반영되지 않는다.
    - 확인: `src/data/lastmod.ts`에서 이번 배치 번호(`/en/number/N/` 등)가 방금
      콘텐츠 커밋 시각으로 바뀌었는지 본다(배치21: 7c66c68 → 2026-10-18T05:34:01Z).
-6. **`src/data/lastmod.*`를 별도 커밋** — lastmod는 생성물이라 콘텐츠 변경과
+5. **`src/data/lastmod.*`를 별도 커밋** — lastmod는 생성물이라 콘텐츠 변경과
    섞이면 나중에 blame이 꼬인다.
-7. 푸시.
+6. 푸시.
+
+> 2026-11-20: 구글용 축소 사이트맵 `sitemap-core.xml`을 폐기해서, 배치 번호를
+> `src/data/sitemap-core.ts`에 추가하던 단계를 뺐다. 사이트맵은 `@astrojs/sitemap`이
+> 만드는 전체 하나다.
 
 ---
 

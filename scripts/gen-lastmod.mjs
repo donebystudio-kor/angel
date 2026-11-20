@@ -1,5 +1,5 @@
 /**
- * gen-lastmod.mjs — sitemap lastmod 생성 (sitemap-index/sitemap-0.xml, sitemap-core.xml 공용)
+ * gen-lastmod.mjs — sitemap lastmod 생성 (sitemap-index/sitemap-0.xml)
  *
  * 번호 페이지: 그 번호 항목이 들어 있는 데이터 파일의 줄 범위를 git blame해서, 범위 안
  *   줄들의 가장 늦은 커밋 시각. 한 파일에 번호 수십 개가 있으므로 파일이 아니라 항목 단위로 본다.
